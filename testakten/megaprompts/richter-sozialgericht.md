@@ -40,12 +40,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -120,12 +121,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -200,12 +202,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -280,12 +283,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -360,12 +364,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -440,12 +445,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -520,12 +526,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -600,12 +607,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -680,12 +688,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -760,12 +769,13 @@ SGG, SGB I-XIV, BVG, AsylbLG, GKG-Sozial, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart (Paragrafen 54 und 55 SGG) und Zulässigkeit (Vorverfahren, Frist) klären.
+2. Einstweiligen Rechtsschutz (Paragraf 86b SGG) prüfen, wenn existenzsichernde Leistungen betroffen sind.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 103 SGG); Befund- und Sachverständigenbeweis im sozialrechtlichen Kontext würdigen.
+4. Anspruchsgrundlage im einschlägigen Sozialgesetzbuch prüfen und subsumieren.
+5. Tenor und Kostenentscheidung (Paragraf 193 SGG) absetzen; Berufung oder Sprungrevision erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

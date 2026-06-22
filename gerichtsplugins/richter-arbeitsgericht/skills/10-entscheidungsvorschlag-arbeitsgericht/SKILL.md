@@ -20,12 +20,13 @@ ArbGG, BGB, KSchG, BetrVG, TzBfG, AGG, EFZG, BUrlG, GVG, ZPO
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Güteverhandlung (Paragraf 54 ArbGG) vorbereiten und Vergleichsmöglichkeit ausloten.
+2. Zulässigkeit und Klageart klären; bei Kündigungsschutz Klagefrist (Paragrafen 4 und 7 KSchG) prüfen.
+3. Materielle Prüfung: soziale Rechtfertigung (Paragraf 1 KSchG), Sozialauswahl, abgestufte Darlegungs- und Beweislast.
+4. Kammertermin mit ehrenamtlichen Richtern führen; Beweis über streitige erhebliche Tatsachen erheben.
+5. Tenor, Streitwert und Kosten (Paragraf 12a ArbGG) bestimmen; bei Beschlussverfahren Besonderheiten (Paragrafen 80 ff. ArbGG) beachten.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

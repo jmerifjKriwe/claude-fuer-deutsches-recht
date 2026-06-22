@@ -20,12 +20,13 @@ HGB, AktG, GmbHG, GenG, PartGG, BGB (Vereinsrecht), FamFG, HRV, RPflG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Anmeldung und Eintragungsgrundlage prüfen; Form und notarielle Beglaubigung (Paragraf 12 HGB) sowie Vertretungsnachweis kontrollieren.
+2. Materielle Eintragungsfähigkeit und Firmenrecht (Paragrafen 17 ff. HGB) prüfen.
+3. Bei behebbaren Hindernissen Zwischenverfügung mit angemessener Frist erlassen.
+4. Eintragungsverfügung erlassen oder Anmeldung mit Begründung zurückweisen.
+5. Bei Verstößen Zwangsgeldverfahren (Paragraf 14 HGB, Paragrafen 388 ff. FamFG) einleiten.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

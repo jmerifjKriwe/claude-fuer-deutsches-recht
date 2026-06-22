@@ -20,12 +20,13 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Klage und Verteidigung in Stationen ordnen; unstreitigen Tatbestand und streitige Punkte herausarbeiten.
+2. Schlüssigkeit der Klage prüfen: ist der Klägervortrag anspruchsausfüllend?
+3. Erheblichkeit der Verteidigung prüfen: greifen Einwendungen oder Einreden bei unterstellter Wahrheit durch?
+4. Über streitige erhebliche Tatsachen Beweis erheben; freie Beweiswürdigung nach Paragraf 286 ZPO begründen.
+5. Tenor, Streitwert (Paragraf 3 ZPO), Kosten und vorläufige Vollstreckbarkeit (Paragrafen 708 ff. ZPO) bestimmen; Berufungsfähigkeit (Paragraf 511 ZPO) im Blick behalten.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

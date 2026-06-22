@@ -40,12 +40,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -120,12 +121,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -200,12 +202,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -280,12 +283,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -360,12 +364,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -440,12 +445,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -520,12 +526,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -600,12 +607,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -680,12 +688,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -760,12 +769,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
+2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
+3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
+4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

@@ -20,12 +20,13 @@ FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindsc
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
+2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
+3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
+4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
+5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

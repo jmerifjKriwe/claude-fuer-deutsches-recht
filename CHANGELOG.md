@@ -1,3 +1,26 @@
+# v373.0.0 — Gerichts-Plugins: gerichtsbarkeitsspezifische Pflichtschritte statt generischer Vorlage
+
+Inhaltliche Tiefenverbesserung der 15 Plugins im Sammelordner `gerichtsplugins/`. Kern dieser Runde: die bis dahin in 13 Plugins wortgleiche, generische Pflichtschritte-Vorlage wurde durch einen echten, an die jeweilige Gerichtsbarkeit angepassten Arbeitsablauf ersetzt.
+
+## Gerichtsbarkeitsspezifische Pflichtschritte
+
+- In 140 Skills (13 Plugins) trug der Abschnitt Pflichtschritte zuvor denselben generischen Sechs-Punkte-Text (Akteninhalt sichten, Normen identifizieren, Prüfungsschema anwenden und so weiter). Dieser ist jetzt je Plugin auf die tatsächliche Arbeitsweise zugeschnitten:
+  - Zivilrichter und Zivilkammer sowie Relationstechnik: Stationenbildung, Schlüssigkeit, Erheblichkeit, Beweisstation mit Beweislastverteilung, Tenor und Urteilsabsetzung.
+  - Strafrichter und Strafkammer: Eröffnungsreife, Hauptverhandlung, Beweisaufnahme, Beweiswürdigung nach Paragraf 261 StPO, Strafzumessung und Maßregeln, Urteilsgründe nach Paragraf 267 StPO.
+  - Arbeits-, Verwaltungs-, Finanz-, Sozial- und Familiengericht sowie Handelsregister und Insolvenz: jeweils die einschlägige Verfahrensordnung mit ihren Eigenheiten (Güteverhandlung, Klagearten und Eilrechtsschutz, Aussetzung der Vollziehung und Schätzung, Amtsermittlung, Verfahrensbeistand und Kindesanhörung, Zwischenverfügung und Zwangsgeld, Eröffnungsgründe und StaRUG).
+  - Verfassungsbeschwerde: Zulässigkeit, Annahme nach Paragraf 93a BVerfGG, Grundrechtsprüfung und Votum.
+- Die abschließenden Schritte (Markierung als Vorschlag zur richterlichen Prüfung, vollständige Quellenangabe und Verifikation von Schwellenwerten und Fristen) bleiben in jedem Skill erhalten.
+
+## Sanity
+
+- Echte Umlaute in der Prosa, kein Paragraf-Zeichen, keine Zahl-Komma-Zahl in Descriptions, keine Skill-Description über 1024 Zeichen, Slugs unverändert. Mega- und Miniprompts sowie die READMEs samt KI-VO-, Aktengeheimnis- und Artikel-22-DSGVO-Block geprüft.
+
+## Versionierung
+
+- Repo-weiter Bump auf v373.0.0. Die hands-off-Plugins bleiben unberührt.
+
+---
+
 # v372.0.0 — Gerichts-Plugins: Werkstatt-Header, plugin-spezifische Skill-Rollen, Konventionsumbenennung der Prompt-Dateien
 
 Groszer Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`. Mega- und Miniprompts werden jetzt durchgehend von einem werkstattartigen Kopfteil eroeffnet, der den Spruchkoerper, die Eingangslage, die Arbeitsprodukte, den typischen Workflow und die Eigenheiten der jeweiligen Gerichtsbarkeit beschreibt. Skill-Rollen sind nicht mehr generisch, sondern plugin-spezifisch. Die Dateinamen der Prompts tragen den Plugin-Slug.

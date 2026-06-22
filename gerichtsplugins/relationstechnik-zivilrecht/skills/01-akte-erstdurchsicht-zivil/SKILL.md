@@ -20,12 +20,14 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Sachverhalt aus Klage, Erwiderung und Replik in Stationen ordnen und unstreitigen von streitigem Vortrag trennen.
+2. Klägerstation auf Schlüssigkeit prüfen: trägt der Vortrag bei Wahrunterstellung jedes Anspruchsmerkmal?
+3. Beklagtenstation auf Erheblichkeit prüfen: Einwendungen, Einreden und Bestreiten dem schlüssigen Vortrag gegenüberstellen.
+4. Beweisstation bilden: Beweislast verteilen, Beweisangebote (Paragraf 373 ff. ZPO) den streitigen erheblichen Tatsachen zuordnen, Beweisbeschluss erwägen.
+5. Tenor, Kostenfolge (Paragrafen 91 ff. ZPO) und vorläufige Vollstreckbarkeit aus dem Relationsergebnis ableiten.
+6. Tatbestand und Entscheidungsgründe (Paragraf 313 ZPO) revisionsfest absetzen.
+7. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+8. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

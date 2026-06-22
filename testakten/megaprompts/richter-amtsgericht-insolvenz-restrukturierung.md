@@ -40,12 +40,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -120,12 +121,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -200,12 +202,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -280,12 +283,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -360,12 +364,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -440,12 +445,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -520,12 +526,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -600,12 +607,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -680,12 +688,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -760,12 +769,13 @@ InsO, StaRUG, EuInsVO 2015/848, ZPO, GVG, RPflG, GKG, InsVV
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Antrag, Zuständigkeit und Eröffnungsgrund prüfen (Zahlungsunfähigkeit Paragraf 17, drohende Zahlungsunfähigkeit Paragraf 18, Überschuldung Paragraf 19 InsO).
+2. Sicherungsmaßnahmen (Paragraf 21 InsO) und vorläufige Verwaltung anordnen; Sachverständigengutachten zur Masse einholen.
+3. Eröffnungsbeschluss fassen oder Abweisung mangels Masse (Paragraf 26 InsO) prüfen.
+4. Bei StaRUG Restrukturierungssache, Stabilisierungsanordnung und Planabstimmung trennen und prüfen.
+5. Aufsicht über Verwalter und Folgeentscheidungen (Berichts-, Prüfungs- und Schlusstermin) strukturieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

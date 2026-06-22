@@ -40,12 +40,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -120,12 +121,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -200,12 +202,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -280,12 +283,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -360,12 +364,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -440,12 +445,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -520,12 +526,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -600,12 +607,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -680,12 +688,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -760,12 +769,13 @@ StGB, StPO, GVG, JGG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zuständigkeit der Kammer prüfen (Schwurgericht Paragraf 74 Abs. 2 GVG, Wirtschaftsstrafkammer Paragraf 74c GVG, große Strafkammer Paragraf 76 GVG).
+2. Eröffnungsverfahren (Paragrafen 199 ff. StPO) und Besetzung (Paragraf 76 Abs. 2 GVG) abschließen.
+3. Mehrtägige Hauptverhandlung strukturieren; Verständigung (Paragraf 257c StPO) nur transparent und protokolliert.
+4. Beweisaufnahme (Paragrafen 244 ff. StPO) und Beweiswürdigung (Paragraf 261 StPO) bei komplexem Indizien- oder Sachverständigenstoff führen.
+5. Strafzumessung (Paragrafen 46 ff. StGB) und Maßregeln (Paragrafen 61 ff. StGB) prüfen; Urteilsgründe revisionssicher absetzen (Paragraf 267 StPO).
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

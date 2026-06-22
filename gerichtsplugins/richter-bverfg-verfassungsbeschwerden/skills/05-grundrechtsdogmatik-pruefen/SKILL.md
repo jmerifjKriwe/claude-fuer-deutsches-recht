@@ -20,12 +20,13 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist (Paragraf 93 BVerfGG).
+2. Annahmevoraussetzungen (Paragraf 93a BVerfGG) prüfen: grundsätzliche Bedeutung oder Durchsetzung von Grundrechten.
+3. Betroffenes Grundrecht prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung und Verhältnismäßigkeit.
+4. Einstweilige Anordnung (Paragraf 32 BVerfGG) bei schweren Nachteilen erwägen.
+5. Votum mit Begründung und Tenorvorschlag aus Sicht des wissenschaftlichen Mitarbeiters formulieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 

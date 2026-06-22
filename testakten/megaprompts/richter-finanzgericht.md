@@ -40,12 +40,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -120,12 +121,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -200,12 +202,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -280,12 +283,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -360,12 +364,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -440,12 +445,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -520,12 +526,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -600,12 +607,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -680,12 +688,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
@@ -760,12 +769,13 @@ FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Prüfungsschema anwenden, Tatbestandsmerkmale durchprüfen.
-4. Streitige Punkte herausarbeiten; ggf. Hinweise nach den jeweiligen Verfahrensordnungen formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur richterlichen Prüfung markieren.
-6. Quellen vollständig zitieren (Norm + Aktenzeichen + Datum).
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
