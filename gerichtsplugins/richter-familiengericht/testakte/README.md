@@ -1,34 +1,44 @@
-# Testakte — Testakte AG Musterstadt Familiengericht 12 F 234/26 — Scheidung mit Versorgungsausgleich, Sorge und Unterhalt
+# Testakte AG Musterstadt Familiengericht 12 F 318/26 — Kindesunterhalt nach der Duesseldorfer Tabelle bei streitiger Leistungsfaehigkeit
 
-> **Aus Richtersicht. Experimentelles Plugin im Ordner `gerichtsplugins/`.**
-> Fiktiv. Jede Aehnlichkeit mit echten Faellen ist Zufall.
+Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Saemtliche Personen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Aehnlichkeit mit echten Faellen ist Zufall.
 
-## Plugin
+## Kurzbeschreibung
 
-Familiengericht (großes Familiengericht)
+Familiensache Kindesunterhalt. Das minderjaehrige Kind Jonas Sauer, vertreten durch seine Mutter Hildegard Sauer, verlangt von seinem Vater Konrad Welp laufenden Kindesunterhalt in Hoehe von einhundertzehn Prozent des Mindestunterhalts der zweiten Altersstufe als dynamischen Titel nach Paragraf 1612a BGB. Streitig ist die Leistungsfaehigkeit des selbststaendig taetigen Antragsgegners (Paragraf 1603 BGB); die Antragstellerseite haelt das angegebene Einkommen fuer zu niedrig und beruft sich auf eine Verletzung der gesteigerten Erwerbsobliegenheit. Verfahrenswert nach Paragraf 51 FamGKG (Jahresbetrag des laufenden Unterhalts). Familiengericht beim Amtsgericht, Anwaltszwang besteht in der Unterhaltssache nicht (Paragraf 114 FamFG). Verfahrensstand bei Aktenuebernahme: Antrag zugestellt, Antragserwiderung liegt vor, Termin steht aus.
 
-## Sachverhalt (verkuerzt)
+Diese Akte zeigt didaktisch die familienrechtliche Unterhaltsrelation mit Auskunftsstufe, Leistungsfaehigkeitspruefung und dynamischem Titel.
 
-Antragstellerin AS (42 Jahre, Lehrerin, beschaeftigt im Landesdienst) und Antragsgegner AG (44 Jahre, IT-Selbstständiger) sind seit 2009 verheiratet, getrennt lebend seit 02/2025. Zwei gemeinsame Kinder K1 (geb. 2012) und K2 (geb. 2015). AS beantragt: (1) Scheidung der Ehe, (2) Durchfuehrung des Versorgungsausgleichs (beide haben Anrechte bei DRV und betrieblicher Altersversorgung; AS zusaetzlich Beamtenversorgung Land), (3) alleinige elterliche Sorge für beide Kinder hilfsweise nur Aufenthaltsbestimmungsrecht, (4) Trennungsunterhalt 1.350 Euro/Monat und Kindesunterhalt 145% Mindestunterhalt für beide Kinder, (5) Hausratsteilung. AG widerspricht Sorgerechtsantrag, verlangt erweiterten Umgang (jedes zweite Wochenende plus eine Woche in den Ferien). Jugendamt-Bericht liegt vor (empfiehlt gemeinsame Sorge mit Aufenthalt bei Mutter). Renofa-Anwaltsschriftsatz AG ruegt Berechnung Bereinigtes Nettoeinkommen.
+## Inhaltsverzeichnis
 
-## Aufgabe
+- [00-rubrum.md](00-rubrum.md) — Gericht, Beteiligte, gesetzliche Vertreter, Verfahrensart
+- [01-antragsschrift.md](01-antragsschrift.md) — Eingang mit Antrag, Sachverhalt, Beweisangeboten, Anlagenverzeichnis
+- [02-antragserwiderung.md](02-antragserwiderung.md) — Erwiderung des Antragsgegners mit Beweisangeboten
+- [03-anlage-as1-jugendamtsurkunde-vaterschaft.md](03-anlage-as1-jugendamtsurkunde-vaterschaft.md) — Anlage AS 1
+- [04-anlage-as2-mahnung-und-auskunftsaufforderung.md](04-anlage-as2-mahnung-und-auskunftsaufforderung.md) — Anlage AS 2
+- [05-anlage-ag1-einkommensteuerbescheid.md](05-anlage-ag1-einkommensteuerbescheid.md) — Anlage AG 1
+- [06-anlage-ag2-betriebswirtschaftliche-auswertung.md](06-anlage-ag2-betriebswirtschaftliche-auswertung.md) — Anlage AG 2
+- [07-hinweis-und-aufklaerungsbeschluss.md](07-hinweis-und-aufklaerungsbeschluss.md) — Hinweis nach Paragraf 139 ZPO i.V.m. Paragraf 113 FamFG und Aufklaerungs- und Beweisbeschluss-Entwurf
+- [08-beschlussentwurf.md](08-beschlussentwurf.md) — Beschlussentwurf mit Rubrum, Tenor, Sachverhalt, Gruenden, Rechtsmittelbelehrung
+- [streitstoff-liste.md](streitstoff-liste.md) — Streitstoff-Tabelle
+- [loesungspfad.md](loesungspfad.md) — Arbeitspfad entlang der Plugin-Skills
+- [pflichtanker.md](pflichtanker.md) — Pflicht-Paragrafen und Rechtsprechungsanker
 
-Als Familienrichter prüfen: Zulässigkeit (Paragrafen 111 ff. FamFG, Trennungsjahr Paragraf 1565 Abs. 2 BGB), Scheidung Paragrafen 1565-1568 BGB, Versorgungsausgleich Paragrafen 1, 9 ff. VersAusglG (Auskuenfte einholen, interne Teilung), Sorgerecht Paragrafen 1671, 1626 BGB unter Berücksichtigung Kindeswohl (Paragraf 1697a BGB) und Anhörung Paragrafen 159, 160 FamFG, Umgangsregelung Paragraf 1684 BGB, Unterhalt (Trennungsunterhalt Paragraf 1361 BGB, Kindesunterhalt Paragrafen 1601 ff. BGB i.V.m. Duesseldorfer Tabelle), Tenor-Vorschlag für Verbundverfahren, ggf. Vergleichsvorschlag.
+## Lernziele dieser Akte
 
-## Hinweise
+- Zustaendigkeit der Familiensache und Verfahrenswert sauber bestimmen (Paragraf 23a Absatz 1 Nummer 1 GVG i.V.m. Paragraf 23b GVG, Paragrafen 232, 114 FamFG, Paragraf 51 FamGKG).
+- Den Lebenssachverhalt aus Antrag und Erwiderung in eine Bedarfs-, eine Bedarfsdeckungs- und eine Leistungsfaehigkeitsstation ordnen.
+- Bedarf des Kindes nach der Duesseldorfer Tabelle und Paragrafen 1610, 1612a BGB bestimmen und das hälftige Kindergeld nach Paragraf 1612b BGB anrechnen.
+- Leistungsfaehigkeit des selbststaendigen Unterhaltspflichtigen nach Paragraf 1603 BGB pruefen und den Drei-Jahres-Durchschnitt sowie etwaiges fiktives Einkommen erfassen.
+- Beweisbeduerftige und auskunftsbeduerftige Tatsachen erkennen und einen Aufklaerungs- und Beweisbeschluss formulieren.
+- Den dynamischen Unterhaltstitel nach Paragraf 1612a BGB als Prozentsatz des Mindestunterhalts in einen Tenor ueberfuehren.
+- Hinweis- und Aufklaerungspflicht (Paragraf 139 ZPO i.V.m. Paragraf 113 FamFG, Paragraf 235 FamFG) einsetzen, wo Vortrag oder Auskunft unklar bleibt.
 
-- Prüfen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
-- Markieren Sie alle Ausgaben als "Vorschlag zur richterlichen Prüfung".
-- Beachten Sie Aktengeheimnis (Paragraf 353b StGB, Paragraf 43 DRiG): Testakte ist fiktiv, in der Praxis aber strenge Sorgfalt.
-- Dokumentieren Sie revisionssicher.
+## Pflicht-Paragrafen und Pflicht-Anker
 
-## Erwarteter Output
+- Verfahrensrecht: Paragraf 23a Absatz 1 Nummer 1 GVG, Paragraf 23b GVG, Paragrafen 111, 112, 113, 114, 231, 232, 235 FamFG, Paragraf 38 FamFG, Paragraf 51 FamGKG.
+- Materielles Recht: Paragraf 1601 BGB, Paragraf 1602 BGB, Paragraf 1603 BGB, Paragraf 1610 BGB, Paragraf 1612a BGB, Paragraf 1612b BGB.
+- Orientierungs-Anker: staendige Rechtsprechung des Bundesgerichtshofs zur gesteigerten Erwerbsobliegenheit nach Paragraf 1603 Absatz 2 BGB und zur Ermittlung des Einkommens Selbststaendiger im Drei-Jahres-Durchschnitt. Siehe [pflichtanker.md](pflichtanker.md).
 
-1. Strukturierte Prüfung nach Skill-Reihenfolge.
-2. Konkreter Entscheidungs- oder Tenor-Vorschlag.
-3. Risikohinweise.
-4. Quellen mit vollständigen Zitaten.
+## Hinweis zur Live-Verifikation
 
-## Warnhinweis
-
-Diese Testakte dient ausschliesslich dem Funktionstest. Sie ist kein Beratungsfall, kein Mandat, kein Verfahren. Die Ausgaben der KI sind Vorschlaege — die richterliche Letztentscheidung trifft ausschliesslich der Mensch (Art. 22 DSGVO).
+Alle zitierten Entscheidungen und die jeweils geltenden Betraege der Duesseldorfer Tabelle und der Mindestunterhaltsverordnung sind vor Verwendung an einer amtlichen oder frei zugaenglichen Quelle (Rechtsprechung im Internet des Bundes, openJur, dejure, Veroeffentlichung des Oberlandesgerichts Duesseldorf, Bundesgesetzblatt) im Wortlaut und in der aktuellen Fassung zu pruefen. Die Akte ersetzt keine eigene Recherche.

@@ -1,47 +1,47 @@
-# Testakten — Staatsanwaltschaft und Amtsanwaltschaft
+# Testakte StA Musterstadt 312 Js 4471/26 — Ermittlungsverfahren wegen Betrugs (Fake-Onlineshop)
 
-> **Aus staatsanwaltschaftlicher Sicht. Experimentelles Plugin im Ordner `gerichtsplugins/`.**
-> Fiktiv. Jede Aehnlichkeit mit echten Faellen ist Zufall.
+Aus staatsanwaltschaftlicher Sicht. Experimentelles Plugin im Ordner gerichtsplugins/. Saemtliche Personen, Firmen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Aehnlichkeit mit echten Faellen ist Zufall.
 
-## Plugin
+## Kurzbeschreibung
 
-Staatsanwaltschaft und Amtsanwaltschaft
+Strafrechtliches Ermittlungsverfahren der Staatsanwaltschaft Musterstadt gegen die Beschuldigte Hildegard Sauer wegen des Verdachts des gewerbsmaessigen Betrugs. Die Beschuldigte soll ueber den Online-Moebelshop der Edelholz Berlin GmbH hochwertige Massivholzmoebel gegen Vorkasse angeboten, die Kaufpreise vereinnahmt und die Ware nicht geliefert haben. Aktenkundig sind bislang vier geschaedigte Besteller mit einem Gesamtschaden von rund 9.400 Euro; weitere Anzeigen sind angekuendigt. Die Beschuldigte raeumt den Zahlungseingang ein, beruft sich aber auf Lieferschwierigkeiten eines Zulieferers und auf fehlenden Vorsatz.
 
-## Testakte 1 — 312 Js 4471/26 — Wohnungseinbruchdiebstahl
+Strafrahmen: Paragraf 263 Absatz 1 StGB (Freiheitsstrafe bis fuenf Jahre oder Geldstrafe), bei gewerbsmaessiger Begehung Paragraf 263 Absatz 3 Satz 2 Nummer 1 StGB (Freiheitsstrafe von sechs Monaten bis zehn Jahre). Sachliche Zustaendigkeit der Staatsanwaltschaft Musterstadt nach Paragrafen 142, 143 GVG. Verfahrensstand bei Aktenuebernahme: Ermittlungsverfahren eingeleitet, Beschuldigtenvernehmung durchgefuehrt, Kontoauswertung liegt vor; ueber die Abschlussentscheidung zwischen Strafbefehlsantrag (Paragraf 407 StPO) und Anklage (Paragraf 200 StPO) ist zu befinden.
 
-### Sachverhalt (verkuerzt)
+Diese Akte zeigt didaktisch den Gang eines Ermittlungsverfahrens von der Strafanzeige ueber die Beweisstation bis zur staatsanwaltschaftlichen Abschlussentscheidung.
 
-Anzeige der Polizei gegen Beschuldigten B (34 Jahre, einschlaegig vorbestraft) wegen Wohnungseinbruchdiebstahls (Paragraf 244 Abs. 4 StGB) am 03.05.2026 in Musterstadt. Aufgebrochene Terrassentuer, entwendet wurden Schmuck und Bargeld (Beuteschaden rund 8.000 Euro). Am Tatort gesicherte Schuhabdruckspur und eine DNA-Spur an der Einstiegsstelle. B wurde drei Tage spaeter aufgrund einer Funkzellenauswertung als Beschuldigter gefuehrt; er schweigt. Ein Teil der Beute (eine Uhr) wurde bei einem Ankaeufer sichergestellt.
+## Inhaltsverzeichnis
 
-### Aufgabe
+- [00-rubrum.md](00-rubrum.md) — Behoerde, Beteiligte, Verfahrensart, Strafrahmen, Verfahrensstand
+- [01-anzeige-und-ermittlungsvorgang.md](01-anzeige-und-ermittlungsvorgang.md) — Strafanzeige und polizeilicher Schlussvermerk mit Tatvorwurf, Sachverhalt, Beweismitteln
+- [02-beschuldigtenvernehmung.md](02-beschuldigtenvernehmung.md) — Einlassung der Beschuldigten nach Belehrung
+- [03-anlage-zahlungsnachweise.md](03-anlage-zahlungsnachweise.md) — Zahlungs- und Bestellnachweise der Geschaedigten
+- [04-anlage-kontoauswertung.md](04-anlage-kontoauswertung.md) — Kontoauswertung des Geschaeftskontos
+- [05-anlage-handelsregisterauszug.md](05-anlage-handelsregisterauszug.md) — Handelsregisterauszug der Edelholz Berlin GmbH
+- [06-anlage-mailverkehr.md](06-anlage-mailverkehr.md) — E-Mail-Verkehr zwischen Geschaedigten und Shop
+- [07-ermittlungsanweisung-und-hinweis.md](07-ermittlungsanweisung-und-hinweis.md) — Ermittlungsanweisung und Hinweisverfuegung nach Paragraf 160 StPO
+- [08-abschlussentscheidung-anklage-oder-strafbefehl.md](08-abschlussentscheidung-anklage-oder-strafbefehl.md) — Anklage- und Strafbefehlsentwurf, hilfsweise Einstellungsentwurf
+- [streitstoff-liste.md](streitstoff-liste.md) — Streitstoff- und Beweistabelle
+- [loesungspfad.md](loesungspfad.md) — Arbeitspfad entlang der Plugin-Skills
+- [pflichtanker.md](pflichtanker.md) — Pflicht-Paragrafen und Rechtsprechungsanker
 
-Als Dezernent prüfen: Anfangsverdacht und Ermittlungsrichtung, Durchsuchungs- und Beschlagnahmeantrag, Haftbefehlsantrag (Fluchtgefahr und Wiederholungsgefahr), Sicherung der Einziehung des Wertes der Beute, schliesslich Abschlussentscheidung zwischen Anklage (Paragraf 200 StPO) und beschleunigtem Verfahren.
+## Lernziele dieser Akte
 
-## Testakte 2 — 142 Js 9920/26 — Diebstahl geringwertiger Sachen (Amtsanwaltschaft)
+- Anfangsverdacht nach Paragraf 152 Absatz 2 StPO und Ermittlungsrichtung sauber bestimmen.
+- Den Lebenssachverhalt aus Anzeige, Einlassung und Kontoauswertung in Belastungs-, Entlastungs- und Beweisstation ordnen.
+- Den objektiven und subjektiven Tatbestand des Betrugs nach Paragraf 263 StGB pruefen, insbesondere Taeuschung, Irrtum, Vermoegensverfuegung, Schaden und Bereicherungsabsicht.
+- Die Objektivitaetspflicht nach Paragraf 160 Absatz 2 StPO einhalten und entlastende Umstaende mitermitteln.
+- Beweisbeduerftige Tatsachen erkennen und in eine Ermittlungsanweisung ueberfuehren.
+- Die Abgrenzung zwischen Strafbefehl nach Paragraf 407 StPO und Anklage nach Paragraf 200 StPO anhand von Sachverhaltsklarheit und Straferwartung treffen.
+- Die Voraussetzungen des Regelbeispiels der Gewerbsmaessigkeit nach Paragraf 263 Absatz 3 Satz 2 Nummer 1 StGB beurteilen.
+- Den hinreichenden Tatverdacht nach Paragraf 170 Absatz 1 StPO vom Anfangsverdacht abgrenzen.
 
-### Sachverhalt (verkuerzt)
+## Pflicht-Paragrafen und Pflicht-Anker
 
-Anzeige eines Supermarkts gegen Beschuldigte C (22 Jahre, nicht vorbestraft) wegen Diebstahls von Waren im Wert von 27 Euro am 18.04.2026. C wurde vom Ladendetektiv beobachtet und legte ein Gestaendnis ab. Geringer Schaden, Ware unbeschaedigt zurueckgegeben.
+- Verfahrensrecht: Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163a StPO, Paragraf 170 StPO, Paragraf 200 StPO, Paragraf 407 StPO; Paragrafen 142, 143 GVG.
+- Materielles Recht: Paragraf 263 StGB (Betrug), Paragraf 263 Absatz 3 Satz 2 Nummer 1 StGB (Gewerbsmaessigkeit), Paragrafen 73, 73c StGB (Einziehung des Wertes von Taterträgen).
+- Orientierungs-Anker: BGH zur Stoffgleichheit und zum Eingehungsbetrug bei Vorkasse; staendige Rechtsprechung des BGH zum Vorsatz beim Betrug. Siehe [pflichtanker.md](pflichtanker.md).
 
-### Aufgabe
+## Hinweis zur Live-Verifikation
 
-Als Amtsanwalt prüfen: Zustaendigkeit der Amtsanwaltschaft nach OrgStA, Abgrenzung der Einstellungswege (Paragraf 153 gegen Paragraf 153a StPO) gegenueber dem Strafbefehlsantrag (Paragraf 407 StPO), Bemessung einer etwaigen Auflage, und Bescheid an Anzeigeerstatter im Einstellungsfall.
-
-## Hinweise
-
-- Prüfen Sie den Sachverhalt strukturiert nach den Skills dieses Plugins.
-- Wahren Sie die Objektivitaetspflicht (Paragraf 160 Abs. 2 StPO): auch entlastende Umstaende.
-- Markieren Sie alle Ausgaben als "Vorschlag zur dezernatlichen Pruefung".
-- Beachten Sie Aktengeheimnis (Paragraf 353b StGB, Paragraf 37 BeamtStG bzw. Paragraf 67 BBG): Testakte ist fiktiv, in der Praxis aber strenge Sorgfalt.
-- Dokumentieren Sie revisionssicher.
-
-## Erwarteter Output
-
-1. Strukturierte Prüfung nach Skill-Reihenfolge.
-2. Konkreter Antrags- oder Verfuegungsvorschlag (Durchsuchung, Haftbefehl, Strafbefehl, Anklage oder Einstellung).
-3. Risikohinweise.
-4. Quellen mit vollständigen Zitaten.
-
-## Warnhinweis
-
-Diese Testakten dienen ausschliesslich dem Funktionstest. Sie sind kein Beratungsfall, kein Mandat, kein Verfahren. Die Ausgaben der KI sind Vorschlaege — die staatsanwaltschaftliche Letztentscheidung trifft ausschliesslich der Mensch (Art. 22 DSGVO).
+Alle zitierten Entscheidungen sind vor Verwendung an einer amtlichen oder frei zugaenglichen Quelle (Rechtsprechung im Internet des Bundes, openJur, dejure) im Wortlaut zu pruefen. Die Akte ersetzt keine eigene Recherche. Saemtliche Ausgaben sind als Vorschlag zur dezernatlichen Pruefung zu kennzeichnen; die staatsanwaltschaftliche Letztentscheidung trifft ausschliesslich der Mensch.
