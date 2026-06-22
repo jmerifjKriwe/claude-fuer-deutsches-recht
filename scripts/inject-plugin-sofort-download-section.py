@@ -114,7 +114,7 @@ def get_akte_title(akte_slug: str) -> str:
     return akte_slug
 
 
-def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
+def build_section(plugin_name: str, akten_slugs: list[str], plugin_dir: Path | None = None) -> str:
     lines: list[str] = []
     lines.append(MARKER_BEGIN)
     lines.append("## \u2b07\ufe0f Sofort-Downloads")
@@ -138,6 +138,14 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
         f"[`{plugin_name}.md`](../unified-mini-prompts/{plugin_name}.md) "
         f"oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`]({RELEASE_BASE}/alle-unified-mini-prompts.zip) |"
     )
+    # Handgepflegter lokaler Mega-Prompt, sofern vorhanden
+    if plugin_dir is not None:
+        local_mega = plugin_dir / f"{plugin_name}-megaprompt.md"
+        if local_mega.is_file():
+            lines.append(
+                f"| **Werkstatt-Mega-Prompt** (handgepflegt, plugin-spezifisch) | "
+                f"[`{plugin_name}-megaprompt.md`](./{plugin_name}-megaprompt.md) |"
+            )
     lines.append("")
 
     if akten_slugs:
@@ -165,12 +173,12 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
     return "\n".join(lines)
 
 
-def inject_section(readme: Path, plugin_name: str, akten_slugs: list[str]) -> str:
+def inject_section(readme: Path, plugin_name: str, akten_slugs: list[str], plugin_dir: Path | None = None) -> str:
     """Returns one of: 'INSERTED', 'UPDATED', 'UNCHANGED', 'SKIPPED'."""
     if not readme.exists():
         return "SKIPPED"
     text = readme.read_text(encoding="utf-8")
-    new_block = build_section(plugin_name, akten_slugs)
+    new_block = build_section(plugin_name, akten_slugs, plugin_dir)
 
     def insert_after_h1(current_text: str) -> str:
         h1 = H1_RE.search(current_text)
@@ -217,7 +225,7 @@ def main() -> int:
         plugin_dir = REPO_ROOT / name
         readme = plugin_dir / "README.md"
         akten = sorted(mapping.get(name, []))
-        status = inject_section(readme, name, akten)
+        status = inject_section(readme, name, akten, plugin_dir)
         counts[status] += 1
         if status in ("INSERTED", "UPDATED"):
             count_str = f"  ({len(akten)} Akte/n)" if akten else "  (keine Akte)"

@@ -12,6 +12,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | **Dieses Plugin** (`liquiditaetsplanung`) | [`liquiditaetsplanung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung.zip) |
 | **Alle Skills als Markdown** | [`liquiditaetsplanung-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung-skills-markdown.zip) |
 | **Unified Mini Prompt** (Sparversion bis 7.500 Zeichen) | [`liquiditaetsplanung.md`](../unified-mini-prompts/liquiditaetsplanung.md) oder als Sammel-ZIP [`alle-unified-mini-prompts.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-unified-mini-prompts.zip) |
+| **Werkstatt-Mega-Prompt** (handgepflegt, plugin-spezifisch) | [`liquiditaetsplanung-megaprompt.md`](./liquiditaetsplanung-megaprompt.md) |
 
 ### Demonstrations-Akten
 
