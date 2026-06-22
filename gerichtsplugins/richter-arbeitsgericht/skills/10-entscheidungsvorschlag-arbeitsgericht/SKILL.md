@@ -71,4 +71,4 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 ## Benachbarte Skills
 
 - **Davor**: `09-urteil-arbeitsgericht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Arbeitsgericht trägt.
-- **Danach**: `01-zustaendigkeit-und-guetetermin` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Arbeitsgericht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

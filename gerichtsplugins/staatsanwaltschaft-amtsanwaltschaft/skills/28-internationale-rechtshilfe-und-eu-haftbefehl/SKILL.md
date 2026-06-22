@@ -71,4 +71,4 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 ## Benachbarte Skills
 
 - **Davor**: `27-wiederaufnahme-zuungunsten-paragraf-362` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Internationale Rechtshilfe und EU Haftbefehl trägt.
-- **Danach**: `01-akte-erstdurchsicht-und-anfangsverdacht` - Folgeschritt im selben Plugin; nutze ihn, sobald Internationale Rechtshilfe und EU Haftbefehl entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

@@ -72,4 +72,4 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 ## Benachbarte Skills
 
 - **Davor**: `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Urteilsentwurf Finalisieren trägt.
-- **Danach**: `01-akte-erstdurchsicht-zivil` - Folgeschritt im selben Plugin; nutze ihn, sobald Urteilsentwurf Finalisieren entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

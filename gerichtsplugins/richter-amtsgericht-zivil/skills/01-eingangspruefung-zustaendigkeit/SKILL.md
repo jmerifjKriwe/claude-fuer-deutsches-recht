@@ -12,7 +12,7 @@ Prüfung Zuständigkeit (Paragraf 23 GVG sachlich, Paragrafen 12 ff. ZPO örtlic
 ## Rolle
 
 
-Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-zur-richterlichen-pruefung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Eingangsprüfung Zuständigkeit trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-streitwert-und-gerichtskosten` - Folgeschritt im selben Plugin; nutze ihn, sobald Eingangsprüfung Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.

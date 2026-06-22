@@ -71,4 +71,4 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 ## Benachbarte Skills
 
 - **Davor**: `09-starug-stabilisierungsanordnung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis StaRUG Planbestätigung und Folgen trägt.
-- **Danach**: `01-eroeffnungsantrag-pruefen-insolvenz` - Folgeschritt im selben Plugin; nutze ihn, sobald StaRUG Planbestätigung und Folgen entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

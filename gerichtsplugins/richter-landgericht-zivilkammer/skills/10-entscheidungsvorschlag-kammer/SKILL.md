@@ -12,7 +12,7 @@ Strukturierter Entscheidungsvorschlag für die Kammerberatung: Tenor-Vorschlag, 
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -71,4 +71,4 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 ## Benachbarte Skills
 
 - **Davor**: `09-vergleich-und-mediation` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Kammer trägt.
-- **Danach**: `01-eingang-und-besetzung` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Kammer entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

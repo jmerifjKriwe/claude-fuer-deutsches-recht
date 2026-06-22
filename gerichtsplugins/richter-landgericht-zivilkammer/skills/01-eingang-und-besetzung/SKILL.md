@@ -12,7 +12,7 @@ Eingangsprüfung Paragraf 522 ZPO bei Berufung, sachliche Zuständigkeit Paragra
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 5000 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -70,5 +70,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-kammer` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Eingang und Besetzung trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-grosse-relation-zivilrecht` - Folgeschritt im selben Plugin; nutze ihn, sobald Eingang und Besetzung entscheidungs- oder verfügungsreif vorbereitet ist.

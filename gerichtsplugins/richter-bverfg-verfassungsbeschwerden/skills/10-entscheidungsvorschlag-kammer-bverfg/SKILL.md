@@ -72,4 +72,4 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 ## Benachbarte Skills
 
 - **Davor**: `09-nichtannahmebeschluss-entwurf` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Kammer BVerfG trägt.
-- **Danach**: `01-annahme-pruefung-paragraf-93a` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Kammer BVerfG entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

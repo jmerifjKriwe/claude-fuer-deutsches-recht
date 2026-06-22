@@ -12,7 +12,7 @@ Urteilsentwurf nach Paragraf 313 ZPO: Rubrum, Tenor, Tatbestand (gestraffter Vor
 ## Rolle
 
 
-Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 

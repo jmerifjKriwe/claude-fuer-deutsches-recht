@@ -70,5 +70,5 @@ Das Insolvenzverfahren über das Vermögen des Schuldners wird wegen [Zahlungsun
 
 ## Benachbarte Skills
 
-- **Davor**: `10-starug-planbestaetigung-und-folgen` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Eröffnungsantrag Prüfen Insolvenz trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-sicherungsmassnahmen-vor-eroeffnung` - Folgeschritt im selben Plugin; nutze ihn, sobald Eröffnungsantrag Prüfen Insolvenz entscheidungs- oder verfügungsreif vorbereitet ist.

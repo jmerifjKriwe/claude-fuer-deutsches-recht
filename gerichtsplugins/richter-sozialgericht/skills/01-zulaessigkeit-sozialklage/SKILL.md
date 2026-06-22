@@ -70,5 +70,5 @@ Das Gericht zieht die Verwaltungsakte bei und fordert den Leistungsträger auf, 
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-sozialgericht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zulässigkeit Sozialklage trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-amtsermittlung-sozialgericht` - Folgeschritt im selben Plugin; nutze ihn, sobald Zulässigkeit Sozialklage entscheidungs- oder verfügungsreif vorbereitet ist.

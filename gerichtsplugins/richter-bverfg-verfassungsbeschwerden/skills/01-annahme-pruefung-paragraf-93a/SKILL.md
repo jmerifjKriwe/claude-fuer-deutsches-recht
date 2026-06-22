@@ -71,5 +71,5 @@ Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrech
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-kammer-bverfg` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Annahme Prüfung Paragraf 93A trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-substantiierungs-pruefung-paragraf-92` - Folgeschritt im selben Plugin; nutze ihn, sobald Annahme Prüfung Paragraf 93A entscheidungs- oder verfügungsreif vorbereitet ist.

@@ -70,5 +70,5 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-register` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Anmeldung Prüfen Zuständigkeit trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-firmenrecht-pruefen` - Folgeschritt im selben Plugin; nutze ihn, sobald Anmeldung Prüfen Zuständigkeit entscheidungs- oder verfügungsreif vorbereitet ist.

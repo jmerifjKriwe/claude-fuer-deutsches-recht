@@ -71,4 +71,4 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 ## Benachbarte Skills
 
 - **Davor**: `09-rechtsmittel-vwgo` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Verwaltungsgericht trägt.
-- **Danach**: `01-zulaessigkeit-verwaltungsklage` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Verwaltungsgericht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

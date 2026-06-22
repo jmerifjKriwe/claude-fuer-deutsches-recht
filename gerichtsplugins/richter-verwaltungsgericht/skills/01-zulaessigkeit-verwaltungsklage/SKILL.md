@@ -70,5 +70,5 @@ Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stel
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-verwaltungsgericht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zulässigkeit Verwaltungsklage trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-amtsermittlung-und-sachverhaltsfeststellung` - Folgeschritt im selben Plugin; nutze ihn, sobald Zulässigkeit Verwaltungsklage entscheidungs- oder verfügungsreif vorbereitet ist.

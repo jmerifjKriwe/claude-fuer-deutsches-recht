@@ -71,4 +71,4 @@ Die Anmeldung wird zurückgewiesen, weil [Eintragungsvoraussetzung] trotz Zwisch
 ## Benachbarte Skills
 
 - **Davor**: `09-vereins-und-genossenschaftsregister` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Register trägt.
-- **Danach**: `01-anmeldung-pruefen-zustaendigkeit` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Register entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

@@ -71,4 +71,4 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 ## Benachbarte Skills
 
 - **Davor**: `09-urteil-finanzgericht-und-revision` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Finanzgericht trägt.
-- **Danach**: `01-zulaessigkeit-finanzgerichtsklage` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Finanzgericht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

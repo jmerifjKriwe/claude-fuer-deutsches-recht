@@ -71,5 +71,5 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 ## Benachbarte Skills
 
-- **Davor**: `20-urteilsentwurf-finalisieren` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Akte Erstdurchsicht Zivil trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-parteivortrag-strukturieren` - Folgeschritt im selben Plugin; nutze ihn, sobald Akte Erstdurchsicht Zivil entscheidungs- oder verfügungsreif vorbereitet ist.

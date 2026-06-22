@@ -12,7 +12,7 @@ Strukturierter Entscheidungsvorschlag für den Richter: Tenor-Vorschlag, tragend
 ## Rolle
 
 
-Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 5000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
+Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Mietsachen über Wohnraum ohne Wertgrenze, weitere Spezialzuweisungen). Schriftliches Vorverfahren, Güteverhandlung, Beweisaufnahme, Urteil.
 
 ## Rechtsrahmen
 
@@ -71,4 +71,4 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 ## Benachbarte Skills
 
 - **Davor**: `09-vergleich-und-erledigung` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Zur Richterlichen Prüfung trägt.
-- **Danach**: `01-eingangspruefung-zustaendigkeit` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Zur Richterlichen Prüfung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

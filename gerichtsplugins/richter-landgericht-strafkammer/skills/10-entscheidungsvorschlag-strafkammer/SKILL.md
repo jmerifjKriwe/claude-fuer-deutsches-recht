@@ -71,4 +71,4 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 ## Benachbarte Skills
 
 - **Davor**: `09-rechtsmittelbelehrung-strafkammer` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Strafkammer trägt.
-- **Danach**: `01-eroeffnungsverfahren-strafkammer` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Strafkammer entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

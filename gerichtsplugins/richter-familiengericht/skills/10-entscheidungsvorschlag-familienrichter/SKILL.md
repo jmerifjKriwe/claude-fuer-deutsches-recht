@@ -71,4 +71,4 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 ## Benachbarte Skills
 
 - **Davor**: `09-beschluss-familiensache-paragraf-38-famfg` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Familienrichter trägt.
-- **Danach**: `01-zustaendigkeit-und-zuteilung-familiensache` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Familienrichter entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

@@ -70,5 +70,5 @@ Im Wege der einstweiligen Anordnung wird geregelt, dass [konkrete familiengerich
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-familienrichter` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zuständigkeit und Zuteilung Familiensache trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-ehesache-scheidung-paragraf-1565` - Folgeschritt im selben Plugin; nutze ihn, sobald Zuständigkeit und Zuteilung Familiensache entscheidungs- oder verfügungsreif vorbereitet ist.

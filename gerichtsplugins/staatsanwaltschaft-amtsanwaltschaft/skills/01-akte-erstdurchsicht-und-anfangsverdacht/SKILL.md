@@ -69,5 +69,5 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 ## Benachbarte Skills
 
-- **Davor**: `28-internationale-rechtshilfe-und-eu-haftbefehl` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Akte-Erstdurchsicht und Anfangsverdacht trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Folgeschritt im selben Plugin; nutze ihn, sobald Akte-Erstdurchsicht und Anfangsverdacht entscheidungs- oder verfügungsreif vorbereitet ist.

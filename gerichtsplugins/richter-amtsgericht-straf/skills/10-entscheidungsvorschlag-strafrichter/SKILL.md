@@ -71,4 +71,4 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 ## Benachbarte Skills
 
 - **Davor**: `09-strafbefehl-und-beschleunigtes-verfahren` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Strafrichter trägt.
-- **Danach**: `01-akte-erstdurchsicht-strafsache` - Folgeschritt im selben Plugin; nutze ihn, sobald Entscheidungsvorschlag Strafrichter entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.

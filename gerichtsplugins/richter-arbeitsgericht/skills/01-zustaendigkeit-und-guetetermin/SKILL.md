@@ -70,5 +70,5 @@ Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Be
 
 ## Benachbarte Skills
 
-- **Davor**: `10-entscheidungsvorschlag-arbeitsgericht` - Vorheriger Arbeitsschritt im selben Plugin; nutze ihn, wenn der Aktenstand noch nicht bis Zuständigkeit und Guetetermin trägt.
+- **Einstieg**: Erster Arbeitsschritt dieses Plugins; ein vorgelagerter Skill existiert nicht.
 - **Danach**: `02-kuendigungsschutzklage-pruefen` - Folgeschritt im selben Plugin; nutze ihn, sobald Zuständigkeit und Guetetermin entscheidungs- oder verfügungsreif vorbereitet ist.
