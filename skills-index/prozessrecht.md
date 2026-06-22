@@ -1,6 +1,6 @@
 # prozessrecht
 
-**64 Skills** · Stand `v372.0.0`
+**64 Skills** · Stand `v373.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/prozessrecht/README.md)
