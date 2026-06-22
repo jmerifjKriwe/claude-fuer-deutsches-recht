@@ -22,12 +22,6 @@ MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 
 
 def prompt_stem(plugin_name: str) -> str:
-    if plugin_name == "liquiditaetsplanung":
-        return "liquiditaetsplaner"
-    if plugin_name == "staatsanwaltschaft-praxis-einstieg":
-        return "staatsanwaltschaft-einstieg"
-    if plugin_name.startswith("richter-"):
-        return plugin_name.removeprefix("richter-")
     return plugin_name
 
 

@@ -36,12 +36,6 @@ PLUGIN_ALIASES = {
 
 
 def prompt_stem(plugin_name: str) -> str:
-    if plugin_name == "liquiditaetsplanung":
-        return "liquiditaetsplaner"
-    if plugin_name == "staatsanwaltschaft-praxis-einstieg":
-        return "staatsanwaltschaft-einstieg"
-    if plugin_name.startswith("richter-"):
-        return plugin_name.removeprefix("richter-")
     return plugin_name
 
 
@@ -149,12 +143,12 @@ Wer kein Plugin-Setup nutzen kann oder will, bekommt trotzdem eine sofort nutzba
 
 Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare dezimale Gliederung (`1`, `1.1`, `1.1.1`) und vollständig ausformulierte Sätze. Weicht ein amtliches Formular, ein Gerichtslayout oder ein Mandantentemplate davon ab, wird die Abweichung im Arbeitsprodukt benannt.
 
-| Datei | Wofür | Direkt-Download |
+| Was | Format | Direkt-Download |
 | --- | --- | --- |
-| **{display}-Werkstatt** | Vollständiger Arbeits-Prompt mit Werkstattlogik, Pflicht-Schritten, Quellen-Disziplin und Antwort-Skeletten. Darf lang sein. | [`{plugin_name}-werkstatt.zip`]({RELEASE_BASE}/{plugin_name}-werkstatt.zip) |
-| **{display}-Schnellstart** | Kompakter Einstiegs-Prompt, höchstens 7.500 Zeichen. Für den schnellen Wurf in einen Chat. | [`{plugin_name}-schnellstart.zip`]({RELEASE_BASE}/{plugin_name}-schnellstart.zip) |
-| **{display}-Plugin** | Vollständiges Plugin mit Skills, README und Begleitdateien. | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
-| **{display}-Testakte** | Demonstrationsmaterial zum Ausprobieren des Workflows. | {testakte_cell} |
+| Grosser Prompt (Werkstatt) | ZIP | [`{plugin_name}-werkstatt.zip`]({RELEASE_BASE}/{plugin_name}-werkstatt.zip) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`{plugin_name}-schnellstart.zip`]({RELEASE_BASE}/{plugin_name}-schnellstart.zip) |
+| Plugin als Komplett-ZIP | ZIP | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
+| Testakte(n) als ZIP | ZIP | {testakte_cell} |
 
 Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
 - [`{werkstatt_file}`](./{werkstatt_file}) (im Browser ansehen)

@@ -44,22 +44,15 @@ def collect_skill_files(plugin_dir: Path) -> list[Path]:
 
 
 def prompt_stem(plugin_name: str) -> str:
-    if plugin_name == "liquiditaetsplanung":
-        return "liquiditaetsplaner"
-    if plugin_name == "staatsanwaltschaft-praxis-einstieg":
-        return "staatsanwaltschaft-einstieg"
-    if plugin_name.startswith("richter-"):
-        return plugin_name.removeprefix("richter-")
     return plugin_name
 
 
 def collect_prompt_files(repo_root: Path, plugin_name: str, plugin_dir: Path) -> list[Path]:
-    """Schnellstart/Werkstatt und Legacy-Unified-Mini einsammeln, falls vorhanden."""
+    """Schnellstart/Werkstatt einsammeln, falls vorhanden."""
     stem = prompt_stem(plugin_name)
     candidates = [
         plugin_dir / f"{stem}-schnellstart.md",
         plugin_dir / f"{stem}-werkstatt.md",
-        repo_root / "unified-mini-prompts" / f"{plugin_name}.md",
     ]
     out: list[Path] = []
     for path in candidates:

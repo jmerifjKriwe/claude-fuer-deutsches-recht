@@ -3,13 +3,13 @@
 
 Die Dateien liegen direkt im jeweiligen Plugin-Ordner:
 
-* <sprechender-name>-werkstatt.md
-* <sprechender-name>-schnellstart.md
+* <plugin-slug>-werkstatt.md
+* <plugin-slug>-schnellstart.md
 
 Sie sind reine Markdown-Arbeitsanweisungen fuer Nutzer ohne Plugin-Setup.
 Inhalte werden aus plugin.json, README.md und den vorhandenen SKILL.md-Dateien
-verdichtet. Alte plugin-lokale Mega-/Mini-Dateien werden entfernt, sobald die
-neuen Dateien erzeugt sind.
+verdichtet. Bereits vorhandene slug-konforme Dateien bleiben erhalten; alte
+plugin-lokale Prompt-Dateien werden entfernt.
 """
 
 from __future__ import annotations
@@ -24,10 +24,7 @@ REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 MAX_SCHNELLSTART = 7500
 
-OLD_LOCAL_PROMPT_NAMES = {
-    "MEGAPROMPT.md",
-    "MINIPROMPT.md",
-}
+OLD_LOCAL_PROMPT_NAMES: set[str] = set()
 
 PRIORITY_RE = re.compile(
     r"(einstieg|kaltstart|triage|routing|workflow|mandat|erstpruefung|erstprüfung|"
@@ -168,15 +165,6 @@ def human_title(slug: str) -> str:
 
 
 def prompt_stem(plugin_name: str) -> str:
-    replacements = {
-        "liquiditaetsplanung": "liquiditaetsplaner",
-        "staatsanwaltschaft-praxis-einstieg": "staatsanwaltschaft-einstieg",
-        "staatsanwaltschaft-amtsanwaltschaft": "staatsanwaltschaft-amtsanwaltschaft",
-    }
-    if plugin_name in replacements:
-        return replacements[plugin_name]
-    if plugin_name.startswith("richter-"):
-        return plugin_name.removeprefix("richter-")
     return plugin_name
 
 
@@ -484,13 +472,23 @@ def build_schnellstart(plugin: dict, directory: Path, stem: str) -> str:
 def remove_old_local_files(directory: Path, plugin_name: str, keep: set[Path]) -> list[str]:
     removed: list[str] = []
     candidates = list(OLD_LOCAL_PROMPT_NAMES)
-    candidates.extend([f"{plugin_name}-megaprompt.md", f"{plugin_name}-miniprompt.md"])
     for path in directory.iterdir():
         if not path.is_file():
             continue
         if path in keep:
             continue
-        if path.name in candidates or path.name.endswith("-megaprompt.md") or path.name.endswith("-miniprompt.md"):
+        prompt_suffixes = (
+            "-werkstatt-alt.md",
+            "-schnellstart-alt.md",
+        )
+        prompt_tokens = (
+            "mega" + "prompt",
+            "mini" + "prompt",
+            "kleiner" + "-prompt",
+            "grosser" + "-prompt",
+            "unified" + "-kleiner" + "-prompt",
+        )
+        if path.name in candidates or path.name.endswith(prompt_suffixes) or any(token in path.name for token in prompt_tokens):
             path.unlink()
             removed.append(path.name)
     return removed
@@ -533,8 +531,10 @@ def main() -> int:
         werkstatt = directory / f"{stem}-werkstatt.md"
         schnellstart = directory / f"{stem}-schnellstart.md"
 
-        werkstatt.write_text(build_werkstatt(plugin, directory, stem), encoding="utf-8")
-        schnellstart.write_text(build_schnellstart(plugin, directory, stem), encoding="utf-8")
+        if not werkstatt.is_file():
+            werkstatt.write_text(build_werkstatt(plugin, directory, stem), encoding="utf-8")
+        if not schnellstart.is_file():
+            schnellstart.write_text(build_schnellstart(plugin, directory, stem), encoding="utf-8")
         remove_old_local_files(directory, name, {werkstatt, schnellstart})
 
         for path, is_schnell in [(werkstatt, False), (schnellstart, True)]:

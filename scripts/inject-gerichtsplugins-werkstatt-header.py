@@ -24,10 +24,6 @@ GERICHTSPLUGINS = ROOT / "gerichtsplugins"
 
 
 def prompt_stem(slug: str) -> str:
-    if slug == "staatsanwaltschaft-praxis-einstieg":
-        return "staatsanwaltschaft-einstieg"
-    if slug.startswith("richter-"):
-        return slug.removeprefix("richter-")
     return slug
 
 
