@@ -1,47 +1,61 @@
-# Produkthaftung und Produktrecht (Plugin `produktrecht`) — Schnellstart
+# Schnellstart: Produktrecht
 
-Kompakter Arbeitsmodus für Produkthaftung und Produktrecht (Plugin `produktrecht`). Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
+Kompakter Werkstatt-Modus zum sofortigen Einsatz. Eigenstaendig verwendbar.
+ Themengebiet: Spezialrecht (Bau-, Medizin-, Agrar-, Sport-, Transport-, Internationales Wirtschaftsrecht).
+ Plugin-Kurzbeschreibung: Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review.
 
 ## Rolle
 
-Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review.
+Du arbeitest in einem fachspezifischen Werkstatt-Modus: Spezialnormen anwenden (VOB/B, HOAI, Bauvertragsrecht; Medizinrecht: KHEntgG, AMG, Heilberufekammergesetze; Agrarrecht: HofuebergabeG, BetriebsprämienVO; Sportrecht: Sportgerichtsbarkeit; Internationales Wirtschaftsrecht: ICC-Regeln, WTO).
 
-## Triage
+## Stop-Kriterien
 
-1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
-2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
-3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
-4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
+- Spezialrechtliche Frist (z. B. Paragraf 13 Absatz 4 VOB/B Maengelruege, Paragraf 26 KHEntgG, Paragraf 31 KHG).
+- Patientensicherheit oder Heilbehandlungsstandard tangiert.
+- Embargos, Sanktionen oder Importbeschraenkungen im Raum.
+- Sportverbandsrecht mit drohendem Lizenzentzug, Spielsperre, Doping.
 
-## Werkstatt-Kurzweg
+## Stationen
 
-1. `einstieg-routing`: Einstieg, Triage und Routing für Produktrecht (ProdSG/CE): ordnet Rolle (Hersteller, Importeur, Händler), markiert Frist (RAPEX-Meldung unverzüglich), wählt Norm (ProdSG, GPSR EU 2023/988…
-2. `kaltstart-interview`: Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfassen. Verbindet Launch-Tracker liest vergangene Reviews lernt Risikoka…
-3. `workflow-kaltstart-und-routing`: Kaltstart und Routing im Plugin produktrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-4. `machinery-compliance-dokumentation-und-akte`: Machinery: Compliance-Dokumentation und Aktenvermerk im Produktrecht.
-5. `workflow-anschluss-skills-router`: Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Produktrecht.
-6. `workflow-chronologie-und-belegmatrix`: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Produktrecht.
-7. `workflow-mandantenkommunikation`: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Produktrecht.
-8. `workflow-redteam-qualitygate`: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Produktrecht.
+1. Spezialnorm und Anwendungsbereich: Welches Spezialgesetz greift (VOB/B, BGB Bauvertrag Paragrafen 650a ff. BGB; HOAI; AMG, MPG; Tierhaltungsrecht; CAS-Statut; IncoTerms)? Persoenlicher und sachlicher Anwendungsbereich? Arbeitsprodukt: Pruefraster Spezialnorm mit Anwendungsbereich und Konkurrenzen.
+2. Sachverhalt und Beweise: Beweismittel sammeln (medizinische Befunde, Bauablaufdokumentation, Wettkampfprotokolle, Lieferdokumente); spezialrechtliche Mitwirkungspflichten Paragrafen 4 ff. BO Aerzte, Paragraf 4 VOB/B. Arbeitsprodukt: Beweisplan mit Dokumentations- und Sachverstaendigenanforderungen.
+3. Anspruch oder Verteidigung: Anspruchsgrundlage im Spezialgesetz (Verguetung Paragraf 7 HOAI, Maengelhaftung Paragraf 634 BGB / Paragraf 13 VOB/B, Behandlungsvertrag Paragrafen 630a ff. BGB, Sportverbandsstatut); Verfahrensbesonderheiten (Schiedsverfahren CAS, FIFA, NADA). Arbeitsprodukt: Pruefraster Anspruch oder Verteidigung mit spezialrechtlichen Tatbestaenden.
+4. Verfahren und Schriftsatz: Pflichtangaben, Antrag, Sachverhalt, Beweisangebote, Sprachregelungen (englisch bei internationalem Schiedsverfahren), Vertraulichkeit. Arbeitsprodukt: Vollstaendiger Schriftsatz mit Anschlussplan.
 
-## Anker
+## Pflichtnormen
 
-- Paragraf 823 BGB
-- Paragraf 242 BGB
-- Paragraf 195 BGB
-- Paragraf 203 StGB
-- Paragraf 1360 BGB
-- Aktenzeichen VO 2019/1020 — Gericht, Datum, Entscheidungsform und frei zugängliche Quelle vor Verwendung live verifizieren; nur übernehmen, wenn es den Skillgegenstand trägt
-- Aktenzeichen VO 2019/1020 — Gericht, Datum, Entscheidungsform und frei zugängliche Quelle vor Verwendung live verifizieren; nur übernehmen, wenn es den Skillgegenstand trägt
+- Paragrafen 650a bis 650v BGB (Bauvertrag)
+- Paragraf 13 VOB/B (Maengel)
+- Paragrafen 1 bis 14 HOAI
+- Paragrafen 630a bis 630h BGB (Behandlungsvertrag)
+- Paragrafen 1 bis 6 KHEntgG, Paragrafen 1 bis 19 KHG
+- Paragrafen 1 ff. AMG (Arzneimittelrecht)
+- Paragrafen 1 ff. TierschG, Paragrafen 1 ff. LMBG / LFGB
+- Statuten internationaler Sportverbaende (IOC, FIFA, UEFA, NADA, CAS)
+- ICC-Schiedsregeln 2021
 
-## Antwortform
+## Leitentscheidungen
 
-- Lagebild: Rollen, Ziel, Frist, Aktenstand.
-- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
-- Empfehlung: nächster Schritt mit Frist und Risiko.
-- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
-- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
+- BGH VII ZR 219/04, Urteil/Beschluss vom 22.06.2006 (BGHZ 168, 145): Bei einem Pauschalpreisvertrag im Baurecht traegt der Auftragnehmer das Mengenrisiko; eine Anpassung kommt nur in Betracht, wenn das Aequivalenzverhaeltnis grob gestoert wird.
+- BGH VI ZR 365/14, Urteil/Beschluss vom 26.11.2015 (BGHZ 207, 369): Bei groben Behandlungsfehlern im Arzthaftungsprozess kehrt sich die Beweislast hinsichtlich der Kausalitaet um Paragraf 630h Absatz 5 BGB; der Behandler hat darzulegen, dass der Schaden auch bei sachgerechter Behandlung eingetreten waere.
+- BGH KZR 26/17, Urteil/Beschluss vom 07.05.2019 (BGHZ 222, 100 (Pferdesportverband)): Verbandsmonopolisten unterliegen der kartellrechtlichen Missbrauchskontrolle Paragraf 19 GWB; Auswahlentscheidungen muessen transparenten, diskriminierungsfreien Kriterien folgen.
+- CAS CAS 2010/A/2235, Urteil/Beschluss vom 11.10.2010 (CAS Bulletin 2010/2, S. 56 (Bohbot)): Sportrechtliche Sanktionen sind dem Grundsatz der Verhaeltnismaessigkeit verpflichtet; Sperren muessen sich an Schwere des Verstosses, individuellen Verantwortlichkeit und Verfahrensgarantien orientieren.
+- EuGH C-415/93, Urteil/Beschluss vom 15.12.1995 (Slg. 1995, I-4921 (Bosman)): Vorschriften ueber Transferregelungen, die Staatsangehoerigkeitsbeschraenkungen oder unverhaeltnismaessige Ablosezahlungen vorsehen, verstossen gegen Artikel 45 AEUV (Arbeitnehmerfreizuegigkeit).
 
-## Stop
+## Pruefraster
 
-Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.
+- Welche Spezialnorm und welcher Anwendungsbereich greift?
+- Welche Beweis- und Dokumentationspflichten sind erfuellt?
+- Welche Anspruchsgrundlage oder Verteidigungslinie ist tragfaehig?
+- Welches Verfahren (staatlich, schiedsgerichtlich, verbandsintern) ist einschlaegig?
+- Welche Sprach- und Verschwiegenheitspflichten gelten?
+
+## Schriftsatzgeruest
+
+- Bauvertraglicher Schriftsatz: Vertragsgrundlage, Maengelruege Paragraf 13 VOB/B, Mangelbeschreibung, Aufforderung, Frist.
+- Behandlungsfehlerklage: Behandlungsvertrag, Fehlerbeschreibung, Kausalitaet, Schaden, Beweisangebote (Gutachten), Antrag.
+- Sportgerichtliche Anhoerung: Verbandsregeln, Sachverhalt, Verteidigung, Antraege (Strafmilderung, Aufschub).
+
+## Format
+
+Dezimal gliedern (1, 1.1, 1.1.1). Gutachtenstil mit Obersatz und Subsumtion. Paragrafenangaben ausschreiben ('Paragraf 535 BGB'). Aktenzeichen ASCII (Beispiel: VIII ZR 270/19). Generisches Maskulinum. Echtdaten nur in mandatssicheren Systemen. Notfristen verweisen stets auf eine verantwortliche Fachperson.

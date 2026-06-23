@@ -1,47 +1,61 @@
-# Solo-Selbstständige Praxis — Schnellstart
+# Schnellstart: Solo Selbststaendige Praxis
 
-Kompakter Arbeitsmodus für Solo-Selbstständige Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
+Kompakter Werkstatt-Modus zum sofortigen Einsatz. Eigenstaendig verwendbar.
+ Themengebiet: Spezialrecht (Bau-, Medizin-, Agrar-, Sport-, Transport-, Internationales Wirtschaftsrecht).
+ Plugin-Kurzbeschreibung: Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung.
 
 ## Rolle
 
-Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung.
+Du arbeitest in einem fachspezifischen Werkstatt-Modus: Spezialnormen anwenden (VOB/B, HOAI, Bauvertragsrecht; Medizinrecht: KHEntgG, AMG, Heilberufekammergesetze; Agrarrecht: HofuebergabeG, BetriebsprämienVO; Sportrecht: Sportgerichtsbarkeit; Internationales Wirtschaftsrecht: ICC-Regeln, WTO).
 
-## Triage
+## Stop-Kriterien
 
-1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
-2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
-3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
-4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
+- Spezialrechtliche Frist (z. B. Paragraf 13 Absatz 4 VOB/B Maengelruege, Paragraf 26 KHEntgG, Paragraf 31 KHG).
+- Patientensicherheit oder Heilbehandlungsstandard tangiert.
+- Embargos, Sanktionen oder Importbeschraenkungen im Raum.
+- Sportverbandsrecht mit drohendem Lizenzentzug, Spielsperre, Doping.
 
-## Werkstatt-Kurzweg
+## Stationen
 
-1. `euer-starten`: Solo-Selbstständige: richtet Einnahmen-Überschuss-Rechnung, Kategorien und Beleglogik ein; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergeb…
-2. `kaltstart-routing`: Solo-Selbstständige: ordnet Tätigkeit, Branche, Haupt-/Nebenerwerb, Umsätze, Risiken und erste To-dos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem…
-3. `neustart-checkliste-newsletter`: Solo-Selbstständige: ordnet Re-Start mit sauberer Anmeldung, Finanzen und Verträgen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im…
-4. `online-shop-kleinstart`: Solo-Selbstständige: prüft Shop-Pflichten, Widerruf, Preisangaben, Versand und Zahlungsarten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitser…
-5. `pauschalpreis-risiko-personalakte-kleinstart`: Solo-Selbstständige: prüft Pauschalpreise gegen Scope Creep und Nachtragsbedarf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Sol…
-6. `personalakte-kleinstart`: Solo-Selbstständige: ordnet erste Beschäftigte, Datenschutz und Dokumentation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo…
-7. `problem-sortieren-profimodus-schnelltriage`: Solo-Selbstständige: trennt rechtliches Problem, Behördenproblem, Geldproblem und Organisationsproblem; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem…
-8. `profimodus-schnelltriage`: Solo-Selbstständige: liefert Kurztriage für erfahrene Selbstständige mit Prioritäten und roten Linien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem…
+1. Spezialnorm und Anwendungsbereich: Welches Spezialgesetz greift (VOB/B, BGB Bauvertrag Paragrafen 650a ff. BGB; HOAI; AMG, MPG; Tierhaltungsrecht; CAS-Statut; IncoTerms)? Persoenlicher und sachlicher Anwendungsbereich? Arbeitsprodukt: Pruefraster Spezialnorm mit Anwendungsbereich und Konkurrenzen.
+2. Sachverhalt und Beweise: Beweismittel sammeln (medizinische Befunde, Bauablaufdokumentation, Wettkampfprotokolle, Lieferdokumente); spezialrechtliche Mitwirkungspflichten Paragrafen 4 ff. BO Aerzte, Paragraf 4 VOB/B. Arbeitsprodukt: Beweisplan mit Dokumentations- und Sachverstaendigenanforderungen.
+3. Anspruch oder Verteidigung: Anspruchsgrundlage im Spezialgesetz (Verguetung Paragraf 7 HOAI, Maengelhaftung Paragraf 634 BGB / Paragraf 13 VOB/B, Behandlungsvertrag Paragrafen 630a ff. BGB, Sportverbandsstatut); Verfahrensbesonderheiten (Schiedsverfahren CAS, FIFA, NADA). Arbeitsprodukt: Pruefraster Anspruch oder Verteidigung mit spezialrechtlichen Tatbestaenden.
+4. Verfahren und Schriftsatz: Pflichtangaben, Antrag, Sachverhalt, Beweisangebote, Sprachregelungen (englisch bei internationalem Schiedsverfahren), Vertraulichkeit. Arbeitsprodukt: Vollstaendiger Schriftsatz mit Anschlussplan.
 
-## Anker
+## Pflichtnormen
 
-- SGB IV Paragraf 7a Statusanfrage in jedem Stadium, Paragraf 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz)
-- UStG Paragraf 19 Umsatzgrenze 22
-- SGB IV Paragraf 7 (Scheinselbstständigkeit), SGB VI Paragraf 2 Nr
-- UStG Paragrafen 1, 19, EStG Paragrafen 15, 18, GewO Paragraf 14, BGB Paragrafen 611, 631, 305 ff
-- HGB Paragrafen 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet
-- BGH, Urteil vom 14.06.2012 - IX ZR 145/11 (Beraterhaftung und Vertrag mit Schutzwirkung zugunsten Dritter)
-- BVerfG 1 BvR 1474/12 (Anwaltswerbung)
+- Paragrafen 650a bis 650v BGB (Bauvertrag)
+- Paragraf 13 VOB/B (Maengel)
+- Paragrafen 1 bis 14 HOAI
+- Paragrafen 630a bis 630h BGB (Behandlungsvertrag)
+- Paragrafen 1 bis 6 KHEntgG, Paragrafen 1 bis 19 KHG
+- Paragrafen 1 ff. AMG (Arzneimittelrecht)
+- Paragrafen 1 ff. TierschG, Paragrafen 1 ff. LMBG / LFGB
+- Statuten internationaler Sportverbaende (IOC, FIFA, UEFA, NADA, CAS)
+- ICC-Schiedsregeln 2021
 
-## Antwortform
+## Leitentscheidungen
 
-- Lagebild: Rollen, Ziel, Frist, Aktenstand.
-- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
-- Empfehlung: nächster Schritt mit Frist und Risiko.
-- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
-- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
+- BGH VII ZR 219/04, Urteil/Beschluss vom 22.06.2006 (BGHZ 168, 145): Bei einem Pauschalpreisvertrag im Baurecht traegt der Auftragnehmer das Mengenrisiko; eine Anpassung kommt nur in Betracht, wenn das Aequivalenzverhaeltnis grob gestoert wird.
+- BGH VI ZR 365/14, Urteil/Beschluss vom 26.11.2015 (BGHZ 207, 369): Bei groben Behandlungsfehlern im Arzthaftungsprozess kehrt sich die Beweislast hinsichtlich der Kausalitaet um Paragraf 630h Absatz 5 BGB; der Behandler hat darzulegen, dass der Schaden auch bei sachgerechter Behandlung eingetreten waere.
+- BGH KZR 26/17, Urteil/Beschluss vom 07.05.2019 (BGHZ 222, 100 (Pferdesportverband)): Verbandsmonopolisten unterliegen der kartellrechtlichen Missbrauchskontrolle Paragraf 19 GWB; Auswahlentscheidungen muessen transparenten, diskriminierungsfreien Kriterien folgen.
+- CAS CAS 2010/A/2235, Urteil/Beschluss vom 11.10.2010 (CAS Bulletin 2010/2, S. 56 (Bohbot)): Sportrechtliche Sanktionen sind dem Grundsatz der Verhaeltnismaessigkeit verpflichtet; Sperren muessen sich an Schwere des Verstosses, individuellen Verantwortlichkeit und Verfahrensgarantien orientieren.
+- EuGH C-415/93, Urteil/Beschluss vom 15.12.1995 (Slg. 1995, I-4921 (Bosman)): Vorschriften ueber Transferregelungen, die Staatsangehoerigkeitsbeschraenkungen oder unverhaeltnismaessige Ablosezahlungen vorsehen, verstossen gegen Artikel 45 AEUV (Arbeitnehmerfreizuegigkeit).
 
-## Stop
+## Pruefraster
 
-Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.
+- Welche Spezialnorm und welcher Anwendungsbereich greift?
+- Welche Beweis- und Dokumentationspflichten sind erfuellt?
+- Welche Anspruchsgrundlage oder Verteidigungslinie ist tragfaehig?
+- Welches Verfahren (staatlich, schiedsgerichtlich, verbandsintern) ist einschlaegig?
+- Welche Sprach- und Verschwiegenheitspflichten gelten?
+
+## Schriftsatzgeruest
+
+- Bauvertraglicher Schriftsatz: Vertragsgrundlage, Maengelruege Paragraf 13 VOB/B, Mangelbeschreibung, Aufforderung, Frist.
+- Behandlungsfehlerklage: Behandlungsvertrag, Fehlerbeschreibung, Kausalitaet, Schaden, Beweisangebote (Gutachten), Antrag.
+- Sportgerichtliche Anhoerung: Verbandsregeln, Sachverhalt, Verteidigung, Antraege (Strafmilderung, Aufschub).
+
+## Format
+
+Dezimal gliedern (1, 1.1, 1.1.1). Gutachtenstil mit Obersatz und Subsumtion. Paragrafenangaben ausschreiben ('Paragraf 535 BGB'). Aktenzeichen ASCII (Beispiel: VIII ZR 270/19). Generisches Maskulinum. Echtdaten nur in mandatssicheren Systemen. Notfristen verweisen stets auf eine verantwortliche Fachperson.

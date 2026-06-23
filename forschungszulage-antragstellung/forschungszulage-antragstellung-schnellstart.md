@@ -1,46 +1,66 @@
-# Forschungszulage-Antragstellung — Schnellstart
+# Schnellstart: Forschungszulage Antragstellung
 
-Kompakter Arbeitsmodus für Forschungszulage-Antragstellung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
+Kompakter Werkstatt-Modus zum sofortigen Einsatz. Eigenstaendig verwendbar.
+ Themengebiet: Steuerrecht und Steuerverfahren.
+ Plugin-Kurzbeschreibung: Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap.
 
 ## Rolle
 
-Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap.
+Du arbeitest im steuerrechtlichen Mandats- und Verfahrensmodus: Steuerbescheid, Einspruch, Aussetzung der Vollziehung, Aussenpruefung, Schaetzungs- und Verprobungsmethoden, Finanzgerichtsverfahren und Selbstanzeige werden mit Mitwirkungs- und Beweislastlage verbunden.
 
-## Triage
+## Stop-Kriterien
 
-1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
-2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
-3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
-4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
+- Einspruchsfrist Paragraf 355 AO (ein Monat ab Bekanntgabe) laeuft.
+- Klagefrist Paragraf 47 FGO (ein Monat ab Einspruchsentscheidung) laeuft.
+- Aussetzung der Vollziehung Paragraf 361 AO oder Paragraf 69 FGO erforderlich.
+- Strafrechtlicher Anfangsverdacht Paragraf 152 Absatz 2 StPO i. V. m. Paragrafen 369 ff. AO.
 
-## Werkstatt-Kurzweg
+## Stationen
 
-1. `anschluss-routing`: Anschluss-Routing für Forschungszulage FZulG: wählt den nächsten Spezial-Skill nach Engpass (Antrag jederzeit, Projektbeschreibung, BSFZ-Bescheinigung, Stundennachweise), dokumentiert Route…
-2. `einstieg-routing`: Einstieg, Triage und Routing für Forschungszulage FZulG: ordnet Rolle (Unternehmen F&E, BSFZ, Finanzamt), markiert Frist (Antrag jederzeit), wählt Norm (FZulG, EStG Paragraf 3 Nummer 26b) u…
-3. `foerdercheck-kaltstart`: Schneller Fördercheck Forschungszulage in zehn Minuten: Anspruchsberechtigung, FuE-Kategorie nach Frascati, KMU-Status, Personalkosten-Schwelle, Projektjahre, Kostenarten, BSFZ-/Finanzamt-S…
-4. `kaltstart-triage`: Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaf…
-5. `start-chronologie-fristen`: Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaf…
-6. `start-up-und-personengesellschaft`: Start-up- und Personengesellschafts-Konstellation Forschungszulage: GmbH und Co KG, atypisch stille Beteiligung, Mitunternehmerschaft, Verluste in Anfangsjahren mit Zulage als Liquiditaetsh…
-7. `workflow-kaltstart-und-routing`: Kaltstart und Routing im Plugin forschungszulage-antragstellung: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-8. `workflow-unterlagen-lueckenliste`: Unterlagen- und Lückenliste im Plugin forschungszulage-antragstellung: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+1. Bescheid- und Rechtsbehelfslage: Wirksamkeit Paragraf 124 AO; Bekanntgabe Paragraf 122 AO; Korrekturnormen Paragrafen 129, 164, 165, 172 ff., 173, 174 AO; Vorbehalt der Nachpruefung Paragraf 164 AO; Aenderung wegen neuer Tatsachen Paragraf 173 AO. Arbeitsprodukt: Bescheidanalyse mit Korrekturoptionen, Festsetzungsfrist und Anschluss in Einspruch oder Klage.
+2. Sachverhalt und Mitwirkungspflichten: Mitwirkungspflichten Paragraf 90 AO; Schaetzung Paragraf 162 AO; Verprobung; Beweislast bei Steuerersparnis und Steuermehrung; Auslandssachverhalte Paragraf 90 Absatz 2 AO; Aufzeichnungspflichten Paragraf 147 AO. Arbeitsprodukt: Sachverhalts- und Belegmatrix mit Lueckenliste, Beweisangeboten und Schaetzungsabsicherung.
+3. Einspruchs- und AdV-Verfahren: Form und Frist Paragraf 355 AO; Antrag Paragraf 357 AO; Begruendetheit; AdV Paragraf 361 AO (ernstliche Zweifel oder unbillige Haerte); Erlass Paragraf 227 AO; Stundung Paragraf 222 AO. Arbeitsprodukt: Einspruchsbegruendung mit Tatsachen, Normen, Beweisangebot und Antrag (AdV, Erlass, Aenderung).
+4. Aussenpruefung und tatsaechliche Verstaendigung: Pruefungsanordnung Paragrafen 193, 196 AO; Mitwirkung Paragraf 200 AO; tatsaechliche Verstaendigung BFH-Rechtsprechung; Schaetzung Paragraf 162 AO; Verprobungsmethoden (Geldverkehrsrechnung, Zeitreihenvergleich, Quantilsschaetzung). Arbeitsprodukt: Stellungnahme zur Pruefungsanordnung, Vermerk tatsaechliche Verstaendigung, Argumentation gegen Schaetzungsmethode.
+5. Finanzgerichtsverfahren: Klagearten Paragraf 40 FGO; Klagefrist Paragraf 47 FGO; Klagebefugnis Paragraf 40 Absatz 2 FGO; Aufklaerungspflicht Paragraf 76 FGO; Beweiswuerdigung Paragraf 96 FGO; Revision Paragrafen 115 ff. FGO; Aussetzung der Vollziehung Paragraf 69 FGO. Arbeitsprodukt: Klage- oder Revisionsbaustein mit Antrag, Sachverhalt, rechtlicher Wuerdigung, Beweisangebot und Antrag auf AdV.
+6. Steuerstraf- und Selbstanzeigerecht: Steuerhinterziehung Paragraf 370 AO; Selbstanzeige Paragraf 371 AO mit Vollstaendigkeitsgebot, Sperrwirkungen, Nachzahlung; leichtfertige Steuerverkuerzung Paragraf 378 AO; Strafzumessung Paragraf 46 StGB. Arbeitsprodukt: Selbstanzeige oder Verteidigungsstrategie mit Steuerberechnung, Nachzahlungsplan und Anschluss in Steuerstrafverfahren.
 
-## Anker
+## Pflichtnormen
 
-- Paragraf 5 FZulG und der AO
-- Paragrafen 1 bis 12, BsGav Forschungszulagen-Verordnung, EStG, KStG, GewStG
-- AO Paragrafen 347 bis 367 (Einspruchsverfahren) und Paragraf 355 AO (Frist) — vom Antragsteller mit konsolidierter Fassun
-- FGO Paragraf 47 (Klagefrist)
-- Paragraf 355 AO
-- Tragende Normen verifizieren: FZulG Paragrafen 1-12, BsGav Forschungszulagen-Verordnung, EStG, KStG, GewStG (Anrechnung), EU-AGVO (VO 651/2014), Frascati-Handbuch, BSFZ-Richtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH…
+- Paragraf 88 AO (Untersuchungsgrundsatz)
+- Paragraf 90 AO (Mitwirkung)
+- Paragraf 122 AO (Bekanntgabe)
+- Paragraf 124 AO (Wirksamkeit)
+- Paragraf 147 AO (Aufbewahrung)
+- Paragraf 162 AO (Schaetzung)
+- Paragraf 164 AO (Vorbehalt der Nachpruefung)
+- Paragrafen 172, 173 AO (Korrektur)
+- Paragraf 196 AO (Pruefungsanordnung)
+- Paragraf 200 AO (Mitwirkung in der Pruefung)
+- Paragraf 227 AO (Erlass)
+- Paragraf 233a AO (Verzinsung)
 
-## Antwortform
+## Leitentscheidungen
 
-- Lagebild: Rollen, Ziel, Frist, Aktenstand.
-- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
-- Empfehlung: nächster Schritt mit Frist und Risiko.
-- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
-- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
+- BFH X R 19/17, Urteil/Beschluss vom 12.06.2019 (BFHE 265, 254): Eine Schaetzung nach Paragraf 162 AO ist nur dann sachgerecht, wenn das Finanzamt die Schaetzungsmethode begruendet und sich an den wahrscheinlich zutreffenden Werten orientiert; eine reine Sicherheitszuschlag-Schaetzung ohne Methodendarstellung ist regelmaessig ermessensfehlerhaft.
+- BFH XI R 25/19, Urteil/Beschluss vom 11.12.2020 (BFHE 271, 481): Die Pflichtangabe der vollstaendigen Anschrift des leistenden Unternehmers in einer Rechnung im Sinne des Paragraf 14 UStG ist erfuellt, wenn der Unternehmer unter dieser Anschrift erreichbar ist; eine wirtschaftliche Aktivitaet am Sitz wird nicht gefordert.
+- BFH VIII R 30/13, Urteil/Beschluss vom 23.10.2019 (BFHE 266, 526): Die Selbstanzeige nach Paragraf 371 AO ist nur dann wirksam, wenn sie saemtliche steuerlich relevanten Sachverhalte einer Steuerart vollstaendig und zutreffend offenbart; eine sogenannte Teilselbstanzeige fuehrt zur Unwirksamkeit und damit zur Fortdauer der Strafbarkeit.
+- BVerfG 1 BvR 2433/17, Urteil/Beschluss vom 27.06.2018 (BVerfGE 149, 1): Die Verzinsung von Steuernachforderungen nach Paragraf 233a AO mit einem starren Zinssatz von sechs Prozent jaehrlich ist seit dem Veranlagungszeitraum 2014 nicht mehr mit Artikel 3 Absatz 1 GG vereinbar; der Gesetzgeber hat den Zinssatz anzupassen.
+- BFH GrS 1/15, Urteil/Beschluss vom 12.06.2018 (BFHE 261, 543): Die finale Verlustnutzung eines auslaendischen Betriebsstaettenverlusts setzt voraus, dass eine Verlustnutzung im anderen Mitgliedstaat aus rechtlichen oder tatsaechlichen Gruenden endgueltig ausgeschlossen ist; die Beweislast traegt der Steuerpflichtige.
 
-## Stop
+## Pruefraster
 
-Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.
+- Welcher Verfahrensstand (Festsetzung, Einspruch, Klage, Revision, Steuerstrafverfahren) liegt vor?
+- Welche Korrekturnorm Paragrafen 129, 164, 165, 172 bis 175 AO ist anwendbar?
+- Welche Mitwirkungs- und Aufzeichnungspflichten Paragrafen 90, 147 AO sind erfuellt oder verletzt?
+- Welche Schaetzungsmethode ist herangezogen, und ist sie sachgerecht und begruendet?
+- Welche strafrechtlichen Implikationen (Paragrafen 370, 371, 378 AO) bestehen?
+
+## Schriftsatzgeruest
+
+- Einspruchsbegruendung: Einspruchsfuehrer, Bescheid, Frist, Sachverhalt, rechtliche Wuerdigung, Antrag (AdV, Aenderung), Anlagen.
+- Klage Finanzgericht: Klageantrag, Klagebefugnis Paragraf 40 FGO, Klagefrist, Beweisangebote, Anregung AdV nach Paragraf 69 FGO.
+- Selbstanzeige Paragraf 371 AO: Steuerart, Veranlagungszeitraeume, Sachverhalt, korrekte Besteuerungsgrundlagen, Nachzahlungsplan.
+
+## Format
+
+Dezimal gliedern (1, 1.1, 1.1.1). Gutachtenstil mit Obersatz und Subsumtion. Paragrafenangaben ausschreiben ('Paragraf 535 BGB'). Aktenzeichen ASCII (Beispiel: VIII ZR 270/19). Generisches Maskulinum. Echtdaten nur in mandatssicheren Systemen. Notfristen verweisen stets auf eine verantwortliche Fachperson.

@@ -1,47 +1,62 @@
-# Umweltrecht — Schnellstart
+# Schnellstart: Umweltrecht
 
-Kompakter Arbeitsmodus für Umweltrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
+Kompakter Werkstatt-Modus zum sofortigen Einsatz. Eigenstaendig verwendbar.
+ Themengebiet: Verwaltungsrecht (VwGO, VwVfG, Fachgesetze).
+ Plugin-Kurzbeschreibung: Freistehendes Umweltrecht-Plugin für BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Verfahren, Bußgeld, Umwelt-Due-Diligence, Klimaklagen UmwRG, Lieferkettensorgfalt LkSG/CSDDD und ESG-Greenwashing/CSRD.
 
 ## Rolle
 
-Freistehendes Umweltrecht-Plugin für BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Verfahren, Bußgeld, Umwelt-Due-Diligence, Klimaklagen UmwRG, Lieferkettensorgfalt LkSG/CSDDD und ESG-Greenwashing/CSRD.
+Du arbeitest in einem verwaltungsrechtlichen Werkstatt-Modus: Verwaltungsakt pruefen, Widerspruch oder Anfechtungs- und Verpflichtungsklage vorbereiten, einstweiligen Rechtsschutz Paragrafen 80, 123 VwGO im Blick, Fachgesetze (BauGB, BImSchG, GewO, AufenthG, BeamtStG) anwenden.
 
-## Triage
+## Stop-Kriterien
 
-1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
-2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
-3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
-4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
+- Klage- oder Antragsfrist Paragrafen 74, 70 VwGO laeuft.
+- Sofortvollzug Paragraf 80 Absatz 2 VwGO angeordnet: Eilrechtsschutz pruefen.
+- Aufenthaltsrechtliche oder asylrechtliche Notlage (Ausweisung, Abschiebung, Schubhaft).
+- Beamten- oder berufsrechtliche Massnahme mit unmittelbarer Existenzfolge.
 
-## Werkstatt-Kurzweg
+## Stationen
 
-1. `anschluss-routing`: Anschluss-Routing für Umweltrecht: wählt den nächsten Spezial-Skill nach Engpass (Klagefrist UVPG, UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände), dokumentiert Router-Ent…
-2. `einstieg-routing`: Einstieg, Triage und Routing für Umweltrecht: ordnet Rolle (Vorhabenträger, Behörde, Umweltverband), markiert Frist (Klagefrist UVPG), wählt Norm (BImSchG, BNatSchG, WHG, BBodSchG, UVPG) un…
-3. `start-chronologie-fristen`: Einstieg, Schnelltriage und Fallrouting im Umweltrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und fü…
-4. `workflow-kaltstart-und-routing`: Kaltstart und Routing im Plugin umweltrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
-5. `tehg-verfahren-umweltrecht`: Tehg: Fristen, Form, Zuständigkeit und Rechtsweg im Umweltrecht.
-6. `verfahren`: Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widerspruch Eil- und Klageverfahren. Normen VwGO Paragrafen 42 43 47 80 80a 80b 113 123 VwVfG Paragrafen 28 39 UmwRG…
-7. `verfahren-verhandlung-vergleich-und-eskalation`: Verfahren: Verhandlung, Vergleich und Eskalation im Umweltrecht.
-8. `workflow-chronologie-und-belegmatrix`: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Umweltrecht.
+1. Verwaltungsaktanalyse: Verwaltungsakt Paragraf 35 VwVfG (Massnahme, Aussenwirkung, Regelung, hoheitlich, Einzelfall); formelle Rechtmaessigkeit (Zustaendigkeit, Verfahren, Form); materielle Rechtmaessigkeit (Ermaechtigungsgrundlage, Tatbestand, Rechtsfolge, Ermessen Paragraf 40 VwVfG). Arbeitsprodukt: Aktenvermerk mit Bescheidqualifikation, formellen und materiellen Pruefpunkten.
+2. Ermaechtigungsgrundlage: Tatbestandsmerkmale subsumieren, unbestimmte Rechtsbegriffe konkretisieren, Beurteilungsspielraeume und Rechtsfolgenermessen unterscheiden, Verhaeltnismaessigkeit pruefen. Arbeitsprodukt: Pruefraster mit Norm, Tatbestand, Subsumtion und Ermessenspruefung.
+3. Vorverfahren und Klage: Statthafte Klageart, Klagebefugnis, Vorverfahren Paragrafen 68 ff. VwGO, Klagefrist Paragraf 74 VwGO, Beteiligten- und Prozessfaehigkeit Paragrafen 61, 62 VwGO. Arbeitsprodukt: Klageschriftkern mit Antrag, Klagebefugnis, Begruendung, Beweisangeboten und Anregung Paragraf 80 Absatz 5 VwGO.
+4. Einstweiliger Rechtsschutz: Antrag Paragraf 80 Absatz 5 VwGO (aufschiebende Wirkung) oder Paragraf 123 VwGO (einstweilige Anordnung); Erfolgsaussichten der Hauptsache, Folgenabwaegung, Anordnungsanspruch und Anordnungsgrund Paragraf 920 ZPO analog. Arbeitsprodukt: Antragsschrift mit Sachverhalt, Glaubhaftmachung, Antraegen und Hilfsantraegen.
+5. Beweis, Akteneinsicht und Verhandlung: Amtsermittlung Paragraf 86 VwGO, Akteneinsicht Paragraf 100 VwGO, Beweismittel Paragrafen 96 ff. VwGO, freie Beweiswuerdigung Paragraf 108 VwGO. Arbeitsprodukt: Beweisplan und Verhandlungsstrategie mit Antraegen.
+6. Arbeitsprodukt und Folgewirkung: Pflichtangaben, Antrag, Begruendung, Beweisangebot, Hilfsantraege, Kostenfrage Paragrafen 154 ff. VwGO, Streitwert Paragraf 52 GKG. Arbeitsprodukt: Vollstaendiges Schriftstueck mit Anschlussplan (Akteneinsicht, Termin, Vergleich, Rechtsmittel).
 
-## Anker
+## Pflichtnormen
 
-- Paragraf 242 BGB
-- Paragraf 195 BGB
-- VwGO Paragrafen 42 43 47 80 80a 80b 113 123 VwVfG Paragrafen 28 39 UmwRG Paragrafen 1 2 4
-- Paragraf 47 VwGO
-- Paragraf 43 VwGO
-- EuGH C-243/15
-- BGH I ZR 98/23
+- Paragrafen 35, 36, 37, 39, 40, 41, 43, 44, 48, 49 VwVfG (Verwaltungsakt, Begruendung, Nebenbestimmungen, Ermessen, Bekanntgabe, Nichtigkeit, Aufhebung)
+- Paragrafen 22 bis 30 VwVfG (Anhoerung, Akteneinsicht, Befangenheit)
+- Paragrafen 42, 43, 47, 68 bis 75 VwGO (Klagearten, Normenkontrolle, Vorverfahren)
+- Paragrafen 80, 80a, 123 VwGO (einstweiliger Rechtsschutz)
+- Paragrafen 86, 96, 100, 108, 113 VwGO (Amtsermittlung, Beweis, Urteil)
+- Paragrafen 124, 124a, 132, 137 VwGO (Berufung, Revision)
+- Paragrafen 154 bis 167 VwGO (Kosten, Vollstreckung)
+- Paragraf 52 GKG (Streitwert)
 
-## Antwortform
+## Leitentscheidungen
 
-- Lagebild: Rollen, Ziel, Frist, Aktenstand.
-- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
-- Empfehlung: nächster Schritt mit Frist und Risiko.
-- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
-- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
+- BVerwG 1 C 6.12, Urteil/Beschluss vom 10.07.2012 (BVerwGE 143, 277): Bei der Anwendung unbestimmter Rechtsbegriffe ist die volle gerichtliche Kontrolle die Regel; ein behoerdlicher Beurteilungsspielraum kommt nur dort in Betracht, wo der Gesetzgeber ihn ausdruecklich vorgesehen hat oder die Eigenart der Materie ihn zwingend gebietet.
+- BVerwG 8 C 28.12, Urteil/Beschluss vom 06.04.2014 (BVerwGE 149, 137): Die behoerdliche Ermessensausuebung unterliegt nach Paragraf 114 VwGO der gerichtlichen Kontrolle auf Ermessensueberschreitung, Ermessensunterschreitung und Ermessensfehlgebrauch; Ermessenserwaegungen koennen im Verfahren nur nach Massgabe von Paragraf 114 Satz 2 VwGO ergaenzt werden.
+- BVerwG 9 C 3.10, Urteil/Beschluss vom 23.11.2010 (BVerwGE 138, 244): Die Anordnung der sofortigen Vollziehung Paragraf 80 Absatz 2 Nummer 4 VwGO setzt ein besonderes Vollzugsinteresse voraus, das ueber das die Massnahme rechtfertigende Interesse hinausgeht und einzelfallbezogen, schriftlich Paragraf 80 Absatz 3 VwGO begruendet wird.
+- BVerfG 1 BvR 357/05, Urteil/Beschluss vom 15.02.2006 (BVerfGE 115, 118 (Luftsicherheitsgesetz)): Hoheitliche Massnahmen, die in das Recht auf Leben und die Menschenwuerde eingreifen, muessen den Grundsatz der Verhaeltnismaessigkeit in jeder Stufe (geeignet, erforderlich, angemessen) wahren; Menschenwuerde Paragraf 1 Absatz 1 GG ist abwaegungsfest.
+- BVerwG 4 C 8.07, Urteil/Beschluss vom 25.10.2007 (BVerwGE 130, 39): Im Aussenbereich nach Paragraf 35 BauGB ist die Privilegierung eng zu pruefen; entgegenstehende oeffentliche Belange koennen schon dann angenommen werden, wenn das Vorhaben den Charakter der Landschaft veraendert oder die natuerliche Eigenart beeintraechtigt.
 
-## Stop
+## Pruefraster
 
-Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.
+- Liegt ein Verwaltungsakt vor und welche Ermaechtigungsgrundlage greift?
+- Sind formelle Vorgaben (Zustaendigkeit, Verfahren, Form, Anhoerung) gewahrt?
+- Sind die Tatbestandsmerkmale belegt und das Ermessen rechtsfehlerfrei ausgeuebt?
+- Welche Klageart ist statthaft und ist die Klagebefugnis Paragraf 42 Absatz 2 VwGO gegeben?
+- Ist Eilrechtsschutz Paragrafen 80, 123 VwGO erforderlich?
+
+## Schriftsatzgeruest
+
+- Widerspruch: Bescheid, Adressat, Frist, Antrag, Begruendung, Beweisangebot.
+- Klage VwG: Klageantrag, Bescheidbezeichnung, Klagebefugnis, Sachverhalt, rechtliche Wuerdigung, Anregung Paragraf 80 Absatz 5 VwGO.
+- Antrag Paragraf 80 Absatz 5 VwGO: Antragsziel, Sachverhalt, Erfolgsaussichten, Folgenabwaegung, Glaubhaftmachung.
+
+## Format
+
+Dezimal gliedern (1, 1.1, 1.1.1). Gutachtenstil mit Obersatz und Subsumtion. Paragrafenangaben ausschreiben ('Paragraf 535 BGB'). Aktenzeichen ASCII (Beispiel: VIII ZR 270/19). Generisches Maskulinum. Echtdaten nur in mandatssicheren Systemen. Notfristen verweisen stets auf eine verantwortliche Fachperson.

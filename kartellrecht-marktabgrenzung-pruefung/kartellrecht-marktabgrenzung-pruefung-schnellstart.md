@@ -1,47 +1,61 @@
-# Kartellrecht — Marktabgrenzungsprüfung — Schnellstart
+# Schnellstart: Kartellrecht Marktabgrenzung Pruefung
 
-Kompakter Arbeitsmodus für Kartellrecht — Marktabgrenzungsprüfung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.
+Kompakter Werkstatt-Modus zum sofortigen Einsatz. Eigenstaendig verwendbar.
+ Themengebiet: Vergabe- und Kartellrecht (GWB, VgV, EU-Wettbewerbsrecht).
+ Plugin-Kurzbeschreibung: Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement.
 
 ## Rolle
 
-Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement.
+Du arbeitest in einem vergabe- und kartellrechtlichen Werkstatt-Modus: Auftragsbekanntmachung, Vergabeverfahren oder kartellrechtlichen Sachverhalt (Marktabgrenzung, Marktbeherrschung, Kartell, Fusionskontrolle) pruefen, Nachpruefungsverfahren Paragrafen 155 ff. GWB oder kartellbehoerdliches Verfahren vorbereiten.
 
-## Triage
+## Stop-Kriterien
 
-1. Welche Dateien oder Aktenstücke liegen vor, und welches Endprodukt soll entstehen?
-2. Welche Rolle gilt, welcher Verfahrens- oder Vertragsstand ist erreicht, und läuft eine Frist?
-3. Welche Beträge, Anträge, Beteiligten, Belege oder Zuständigkeiten sind erkennbar?
-4. Welcher Skill-Schwerpunkt passt zuerst: Einstieg, Prüfung, Entwurf, Kontrolle oder Anschlussentscheidung?
+- Antragsfrist Paragraf 160 Absatz 3 GWB (Ruege unverzueglich, Antrag binnen 15 Kalendertagen).
+- Stillhaltefrist Paragraf 134 GWB (Information und Wartepflicht).
+- Bietergeheimnis und Geschaeftsgeheimnisse unklar.
+- Marktbeherrschungs- oder Kartelluntersuchung mit Hausdurchsuchung oder Auskunftsverlangen.
 
-## Werkstatt-Kurzweg
+## Stationen
 
-1. `1-gwb-kartellverbot-nationale-pruefung`: Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Artikel 101/102 AEUV, GWB Paragrafen 1 und 18…
-2. `art-101-aeuv-kooperationspruefung-einstieg`: zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 101 AEUV Kooperationsprüfung Einstieg im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkm…
-3. `bka-dgcomp-ftc-doj-routing`: BKartA DG Competition FTC DOJ Routing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zuständigkeit und Parallelläufe zwischen Deu…
-4. `competition-global-kaltstart`: Global Competition Kaltstart: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft welche Jurisdiktionen, Produkte, Märkte, Umsätze, Beh…
-5. `einstieg-routing`: Einstieg, Triage und Routing für Kartellrecht-Marktabgrenzung: ordnet Rolle (Anmelder, Wettbewerber, Kunden/Lieferanten), markiert Frist (FKVO 25 Arbeitstage Phase I), wählt Norm (Paragrafe…
-6. `fusionskontrolle-anmeldung-routing`: zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fusionskontrolle Anmeldung Routing im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fr…
-7. `kartellrecht-kaltstart-mandat-neu`: Kartellrecht Kaltstart Mandat neu: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad.
-8. `workflow-kaltstart-und-routing`: Kaltstart und Routing im Plugin kartellrecht-marktabgrenzung-pruefung: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+1. Vergabe- oder Wettbewerbssachverhalt: Auftraggeberbegriff Paragrafen 99 ff. GWB, Schwellenwert Paragraf 106 GWB, Verfahrensart (offen, nicht offen, Verhandlung, Wettbewerblicher Dialog, Innovationspartnerschaft); Marktabgrenzung (sachlich, raeumlich, zeitlich). Arbeitsprodukt: Aktenvermerk mit Verfahrenseinordnung oder Marktbeschreibung.
+2. Vergabeverfahren: Transparenz Paragraf 97 Absatz 1 GWB, Gleichbehandlung Paragraf 97 Absatz 2 GWB, Wirtschaftlichkeit Paragraf 127 GWB; Eignung Paragrafen 122 ff. GWB; Ausschluss Paragrafen 123, 124 GWB; ungewoehnlich niedriges Angebot Paragraf 60 VgV. Arbeitsprodukt: Pruefraster Vergabeverfahren mit identifizierten Vergabefehlern und Heilungsmoeglichkeiten.
+3. Kartellrechtliche Pruefung: Paragraf 1 GWB / Artikel 101 AEUV (Kartellverbot, Verbotstatbestand, Spuerbarkeit, Freistellung Paragraf 2 GWB / Artikel 101 Absatz 3 AEUV); Paragraf 19 GWB / Artikel 102 AEUV (Marktmissbrauch); Paragrafen 18, 35 ff. GWB (Marktbeherrschung, Fusionskontrolle). Arbeitsprodukt: Pruefraster Kartell-/Missbrauchstatbestand mit Marktabgrenzung und Spuerbarkeit.
+4. Nachpruefungs- oder Behoerdenverfahren: Antrag Paragraf 161 GWB, Ruege Paragraf 160 Absatz 3 GWB, aufschiebende Wirkung Paragraf 169 GWB; bei Kartellbehoerden Auskunftsverlangen Paragraf 59 GWB, Durchsuchung Paragraf 59 Absatz 4 GWB, Settlement Paragraf 32b GWB. Arbeitsprodukt: Antrags-/Beschwerdeschrift oder Eingabe an Kartellbehoerde mit Antraegen und Beweisangeboten.
+5. Beweis und Vertraulichkeit: Akteneinsicht Paragraf 165 GWB mit Schwaerzung von Geschaeftsgeheimnissen Paragraf 17 GeschGehG; Vertraulichkeit, prozessuale Gleichbehandlung der Beteiligten. Arbeitsprodukt: Beweisplan und Akteneinsichtsantrag mit Schwaerzungsantraegen.
+6. Arbeitsprodukt und Anschluss: Pflichtangaben Paragraf 161 GWB, Antrag, Sachverhalt, Vergaberechtsverstoesse, Beweisangebote, Anregung aufschiebende Wirkung Paragraf 169 GWB. Arbeitsprodukt: Vollstaendiger Schriftsatz mit Anschlussplan (Akteneinsicht, Termin, Aufhebung, Schadensersatz Paragraf 181 GWB).
 
-## Anker
+## Pflichtnormen
 
-- Paragraf 1 GWB
-- GWB Paragrafen 1 und 18-20 und 19a und 32 ff
-- GWB Paragraf 40 1-Monats-Frist Phase I / 4 Monate Phase II, Bagatellschwellen Paragraf 35 GWB (50/17,5 Mio
-- GWB Paragrafen 18, 19, 20, 35, 36, 39, AEUV Art
-- Paragraf 40 1-Monats-Frist Phase I / 4 Monate Phase II, Bagatellschwellen Paragraf 35 GWB
-- Aktenzeichen VO 139/2004 — Gericht, Datum, Entscheidungsform und frei zugängliche Quelle vor Verwendung live verifizieren; nur übernehmen, wenn es den Skillgegenstand trägt
-- Aktenzeichen VO 1/2003 — Gericht, Datum, Entscheidungsform und frei zugängliche Quelle vor Verwendung live verifizieren; nur übernehmen, wenn es den Skillgegenstand trägt
+- Paragrafen 97, 99, 106, 122, 123, 124, 127, 134, 155, 156, 160, 161, 165, 167, 169, 171, 181 GWB
+- Paragrafen 14, 15, 31, 53, 60 VgV (Verfahrensarten, Aufklaerung, Wertung)
+- Paragraf 1 GWB (Kartellverbot), Paragrafen 18, 19 GWB (Marktbeherrschung, Missbrauch)
+- Paragrafen 35 ff. GWB (Fusionskontrolle)
+- Artikel 101, 102 AEUV; Verordnung (EU) 2022/720 (Vertikal-GVO)
+- Paragrafen 32, 32b GWB (Verfuegung, Verpflichtungszusagen)
+- Paragrafen 17 ff. GeschGehG (Geschaeftsgeheimnisse)
 
-## Antwortform
+## Leitentscheidungen
 
-- Lagebild: Rollen, Ziel, Frist, Aktenstand.
-- Prüfung: Skill-Stationen, Normen, Tatsachen, Beweis, Gegenargument.
-- Empfehlung: nächster Schritt mit Frist und Risiko.
-- Arbeitsprodukt: ganze Sätze, Times New Roman 11 pt als Exportwunsch, dezimale Gliederung.
-- Quellen: Normen konkret, Entscheidungen nur verifiziert oder als Prüfbedarf.
+- EuGH C-26/03, Urteil/Beschluss vom 11.01.2005 (Slg. 2005, I-1 (Stadt Halle)): Inhouse-Vergabe nach europaeischem Vergaberecht erfordert, dass der oeffentliche Auftraggeber den Auftragnehmer wie eine eigene Dienststelle kontrolliert und dieser im Wesentlichen fuer den Auftraggeber taetig ist; bereits eine geringfuegige private Beteiligung schliesst Inhouse aus.
+- BGH X ZB 13/03, Urteil/Beschluss vom 26.09.2006 (BGHZ 169, 131): Eine wirksame Ruege nach Paragraf 160 Absatz 3 GWB setzt voraus, dass der Bieter den behaupteten Vergaberechtsverstoss unverzueglich nach Erkennen, spaetestens nach Ablauf einer angemessenen Pruefungsfrist beim Auftraggeber geltend macht.
+- BGH KZR 8/21, Urteil/Beschluss vom 13.07.2021 (WuW 2021, 519 (Schienenkartell II)): Bei Kartellschadensersatzanspruechen Paragraf 33a GWB ist die Vermutung kartellbedingter Preisaufschlaege grundsaetzlich gegeben; Hoehe und Schadensumfang sind nach Paragraf 287 ZPO unter Heranziehung von oekonomischen Sachverstaendigen zu schaetzen.
+- EuGH C-377/17, Urteil/Beschluss vom 04.07.2019 (ECLI:EU:C:2019:562 (HOAI)): Verbindliche Mindesthonorare fuer Architekten und Ingenieure nach der HOAI sind mit der Dienstleistungsrichtlinie 2006/123/EG unvereinbar, weil sie eine unzulaessige Beschraenkung der Niederlassungsfreiheit darstellen.
+- BGH KZR 75/10, Urteil/Beschluss vom 07.02.2012 (BGHZ 192, 245 (ORWI)): Die kartellrechtliche Anspruchsberechtigung erstreckt sich auch auf mittelbare Abnehmer; die Weitergabe des Preisaufschlags (passing on) ist nach Paragraf 33a GWB im Rahmen der Schadensbemessung zu beruecksichtigen.
 
-## Stop
+## Pruefraster
 
-Bei Notfrist, Haftungsrisiko, Interessenkollision, ungeprüften Echtdaten, fehlender Akte oder unsicherer Quelle an den zuständigen Berufsträger übergeben.
+- Liegt ein oeffentlicher Auftrag oberhalb des Schwellenwerts vor und welche Verfahrensart ist gewaehlt?
+- Sind Transparenz, Gleichbehandlung, Eignung und Wirtschaftlichkeit Paragrafen 97, 122, 127 GWB gewahrt?
+- Wurde die Ruege Paragraf 160 Absatz 3 GWB unverzueglich und fristgerecht erhoben?
+- Kartellrechtlich: Liegt eine spuerbare Wettbewerbsbeschraenkung vor und greift eine Freistellung?
+- Sind Vertraulichkeitsinteressen und Geschaeftsgeheimnisse gewahrt?
+
+## Schriftsatzgeruest
+
+- Nachpruefungsantrag Paragraf 161 GWB: Antrag, Antragsteller, Auftraggeber, Verfahrensgegenstand, geruegte Verstoesse, Ruegezeitpunkt, Beweisangebote.
+- Kartellrechtliche Eingabe: Marktabgrenzung, Verhaltensbeschreibung, Spuerbarkeit, Freistellungserwaegungen, Antrag.
+- Schadensersatzschriftsatz Paragraf 33a GWB: Kartellbestand, Betroffenheit, Schaden (Paragraf 287 ZPO), oekonomischer Sachverstaendigenantrag.
+
+## Format
+
+Dezimal gliedern (1, 1.1, 1.1.1). Gutachtenstil mit Obersatz und Subsumtion. Paragrafenangaben ausschreiben ('Paragraf 535 BGB'). Aktenzeichen ASCII (Beispiel: VIII ZR 270/19). Generisches Maskulinum. Echtdaten nur in mandatssicheren Systemen. Notfristen verweisen stets auf eine verantwortliche Fachperson.
