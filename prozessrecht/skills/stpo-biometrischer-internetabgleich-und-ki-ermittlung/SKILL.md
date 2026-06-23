@@ -1,13 +1,13 @@
 ---
 name: stpo-biometrischer-internetabgleich-und-ki-ermittlung
-description: "StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik im Prozessrecht."
+description: "StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: Paragraf 98d StPO-E biometrischer Internetabgleich, Paragraf 98e StPO-E Analyseplattform, Paragraf 101 StPO-E Benachrichtigung, Paragrafen 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik im Prozessrecht."
 ---
 
 # StPO: Biometrischer Internetabgleich und KI-Ermittlung
 
 ## Arbeitsbereich
 
-StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: Paragraf 98d StPO-E biometrischer Internetabgleich, Paragraf 98e StPO-E Analyseplattform, Paragraf 101 StPO-E Benachrichtigung, Paragrafen 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,12 +21,12 @@ StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometris
 
 | Maßnahme | Typischer Rechtsanker | Risiko |
 | --- | --- | --- |
-| Manuelle Internetrecherche | §§ 161, 163 StPO als Ermittlungsgeneralklauseln | Bei bloßer Kenntnisnahme meist geringere Eingriffsintensität, aber Kontext und Zweckbindung prüfen |
-| Automatisierter biometrischer Internetabgleich | § 98d StPO-E | Hohe Streubreite, sensible Daten, Drittbetroffenheit, mögliche Profilbildung |
-| Verfahrensübergreifende Datenanalyse | § 98e StPO-E | Zusammenführung heterogener Daten, Superdatenbank-Risiko, Zweckbindungs- und Löschungsprobleme |
+| Manuelle Internetrecherche | Paragrafen 161, 163 StPO als Ermittlungsgeneralklauseln | Bei bloßer Kenntnisnahme meist geringere Eingriffsintensität, aber Kontext und Zweckbindung prüfen |
+| Automatisierter biometrischer Internetabgleich | Paragraf 98d StPO-E | Hohe Streubreite, sensible Daten, Drittbetroffenheit, mögliche Profilbildung |
+| Verfahrensübergreifende Datenanalyse | Paragraf 98e StPO-E | Zusammenführung heterogener Daten, Superdatenbank-Risiko, Zweckbindungs- und Löschungsprobleme |
 | Gefahrenabwehrliche Vor-/Parallelnutzung | Polizeigesetze/BKAG/BPolG/Landesrecht | Trennung Strafverfolgung/Gefahrenabwehr, Datenübermittlung, Zweckwechsel |
 
-## Prüfprogramm § 98d StPO-E
+## Prüfprogramm Paragraf 98d StPO-E
 
 ### 1. Ausgangsdaten
 
@@ -72,7 +72,7 @@ Prüfe:
 - Versuch/Vorbereitung nur, wenn strafbar und konkretisiert,
 - kein bloßes “Katalogtat-Etikett” ohne Einzelfallgewicht.
 
-Wenn nur auf § 100a Abs. 2 StPO verwiesen wird, muss zusätzlich geklärt werden, ob der konkrete Fall die Eingriffsintensität des biometrischen Massenabgleichs trägt.
+Wenn nur auf Paragraf 100a Abs. 2 StPO verwiesen wird, muss zusätzlich geklärt werden, ob der konkrete Fall die Eingriffsintensität des biometrischen Massenabgleichs trägt.
 
 ### 5. Subsidiarität
 
@@ -83,7 +83,7 @@ Die Formel “wesentlich erschwert oder aussichtslos” muss mit Tatsachen gefü
 - Gab es Zeitdruck oder nur Ermittlungsökonomie?
 - Wurde der hohe Drittbetroffenheitsgrad einbezogen?
 
-## Prüfprogramm § 98e StPO-E
+## Prüfprogramm Paragraf 98e StPO-E
 
 Bei Analyseplattformen zusätzlich:
 
@@ -145,7 +145,7 @@ Wenn diese Unterlagen fehlen, ist das nicht nur Datenschutz- oder Technikproblem
 
 | Lage | Reaktion |
 | --- | --- |
-| Entwurfsnorm noch nicht in Kraft | Rechtsgrundlage bestreiten, Grenzen §§ 161, 163 StPO herausarbeiten |
+| Entwurfsnorm noch nicht in Kraft | Rechtsgrundlage bestreiten, Grenzen Paragrafen 161, 163 StPO herausarbeiten |
 | Anordnung fehlt oder ist leerformelhaft | Rechtswidrigkeit der Maßnahme rügen, Nachermittlung verlangen |
 | Software unklar | Sachverständigenprüfung und Offenlegung beantragen |
 | Treffer nur Score ohne Nachprüfung | Beweiswert angreifen, Identitätsbeweis bestreiten |

@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-erhalten-aktualisierung
-description: "Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch, Zahlungsplan oder Verjaebrungsaufschub. Normen: §§ 286 287 BGB, §§ 203 204 BGB. Prüfraster: Forderungsprüfung, Verjaebrungsrisiko, Verteidigungsoptionen. Output: Antwortschreiben auf Mahnschreiben. Abgrenzung: nicht Klageverteidi..."
+description: "Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch, Zahlungsplan oder Verjaebrungsaufschub. Normen: Paragrafen 286 287 BGB, Paragrafen 203 204 BGB. Prüfraster: Forderungsprüfung, Verjaebrungsrisiko, Verteidigungsoptionen. Output: Antwortschreiben auf Mahnschreiben. Abgrenzung: nicht Klageverteidi..."
 ---
 
 # Eingehendes Mahnschreiben / Abmahnung – Triage
@@ -22,11 +22,11 @@ description: "Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch
 5. **Handlungspriorität:** Sofortige Reaktion (Unterlassung, Zahlung, Ablehnung) oder abwarten?
 
 ## Zentrale Normen
-- § 286 BGB (Verzug durch Mahnung)
-- § 203 BGB (Verjährungshemmung durch Verhandlungen)
-- § 8 Abs. 1 UWG (Abmahnung im Wettbewerbsrecht)
-- § 97a UrhG (Abmahnung im Urheberrecht)
-- § 43a Abs. 1 BRAO (Interessenkonflikt bei eingehenden Forderungen)
+- Paragraf 286 BGB (Verzug durch Mahnung)
+- Paragraf 203 BGB (Verjährungshemmung durch Verhandlungen)
+- Paragraf 8 Abs. 1 UWG (Abmahnung im Wettbewerbsrecht)
+- Paragraf 97a UrhG (Abmahnung im Urheberrecht)
+- Paragraf 43a Abs. 1 BRAO (Interessenkonflikt bei eingehenden Forderungen)
 
 ## Rechtsprechung (ergänzt)
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -56,9 +56,9 @@ description: "Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch
 3. **Berechtigungsprüfung (Kurzanalyse):**
  - Besteht das behauptete Schuldverhältnis dem Grunde nach?
  - Ist die Forderung bezifferbar und plausibel?
- - Sind Verjährungseinwände (§§ 195, 199 BGB) offensichtlich möglich?
- - Stehen Gegenansprüche (Aufrechnung § 387 BGB, Zurückbehaltungsrecht § 273 BGB) im Raum?
- - Besteht Verdacht auf unberechtigte Abmahnung (§ 8c UWG, § 97a Abs. 4 UrhG)?
+ - Sind Verjährungseinwände (Paragrafen 195, 199 BGB) offensichtlich möglich?
+ - Stehen Gegenansprüche (Aufrechnung Paragraf 387 BGB, Zurückbehaltungsrecht Paragraf 273 BGB) im Raum?
+ - Besteht Verdacht auf unberechtigte Abmahnung (Paragraf 8c UWG, Paragraf 97a Abs. 4 UrhG)?
  - Ist die Abmahnung formell vollständig (Unterlassungserklärung, Vertragsstrafe, Vollmacht)?
 
 4. **Risikoeinschätzung:** Ampelschema:
@@ -71,12 +71,12 @@ description: "Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch
  - (b) Modifizierte Unterlassungserklärung (bei Abmahnung)
  - (c) Abwehr / Zurückweisung mit Begründung
  - (d) Verhandlung / Vergleichsgespräch
- - (e) Schutzschrift hinterlegen (§ 945a ZPO) bei Gefahr einstweiliger Verfügung
+ - (e) Schutzschrift hinterlegen (Paragraf 945a ZPO) bei Gefahr einstweiliger Verfügung
  - (f) Mandat-Intake → neues Mandat anlegen
 
 6. **Fristen-Alarm:**
  - Antwortfrist aus Schreiben extrahieren und als absolute Frist eintragen
- - Verjährungshemmung durch Verhandlung (§ 203 BGB) oder Mahnbescheid (§ 204 Abs. 1 Nr. 3 BGB) als Optionen nennen
+ - Verjährungshemmung durch Verhandlung (Paragraf 203 BGB) oder Mahnbescheid (Paragraf 204 Abs. 1 Nr. 3 BGB) als Optionen nennen
 
 7. **Datei speichern:** `inbound/[JJJJ-MM-TT]-[slug].md`
 
@@ -85,7 +85,7 @@ description: "Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch
 Verbindlich: `../references/zitierweise.md`.
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8c Rn. 5 ff. (missbräuchliche Abmahnung).
+- Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, Paragraf 8c Rn. 5 ff. (missbräuchliche Abmahnung).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
@@ -102,7 +102,7 @@ Art: [Mahnung | Abmahnung | Klagedrohung]
 KERNFELDER
 ──────────────────────────────────────
 Forderungsbetrag: EUR X.XXX,XX
-Anspruchsgrundlage: § 280 Abs. 1, 3, § 281 BGB
+Anspruchsgrundlage: Paragraf 280 Abs. 1, 3, Paragraf 281 BGB
 Frist gesetzt bis: TT.MM.JJJJ
 Konsequenz: Klageandrohung
 
@@ -122,7 +122,7 @@ Alternativen: (d) Verhandlung, (e) Schutzschrift
 FRISTEN
 ──────────────────────────────────────
 ⚠️ Antwortfrist: TT.MM.JJJJ
-📅 Verjährungsende: 31.12.JJJJ (§§ 195, 199 BGB)
+📅 Verjährungsende: 31.12.JJJJ (Paragrafen 195, 199 BGB)
 ```
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
@@ -136,6 +136,6 @@ FRISTEN
 ## Risiken / typische Fehler
 
 - **Fristüberschreitung:** Bei Abmahnungen im UWG/UrhG ist die Frist oft sehr kurz (3–10 Tage); plug-in markiert Schreiben mit kurzem Frist-Alert.
-- **Schutzschrift vergessen:** Bei drohender einstweiliger Verfügung (z. B. Wettbewerbsrecht, Markenrecht) sofortige Schutzschrift-Hinterlegung im Zentralen Schutzschriftenregister (ZSSR, § 945a ZPO) erwägen.
-- **Kostenfalle § 93 ZPO:** Wenn Berechtigung klar, Zahlung / Unterlassungserklärung vor Klagezustellung prüfen; sonst trägt Beklagter Kosten trotz sofortigem Anerkenntnis.
-- **Unvollständige Vollmacht:** Abmahnung ohne beigefügte Vollmacht ist zurückweisbar (§ 174 BGB); Zurückweisung unverzüglich erklären.
+- **Schutzschrift vergessen:** Bei drohender einstweiliger Verfügung (z. B. Wettbewerbsrecht, Markenrecht) sofortige Schutzschrift-Hinterlegung im Zentralen Schutzschriftenregister (ZSSR, Paragraf 945a ZPO) erwägen.
+- **Kostenfalle Paragraf 93 ZPO:** Wenn Berechtigung klar, Zahlung / Unterlassungserklärung vor Klagezustellung prüfen; sonst trägt Beklagter Kosten trotz sofortigem Anerkenntnis.
+- **Unvollständige Vollmacht:** Abmahnung ohne beigefügte Vollmacht ist zurückweisbar (Paragraf 174 BGB); Zurückweisung unverzüglich erklären.

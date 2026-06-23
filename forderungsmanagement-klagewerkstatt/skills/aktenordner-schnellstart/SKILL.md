@@ -33,8 +33,8 @@ Erstelle sofort eine kurze Tabelle:
 | Vertrag / Bestellung | `Auftrag`, `Bestellung`, `AGB`, `Angebot` | Rechtsgrund der Forderung |
 | Leistungsbeleg | `Lieferschein`, `Abnahme`, `Stundenzettel` | Erfuellung der eigenen Leistung |
 | Rechnung / Gutschrift | `Rechnung`, `Korrektur`, `Storno` | Hauptforderung, Faelligkeit, Umsatzsteuer |
-| Kontoauszug / Zahlungsavis | `Konto`, `Zahlung`, `SEPA`, `Teilzahlung` | Erfuellung, Restforderung, § 362 BGB |
-| Mahnung / Anwaltsschreiben | `Mahnung`, `Frist`, `Inkasso` | Verzug, § 286 BGB, Nebenforderungen |
+| Kontoauszug / Zahlungsavis | `Konto`, `Zahlung`, `SEPA`, `Teilzahlung` | Erfuellung, Restforderung, Paragraf 362 BGB |
+| Mahnung / Anwaltsschreiben | `Mahnung`, `Frist`, `Inkasso` | Verzug, Paragraf 286 BGB, Nebenforderungen |
 | gerichtliche Dokumente | `Mahnbescheid`, `Widerspruch`, `VB`, `Klage` | ZPO-Spur und laufende Fristen |
 | Register / Auskunft | `HRB`, `EMA`, `Insolvenz` | richtige Partei, Zustellung, Insolvenzrisiko |
 
@@ -67,12 +67,12 @@ Alles andere wird aus der Akte rekonstruiert und später als Lueckenliste gefueh
 Prüfe aus der Akte in dieser Reihenfolge:
 
 1. **Anspruchsgrund:** Kaufpreis, Werklohn, Miete, Honorar, Darlehen, Schadensersatz, Abtretung.
-2. **Faelligkeit:** § 271 BGB, besondere Vertragsfrist, Rechnungsvoraussetzung, Abnahme bei Werkvertrag § 641 BGB.
-3. **Erfuellung:** Zahlungen, Aufrechnung, Gutschrift, Storno, § 362 BGB.
-4. **Verzug:** Mahnung § 286 Abs. 1 BGB, kalendermassige Bestimmung § 286 Abs. 2 BGB, 30-Tage-Regel § 286 Abs. 3 BGB.
-5. **Zinsen und Kosten:** § 288 BGB, § 280 BGB, § 286 BGB, vorgerichtliche Kosten nur bei tragfaehigem Verzug.
-6. **Verjaehrung:** §§ 195, 199 BGB, Hemmung § 204 BGB.
-7. **Verfahrensspur:** Mahnung, Mahnbescheid §§ 688 ff. ZPO, Zahlungsklage § 253 ZPO, Vollstreckungsbescheid §§ 699, 700 ZPO.
+2. **Faelligkeit:** Paragraf 271 BGB, besondere Vertragsfrist, Rechnungsvoraussetzung, Abnahme bei Werkvertrag Paragraf 641 BGB.
+3. **Erfuellung:** Zahlungen, Aufrechnung, Gutschrift, Storno, Paragraf 362 BGB.
+4. **Verzug:** Mahnung Paragraf 286 Abs. 1 BGB, kalendermassige Bestimmung Paragraf 286 Abs. 2 BGB, 30-Tage-Regel Paragraf 286 Abs. 3 BGB.
+5. **Zinsen und Kosten:** Paragraf 288 BGB, Paragraf 280 BGB, Paragraf 286 BGB, vorgerichtliche Kosten nur bei tragfaehigem Verzug.
+6. **Verjaehrung:** Paragrafen 195, 199 BGB, Hemmung Paragraf 204 BGB.
+7. **Verfahrensspur:** Mahnung, Mahnbescheid Paragrafen 688 ff. ZPO, Zahlungsklage Paragraf 253 ZPO, Vollstreckungsbescheid Paragrafen 699, 700 ZPO.
 8. **Zuständigkeit:** Paragrafen 12 ff. und 29 ZPO, Paragraf 23 Nummer 1 GVG, Paragraf 23 Nummer 2a GVG, Paragraf 71 Absatz 1 GVG und weitere Sonderzuständigkeiten.
 
 ## Ausgabe nach zehn Minuten Aktenarbeit

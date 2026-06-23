@@ -1,6 +1,6 @@
 ---
 name: mandat-aufnahme
-description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prüfen, Klagekonzept skizzieren. Normen: §§ 253 261 ZPO, BRAO. Prüfraster: Sachverhaltserfassung, Anspruchsgrundlage, Zuständigkeit, Kosten-Risiko-Analyse. Output: Mandatsaufnahme-Protokoll. Abgrenzung: nicht inhaltliche Klageschrift im..."
+description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prüfen, Klagekonzept skizzieren. Normen: Paragrafen 253 261 ZPO, BRAO. Prüfraster: Sachverhaltserfassung, Anspruchsgrundlage, Zuständigkeit, Kosten-Risiko-Analyse. Output: Mandatsaufnahme-Protokoll. Abgrenzung: nicht inhaltliche Klageschrift im..."
 ---
 
 # Mandat-Intake
@@ -16,17 +16,17 @@ description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prü
 ## Triage — kläre vor der Aufnahme
 
 1. **Mandatstyp:** Klägerseite, Beklagtenseite, Beratungsmandat oder gemischtes Mandat?
-2. **Interessenkonflikt:** Besteht ein Interessenkonflikt mit laufenden oder abgeschlossenen Mandaten (§ 43a Abs. 4 BRAO, § 3 BORA)?
+2. **Interessenkonflikt:** Besteht ein Interessenkonflikt mit laufenden oder abgeschlossenen Mandaten (Paragraf 43a Abs. 4 BRAO, Paragraf 3 BORA)?
 3. **Verfahrensart:** Zivilverfahren, arbeitsgerichtliches Verfahren, Verwaltungsverfahren, Strafverfahren?
 4. **Schlüsselfristen:** Gibt es laufende Fristen (Verjährung, Rechtsmittelfrist, Klagefrist) die sofort gesichert werden müssen?
 5. **Außenmandat:** Wird ein Korrespondenzanwalt oder Fachanwalt benötigt?
 
 ## Zentrale Normen
-- § 43a Abs. 4 BRAO (Interessenkonflikt — Vertretungsverbot)
-- § 3 BORA (Interessenkonflikt — weitere Fallgruppen)
-- § 49b BRAO (Vergütungsvereinbarung)
-- § 204 BGB (Verjährungshemmung durch Klage)
-- § 232 ff. ZPO (Fristen und Fristenberechnung)
+- Paragraf 43a Abs. 4 BRAO (Interessenkonflikt — Vertretungsverbot)
+- Paragraf 3 BORA (Interessenkonflikt — weitere Fallgruppen)
+- Paragraf 49b BRAO (Vergütungsvereinbarung)
+- Paragraf 204 BGB (Verjährungshemmung durch Klage)
+- Paragraf 232 ff. ZPO (Fristen und Fristenberechnung)
 
 ## Rechtsprechung (ergänzt)
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -45,11 +45,11 @@ description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prü
 
 - Kanzlei-Aktenzeichen und interner Slug (URL-freundlich, z. B. `mueller-gmbh-werkvertrag-2024`)
 - Mandantenname (juristische oder natürliche Person), Kontaktperson
-- Mandantentyp: Unternehmer (§ 14 BGB) / Verbraucher (§ 13 BGB)
+- Mandantentyp: Unternehmer (Paragraf 14 BGB) / Verbraucher (Paragraf 13 BGB)
 - Gegenseite: Vollständiger Name, Anschrift, Verfahrensbevollmächtigter (wenn bekannt)
 - Mandats-Art: Klage / Verteidigung / Beratung / Rechtsmittel / Vollstreckung
 
-### 2. Interessenkonflikt-Check (§ 43a Abs. 4 BRAO, § 3 BORA)
+### 2. Interessenkonflikt-Check (Paragraf 43a Abs. 4 BRAO, Paragraf 3 BORA)
 
 - Vertritt die Kanzlei bereits die Gegenseite in irgendeinem Mandat?
 - Ist ein Anwalt der Kanzlei früher für die Gegenseite tätig gewesen?
@@ -59,23 +59,23 @@ description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prü
 ### 3. Sachverhaltserfassung
 
 - Kurzbeschreibung des Sachverhalts (wer, was, wann, wie viel?)
-- Anspruchsgrundlage (vorläufig, z. B. § 280 BGB, § 823 BGB, § 1 UWG)
+- Anspruchsgrundlage (vorläufig, z. B. Paragraf 280 BGB, Paragraf 823 BGB, Paragraf 1 UWG)
 - Rechtliches Kernproblem (streitige Tat- oder Rechtsfrage)
 - Vorhandene Dokumente: Liste und Anlage-Nummern
 
 ### 4. Verfahrensart und Zuständigkeit
 
 - Verfahrensordnung: ZPO / ArbGG / VwGO / FGO / SGG / FamFG / StPO
-- Sachlich zuständiges Gericht: AG (§§ 23 ff. GVG), LG (§§ 71 ff. GVG), Spezialgerichte (ArbG, VG, FG, SG)
-- Örtliche Zuständigkeit: allgemeiner Gerichtsstand (§§ 12, 13 ZPO), besonderer Gerichtsstand (§ 29 ZPO: Erfüllungsort), ausschließlicher Gerichtsstand (§ 29a ZPO: Miete)
+- Sachlich zuständiges Gericht: AG (Paragrafen 23 ff. GVG), LG (Paragrafen 71 ff. GVG), Spezialgerichte (ArbG, VG, FG, SG)
+- Örtliche Zuständigkeit: allgemeiner Gerichtsstand (Paragrafen 12, 13 ZPO), besonderer Gerichtsstand (Paragraf 29 ZPO: Erfüllungsort), ausschließlicher Gerichtsstand (Paragraf 29a ZPO: Miete)
 - Streitwert (vorläufig, nach GKG/RVG)
 
 ### 5. Risikotriage
 
 - Erfolgsaussichten: stark / mittel / schwach (mit Kurzbereg)
-- Worst-Case-Szenario (maximale Exposition inkl. Kosten § 91 ZPO)
-- Wichtig: Prozesskostenrisiko nach § 91 ZPO; ggf. Rechtsschutzversicherung vorhanden?
-- Verjährungsrisiko prüfen: Restlaufzeit (§§ 195, 199 BGB)
+- Worst-Case-Szenario (maximale Exposition inkl. Kosten Paragraf 91 ZPO)
+- Wichtig: Prozesskostenrisiko nach Paragraf 91 ZPO; ggf. Rechtsschutzversicherung vorhanden?
+- Verjährungsrisiko prüfen: Restlaufzeit (Paragrafen 195, 199 BGB)
 
 ### 6. Außenanwalt / Korrespondenzanwalt
 
@@ -127,7 +127,7 @@ naechste_frist: "TT.MM.JJJJ"
 
 Verbindlich: `../references/zitierweise.md`.
 
-- BRAO § 43a Abs. 4 (Interessenkonflikt: Verbot der Vertretung widerstreitender Interessen).
+- BRAO Paragraf 43a Abs. 4 (Interessenkonflikt: Verbot der Vertretung widerstreitender Interessen).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -135,6 +135,6 @@ Verbindlich: `../references/zitierweise.md`.
 ## Risiken / typische Fehler
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Verjährung nicht geprüft:** Vor Intake stets Verjährungsablauf ermitteln; läuft die Verjährung in < 3 Monaten, sofort Hemmungsmaßnahmen (§ 204 BGB: Klageerhebung, Mahnbescheid) einleiten.
-- **Zuständigkeit falsch:** Fehlerhafte sachliche Zuständigkeit führt zur Verweisung (§ 281 ZPO) und Zeitverlust; Streitwertgrenzen (AG: bis EUR 10.000; LG: über EUR 10.000, § 23 Nr. 1 GVG i. d. F. seit 1.1.2026) prüfen.
-- **Mandant ist Verbraucher – besondere Pflichten:** Informationspflichten nach § 43d BRAO (Kostenmitteilung), § 13 RVG (Vergütungsvereinbarung).
+- **Verjährung nicht geprüft:** Vor Intake stets Verjährungsablauf ermitteln; läuft die Verjährung in < 3 Monaten, sofort Hemmungsmaßnahmen (Paragraf 204 BGB: Klageerhebung, Mahnbescheid) einleiten.
+- **Zuständigkeit falsch:** Fehlerhafte sachliche Zuständigkeit führt zur Verweisung (Paragraf 281 ZPO) und Zeitverlust; Streitwertgrenzen (AG: bis EUR 10.000; LG: über EUR 10.000, Paragraf 23 Nr. 1 GVG i. d. F. seit 1.1.2026) prüfen.
+- **Mandant ist Verbraucher – besondere Pflichten:** Informationspflichten nach Paragraf 43d BRAO (Kostenmitteilung), Paragraf 13 RVG (Vergütungsvereinbarung).

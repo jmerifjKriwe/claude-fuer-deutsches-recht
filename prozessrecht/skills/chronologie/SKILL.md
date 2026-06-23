@@ -1,6 +1,6 @@
 ---
 name: chronologie
-description: "Sachverhaltschronologie für Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: §§ 253 138 ZPO. Prüfraster: Ereignisse, Zeitpunkte, Dokumente, Normbezug, streitige vs. unstreitige Tatsachen. Output: Tabellarische Sachverhaltschronologie. Abgrenzung: nicht vollstä..."
+description: "Sachverhaltschronologie für Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: Paragrafen 253 138 ZPO. Prüfraster: Ereignisse, Zeitpunkte, Dokumente, Normbezug, streitige vs. unstreitige Tatsachen. Output: Tabellarische Sachverhaltschronologie. Abgrenzung: nicht vollstä..."
 ---
 
 # Sachverhalts-Chronologie
@@ -19,14 +19,14 @@ description: "Sachverhaltschronologie für Klageschrift oder Verteidigung aufbau
 2. **Dokumentenbasis:** Liegen die Quellen vor (Verträge, E-Mails, Schriftsätze, Anlagen)?
 3. **Zeitraum:** Welcher Zeitraum ist mandatsrelevant — gibt es einen frühesten relevanten Stichtag?
 4. **Lücken:** Gibt es bekannte Zeiträume, für die keine Dokumente vorliegen?
-5. **Prozessuale Funktion:** Für Sachverhaltsdarstellung (§ 253 ZPO), Zeugenvernehmung (§§ 373 ff. ZPO) oder Berufungsbegründung (§ 520 Abs. 3 ZPO)?
+5. **Prozessuale Funktion:** Für Sachverhaltsdarstellung (Paragraf 253 ZPO), Zeugenvernehmung (Paragrafen 373 ff. ZPO) oder Berufungsbegründung (Paragraf 520 Abs. 3 ZPO)?
 
 ## Zentrale Normen
-- § 253 Abs. 2 Nr. 1 ZPO (Anforderungen an die Klageschrift — vollständiger Sachvortrag)
-- § 138 ZPO (Erklärungspflicht der Parteien — Vollständigkeit und Wahrheitspflicht)
-- § 373 ff. ZPO (Zeugenbeweis — Grundlage der Zeugenchronologie)
-- § 520 Abs. 3 ZPO (Berufungsbegründung — tatsächliche Angaben)
-- § 286 ZPO (Freie Beweiswuerdigung — Chronologie als Hilfsmittel)
+- Paragraf 253 Abs. 2 Nr. 1 ZPO (Anforderungen an die Klageschrift — vollständiger Sachvortrag)
+- Paragraf 138 ZPO (Erklärungspflicht der Parteien — Vollständigkeit und Wahrheitspflicht)
+- Paragraf 373 ff. ZPO (Zeugenbeweis — Grundlage der Zeugenchronologie)
+- Paragraf 520 Abs. 3 ZPO (Berufungsbegründung — tatsächliche Angaben)
+- Paragraf 286 ZPO (Freie Beweiswuerdigung — Chronologie als Hilfsmittel)
 
 ## Rechtsprechung (ergänzt)
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -36,7 +36,7 @@ description: "Sachverhaltschronologie für Klageschrift oder Verteidigung aufbau
 
 ## Zweck
 
-Aufbau einer mandatsbezogenen Sachverhalts-Chronologie aus vorliegenden Dokumenten, Schriftsätzen, Verträgen, E-Mails und Anlagen. Die Chronologie dient als Grundlage für Sachverhaltsdarstellungen im Schriftsatz (§ 253 Abs. 2 Nr. 1 ZPO), Zeugenvernehmungsvorbereitung (§§ 373 ff. ZPO), Berufungsbegründung (§ 520 Abs. 3 ZPO) und interne Mandatsbriefings.
+Aufbau einer mandatsbezogenen Sachverhalts-Chronologie aus vorliegenden Dokumenten, Schriftsätzen, Verträgen, E-Mails und Anlagen. Die Chronologie dient als Grundlage für Sachverhaltsdarstellungen im Schriftsatz (Paragraf 253 Abs. 2 Nr. 1 ZPO), Zeugenvernehmungsvorbereitung (Paragrafen 373 ff. ZPO), Berufungsbegründung (Paragraf 520 Abs. 3 ZPO) und interne Mandatsbriefings.
 
 Drei Modi:
 - **Arbeitschronologie** – intern, vollständig, mit Lückenmarkierungen
@@ -81,7 +81,7 @@ Verbindlich: `../references/zitierweise.md`.
 
 ## Risiken / typische Fehler
 
-- **Unklarer Zugangszeitpunkt:** Zugangsnachweis für Mahnungen und Fristsetzungen ist entscheidend für Verzugsbeginn (§ 286 Abs. 1 BGB); fehlende Belege zwingend als Lücke markieren.
+- **Unklarer Zugangszeitpunkt:** Zugangsnachweis für Mahnungen und Fristsetzungen ist entscheidend für Verzugsbeginn (Paragraf 286 Abs. 1 BGB); fehlende Belege zwingend als Lücke markieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Veraltete Chronologie:** Nach jedem Mandat-Update (`/mandat-update`) die Chronologie ergänzen; veraltete Versionen archivieren.
 - **Zeugenchronologie zu weit gefasst:** Nur mandatsrelevante Ereignisse einbeziehen; nicht alle Ereignisse, an denen der Zeuge beteiligt war.

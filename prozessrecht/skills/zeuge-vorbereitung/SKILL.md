@@ -1,6 +1,6 @@
 ---
 name: zeuge-vorbereitung
-description: "Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprotokoll. Abgrenzung: nicht Sachverständigenbestellung §§ 402 f..."
+description: "Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: Paragrafen 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprotokoll. Abgrenzung: nicht Sachverständigenbestellung Paragrafen 402 f..."
 ---
 
 # Zeugenvernehmung-Vorbereitung
@@ -16,11 +16,11 @@ description: "Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverwei
 ## Zweck
 
 Vorbereitung auf eine Zeugenvernehmung im deutschen Zivil- oder Strafverfahren. Drei Perspektiven:
-- **Eigener Zeuge vorbereiten** (Information des Mandanten über Ablauf, § 373 ff. ZPO; § 395 StPO)
+- **Eigener Zeuge vorbereiten** (Information des Mandanten über Ablauf, Paragraf 373 ff. ZPO; Paragraf 395 StPO)
 - **Gegnerischen Zeugen befragen** (Fragenkatalog aus der Mandatstheorie entwickeln)
-- **Strafverteidigung:** Vorbereitung auf Hauptverhandlung (§§ 244 ff. StPO), Pflichtverteidiger-Gespräch
+- **Strafverteidigung:** Vorbereitung auf Hauptverhandlung (Paragrafen 244 ff. StPO), Pflichtverteidiger-Gespräch
 
-> Die Zeugenvernehmung findet ausschließlich vor dem Gericht statt (§ 396 ZPO, § 238 Abs. 2 StPO). Eine vorgerichtliche anwaltliche Befragung von Zeugen kennt das deutsche Recht nicht. Eine informelle Zeugen-"Vorbefragung" durch den Anwalt ist berufsrechtlich sensibel (§ 1 BORA – Sachlichkeit; vgl. § 26 BRAO) und darf Zeugen nicht beeinflussen.
+> Die Zeugenvernehmung findet ausschließlich vor dem Gericht statt (Paragraf 396 ZPO, Paragraf 238 Abs. 2 StPO). Eine vorgerichtliche anwaltliche Befragung von Zeugen kennt das deutsche Recht nicht. Eine informelle Zeugen-"Vorbefragung" durch den Anwalt ist berufsrechtlich sensibel (Paragraf 1 BORA – Sachlichkeit; vgl. Paragraf 26 BRAO) und darf Zeugen nicht beeinflussen.
 
 ## Eingaben
 
@@ -33,9 +33,9 @@ Vorbereitung auf eine Zeugenvernehmung im deutschen Zivil- oder Strafverfahren. 
 
 ### Modus: Eigener Zeuge vorbereiten (`--eigener-zeuge`)
 
-1. **Ablaufbelehrung:** Dem Mandanten/Zeugen den Vernehmungsablauf erklären (§§ 395, 396, 402 ZPO): Vorführung, allgemeine Personalien, Belehrung, freie Schilderung, Befragung durch Gericht, Fragen der Parteien, Eid/eidesstattliche Versicherung (§ 391 ZPO).
+1. **Ablaufbelehrung:** Dem Mandanten/Zeugen den Vernehmungsablauf erklären (Paragrafen 395, 396, 402 ZPO): Vorführung, allgemeine Personalien, Belehrung, freie Schilderung, Befragung durch Gericht, Fragen der Parteien, Eid/eidesstattliche Versicherung (Paragraf 391 ZPO).
 
-2. **Zeugnisverweigerungsrecht prüfen:** §§ 383–385 ZPO (Angehörige, Berufsgeheimnisträger, Selbstbelastungsverbot); § 52 StPO; § 55 StPO (Auskunftsverweigerungsrecht).
+2. **Zeugnisverweigerungsrecht prüfen:** Paragrafen 383–385 ZPO (Angehörige, Berufsgeheimnisträger, Selbstbelastungsverbot); Paragraf 52 StPO; Paragraf 55 StPO (Auskunftsverweigerungsrecht).
 
 3. **Erinnerungslücken identifizieren:** Aus Chronologie bekannte Ereignisse mit Zeugenwissen abgleichen; offene Punkte markieren.
 
@@ -60,9 +60,9 @@ Vorbereitung auf eine Zeugenvernehmung im deutschen Zivil- oder Strafverfahren. 
 
 ### Modus: Strafverfahren (`--strafverfahren`)
 
-1. **Akteneinsicht § 147 StPO:** Vernehmungsprotokolle aus der Ermittlungsakte identifizieren.
-2. **Belehrung § 136 StPO / § 55 StPO:** Sicherstellen, dass Auskunftsverweigerungsrecht bekannt ist.
-3. **Hauptverhandlung § 244 StPO:** Beweisantragsrecht der Verteidigung (Beweisantrag auf Zeugenladung, § 244 Abs. 3, 6 StPO).
+1. **Akteneinsicht Paragraf 147 StPO:** Vernehmungsprotokolle aus der Ermittlungsakte identifizieren.
+2. **Belehrung Paragraf 136 StPO / Paragraf 55 StPO:** Sicherstellen, dass Auskunftsverweigerungsrecht bekannt ist.
+3. **Hauptverhandlung Paragraf 244 StPO:** Beweisantragsrecht der Verteidigung (Beweisantrag auf Zeugenladung, Paragraf 244 Abs. 3, 6 StPO).
 
 ## Quellen und Zitierweise
 
@@ -76,14 +76,14 @@ Verbindlich: `../references/zitierweise.md`.
 
 ## Risiken / typische Fehler
 
-- **Zeugencoaching verboten:** Der Anwalt darf den Zeugen nicht zu einer bestimmten Aussage anleiten; nur Erläuterung des Ablaufs und Erinnerungshilfe auf Basis vorhandener Dokumente zulässig (vgl. § 1 BORA).
+- **Zeugencoaching verboten:** Der Anwalt darf den Zeugen nicht zu einer bestimmten Aussage anleiten; nur Erläuterung des Ablaufs und Erinnerungshilfe auf Basis vorhandener Dokumente zulässig (vgl. Paragraf 1 BORA).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Gegnerischer Zeuge – keine Kontaktaufnahme:** Kontaktaufnahme mit gegnerischem Zeugen außerhalb des Verfahrens ist berufsrechtlich problematisch (§ 12 BORA).
-- **Vereidigung:** § 391 ZPO – Gericht entscheidet; falsche Zeugenaussage ist strafbar (§ 153 StGB); Zeuge vor Vernehmung hierüber belehren.
+- **Gegnerischer Zeuge – keine Kontaktaufnahme:** Kontaktaufnahme mit gegnerischem Zeugen außerhalb des Verfahrens ist berufsrechtlich problematisch (Paragraf 12 BORA).
+- **Vereidigung:** Paragraf 391 ZPO – Gericht entscheidet; falsche Zeugenaussage ist strafbar (Paragraf 153 StGB); Zeuge vor Vernehmung hierüber belehren.
 
 <!-- AUDIT 27.05.2026
 einziger Treffer ist XI ZR 224/09 (06.07.2010, XI. Zivilsenat, Bankrecht/Anscheinsbeweis
 Kreditkarte) - falscher Senat, falsches Thema. Behauptetes Thema "Freie Beweiswuerdigung
-bei Zeugenaussagen § 286 ZPO" ist eine Halluzination. Referenz geloescht.
+bei Zeugenaussagen Paragraf 286 ZPO" ist eine Halluzination. Referenz geloescht.
 Keine Ersatzquelle ergaenzt.
 -->

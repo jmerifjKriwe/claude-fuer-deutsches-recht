@@ -1,6 +1,6 @@
 ---
 name: mandat-briefing-schliessen-portfolio-status
-description: "Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen. Normen: §§ 373 ff. ZPO. Prüfraster: Beweislast, Zeugenvorbereitung, Verhandlungsstrategien. Output: Briefingdokument für Mandanten vor Termin. Abgrenzung: nicht Zeugenvorbereitung (eigener Skill) im Prozessr..."
+description: "Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen. Normen: Paragrafen 373 ff. ZPO. Prüfraster: Beweislast, Zeugenvorbereitung, Verhandlungsstrategien. Output: Briefingdokument für Mandanten vor Termin. Abgrenzung: nicht Zeugenvorbereitung (eigener Skill) im Prozessr..."
 ---
 
 # Mandat-Briefing
@@ -26,7 +26,7 @@ description: "Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhalten
 2. **Verfahrensstand zusammenfassen:**
  - Parteien, Gericht, Aktenzeichen
  - Verfahrensstadium (Klagezustellung, Schriftsatzphase, Beweisaufnahme, Urteil, Rechtsmittel, Vollstreckung)
- - Ansprüche / Streitgegenstand (§ 264 ZPO)
+ - Ansprüche / Streitgegenstand (Paragraf 264 ZPO)
  - Bisheriger Verfahrensverlauf (Chronologie der Verfahrenshandlungen)
 
 3. **Entwicklungen seit letztem Update:**
@@ -45,7 +45,7 @@ description: "Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhalten
 6. **Risikoneueinschätzung:**
  - Änderung der Risikoeinschätzung seit letztem Intake? (BGH-Rechtsprechung, neue Sachverhalte)
  - Expositionsschätzung (untere / mittlere / obere Schadenswert-Bandbreite)
- - Vergleichspotential (§ 278 Abs. 1 ZPO: Gericht soll in jeder Lage des Verfahrens auf Vergleich hinwirken)
+ - Vergleichspotential (Paragraf 278 Abs. 1 ZPO: Gericht soll in jeder Lage des Verfahrens auf Vergleich hinwirken)
 
 7. **Ausgabe:** Strukturiertes Briefing-Memo im Urteilsstil oder als Executive Summary.
 
@@ -67,7 +67,7 @@ Parteien: [Kläger] ./. [Beklagter]
 Gericht / Az.: [Gericht], Az. [JJJJ] [Aktenzeichen]
 Verfahrensstufe: [z. B. Berufung – OLG Frankfurt]
 Stand: TT.MM.JJJJ
-MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO
+MANDATSGEHEIMNIS – Paragraf 43a Abs. 2 BRAO
 
 ──────────────────────────────────────
 1. VERFAHRENSSTAND
@@ -110,7 +110,7 @@ Vergleichspotential: [Einschätzung]
 
 - **Veraltete mandat.md:** Ohne regelmäßige Updates per `/mandat-update` liefert das Briefing einen falschen Stand; nach jeder Entwicklung updaten.
 - **Fristversäumnis-Risiko:** Das Briefing ersetzt nicht den Fristenkalender; jede Frist muss separat in das Kanzlei-Fristbuch eingetragen werden.
-- **Vertraulichkeit des Briefings:** Das Briefing enthält Mandatsgeheimnisse; Empfängerkreis sorgfältig wählen (§ 43a Abs. 2 BRAO); nicht per unverschlüsselter E-Mail versenden.
+- **Vertraulichkeit des Briefings:** Das Briefing enthält Mandatsgeheimnisse; Empfängerkreis sorgfältig wählen (Paragraf 43a Abs. 2 BRAO); nicht per unverschlüsselter E-Mail versenden.
 
 <!-- AUDIT 27.05.2026
 Halluzinierte Referenz geloescht. Keine Ersatzquelle gefunden.

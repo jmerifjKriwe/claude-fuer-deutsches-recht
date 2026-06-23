@@ -70,18 +70,18 @@ vom [Datum] Anlage [Nr]. Wiedervorlage
 
 ### Kuratierte Normen-Bibliothek
 
-- § 3a RVG
-- § 71 GVG
-- § 19 GmbHG
-- § 8 RVG
-- § 4 RDGEG
-- § 41 GKG
-- § 13 GmbHG
-- § 31 GmbHG
-- § 9 RVG
-- § 23a GVG
-- § 23 RVG
-- § 215 VVG
+- Paragraf 3a RVG
+- Paragraf 71 GVG
+- Paragraf 19 GmbHG
+- Paragraf 8 RVG
+- Paragraf 4 RDGEG
+- Paragraf 41 GKG
+- Paragraf 13 GmbHG
+- Paragraf 31 GmbHG
+- Paragraf 9 RVG
+- Paragraf 23a GVG
+- Paragraf 23 RVG
+- Paragraf 215 VVG
 
 ### Leitentscheidungen
 

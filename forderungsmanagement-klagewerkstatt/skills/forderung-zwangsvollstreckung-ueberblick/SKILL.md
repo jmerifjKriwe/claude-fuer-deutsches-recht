@@ -1,17 +1,17 @@
 ---
 name: forderung-zwangsvollstreckung-ueberblick
-description: "Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung § 829 ZPO, Lohnpfaendung mit Pfaendungstabelle, Immobiliarvollstreckung Zwangshypothek/Versteigerung. Output: Strategiememo Vollstreckung."
+description: "Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher Paragrafen 808 ff. ZPO, Forderungspfaendung Paragraf 829 ZPO, Lohnpfaendung mit Pfaendungstabelle, Immobiliarvollstreckung Zwangshypothek/Versteigerung. Output: Strategiememo Vollstreckung."
 ---
 
 # Zwangsvollstreckung Ueberblick
 
 ## Aufgabe
-Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff.
+Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher Paragrafen 808 ff.
 
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `forderung-zwangsvollstreckung-ueberblick`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung § 829 ZPO, Lohnpfaendung mit Pfaendungstabelle, Immobiliarvollstreckung Zwangshypothek/Versteigerung. Output: Strategiememo Vollstreckung..
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `forderung-zwangsvollstreckung-ueberblick`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher Paragrafen 808 ff. ZPO, Forderungspfaendung Paragraf 829 ZPO, Lohnpfaendung mit Pfaendungstabelle, Immobiliarvollstreckung Zwangshypothek/Versteigerung. Output: Strategiememo Vollstreckung..
 
 Arbeite deshalb fallnah:
 

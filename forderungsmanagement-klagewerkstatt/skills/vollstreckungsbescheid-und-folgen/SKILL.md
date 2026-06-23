@@ -1,17 +1,17 @@
 ---
 name: vollstreckungsbescheid-und-folgen
-description: "Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung). Strategische Hinweise."
+description: "Vollstreckungsbescheid Paragrafen 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung). Strategische Hinweise."
 ---
 
 # Vollstreckungsbescheid
 
 ## Aufgabe
-Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung).
+Vollstreckungsbescheid Paragrafen 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung).
 
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `vollstreckungsbescheid-und-folgen`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung). Strategische Hinweise..
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `vollstreckungsbescheid-und-folgen`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Vollstreckungsbescheid Paragrafen 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung). Strategische Hinweise..
 
 Arbeite deshalb fallnah:
 

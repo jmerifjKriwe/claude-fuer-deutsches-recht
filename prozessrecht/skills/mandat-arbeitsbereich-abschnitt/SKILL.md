@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich-abschnitt
-description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Widerklage, Rücknahme. Normen: §§ 263 264 269 ZPO. Prüfraster: Klageaenderungsvoraussetzungen, Rücknahmefolgen, Widerklagemöglichkeiten. Output: Strategieanpassungs-Vermerk. Abgrenzung: nicht Berufungs-Skill im Prozessre..."
+description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Widerklage, Rücknahme. Normen: Paragrafen 263 264 269 ZPO. Prüfraster: Klageaenderungsvoraussetzungen, Rücknahmefolgen, Widerklagemöglichkeiten. Output: Strategieanpassungs-Vermerk. Abgrenzung: nicht Berufungs-Skill im Prozessre..."
 ---
 
 # Praxisprofil anpassen
@@ -22,12 +22,12 @@ description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klage
 5. **Vorher-Nachher-Bestätigung:** Soll der Vergleich der geänderten Felder vor dem Speichern bestätigt werden?
 
 ## Zentrale Normen
-- § 43a BRAO (Grundpflichten des Rechtsanwalts — Verschwiegenheit, sachlich unabhängige Beratung)
-- § 46a BRAO (Syndikusrechtsanwalt — besondere Rollenpflichten)
-- § 46c BRAO (Vertretungsverbote des Syndikusrechtsanwalts)
-- § 3a RVG (Vergütungsvereinbarung — Textformerfordernis)
-- § 4a RVG (Erfolgshonorar — Voraussetzungen)
-- BORA §§ 2, 3 (Sachlichkeit und Grundpflichten)
+- Paragraf 43a BRAO (Grundpflichten des Rechtsanwalts — Verschwiegenheit, sachlich unabhängige Beratung)
+- Paragraf 46a BRAO (Syndikusrechtsanwalt — besondere Rollenpflichten)
+- Paragraf 46c BRAO (Vertretungsverbote des Syndikusrechtsanwalts)
+- Paragraf 3a RVG (Vergütungsvereinbarung — Textformerfordernis)
+- Paragraf 4a RVG (Erfolgshonorar — Voraussetzungen)
+- BORA Paragrafen 2, 3 (Sachlichkeit und Grundpflichten)
 
 ## Rechtsprechung
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -51,9 +51,9 @@ description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klage
 
 ## Quellen und Zitierweise
 
-Keine gesonderten Normen. Allgemein: §§ 43a BRAO, 3a RVG bei rollenbezogenen Änderungen.
+Keine gesonderten Normen. Allgemein: Paragrafen 43a BRAO, 3a RVG bei rollenbezogenen Änderungen.
 
 ## Risiken / typische Fehler
 
-- **Rollenwechsel mit Rechtsfolgen:** Wechsel von Rechtsanwalt zu Syndikusrechtsanwalt (§ 46a BRAO) hat berufsrechtliche Konsequenzen; das Plugin dokumentiert den Wechsel, ersetzt aber keine standesrechtliche Beratung.
+- **Rollenwechsel mit Rechtsfolgen:** Wechsel von Rechtsanwalt zu Syndikusrechtsanwalt (Paragraf 46a BRAO) hat berufsrechtliche Konsequenzen; das Plugin dokumentiert den Wechsel, ersetzt aber keine standesrechtliche Beratung.
 - **Überschreiben statt Ergänzen:** Bei Praxisschwerpunkten immer prüfen, ob bestehende Einträge erhalten bleiben sollen; Default ist Ergänzung, nicht Überschreiben.

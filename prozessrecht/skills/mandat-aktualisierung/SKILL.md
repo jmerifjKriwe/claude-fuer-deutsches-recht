@@ -1,6 +1,6 @@
 ---
 name: mandat-aktualisierung
-description: "Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Prüfraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes Mandats-Protokoll. Abgrenzung: nicht Mandatseroffnung im Prozessrecht."
+description: "Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen. Normen: Paragrafen 233 ff. ZPO. Prüfraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes Mandats-Protokoll. Abgrenzung: nicht Mandatseroffnung im Prozessrecht."
 ---
 
 # Mandats-Aktualisierung
@@ -25,13 +25,13 @@ description: "Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschlu
 
 ### Kernvorschriften
 
-- **§§ 214–229 ZPO** — Fristen, Versäumnis, Wiedereinsetzung; zentral für die Fristenkontrolle im Prozessmandat.
-- **§§ 516, 548, 569 ZPO** — Berufungs-, Revisions- und Beschwerdebegründungsfristen (Monats- bzw. Zwei-Monats-Fristen nach Zustellung); jede Fristverlängerung ist einzutragen.
-- **§ 116 VwGO** — Zustellung und Fristen im Verwaltungsgerichtsverfahren.
-- **§§ 317–329 StPO** — Rechtsmittelfristen im Strafverfahren (Berufungsfrist: eine Woche ab Urteilsverkündung, § 317 StPO).
-- **§ 43a Abs. 1, 4 BRAO** — Sachkundige, gewissenhafte Berufsausübung; Pflicht zur lückenlosen Aktenführung als Berufspflicht.
-- **§ 11 BORA** — Sorgfaltspflicht bei Fristnotierung und Aktenführung.
-- **§§ 257, 261 HGB; § 147 AO** — Aufbewahrungspflichten für Handels- und Steuerunterlagen (6–10 Jahre); relevant für den Beweissicherungsaspekt.
+- **Paragrafen 214–229 ZPO** — Fristen, Versäumnis, Wiedereinsetzung; zentral für die Fristenkontrolle im Prozessmandat.
+- **Paragrafen 516, 548, 569 ZPO** — Berufungs-, Revisions- und Beschwerdebegründungsfristen (Monats- bzw. Zwei-Monats-Fristen nach Zustellung); jede Fristverlängerung ist einzutragen.
+- **Paragraf 116 VwGO** — Zustellung und Fristen im Verwaltungsgerichtsverfahren.
+- **Paragrafen 317–329 StPO** — Rechtsmittelfristen im Strafverfahren (Berufungsfrist: eine Woche ab Urteilsverkündung, Paragraf 317 StPO).
+- **Paragraf 43a Abs. 1, 4 BRAO** — Sachkundige, gewissenhafte Berufsausübung; Pflicht zur lückenlosen Aktenführung als Berufspflicht.
+- **Paragraf 11 BORA** — Sorgfaltspflicht bei Fristnotierung und Aktenführung.
+- **Paragrafen 257, 261 HGB; Paragraf 147 AO** — Aufbewahrungspflichten für Handels- und Steuerunterlagen (6–10 Jahre); relevant für den Beweissicherungsaspekt.
 
 ### Leitentscheidungen
 
@@ -54,7 +54,7 @@ Vor dem Einpflegen eines Eintrags wird geprüft, ob das Mandat in `_log.yaml` en
 Angebotene Kategorien:
 
 - **Verfahrensrechtlich** — Schriftsatz eingereicht/erhalten, Beschluss ergangen, Termin stattgefunden, Frist gesetzt
-- **Beweiserhebung** — Urkunden vorgelegt/erhalten, Zeugenvernehmung, § 142 ZPO-Anordnung
+- **Beweiserhebung** — Urkunden vorgelegt/erhalten, Zeugenvernehmung, Paragraf 142 ZPO-Anordnung
 - **Sachlich** — neue Tatsachen, relevantes Dokument aufgetaucht, Entscheidung zur Sache
 - **Strategie** — Positionswechsel, Vergleichsangebot gemacht/erhalten, Änderung der Vergleichskompetenz
 - **Risikoneubewertung** — Schwere oder Wahrscheinlichkeit hat sich geändert
@@ -153,7 +153,7 @@ Der Verlaufseintrag und die Yaml-Diff werden dem Nutzer zur Freigabe vorgelegt:
 
 ## [2025-05-12] — Verfahrensrechtlich: Berufungsbegründung eingereicht
 
-Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (§ 520 Abs. 2 ZPO). Keine inhaltlichen Änderungen zur bisherigen Positionierung. Nächster Termin: Eingang der Berufungserwiderung der Gegenseite erwartet bis 12.07.2025.
+Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (Paragraf 520 Abs. 2 ZPO). Keine inhaltlichen Änderungen zur bisherigen Positionierung. Nächster Termin: Eingang der Berufungserwiderung der Gegenseite erwartet bis 12.07.2025.
 
 **Geänderte Felder:**
 - naechste_frist: 2025-07-12
@@ -165,7 +165,7 @@ Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (§ 520 Abs. 2 
 
 ## Risiken und typische Fehler
 
-- **Fristversäumnis durch verzögerten Eintrag:** Der Eintrag ersetzt kein Fristenkontrollsystem; die Kanzlei muss separate Fristenkalender nach § 11 BORA führen. Dieser Skill dokumentiert — er sichert keine Fristen.
+- **Fristversäumnis durch verzögerten Eintrag:** Der Eintrag ersetzt kein Fristenkontrollsystem; die Kanzlei muss separate Fristenkalender nach Paragraf 11 BORA führen. Dieser Skill dokumentiert — er sichert keine Fristen.
 - **Stillschweigendes Wesentlichkeitsupdating:** Unterbleibt die explizite Wesentlichkeitsprüfung, kann eine Rückstellungspflicht oder eine kapitalmarktrechtliche Offenlegungspflicht übersehen werden.
 - **Einträge in nicht-aufgenommene Mandate:** Ohne vorherige Interessenkonfliktprüfung (`/prozessrecht:mandat-aufnahme`) werden keine Einträge angelegt.
 - **Vergleichsannahme ohne anwaltliche Prüfung:** Die Schranke ist unüberwindbar für Nicht-Juristen; nur ein explizites Ja entsperrt den Eintrag.
@@ -176,7 +176,7 @@ Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (§ 520 Abs. 2 
 
 In der Verlaufsakte und bei Wesentlichkeitsprüfungen sind folgende Quellen heranzuziehen und, soweit angegeben, zu zitieren:
 
-- Gesetzestexte: §§ 214 ff., 516, 520, 548, 569 ZPO; §§ 317 ff. StPO; § 116 VwGO; § 43a BRAO; § 11 BORA
+- Gesetzestexte: Paragrafen 214 ff., 516, 520, 548, 569 ZPO; Paragrafen 317 ff. StPO; Paragraf 116 VwGO; Paragraf 43a BRAO; Paragraf 11 BORA
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 

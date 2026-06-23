@@ -1,6 +1,6 @@
 ---
 name: proz-mediationsklage-guete-spezial
-description: "Spezialfall obligatorisches Gueteverfahren § 15a EGZPO und Mediation: zuständige Stelle, Verlauf, Vergleich, Folgen. Prüfraster für Klägervorbereitung im Prozessrecht."
+description: "Spezialfall obligatorisches Gueteverfahren Paragraf 15a EGZPO und Mediation: zuständige Stelle, Verlauf, Vergleich, Folgen. Prüfraster für Klägervorbereitung im Prozessrecht."
 ---
 
 # Proz: Mediation Gueteverfahren

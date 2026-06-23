@@ -14,7 +14,7 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 | Akte neu oder Ordner/ZIP hochgeladen | aktenordner-schnellstart | dokumente-intake bei Belegchaos |
 | Akte neu Schuldner privater Verbraucher Forderung dokumentiert | mahnung-aussergerichtlich-stufenmodell | mahnbescheid-online wenn Verjährung droht |
 | Mahnung verstrichen Schuldner schweigt | mahnbescheid-online | zahlungsklage-erstellen wenn Streit erwartbar |
-| Zahlung Aufrechnung oder dauernde Einrede nach Klageeinreichung | kostenfeststellungsklage-verzugsschaden-erledigung | § 91a ZPO oder § 269 Abs. 3 Satz 3 ZPO nur nach Zeitachsenprüfung |
+| Zahlung Aufrechnung oder dauernde Einrede nach Klageeinreichung | kostenfeststellungsklage-verzugsschaden-erledigung | Paragraf 91a ZPO oder Paragraf 269 Abs. 3 Satz 3 ZPO nur nach Zeitachsenprüfung |
 | Mahnbescheid eingelegt Widerspruch | zahlungsklage-erstellen | inkasso-risikoampel zur Aussichtspruefung |
 | Vollstreckungsbescheid rechtskraeftig | vollstreckungsbescheid-folgen | zwangsvollstreckung-überblick |
 | Urteil rechtskraeftig | zwangsvollstreckung-überblick | forderung-im-ausland-vollstrecken bei Auslandsbezug |
@@ -52,18 +52,18 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 
 ### Kuratierte Normen-Bibliothek
 
-- § 3a RVG
-- § 71 GVG
-- § 19 GmbHG
-- § 8 RVG
-- § 4 RDGEG
-- § 41 GKG
-- § 13 GmbHG
-- § 31 GmbHG
-- § 9 RVG
-- § 23a GVG
-- § 23 RVG
-- § 215 VVG
+- Paragraf 3a RVG
+- Paragraf 71 GVG
+- Paragraf 19 GmbHG
+- Paragraf 8 RVG
+- Paragraf 4 RDGEG
+- Paragraf 41 GKG
+- Paragraf 13 GmbHG
+- Paragraf 31 GmbHG
+- Paragraf 9 RVG
+- Paragraf 23a GVG
+- Paragraf 23 RVG
+- Paragraf 215 VVG
 
 ### Leitentscheidungen
 

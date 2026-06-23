@@ -9,7 +9,7 @@ description: "Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Au
 
 Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen Prozessmandaten. Ein Mandatsarbeitsbereich hält den Kontext eines Mandats strikt von allen anderen getrennt. Dieser Skill verwaltet diese Arbeitsbereiche. Lädt bei Anfragen zur Mandatsverwaltung: Anlegen, Auflisten, Wechseln, Schließen und Archivieren von Prozessmandaten.
 
-**Standardzustand ist deaktiviert für Syndikusrechtsanwälte** (§ 46 BRAO) und Einmandat-Kanzleien. Für diese läuft das Plugin automatisch auf Kanzleiebene. Ist `Aktiviert: ✗` in der Kanzleikonfiguration, erklärt dieser Skill den deaktivierten Zustand und schlägt eine Neukonfiguration vor.
+**Standardzustand ist deaktiviert für Syndikusrechtsanwälte** (Paragraf 46 BRAO) und Einmandat-Kanzleien. Für diese läuft das Plugin automatisch auf Kanzleiebene. Ist `Aktiviert: ✗` in der Kanzleikonfiguration, erklärt dieser Skill den deaktivierten Zustand und schlägt eine Neukonfiguration vor.
 
 ## Eingaben
 
@@ -21,11 +21,11 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 
 ### Kernvorschriften
 
-- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht des Rechtsanwalts; absolute Mandandenvertraulichkeit; keine Datenweitergabe zwischen Mandaten ohne Einwilligung.
-- **§ 50 BRAO** — Handakten des Rechtsanwalts; Aufbewahrungspflicht von mindestens fünf Jahren nach Mandatsende (§ 50 Abs. 2 BRAO).
-- **§ 3 BORA** — Mandatsniederlegung; die Aktenführungspflicht bleibt bis zur ordnungsgemäßen Übergabe bestehen.
-- **§ 45 BRAO** — Tätigkeitsverbote bei Interessenkonflikten; vor Mandatsanlage ist die Konfliktkontrolle unerlässlich.
-- **§ 2 Abs. 1 DSGVO i.V.m. § 1 BDSG** — Personenbezogene Daten in Mandatsakten unterliegen dem Datenschutzrecht; organisatorische Trennung ist technisch-organisatorische Maßnahme i.S.d. Art. 32 DSGVO.
+- **Paragraf 43a Abs. 2 BRAO** — Verschwiegenheitspflicht des Rechtsanwalts; absolute Mandandenvertraulichkeit; keine Datenweitergabe zwischen Mandaten ohne Einwilligung.
+- **Paragraf 50 BRAO** — Handakten des Rechtsanwalts; Aufbewahrungspflicht von mindestens fünf Jahren nach Mandatsende (Paragraf 50 Abs. 2 BRAO).
+- **Paragraf 3 BORA** — Mandatsniederlegung; die Aktenführungspflicht bleibt bis zur ordnungsgemäßen Übergabe bestehen.
+- **Paragraf 45 BRAO** — Tätigkeitsverbote bei Interessenkonflikten; vor Mandatsanlage ist die Konfliktkontrolle unerlässlich.
+- **Paragraf 2 Abs. 1 DSGVO i.V.m. Paragraf 1 BDSG** — Personenbezogene Daten in Mandatsakten unterliegen dem Datenschutzrecht; organisatorische Trennung ist technisch-organisatorische Maßnahme i.S.d. Art. 32 DSGVO.
 
 ### Leitentscheidungen
 
@@ -42,7 +42,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`:
 
-> "Mandatsarbeitsbereiche sind deaktiviert — die Kanzlei ist als Einmandat-Kanzlei (z. B. Syndikusrechtsanwalt nach § 46 BRAO) konfiguriert und arbeitet automatisch auf Kanzleiebene. Falls tatsächlich mehrere Mandate geführt werden, bitte `/prozessrecht:prozessrecht-kaltstart-interview --neu` ausführen und eine Mehrmandat-Kanzlei auswählen. Andernfalls wird `/mandat-arbeitsbereich` nicht benötigt."
+> "Mandatsarbeitsbereiche sind deaktiviert — die Kanzlei ist als Einmandat-Kanzlei (z. B. Syndikusrechtsanwalt nach Paragraf 46 BRAO) konfiguriert und arbeitet automatisch auf Kanzleiebene. Falls tatsächlich mehrere Mandate geführt werden, bitte `/prozessrecht:prozessrecht-kaltstart-interview --neu` ausführen und eine Mehrmandat-Kanzlei auswählen. Andernfalls wird `/mandat-arbeitsbereich` nicht benötigt."
 
 ### Schritt 2: Unterbefehl ausführen
 
@@ -81,7 +81,7 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter separater Überschri
 
 1. Bestätigen, dass `mandate/<slug>/` existiert.
 2. Eintrag "Mandat abgeschlossen" in `mandate/<slug>/verlauf.md` mit heutigem Datum anhängen.
-3. `mandate/<slug>/` nach `mandate/_archiviert/<slug>/` verschieben (nicht löschen — § 50 Abs. 2 BRAO).
+3. `mandate/<slug>/` nach `mandate/_archiviert/<slug>/` verschieben (nicht löschen — Paragraf 50 Abs. 2 BRAO).
 4. War das geschlossene Mandat das aktive, `Aktives Mandat:` auf `keins — nur Kanzleiebene` setzen.
 
 #### `keins`
@@ -190,15 +190,15 @@ Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
 
 ## Risiken und typische Fehler
 
-- **Mandatsübergreifende Informationsweitergabe:** Ohne strikte Trennung können Informationen aus Mandat A bei der Bearbeitung von Mandat B sichtbar werden — Verstoß gegen § 43a Abs. 2 BRAO. Das Flag `Mandatsübergreifender Kontext: aus` (Standard) verhindert dies.
-- **Löschung statt Archivierung:** Archivierte Mandate dürfen nicht gelöscht werden (§ 50 Abs. 2 BRAO: 5 Jahre Aufbewahrung). `schließen` verschiebt nur.
+- **Mandatsübergreifende Informationsweitergabe:** Ohne strikte Trennung können Informationen aus Mandat A bei der Bearbeitung von Mandat B sichtbar werden — Verstoß gegen Paragraf 43a Abs. 2 BRAO. Das Flag `Mandatsübergreifender Kontext: aus` (Standard) verhindert dies.
+- **Löschung statt Archivierung:** Archivierte Mandate dürfen nicht gelöscht werden (Paragraf 50 Abs. 2 BRAO: 5 Jahre Aufbewahrung). `schließen` verschiebt nur.
 - **Konfliktkontrolle nicht Aufgabe dieses Skills:** Die Aufnahme erfasst die Angaben des Anwalts; eine eigenständige Konfliktkontrolle kann das Plugin nicht ersetzen.
 - **Slug-Kollision mit archivierten Mandaten:** Wird ein Slug wiederverwendet, der in `_archiviert/` liegt, ist das archivierte Mandat unter `_archiviert/<slug>/` weiter lesbar.
-- **Retention/Aufbewahrung:** Das Schließen archiviert; Löschfristen nach § 50 BRAO und DSGVO Art. 17 sind Sache der Kanzlei.
+- **Retention/Aufbewahrung:** Das Schließen archiviert; Löschfristen nach Paragraf 50 BRAO und DSGVO Art. 17 sind Sache der Kanzlei.
 
 ## Quellenpflicht
 
-- Gesetzestexte: §§ 43a, 45, 46, 50 BRAO; § 3 BORA; Art. 32 DSGVO; § 1 BDSG
+- Gesetzestexte: Paragrafen 43a, 45, 46, 50 BRAO; Paragraf 3 BORA; Art. 32 DSGVO; Paragraf 1 BDSG
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 

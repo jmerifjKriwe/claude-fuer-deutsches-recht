@@ -11,15 +11,15 @@ Nutze diesen Skill, wenn ein fristgebundener Schriftsatz wegen beA-, Internet-, 
 
 ## Normenanker
 
-- ZPO §§ 130a, 130d, 233, 234, 236, 85 Abs. 2, 222.
+- ZPO Paragrafen 130a, 130d, 233, 234, 236, 85 Abs. 2, 222.
 - ERVV, besonders technische Anforderungen an elektronische Dokumente und Übermittlungswege.
-- BRAO § 31a zum besonderen elektronischen Anwaltspostfach.
+- BRAO Paragraf 31a zum besonderen elektronischen Anwaltspostfach.
 - BORA/BRAO-Fristenorganisation als Organisationspflicht; Fristenkalender, Ausgangskontrolle und Prüfprotokoll.
 - GVG/Zuständigkeits- und Rechtsmittelvorschriften je nach Verfahrensart mitprüfen.
 
 ## Verifizierte Entscheidungsanker
 
-- **BGH, Beschluss vom 25.02.2025 - VI ZB 19/24**: Eine Ersatzeinreichung nach § 130d Satz 2 ZPO trägt nur, wenn die vorübergehende technische Unmöglichkeit aus sich heraus verständlich, geschlossen und unverzüglich glaubhaft gemacht wird; eine bloße Formel wie “beA-Übertragungsstörung” genügt nicht.
+- **BGH, Beschluss vom 25.02.2025 - VI ZB 19/24**: Eine Ersatzeinreichung nach Paragraf 130d Satz 2 ZPO trägt nur, wenn die vorübergehende technische Unmöglichkeit aus sich heraus verständlich, geschlossen und unverzüglich glaubhaft gemacht wird; eine bloße Formel wie “beA-Übertragungsstörung” genügt nicht.
 - **BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25**: Bei behauptetem Internet-/Routerproblem muss die Glaubhaftmachung erkennen lassen, dass der Ausfall wirklich technischer Natur war und nicht auf Bedienungs-, Organisations- oder Infrastrukturversäumnissen der Kanzlei beruhte.
 
 ## Prüfprogramm

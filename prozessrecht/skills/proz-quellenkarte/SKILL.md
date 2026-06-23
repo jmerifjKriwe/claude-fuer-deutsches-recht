@@ -25,10 +25,10 @@ Diese Quellenkarte sichert für **Prozessrecht (ZPO/VwGO/StPO/SGG)** jede tragen
 
 ## Fristen mit Quellenrelevanz
 
-- Berufung 1 Mon. § 517 ZPO
+- Berufung 1 Mon. Paragraf 517 ZPO
 - Revision 1 Mon.
-- Klagefrist § 74 VwGO 1 Mon.
-- Anhörungsrüge 2 Wochen § 321a
+- Klagefrist Paragraf 74 VwGO 1 Mon.
+- Anhörungsrüge 2 Wochen Paragraf 321a
 
 ## Prüfroute
 

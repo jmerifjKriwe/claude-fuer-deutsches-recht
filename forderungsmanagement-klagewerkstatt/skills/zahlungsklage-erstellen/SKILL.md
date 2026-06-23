@@ -5,19 +5,19 @@ description: "Zahlungsklage erstellen nach Paragrafen 253 ff. ZPO: Rubrum, Klage
 
 # Zahlungsklage erstellen
 
-Konstruktion einer Klageschrift für reine Geldforderungen nach §§ 253 ff. ZPO. Diese Anleitung liefert das Geruest, die Pflichtangaben und die typischen Stolperfallen aus der Praxis.
+Konstruktion einer Klageschrift für reine Geldforderungen nach Paragrafen 253 ff. ZPO. Diese Anleitung liefert das Geruest, die Pflichtangaben und die typischen Stolperfallen aus der Praxis.
 
-## Pflichtbestandteile der Klageschrift (§ 253 Abs. 2 ZPO)
+## Pflichtbestandteile der Klageschrift (Paragraf 253 Abs. 2 ZPO)
 
 | Bestandteil | Norm | Inhalt |
 |---|---|---|
-| Bezeichnung der Parteien | § 253 Abs. 2 Nr. 1 ZPO | Voller Name, ladungsfaehige Anschrift, gesetzlicher Vertreter (bei juristischen Personen); bei GmbH Geschäftsführer mit HRB-Auszug |
-| Bezeichnung des Gerichts | § 253 Abs. 2 Nr. 1 ZPO | Sachlich + oertlich zuständiges Gericht (AG/LG) |
-| Bestimmter Antrag | § 253 Abs. 2 Nr. 2 ZPO | Zahlung in EUR, Zinsen genau (Höhe, Zeitraum, Bezugsforderung), Kosten |
-| Bestimmter Gegenstand und Grund | § 253 Abs. 2 Nr. 2 ZPO | Tatbestand mit Lebenssachverhalt |
-| Beweismittel | § 253 Abs. 3 Nr. 1 ZPO | Urkunden, Zeugen mit ladungsfaehiger Anschrift, Sachverstaendige |
-| Streitwertangabe | § 61 GKG, § 3 ZPO | bei Geldforderung Hauptforderung ohne Zinsen + Nebenforderungen ohne Bezifferungspflicht (§ 4 ZPO) |
-| Unterschrift | § 130 Nr. 6 ZPO | Anwalt mit Stempel, beA für elektronische Einreichung (§ 130d ZPO Pflicht seit 01.01.2022) |
+| Bezeichnung der Parteien | Paragraf 253 Abs. 2 Nr. 1 ZPO | Voller Name, ladungsfaehige Anschrift, gesetzlicher Vertreter (bei juristischen Personen); bei GmbH Geschäftsführer mit HRB-Auszug |
+| Bezeichnung des Gerichts | Paragraf 253 Abs. 2 Nr. 1 ZPO | Sachlich + oertlich zuständiges Gericht (AG/LG) |
+| Bestimmter Antrag | Paragraf 253 Abs. 2 Nr. 2 ZPO | Zahlung in EUR, Zinsen genau (Höhe, Zeitraum, Bezugsforderung), Kosten |
+| Bestimmter Gegenstand und Grund | Paragraf 253 Abs. 2 Nr. 2 ZPO | Tatbestand mit Lebenssachverhalt |
+| Beweismittel | Paragraf 253 Abs. 3 Nr. 1 ZPO | Urkunden, Zeugen mit ladungsfaehiger Anschrift, Sachverstaendige |
+| Streitwertangabe | Paragraf 61 GKG, Paragraf 3 ZPO | bei Geldforderung Hauptforderung ohne Zinsen + Nebenforderungen ohne Bezifferungspflicht (Paragraf 4 ZPO) |
+| Unterschrift | Paragraf 130 Nr. 6 ZPO | Anwalt mit Stempel, beA für elektronische Einreichung (Paragraf 130d ZPO Pflicht seit 01.01.2022) |
 
 ## Sachliche Zuständigkeit (Stand ab 01.01.2026)
 
@@ -27,9 +27,9 @@ Konstruktion einer Klageschrift für reine Geldforderungen nach §§ 253 ff. ZPO
 | über 10.000 EUR | Landgericht | Paragraf 71 Absatz 1 GVG |
 | Wohnraummietsachen einschließlich verbundener Räumungs- und Zahlungsklage | Amtsgericht ausschließlich, streitwertunabhängig | Paragraf 23 Nummer 2a GVG |
 | Gewerberaummiete | nach allgemeiner Wertzuständigkeit | Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG |
-| Familiensachen | AG (Familiengericht) | § 23a GVG |
+| Familiensachen | AG (Familiengericht) | Paragraf 23a GVG |
 
-Uebergangsregelung § 47 EGZPO: vor dem 01.01.2026 anhaengige Verfahren bleiben am bisherigen Gericht.
+Uebergangsregelung Paragraf 47 EGZPO: vor dem 01.01.2026 anhaengige Verfahren bleiben am bisherigen Gericht.
 
 ## Klageantrag-Bausteine
 
@@ -39,31 +39,31 @@ Es wird beantragt:
    Zinsen in Hoehe von 9 Prozentpunkten ueber dem Basiszinssatz
    aus EUR 6.480,00 seit dem 15.03.2026 zu zahlen.
 2. Die Beklagte wird verurteilt, an die Klaegerin eine Verzugspauschale
-   in Hoehe von EUR 40,00 zu zahlen (§ 288 Abs. 5 BGB).
+   in Hoehe von EUR 40,00 zu zahlen (Paragraf 288 Abs. 5 BGB).
 3. Die Beklagte traegt die Kosten des Rechtsstreits.
 4. Das Urteil ist vorlaeufig vollstreckbar; der Beklagten wird
    nachgelassen, die Vollstreckung gegen Sicherheitsleistung in
    Hoehe von 110 % des jeweils zu vollstreckenden Betrages
    abzuwenden, sofern die Klaegerin nicht zuvor Sicherheit in
-   gleicher Hoehe leistet (§ 709 ZPO).
+   gleicher Hoehe leistet (Paragraf 709 ZPO).
 ```
 
-Bei Verbraucher als Beklagtem: 5 Prozentpunkte über Basiszins (§ 288 Abs. 1 BGB), keine 40-EUR-Pauschale.
+Bei Verbraucher als Beklagtem: 5 Prozentpunkte über Basiszins (Paragraf 288 Abs. 1 BGB), keine 40-EUR-Pauschale.
 
 ## Tatbestand – Aufbau
 
 1. **Parteien und Vertragsverhaeltnis:** Wer hat mit wem worueber kontrahiert, Vertragsdatum, Vertragstyp.
 2. **Hauptleistungspflichten:** Was war geschuldet (Lieferung, Werk, Dienstleistung).
-3. **Erfuellung durch Klägerin:** Wann geliefert, Abnahme (§ 640 BGB), Rechnungsstellung (§ 14 UStG bei Unternehmer).
-4. **Faelligkeit:** Vertragliche Faelligkeitsregel ODER § 271 BGB (sofort) ODER § 641 BGB (Werklohn nach Abnahme) ODER § 271a BGB (Hoechstfristen B2B 30/60 Tage).
-5. **Verzugseintritt:** Mahnung (§ 286 Abs. 1 BGB) ODER kalendermäßige Bestimmung (§ 286 Abs. 2 Nr. 1 BGB) ODER 30-Tage-Regel B2B nach Rechnungszugang (§ 286 Abs. 3 BGB).
+3. **Erfuellung durch Klägerin:** Wann geliefert, Abnahme (Paragraf 640 BGB), Rechnungsstellung (Paragraf 14 UStG bei Unternehmer).
+4. **Faelligkeit:** Vertragliche Faelligkeitsregel ODER Paragraf 271 BGB (sofort) ODER Paragraf 641 BGB (Werklohn nach Abnahme) ODER Paragraf 271a BGB (Hoechstfristen B2B 30/60 Tage).
+5. **Verzugseintritt:** Mahnung (Paragraf 286 Abs. 1 BGB) ODER kalendermäßige Bestimmung (Paragraf 286 Abs. 2 Nr. 1 BGB) ODER 30-Tage-Regel B2B nach Rechnungszugang (Paragraf 286 Abs. 3 BGB).
 6. **Stand der Forderung:** Hauptforderung, Teilzahlungen, Restforderung, Verzugszinsen, Mahnkosten.
 
 ## Streitwert berechnen
 
-- Hauptforderung **ohne** Zinsen und Kosten (§ 4 Abs. 1 ZPO).
-- Wiederkehrende Leistungen: 3,5-facher Jahresbetrag (§ 9 ZPO).
-- Bei mehreren Forderungen Addition (§ 5 ZPO), Hilfsantraege nicht.
+- Hauptforderung **ohne** Zinsen und Kosten (Paragraf 4 Abs. 1 ZPO).
+- Wiederkehrende Leistungen: 3,5-facher Jahresbetrag (Paragraf 9 ZPO).
+- Bei mehreren Forderungen Addition (Paragraf 5 ZPO), Hilfsantraege nicht.
 
 ## Anlagenverzeichnis (Standard)
 
@@ -85,7 +85,7 @@ Bei Verbraucher als Beklagtem: 5 Prozentpunkte über Basiszins (§ 288 Abs. 1 BG
 
 ## Elektronische Einreichung
 
-Seit 01.01.2022 Pflicht über beA für Rechtsanwaelte (§ 130d ZPO). Format: PDF/A oder durchsuchbares PDF, Signatur durch beA oder qeS.
+Seit 01.01.2022 Pflicht über beA für Rechtsanwaelte (Paragraf 130d ZPO). Format: PDF/A oder durchsuchbares PDF, Signatur durch beA oder qeS.
 
 ## B2B-Inkasso-Variante mit Inkassokosten
 
@@ -110,7 +110,7 @@ Verzugskostenpauschale zu zahlen.
 
 Wenn die Beklagte nach Klageeinreichung zahlt, aufrechnet oder sonst den ursprünglichen Zahlungsantrag erledigt, nicht automatisch die Klage zurücknehmen und nicht reflexhaft für erledigt erklären. Zuerst die Zeitachse klären: Eingang der Klage bei Gericht, Einzahlung des Gerichtskostenvorschusses, Zustellung der Klage und Eingang der Zahlung.
 
-War die Beklagte bei Klageeinreichung in Verzug, können die durch die Klageeinreichung entstandenen Kosten als Rechtsverfolgungskosten nach §§ 280 Abs. 1 und 2, 286 BGB ersatzfähig sein. Dann kommt eine Klageänderung auf Feststellung der materiellen Kostenerstattungspflicht in Betracht. Der Anschluss-Skill ist `kostenfeststellungsklage-verzugsschaden-erledigung`.
+War die Beklagte bei Klageeinreichung in Verzug, können die durch die Klageeinreichung entstandenen Kosten als Rechtsverfolgungskosten nach Paragrafen 280 Abs. 1 und 2, 286 BGB ersatzfähig sein. Dann kommt eine Klageänderung auf Feststellung der materiellen Kostenerstattungspflicht in Betracht. Der Anschluss-Skill ist `kostenfeststellungsklage-verzugsschaden-erledigung`.
 
 ```
 Hilfsweise für den Fall, dass der ursprüngliche Zahlungsantrag wegen
@@ -123,18 +123,18 @@ als Verzugsschaden zu ersetzen.
 
 ## Typische Fehler
 
-- Antrag ohne genauen Zinsbeginn → Bestimmtheit (§ 253 Abs. 2 Nr. 2 ZPO) verletzt.
+- Antrag ohne genauen Zinsbeginn → Bestimmtheit (Paragraf 253 Abs. 2 Nr. 2 ZPO) verletzt.
 - Verzugszinsen ab Rechnungsdatum statt ab Mahnung/Faelligkeit + 30 Tagen.
 - Streitwert zu niedrig angegeben → spaetere Verweisung ans LG.
 - Bei GbR-Beklagter: alle Gesellschafter mit Anschrift; ladungsfaehige Anschrift der GbR allein reicht nicht (BGH II ZR 175/16).
 - Vergessen, die Mwst.-Pflicht zu prüfen (Brutto vs. Netto).
-- Zahlung nach Klageeinreichung falsch behandeln: Vor Rechtshängigkeit kann § 269 Abs. 3 Satz 3 ZPO passen, nach Rechtshängigkeit § 91a ZPO; bei Schuldnerverzug zusätzlich immer die Kostenfeststellungsklage als materiellen Verzugsschaden prüfen.
+- Zahlung nach Klageeinreichung falsch behandeln: Vor Rechtshängigkeit kann Paragraf 269 Abs. 3 Satz 3 ZPO passen, nach Rechtshängigkeit Paragraf 91a ZPO; bei Schuldnerverzug zusätzlich immer die Kostenfeststellungsklage als materiellen Verzugsschaden prüfen.
 
 ## Quellen
-- ZPO §§ 253 ff. [gesetze-im-internet.de/zpo/__253.html](https://www.gesetze-im-internet.de/zpo/__253.html)
-- ZPO § 78 Anwaltszwang [gesetze-im-internet.de/zpo/__78.html](https://www.gesetze-im-internet.de/zpo/__78.html)
-- ZPO § 130d Pflicht-beA [gesetze-im-internet.de/zpo/__130d.html](https://www.gesetze-im-internet.de/zpo/__130d.html)
-- GVG § 23, § 71 [gesetze-im-internet.de/gvg/__23.html](https://www.gesetze-im-internet.de/gvg/__23.html)
-- BGB § 288 Verzugszinsen [gesetze-im-internet.de/bgb/__288.html](https://www.gesetze-im-internet.de/bgb/__288.html)
-- BGH, Urteil vom 18.04.2013 - III ZR 156/12 (Wahlrecht zwischen Kostenantrag nach § 269 Abs. 3 Satz 3 ZPO und materieller Kostenerstattungsklage; Fundstelle vor Schriftsatzverwendung live prüfen)
+- ZPO Paragrafen 253 ff. [gesetze-im-internet.de/zpo/__253.html](https://www.gesetze-im-internet.de/zpo/__253.html)
+- ZPO Paragraf 78 Anwaltszwang [gesetze-im-internet.de/zpo/__78.html](https://www.gesetze-im-internet.de/zpo/__78.html)
+- ZPO Paragraf 130d Pflicht-beA [gesetze-im-internet.de/zpo/__130d.html](https://www.gesetze-im-internet.de/zpo/__130d.html)
+- GVG Paragraf 23, Paragraf 71 [gesetze-im-internet.de/gvg/__23.html](https://www.gesetze-im-internet.de/gvg/__23.html)
+- BGB Paragraf 288 Verzugszinsen [gesetze-im-internet.de/bgb/__288.html](https://www.gesetze-im-internet.de/bgb/__288.html)
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12 (Wahlrecht zwischen Kostenantrag nach Paragraf 269 Abs. 3 Satz 3 ZPO und materieller Kostenerstattungsklage; Fundstelle vor Schriftsatzverwendung live prüfen)
 - BGBl. 2025 I Nr. 318 (Erhoehung AG-Zuständigkeit auf 10.000 EUR ab 01.01.2026)

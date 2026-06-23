@@ -1,6 +1,6 @@
 ---
 name: mahnverfahren-beweislast-darlegungslast
-description: "Beweislast und Darlegungslast in Mahnverfahren und Klage: Kläger traegt Darlegungs- und Beweislast für anspruchsbegruendende Tatsachen. Substantiierungspflicht § 138 ZPO, Wahrheitspflicht, Bestreiten mit Nichtwissen § 138 Abs. 4 ZPO. Sekundaere Darlegungslast bei Wissensvorsprung Bekl. Output: B..."
+description: "Beweislast und Darlegungslast in Mahnverfahren und Klage: Kläger traegt Darlegungs- und Beweislast für anspruchsbegruendende Tatsachen. Substantiierungspflicht Paragraf 138 ZPO, Wahrheitspflicht, Bestreiten mit Nichtwissen Paragraf 138 Abs. 4 ZPO. Sekundaere Darlegungslast bei Wissensvorsprung Bekl. Output: B..."
 ---
 
 # Beweislast und Darlegungslast
@@ -11,11 +11,11 @@ Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. E
 
 | Regel | Inhalt | Norm |
 |---|---|---|
-| Beibringungsgrundsatz | Parteien tragen Tatsachen vor | § 282 ZPO |
-| Wahrheitspflicht | Parteien müssen wahr sein | § 138 Abs. 1 ZPO |
-| Substantiierungspflicht | konkreter Tatsachenvortrag | § 138 Abs. 2 ZPO |
-| Geststaendnisfiktion | nicht bestrittene Tatsache gilt zugegeben | § 138 Abs. 3 ZPO |
-| Bestreiten mit Nichtwissen | nur über Vorgaenge der Gegenseite | § 138 Abs. 4 ZPO |
+| Beibringungsgrundsatz | Parteien tragen Tatsachen vor | Paragraf 282 ZPO |
+| Wahrheitspflicht | Parteien müssen wahr sein | Paragraf 138 Abs. 1 ZPO |
+| Substantiierungspflicht | konkreter Tatsachenvortrag | Paragraf 138 Abs. 2 ZPO |
+| Geststaendnisfiktion | nicht bestrittene Tatsache gilt zugegeben | Paragraf 138 Abs. 3 ZPO |
+| Bestreiten mit Nichtwissen | nur über Vorgaenge der Gegenseite | Paragraf 138 Abs. 4 ZPO |
 
 ## Verteilung der Beweislast
 
@@ -25,32 +25,32 @@ Wer im Prozess **was** vortragen muss und wer im Streitfall **beweisen** muss. E
 
 | Forderungstyp | Kläger beweist |
 |---|---|
-| Kaufpreisanspruch § 433 BGB | Vertragsschluss, Lieferung, Faelligkeit |
-| Werklohnanspruch § 631 BGB | Vertrag, Abnahme, Höhe Werklohn |
-| Mietzinsanspruch § 535 BGB | Mietvertrag, Höhe Miete |
-| Darlehensrueckforderung § 488 BGB | Darlehensvertrag, Auszahlung, Faelligkeit |
-| Schadensersatz § 280 BGB | Vertragsverletzung, Verschulden, Schaden, Kausalitaet |
-| Bereicherungsanspruch § 812 BGB | Leistung, ohne Rechtsgrund, Höhe |
+| Kaufpreisanspruch Paragraf 433 BGB | Vertragsschluss, Lieferung, Faelligkeit |
+| Werklohnanspruch Paragraf 631 BGB | Vertrag, Abnahme, Höhe Werklohn |
+| Mietzinsanspruch Paragraf 535 BGB | Mietvertrag, Höhe Miete |
+| Darlehensrueckforderung Paragraf 488 BGB | Darlehensvertrag, Auszahlung, Faelligkeit |
+| Schadensersatz Paragraf 280 BGB | Vertragsverletzung, Verschulden, Schaden, Kausalitaet |
+| Bereicherungsanspruch Paragraf 812 BGB | Leistung, ohne Rechtsgrund, Höhe |
 
 ### Beim Beklagten (rechtshindernde, rechtsvernichtende, rechtshemmende Tatsachen)
 
 | Einwendung | Beklagter beweist |
 |---|---|
-| Erfuellung § 362 BGB | Zahlung mit Belegen |
-| Aufrechnung § 387 BGB | Gegenforderung, Aufrechnungslage, Erklaerung |
+| Erfuellung Paragraf 362 BGB | Zahlung mit Belegen |
+| Aufrechnung Paragraf 387 BGB | Gegenforderung, Aufrechnungslage, Erklaerung |
 | Stundung | Stundungsvereinbarung |
-| Erlass § 397 BGB | Erlassvertrag |
-| Verjährung § 214 BGB | Verjährungsdaten, fehlende Hemmung |
-| Schlechtleistung § 280 BGB | Mangel, Frist, Schaden |
-| AGB-Unwirksamkeit | Vereinbarung, Inhaltswidrigkeit § 305 ff. BGB |
-| Sittenwidrigkeit § 138 BGB | sittenwidrige Umstaende |
+| Erlass Paragraf 397 BGB | Erlassvertrag |
+| Verjährung Paragraf 214 BGB | Verjährungsdaten, fehlende Hemmung |
+| Schlechtleistung Paragraf 280 BGB | Mangel, Frist, Schaden |
+| AGB-Unwirksamkeit | Vereinbarung, Inhaltswidrigkeit Paragraf 305 ff. BGB |
+| Sittenwidrigkeit Paragraf 138 BGB | sittenwidrige Umstaende |
 
 ### Beweislastumkehr / Beweislasterleichterung
 
 | Konstellation | Folge |
 |---|---|
-| Verbrauchsgueterkauf § 477 BGB | Mangel zur Zeit Gefahruebergang vermutet (12 Monate) |
-| Arzthaftung Dokumentationsfehler § 630h BGB | Beweislastumkehr bei groben Behandlungsfehlern |
+| Verbrauchsgueterkauf Paragraf 477 BGB | Mangel zur Zeit Gefahruebergang vermutet (12 Monate) |
+| Arzthaftung Dokumentationsfehler Paragraf 630h BGB | Beweislastumkehr bei groben Behandlungsfehlern |
 | Anscheinsbeweis | typischer Geschehensablauf |
 | Substantiierter Sachvortrag der Klagepartei | sekundaere Darlegungslast Bekl. |
 
@@ -73,23 +73,23 @@ Wenn Kläger ausserhalb des für ihn beweisbaren Bereichs steht und der Beklagte
 | Bestreiten ins Blaue hinein | unzulaessig |
 | Pauschales Bestreiten | unzureichend (BGH NJW 1995, 1432) |
 
-## Bestreiten mit Nichtwissen § 138 Abs. 4 ZPO
+## Bestreiten mit Nichtwissen Paragraf 138 Abs. 4 ZPO
 
 **Zulässig** nur über Tatsachen,
 1. die nicht eigene Handlungen der Partei betreffen UND
 2. nicht Gegenstand eigener Wahrnehmung der Partei waren.
 
-**Folgen** falsches Bestreiten mit Nichtwissen: Geststaendnisfiktion § 138 Abs. 3 ZPO.
+**Folgen** falsches Bestreiten mit Nichtwissen: Geststaendnisfiktion Paragraf 138 Abs. 3 ZPO.
 
 ## Beweismittel im Zivilprozess
 
 | Beweismittel | Norm |
 |---|---|
-| Urkundsbeweis | §§ 415-444 ZPO |
-| Zeugenbeweis | §§ 373-401 ZPO |
-| Sachverstaendigenbeweis | §§ 402-414 ZPO |
-| Augenscheinsbeweis | §§ 371-372a ZPO |
-| Parteivernehmung | §§ 445-455 ZPO |
+| Urkundsbeweis | Paragrafen 415-444 ZPO |
+| Zeugenbeweis | Paragrafen 373-401 ZPO |
+| Sachverstaendigenbeweis | Paragrafen 402-414 ZPO |
+| Augenscheinsbeweis | Paragrafen 371-372a ZPO |
+| Parteivernehmung | Paragrafen 445-455 ZPO |
 
 ## Praesentation Klagebegruendung – Beispiel
 
@@ -108,7 +108,7 @@ Tatbestand:
    (Anlagen K4-K6) nicht.
 
 Rechtliche Wuerdigung:
-Klaegerin hat aus § 631 Abs. 1 BGB Anspruch auf Werklohn ...
+Klaegerin hat aus Paragraf 631 Abs. 1 BGB Anspruch auf Werklohn ...
 ```
 
 ## Beweisaufgaben-Matrix
@@ -119,7 +119,7 @@ Bei Aufnahme eines Falles erstellen:
 | Vertragsschluss 15.04.24 | Kläger | Vertrag K1, Zeuge X |
 | Lieferung 30.04.24 | Kläger | Lieferschein K2 |
 | Abnahme | Kläger | Abnahmeprotokoll K3 |
-| Faelligkeit | Kläger | § 641 BGB i.V.m. Abnahme K3 |
+| Faelligkeit | Kläger | Paragraf 641 BGB i.V.m. Abnahme K3 |
 | Verzug | Kläger | Mahnung K4 mit Zugang |
 | Höhe Schaden Inkassokosten | Kläger | Anwaltsrechnung K6 |
 | Erfuellung durch Bekl. | Beklagter | Kontoauszug |
@@ -128,15 +128,15 @@ Bei Aufnahme eines Falles erstellen:
 ## Typische Fehler
 
 - Klagebegruendung pauschal "Beklagte schuldet noch 5.000 EUR".
-- Beweisangebot vergessen, dann § 273 ZPO Hinweis.
+- Beweisangebot vergessen, dann Paragraf 273 ZPO Hinweis.
 - Bestreiten mit Nichtwissen, obwohl eigene Tat im Konzern.
 - Sekundaere Darlegungslast nicht ausgenutzt.
-- Substantiierung erst in Berufung → § 530, § 531 ZPO Praeklusion.
+- Substantiierung erst in Berufung → Paragraf 530, Paragraf 531 ZPO Praeklusion.
 
 ## Quellen
-- ZPO § 138 Wahrheitspflicht [gesetze-im-internet.de/zpo/__138.html](https://www.gesetze-im-internet.de/zpo/__138.html)
-- ZPO § 282 Vortrag [gesetze-im-internet.de/zpo/__282.html](https://www.gesetze-im-internet.de/zpo/__282.html)
-- ZPO § 286 Beweiswuerdigung [gesetze-im-internet.de/zpo/__286.html](https://www.gesetze-im-internet.de/zpo/__286.html)
-- BGB § 477 Beweislast Verbrauchsguterkauf [gesetze-im-internet.de/bgb/__477.html](https://www.gesetze-im-internet.de/bgb/__477.html)
-- BGB § 630h Beweislast Arzt [gesetze-im-internet.de/bgb/__630h.html](https://www.gesetze-im-internet.de/bgb/__630h.html)
+- ZPO Paragraf 138 Wahrheitspflicht [gesetze-im-internet.de/zpo/__138.html](https://www.gesetze-im-internet.de/zpo/__138.html)
+- ZPO Paragraf 282 Vortrag [gesetze-im-internet.de/zpo/__282.html](https://www.gesetze-im-internet.de/zpo/__282.html)
+- ZPO Paragraf 286 Beweiswuerdigung [gesetze-im-internet.de/zpo/__286.html](https://www.gesetze-im-internet.de/zpo/__286.html)
+- BGB Paragraf 477 Beweislast Verbrauchsguterkauf [gesetze-im-internet.de/bgb/__477.html](https://www.gesetze-im-internet.de/bgb/__477.html)
+- BGB Paragraf 630h Beweislast Arzt [gesetze-im-internet.de/bgb/__630h.html](https://www.gesetze-im-internet.de/bgb/__630h.html)
 - BGH IX ZR 12/86 Beweislastregel [bundesgerichtshof.de](https://www.bundesgerichtshof.de)

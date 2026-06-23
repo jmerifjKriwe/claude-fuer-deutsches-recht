@@ -1,17 +1,17 @@
 ---
 name: forderungsmanagement-aufnahme
-description: "Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn. Output: vollstaendige Forderungsbeschreibung als Basis fuer Mahnverfahren oder Klage."
+description: "Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen Paragraf 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn. Output: vollstaendige Forderungsbeschreibung als Basis fuer Mahnverfahren oder Klage."
 ---
 
 # Forderung aufnehmen
 
 ## Aufgabe
-Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn.
+Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen Paragraf 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn.
 
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `forderungsmanagement-aufnahme`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn. Output: vollstaendige Forderungsbeschreibung als Basis fuer Mahnverfahren oder Klage..
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `forderungsmanagement-aufnahme`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen Paragraf 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn. Output: vollstaendige Forderungsbeschreibung als Basis fuer Mahnverfahren oder Klage..
 
 Arbeite deshalb fallnah:
 

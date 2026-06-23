@@ -1,6 +1,6 @@
 ---
 name: inkasso-zahlungsklage-ersteller
-description: "Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO. Prüfraster: Mahnvorlauf Anspruchs-Gatekeeper fällig belegt Teilzahlung Verzug Inkassokosten § 288 BGB Gerichtsortfindung §§ 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage für klare fällige belegte Ansprüche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster)."
+description: "Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement Paragrafen 286 ff. BGB ZPO. Prüfraster: Mahnvorlauf Anspruchs-Gatekeeper fällig belegt Teilzahlung Verzug Inkassokosten Paragraf 288 BGB Gerichtsortfindung Paragrafen 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage für klare fällige belegte Ansprüche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster)."
 ---
 
 # Inkasso-Zahlungsklage-Ersteller
@@ -9,7 +9,7 @@ description: "Gläubiger hat offene Forderung die er vor Gericht einklagen will.
 
 1. Liegt ein vollständiger Mahnvorlauf vor (Rechnung mit Fälligkeit, mindestens eine Mahnung mit Fristsetzung)?
 2. Ist die Hauptforderung noch nicht vor Klageeinreichung vollständig bezahlt (Erfüllungskontrolle)?
-3. Sind Schuldner-Anschrift und Verbraucher-/Unternehmereigenschaft geklärt (Gerichtsstand § 29c ZPO bei Verbrauchern)?
+3. Sind Schuldner-Anschrift und Verbraucher-/Unternehmereigenschaft geklärt (Gerichtsstand Paragraf 29c ZPO bei Verbrauchern)?
 4. Welche Nebenforderungen (Mahnkosten, Verzugszinsen, Inkassokosten) sollen eingeklagt werden — sind sie belegt und verhältnismäßig?
 5. Liegt eine Abtretungskette vor — ist die Aktivlegitimation des Gläubigers/Zessionars lückenlos dokumentiert?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -18,26 +18,26 @@ description: "Gläubiger hat offene Forderung die er vor Gericht einklagen will.
 
 Paragraf 286 BGB (Verzugseintritt) — Paragraf 288 BGB (Verzugszinsen: +5 Pp. B2C, +9 Pp. B2B) — Paragraf 280 Absatz 2 BGB (Verzugsschaden) — Paragraf 249 BGB (Schadensersatz) — Paragraf 253 ZPO (Klageschrift) — Paragrafen 12, 13, 29, 29c ZPO (örtliche Zuständigkeit) — Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG (allgemeine Wertzuständigkeit ab 01.01.2026: Amtsgericht bis einschließlich 10.000 EUR, Landgericht darüber; Paragraf 47 EGZPO Übergangsvorschrift) — Paragraf 23 Nummer 2a GVG (Wohnraummietsachen ausschließlich Amtsgericht) — Paragraf 93 ZPO (sofortiges Anerkenntnis, Kostenfolge) — Paragraf 812 BGB (Bereicherungsrecht als Auffanganspruch)
 
-## Basiszinssatz § 247 BGB
+## Basiszinssatz Paragraf 247 BGB
 
 - Basiszinssatz zum 01.01.2026: 1,27 Prozent (unveraendert gegenueber 01.07.2025). Bundesbank-Bekanntmachung: https://www.bundesbank.de/de/presse/pressenotizen/bekanntgabe-des-basiszinssatzes-zum-1-januar-2026-basiszinssatz-bleibt-unveraendert-bei-1-27--973974
-- Daraus B2C-Verzugszinssatz (§ 288 Abs. 1 BGB) 6,27 Prozent, B2B-Verzugszinssatz (§ 288 Abs. 2 BGB) 10,27 Prozent. Halbjaehrliche Pruefung am 01.01. und 01.07. erforderlich.
-- Verzugspauschale § 288 Abs. 5 BGB (B2B): 40 EUR pro Vorgang.
+- Daraus B2C-Verzugszinssatz (Paragraf 288 Abs. 1 BGB) 6,27 Prozent, B2B-Verzugszinssatz (Paragraf 288 Abs. 2 BGB) 10,27 Prozent. Halbjaehrliche Pruefung am 01.01. und 01.07. erforderlich.
+- Verzugspauschale Paragraf 288 Abs. 5 BGB (B2B): 40 EUR pro Vorgang.
 
 ## Aenderungen Zustaendigkeitsrecht ab 01.01.2026
 
 Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) hebt mit Wirkung ab 01.01.2026 an:
 
 - Sachliche Zuständigkeit Amtsgericht von 5.000 auf 10.000 EUR für allgemeine Forderungssachen nach Paragraf 23 Nummer 1 GVG. Wohnraummietsachen bleiben davon unabhängig nach Paragraf 23 Nummer 2a GVG ausschließlich beim Amtsgericht.
-- Berufungssumme § 511 Abs. 2 ZPO von 600 auf 1.000 EUR.
-- Wertgrenze Nichtzulassungsbeschwerde § 26 EGZPO von 20.000 auf 25.000 EUR.
-- Uebergangsvorschrift § 47 EGZPO regelt Altverfahren.
+- Berufungssumme Paragraf 511 Abs. 2 ZPO von 600 auf 1.000 EUR.
+- Wertgrenze Nichtzulassungsbeschwerde Paragraf 26 EGZPO von 20.000 auf 25.000 EUR.
+- Uebergangsvorschrift Paragraf 47 EGZPO regelt Altverfahren.
 
 Quelle: https://www.brak.de/newsroom/news/zivilgerichtsbarkeit-hoehere-wertgrenzen-fuer-zustaendigkeit-und-rechtsmittel-ab-112026/
 
 ## Rechtsprechung
 
-- Rechtsprechung zu Verzug und § 286 BGB live ueber https://dejure.org und https://openjur.de pruefen.
+- Rechtsprechung zu Verzug und Paragraf 286 BGB live ueber https://dejure.org und https://openjur.de pruefen.
 - Aktenzeichen und Datum erst nach Verifikation in den Schriftsatz uebernehmen.
 
 ## Quellenregel
@@ -90,7 +90,7 @@ Sachlich: allgemeine Forderung bis einschließlich 10.000 EUR Amtsgericht nach P
 4. Gerichtsortprüfung mit Quellenplatzhalter.
 5. Klageentwurf nur für grüne Positionen.
 6. Beleg- und Anlagenliste mit K-Sigeln.
-7. Kosten-/Risiko-Hinweis zu § 93 ZPO.
+7. Kosten-/Risiko-Hinweis zu Paragraf 93 ZPO.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

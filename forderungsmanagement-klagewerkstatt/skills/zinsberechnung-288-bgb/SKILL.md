@@ -1,23 +1,23 @@
 ---
 name: zinsberechnung-288-bgb
-description: "Zinsberechnung nach § 288 BGB: Verbraucherverzug 5 Prozentpunkte ueber Basiszinssatz, B2B-Verzug 9 Prozentpunkte. Verzugspauschale 40 EUR § 288 Abs. 5 BGB B2B. Basiszinssatz § 247 BGB halbjaehrlich anpasst durch Deutsche Bundesbank (Stand 1. Halbjahr 2026 niedrig im einstelligen Prozentbereich)...."
+description: "Zinsberechnung nach Paragraf 288 BGB: Verbraucherverzug 5 Prozentpunkte ueber Basiszinssatz, B2B-Verzug 9 Prozentpunkte. Verzugspauschale 40 EUR Paragraf 288 Abs. 5 BGB B2B. Basiszinssatz Paragraf 247 BGB halbjaehrlich anpasst durch Deutsche Bundesbank (Stand 1. Halbjahr 2026 niedrig im einstelligen Prozentbereich)...."
 ---
 
-# Zinsberechnung § 288 BGB
+# Zinsberechnung Paragraf 288 BGB
 
-Konkrete Berechnung von Verzugszinsen und der Pauschale nach § 288 BGB für den Klageantrag und die Forderungsaufstellung.
+Konkrete Berechnung von Verzugszinsen und der Pauschale nach Paragraf 288 BGB für den Klageantrag und die Forderungsaufstellung.
 
 ## Zinssaetze im Überblick
 
 | Schuldner | Zinssatz | Norm |
 |---|---|---|
-| Verbraucher (B2C) | 5 Prozentpunkte über Basiszinssatz | § 288 Abs. 1 Satz 2 BGB |
-| Unternehmer (B2B) | 9 Prozentpunkte über Basiszinssatz | § 288 Abs. 2 BGB |
-| Entgeltforderungen B2B Pauschale | 40 EUR | § 288 Abs. 5 BGB |
-| Prozesszinsen bei Klagezustellung | 5 / 9 Prozentpunkte | § 291 BGB i.V.m. § 288 BGB |
-| Vertragliche Zinsen ab Faelligkeit (B2B) | Faelligkeitszinsen 5 % | § 353 HGB |
+| Verbraucher (B2C) | 5 Prozentpunkte über Basiszinssatz | Paragraf 288 Abs. 1 Satz 2 BGB |
+| Unternehmer (B2B) | 9 Prozentpunkte über Basiszinssatz | Paragraf 288 Abs. 2 BGB |
+| Entgeltforderungen B2B Pauschale | 40 EUR | Paragraf 288 Abs. 5 BGB |
+| Prozesszinsen bei Klagezustellung | 5 / 9 Prozentpunkte | Paragraf 291 BGB i.V.m. Paragraf 288 BGB |
+| Vertragliche Zinsen ab Faelligkeit (B2B) | Faelligkeitszinsen 5 % | Paragraf 353 HGB |
 
-## Basiszinssatz § 247 BGB
+## Basiszinssatz Paragraf 247 BGB
 
 Halbjaehrliche Anpassung durch Deutsche Bundesbank (jeweils zum 01.01. und 01.07.). Aktuelle und historische Werte:
 
@@ -34,22 +34,22 @@ Halbjaehrliche Anpassung durch Deutsche Bundesbank (jeweils zum 01.01. und 01.07
 
 Aktueller Basiszinssatz beim Gläubiger prüfen: [bundesbank.de/basiszinssatz](https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820)
 
-## Verzugseintritt § 286 BGB
+## Verzugseintritt Paragraf 286 BGB
 
 Voraussetzungen Verzug:
-1. **Faelligkeit** der Forderung (§ 271 BGB, § 641 BGB, § 271a BGB).
-2. **Moeglichkeit der Leistung** (kein § 275 BGB).
+1. **Faelligkeit** der Forderung (Paragraf 271 BGB, Paragraf 641 BGB, Paragraf 271a BGB).
+2. **Moeglichkeit der Leistung** (kein Paragraf 275 BGB).
 3. **Nichtleistung trotz Faelligkeit**.
-4. **Mahnung** (§ 286 Abs. 1 BGB) **oder** Entbehrlichkeit (§ 286 Abs. 2 BGB) **oder** 30-Tage-Regel (§ 286 Abs. 3 BGB).
-5. **Vertretenmuessen** (§ 286 Abs. 4 BGB) – Verschulden wird vermutet.
+4. **Mahnung** (Paragraf 286 Abs. 1 BGB) **oder** Entbehrlichkeit (Paragraf 286 Abs. 2 BGB) **oder** 30-Tage-Regel (Paragraf 286 Abs. 3 BGB).
+5. **Vertretenmuessen** (Paragraf 286 Abs. 4 BGB) – Verschulden wird vermutet.
 
-Entbehrlichkeit § 286 Abs. 2 BGB:
+Entbehrlichkeit Paragraf 286 Abs. 2 BGB:
 - Nr. 1: kalendermaessig bestimmte Leistungszeit (z.B. "Zahlung bis 15.04.2026").
 - Nr. 2: kalendermaessig berechenbar nach Ereignis ("30 Tage nach Lieferung").
 - Nr. 3: ernsthafte und endgueltige Leistungsverweigerung.
 - Nr. 4: besondere Gruende unter Abwaegung beiderseitiger Interessen.
 
-§ 286 Abs. 3 BGB (B2B, Entgeltforderung): Verzug spaetestens 30 Tage nach Rechnungszugang ODER bei Verbraucher zusaetzlich Hinweis in Rechnung.
+Paragraf 286 Abs. 3 BGB (B2B, Entgeltforderung): Verzug spaetestens 30 Tage nach Rechnungszugang ODER bei Verbraucher zusaetzlich Hinweis in Rechnung.
 
 ## Zinsberechnungsformel
 
@@ -64,23 +64,23 @@ Tage * Forderungsbetrag * (Basiszins + Aufschlag) / 36500
 
 Bei Periodenwechsel (z.B. über den 01.07. hinaus): Aufteilen und separat rechnen.
 
-## Verzugspauschale § 288 Abs. 5 BGB
+## Verzugspauschale Paragraf 288 Abs. 5 BGB
 
 - Gilt nur B2B-Entgeltforderungen.
 - 40 EUR pro Forderung, **nicht** pro Mahnung.
-- Auf Schadensersatz wegen Verzug (Mahnkosten, Rechtsverfolgungskosten) anzurechnen, soweit Schaden in Rechtsverfolgungskosten besteht (§ 288 Abs. 5 Satz 3 BGB).
+- Auf Schadensersatz wegen Verzug (Mahnkosten, Rechtsverfolgungskosten) anzurechnen, soweit Schaden in Rechtsverfolgungskosten besteht (Paragraf 288 Abs. 5 Satz 3 BGB).
 - BGH VIII ZR 232/16: Pauschale faellig auch ohne konkreten Schaden, nicht anrechenbar auf Anwaltskosten in einfach gelagerten Faellen.
 
-## Hoehere Zinsen nach § 288 Abs. 3 BGB
+## Hoehere Zinsen nach Paragraf 288 Abs. 3 BGB
 
-Gläubiger kann hoehere Verzugszinsen nach anderem Rechtsgrund verlangen (z.B. vertraglich vereinbart, § 354 HGB, § 352 HGB), aber **kumulativ nur einmal**.
+Gläubiger kann hoehere Verzugszinsen nach anderem Rechtsgrund verlangen (z.B. vertraglich vereinbart, Paragraf 354 HGB, Paragraf 352 HGB), aber **kumulativ nur einmal**.
 
-## Mahnkosten als Verzugsschaden § 280 Abs. 1, 2, § 286 BGB
+## Mahnkosten als Verzugsschaden Paragraf 280 Abs. 1, 2, Paragraf 286 BGB
 
 - Erste Mahnung kostet **nichts** (selbst Verzug auslosend).
 - Folgemahnungen: Schadensersatz für tatsaechliche Kosten (Porto, Material).
 - Pauschale 2,50 EUR pro Mahnung in der Praxis akzeptiert (LG Berlin 32 O 188/95).
-- Inkassokosten nur in Höhe einer 1,3 Geschäftsgebuehr eines Rechtsanwalts (§ 4 Abs. 5 RDGEG).
+- Inkassokosten nur in Höhe einer 1,3 Geschäftsgebuehr eines Rechtsanwalts (Paragraf 4 Abs. 5 RDGEG).
 
 ## Klageantrag-Formulierung
 
@@ -102,12 +102,12 @@ Basiszinssatz aus EUR 1.250,00 seit dem 15.04.2026.
 - Bei Verbraucher Pauschale beantragt (falsch).
 - "Zinsen aus" vergessen, dadurch unbestimmt.
 - Periodenwechsel Basiszinssatz ignoriert.
-- Vertragliche Faelligkeitszinsen § 353 HGB mit Verzugszinsen § 288 BGB doppelt.
+- Vertragliche Faelligkeitszinsen Paragraf 353 HGB mit Verzugszinsen Paragraf 288 BGB doppelt.
 
 ## Quellen
-- BGB § 247 Basiszinssatz [gesetze-im-internet.de/bgb/__247.html](https://www.gesetze-im-internet.de/bgb/__247.html)
-- BGB § 286 Verzugseintritt [gesetze-im-internet.de/bgb/__286.html](https://www.gesetze-im-internet.de/bgb/__286.html)
-- BGB § 288 Verzugszinsen [gesetze-im-internet.de/bgb/__288.html](https://www.gesetze-im-internet.de/bgb/__288.html)
-- BGB § 291 Prozesszinsen [gesetze-im-internet.de/bgb/__291.html](https://www.gesetze-im-internet.de/bgb/__291.html)
+- BGB Paragraf 247 Basiszinssatz [gesetze-im-internet.de/bgb/__247.html](https://www.gesetze-im-internet.de/bgb/__247.html)
+- BGB Paragraf 286 Verzugseintritt [gesetze-im-internet.de/bgb/__286.html](https://www.gesetze-im-internet.de/bgb/__286.html)
+- BGB Paragraf 288 Verzugszinsen [gesetze-im-internet.de/bgb/__288.html](https://www.gesetze-im-internet.de/bgb/__288.html)
+- BGB Paragraf 291 Prozesszinsen [gesetze-im-internet.de/bgb/__291.html](https://www.gesetze-im-internet.de/bgb/__291.html)
 - BGH VIII ZR 232/16 zur Pauschale [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
 - Bundesbank Basiszinssatz [bundesbank.de](https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820)

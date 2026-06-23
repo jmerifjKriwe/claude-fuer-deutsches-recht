@@ -1,17 +1,17 @@
 ---
 name: mahnbescheid-online-mb
-description: "Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen § 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren. Pruefraster."
+description: "Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen Paragraf 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren. Pruefraster."
 ---
 
 # Mahnbescheid (Online-MB)
 
 ## Aufgabe
-Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen § 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren.
+Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen Paragraf 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren.
 
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `mahnbescheid-online-mb`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen § 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren. Pruefraster..
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `mahnbescheid-online-mb`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen Paragraf 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren. Pruefraster..
 
 Arbeite deshalb fallnah:
 

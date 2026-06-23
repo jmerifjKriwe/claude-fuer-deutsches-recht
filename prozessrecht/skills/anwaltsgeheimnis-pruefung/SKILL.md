@@ -1,13 +1,13 @@
 ---
 name: anwaltsgeheimnis-pruefung
-description: "Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: § 43a BRAO, § 203 StGB, § 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfergebnis Anwaltsgeheimnis mit Handlungsempfehlung. Abgrenzung:..."
+description: "Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: Paragraf 43a BRAO, Paragraf 203 StGB, Paragraf 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfergebnis Anwaltsgeheimnis mit Handlungsempfehlung. Abgrenzung:..."
 ---
 
 # Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit)
 
 ## Arbeitsbereich
 
-Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: § 43a BRAO, § 203 StGB, § 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfergebnis Anwaltsgeheimnis mit Handlungsempfehlung. Abgrenzung: nicht Datenschutz-Compliance DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: Paragraf 43a BRAO, Paragraf 203 StGB, Paragraf 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfergebnis Anwaltsgeheimnis mit Handlungsempfehlung. Abgrenzung: nicht Datenschutz-Compliance DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -23,29 +23,29 @@ Ein Dokumentensatz im Prozess hat drei Arten von Einträgen: zweifelsfrei gesch�
 
 **Dies ist eine Erstprüfung. Der Anwalt prüft jeden markierten Eintrag. Keine Ausnahmen.**
 
-Hinweis: Ein direktes Pendant zum US-amerikanischen "privilege log" gibt es im deutschen Recht nicht. Dieser Skill deckt die deutschen Rechtsinstitute ab, die vergleichbare Schutzfunktionen erfüllen: Vorlagepflicht nach § 142 ZPO, Beschlagnahmeschutz nach § 97 StPO, Zeugnisverweigerungsrecht nach § 53 StPO und die anwaltliche Verschwiegenheitspflicht nach § 43a Abs. 2 BRAO, § 203 StGB.
+Hinweis: Ein direktes Pendant zum US-amerikanischen "privilege log" gibt es im deutschen Recht nicht. Dieser Skill deckt die deutschen Rechtsinstitute ab, die vergleichbare Schutzfunktionen erfüllen: Vorlagepflicht nach Paragraf 142 ZPO, Beschlagnahmeschutz nach Paragraf 97 StPO, Zeugnisverweigerungsrecht nach Paragraf 53 StPO und die anwaltliche Verschwiegenheitspflicht nach Paragraf 43a Abs. 2 BRAO, Paragraf 203 StGB.
 
 ## Eingaben
 
 - **Dokumentenbestand** (erforderlich): Dateipfad oder im Dialog übermittelte Dokumentenliste
 - **Mandatsbezeichnung (Slug)**: Zur Zuordnung in die Mandatsakte
 - **Verfahrensart**: ZPO-Verfahren, StPO-Verfahren, VwGO, FGO, SGG — maßgeblich für die anwendbaren Normen
-- **Kontext**: Wurde eine Urkundenvorlageanordnung nach § 142 ZPO erlassen? Liegt eine Durchsuchungs-/Beschlagnahmemaßnahme vor?
+- **Kontext**: Wurde eine Urkundenvorlageanordnung nach Paragraf 142 ZPO erlassen? Liegt eine Durchsuchungs-/Beschlagnahmemaßnahme vor?
 
 ## Rechtlicher Rahmen
 
 ### Kernvorschriften
 
-- **§ 142 ZPO** — Anordnung der Urkundenvorlegung durch das Gericht; Voraussetzungen: erheblich und zumutbar; kein Zwang zur Vorlage, wenn Verweigerungsrecht besteht.
-- **§ 144 ZPO** — Anordnung der Inaugenscheinnahme; parallele Schranken wie § 142 ZPO.
-- **§ 97 StPO** — Beschlagnahmeverbote; insbesondere Abs. 1 Nr. 1: Schriftstücke des Rechtsanwalts, die Zeugnisverweigerungsberechtigten gehören; Abs. 2: Schutz von Dokumenten im Gewahrsam des Verteidigers oder Beistands.
-- **§ 53 StPO** — Zeugnisverweigerungsrecht der Rechtsanwälte, Ärzte, Notare und sonstiger Berufsgeheimnisträger; gilt auch im Verfahren auf Vorlage.
-- **§ 53a StPO** — Erstreckt das Zeugnisverweigerungsrecht auf berufsmäßig tätige Gehilfen.
-- **§ 43a Abs. 2 BRAO** — Absolute Verschwiegenheitspflicht des Rechtsanwalts; schützt alle Informationen, die der Anwalt in Ausübung des Berufs anvertraut bekommt.
-- **§ 203 Abs. 1 Nr. 3 StGB** — Strafbare Verletzung von Privatgeheimnissen durch Rechtsanwälte; stärkt § 43a BRAO strafrechtlich ab.
-- **§ 160a StPO** — Schutz von Berufsgeheimnisträgern bei verdeckten Ermittlungsmaßnahmen; gilt über den Verweis für den gesamten Bereich der Beweiserhebung.
+- **Paragraf 142 ZPO** — Anordnung der Urkundenvorlegung durch das Gericht; Voraussetzungen: erheblich und zumutbar; kein Zwang zur Vorlage, wenn Verweigerungsrecht besteht.
+- **Paragraf 144 ZPO** — Anordnung der Inaugenscheinnahme; parallele Schranken wie Paragraf 142 ZPO.
+- **Paragraf 97 StPO** — Beschlagnahmeverbote; insbesondere Abs. 1 Nr. 1: Schriftstücke des Rechtsanwalts, die Zeugnisverweigerungsberechtigten gehören; Abs. 2: Schutz von Dokumenten im Gewahrsam des Verteidigers oder Beistands.
+- **Paragraf 53 StPO** — Zeugnisverweigerungsrecht der Rechtsanwälte, Ärzte, Notare und sonstiger Berufsgeheimnisträger; gilt auch im Verfahren auf Vorlage.
+- **Paragraf 53a StPO** — Erstreckt das Zeugnisverweigerungsrecht auf berufsmäßig tätige Gehilfen.
+- **Paragraf 43a Abs. 2 BRAO** — Absolute Verschwiegenheitspflicht des Rechtsanwalts; schützt alle Informationen, die der Anwalt in Ausübung des Berufs anvertraut bekommt.
+- **Paragraf 203 Abs. 1 Nr. 3 StGB** — Strafbare Verletzung von Privatgeheimnissen durch Rechtsanwälte; stärkt Paragraf 43a BRAO strafrechtlich ab.
+- **Paragraf 160a StPO** — Schutz von Berufsgeheimnisträgern bei verdeckten Ermittlungsmaßnahmen; gilt über den Verweis für den gesamten Bereich der Beweiserhebung.
 
-### Besonderheit: Syndikusrechtsanwalt (§ 46 BRAO)
+### Besonderheit: Syndikusrechtsanwalt (Paragraf 46 BRAO)
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -63,9 +63,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Vor der Dokumentenprüfung: Welches Verfahrensrecht gilt?
 
-- **ZPO-Verfahren**: § 142 ZPO (Urkundenvorlage), § 144 ZPO (Inaugenscheinnahme); Weigerungsrecht nach § 142 Abs. 2 ZPO i.V.m. §§ 383, 384 ZPO.
-- **StPO-Verfahren**: § 97 StPO (Beschlagnahmeverbot); § 53 StPO (Zeugnisverweigerungsrecht); § 160a StPO (Schutz bei Ermittlungsmaßnahmen).
-- **VwGO/FGO/SGG**: Parallelvorschriften; Vorlagepflicht vergleichbar §§ 86, 99 VwGO; Akteneinsichtsrechte.
+- **ZPO-Verfahren**: Paragraf 142 ZPO (Urkundenvorlage), Paragraf 144 ZPO (Inaugenscheinnahme); Weigerungsrecht nach Paragraf 142 Abs. 2 ZPO i.V.m. Paragrafen 383, 384 ZPO.
+- **StPO-Verfahren**: Paragraf 97 StPO (Beschlagnahmeverbot); Paragraf 53 StPO (Zeugnisverweigerungsrecht); Paragraf 160a StPO (Schutz bei Ermittlungsmaßnahmen).
+- **VwGO/FGO/SGG**: Parallelvorschriften; Vorlagepflicht vergleichbar Paragrafen 86, 99 VwGO; Akteneinsichtsrechte.
 
 Quellenattribuierung: Jeden Regelhinweis und jede Entscheidung in der Ausgabe mit Herkunftsnachweis versehen: `[Primärquelle]`, `[Kommentar – prüfen]`, `[Trainingsdaten – prüfen]`. Quellen mit Prüfvermerk tragen höheres Fehlerrisiko und sollten zuerst verifiziert werden.
 
@@ -107,7 +107,7 @@ Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠
 
 ## Vertraulichkeitsschutz-Erstprüfung: [Mandat] — [Datum]
 
-**Anwendbare Normen:** [§ 142 ZPO / § 97 StPO / § 53 StPO / § 43a BRAO — Pinpoint-Zitate] `[UNSICHER — Aktualität prüfen]`
+**Anwendbare Normen:** [Paragraf 142 ZPO / Paragraf 97 StPO / Paragraf 53 StPO / Paragraf 43a BRAO — Pinpoint-Zitate] `[UNSICHER — Aktualität prüfen]`
 **Dokumente geprüft:** [N]
 **Ergebnis:** [N] ✅ sicher geschützt / [N] ✅+⚠️ Schutz beibehalten & markiert / [N] ❌ Schutzentfernung empfohlen (Anwalt bestätigt)
 
@@ -147,16 +147,16 @@ Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠
 
 ## Beispiel
 
-**Sachverhalt:** Anordnung nach § 142 ZPO; Gericht verlangt Vorlage aller E-Mails zwischen der Partei und ihrem Rechtsanwalt zu einer Schadensersatzforderung.
+**Sachverhalt:** Anordnung nach Paragraf 142 ZPO; Gericht verlangt Vorlage aller E-Mails zwischen der Partei und ihrem Rechtsanwalt zu einer Schadensersatzforderung.
 
 **Erstprüfungsergebnis:**
-- ✅ 12 E-Mails: Mandatsgeheimnis (§ 43a Abs. 2 BRAO); Anwalt bittet um Rechtsrat, Anwalt erteilt Rat; keine Drittpartei im Verteiler.
+- ✅ 12 E-Mails: Mandatsgeheimnis (Paragraf 43a Abs. 2 BRAO); Anwalt bittet um Rechtsrat, Anwalt erteilt Rat; keine Drittpartei im Verteiler.
 - ✅+⚠️ 3 E-Mails: Anwalt in CC bei rein kaufmännischer Verhandlung; dominanter Zweck unklar → Anwalt entscheidet.
-- ❌ 2 E-Mails: Keine anwaltliche Beteiligung; CC an Anwalt ohne rechtliche Substanz; Bewertung: kein Schutz nach § 43a BRAO.
+- ❌ 2 E-Mails: Keine anwaltliche Beteiligung; CC an Anwalt ohne rechtliche Substanz; Bewertung: kein Schutz nach Paragraf 43a BRAO.
 
 ## Risiken und typische Fehler
 
-- **Syndikusanwalt-Grenzfälle:** Die Schutzwürdigkeit von Korrespondenz des Syndikusrechtsanwalts hängt von seiner konkreten Funktion im Einzelfall ab (§ 46 Abs. 3 BRAO) — nie pauschal als "sicher geschützt" klassifizieren.
+- **Syndikusanwalt-Grenzfälle:** Die Schutzwürdigkeit von Korrespondenz des Syndikusrechtsanwalts hängt von seiner konkreten Funktion im Einzelfall ab (Paragraf 46 Abs. 3 BRAO) — nie pauschal als "sicher geschützt" klassifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wirkung der Weitergabe:** Wird ein eigentlich geschütztes Dokument im Verfahren vorgelegt (auch versehentlich), kann der Schutz vollständig entfallen — Rückruf ist möglich, aber keineswegs sicher.
 - **Beschreibungstiefe:** Zu vage Beschreibungen können dazu führen, dass das Gericht eine In-Camera-Vorlage zur eigenen Prüfung anordnet.
@@ -164,7 +164,7 @@ Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠
 
 ## Quellenpflicht
 
-- Gesetzestexte: §§ 142, 144 ZPO; §§ 53, 53a, 97, 160a StPO; §§ 43a, 46 BRAO; § 203 StGB; §§ 86, 99 VwGO
+- Gesetzestexte: Paragrafen 142, 144 ZPO; Paragrafen 53, 53a, 97, 160a StPO; Paragrafen 43a, 46 BRAO; Paragraf 203 StGB; Paragrafen 86, 99 VwGO
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 

@@ -80,7 +80,7 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 
 | Sachverhalt | Vorgehen |
 |---|---|
-| Anerkennung deutsches Urteil | §§ 328 ZPO Anerkennung in DE; Anerkennung in Drittstaat nach dort. IPR |
+| Anerkennung deutsches Urteil | Paragrafen 328 ZPO Anerkennung in DE; Anerkennung in Drittstaat nach dort. IPR |
 | Bilaterales Abkommen | Verträge z.B. mit Tunesien, Israel, T?rkei (Anerkennungsabkommen) |
 | Kein Abkommen | erneute Klage im Drittstaat ueblich |
 | Schiedsspruch | New York Convention 1958 (NYÜ) – sehr leistungsfaehig |

@@ -25,22 +25,22 @@ description: "Amtlicher ZPO-Verfahrenscheck: ordnet Zuständigkeit, Schriftsatzf
 
 | Phase | Normen |
 | --- | --- |
-| Wert/Zuständigkeit | §§ 1-11, 12-40 ZPO plus GVG |
-| Parteien/Vertretung | §§ 50-90 ZPO |
-| Kosten/PKH | §§ 91-127 ZPO |
-| Schriftsatz/elektronisch | §§ 129-130e ZPO |
-| Vortrag/Gericht | §§ 136-150 ZPO |
-| Zustellung | §§ 166-190 ZPO |
-| Termine/Fristen/Wiedereinsetzung | §§ 214-238 ZPO; § 222 ZPO i. V. m. §§ 186-193 BGB |
-| Klage/Rechtshängigkeit | §§ 253-270 ZPO |
-| Vorbereitung/Güte/Termin | §§ 272-285 ZPO |
-| Beweis | §§ 286-484 ZPO |
-| Selbständiges Beweisverfahren | §§ 485-494a ZPO |
-| Mahnverfahren | §§ 688-703d ZPO |
-| Vollstreckung | §§ 704 ff. ZPO |
-| Forderungspfändung | §§ 828 ff. ZPO |
-| Handlung/Unterlassung | §§ 887-890 ZPO |
-| Arrest/einstweilige Verfügung | §§ 916-945 ZPO |
+| Wert/Zuständigkeit | Paragrafen 1-11, 12-40 ZPO plus GVG |
+| Parteien/Vertretung | Paragrafen 50-90 ZPO |
+| Kosten/PKH | Paragrafen 91-127 ZPO |
+| Schriftsatz/elektronisch | Paragrafen 129-130e ZPO |
+| Vortrag/Gericht | Paragrafen 136-150 ZPO |
+| Zustellung | Paragrafen 166-190 ZPO |
+| Termine/Fristen/Wiedereinsetzung | Paragrafen 214-238 ZPO; Paragraf 222 ZPO i. V. m. Paragrafen 186-193 BGB |
+| Klage/Rechtshängigkeit | Paragrafen 253-270 ZPO |
+| Vorbereitung/Güte/Termin | Paragrafen 272-285 ZPO |
+| Beweis | Paragrafen 286-484 ZPO |
+| Selbständiges Beweisverfahren | Paragrafen 485-494a ZPO |
+| Mahnverfahren | Paragrafen 688-703d ZPO |
+| Vollstreckung | Paragrafen 704 ff. ZPO |
+| Forderungspfändung | Paragrafen 828 ff. ZPO |
+| Handlung/Unterlassung | Paragrafen 887-890 ZPO |
+| Arrest/einstweilige Verfügung | Paragrafen 916-945 ZPO |
 
 ## Referenz
 
@@ -50,18 +50,18 @@ Nutze `references/amtlicher-zpo-normkern.md`. Rechtsprechung nur nach gesonderte
 
 ### Kuratierte Normen-Bibliothek
 
-- § 203 StGB
-- § 45 GKG
-- § 115 VVG
-- § 7 StVG
-- § 68 GKG
-- § 43 GKG
-- § 3a RVG
-- § 97a UrhG
-- § 23 RVG
-- § 4a RVG
-- § 74 VwG
-- § 17 StVG
+- Paragraf 203 StGB
+- Paragraf 45 GKG
+- Paragraf 115 VVG
+- Paragraf 7 StVG
+- Paragraf 68 GKG
+- Paragraf 43 GKG
+- Paragraf 3a RVG
+- Paragraf 97a UrhG
+- Paragraf 23 RVG
+- Paragraf 4a RVG
+- Paragraf 74 VwG
+- Paragraf 17 StVG
 
 ### Leitentscheidungen
 

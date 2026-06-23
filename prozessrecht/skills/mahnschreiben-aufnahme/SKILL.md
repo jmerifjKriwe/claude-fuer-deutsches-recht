@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-aufnahme
-description: "Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: §§ 204 212 BGB, § 93 ZPO. Prüfraster: Fristenlauf, Anerkennungsrisiko, Reaktionsoptionen. Output: Einordnungsnotiz und Empfehlung Reaktion. Abgrenzung: nicht eigenes Mahnschreiben ers..."
+description: "Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: Paragrafen 204 212 BGB, Paragraf 93 ZPO. Prüfraster: Fristenlauf, Anerkennungsrisiko, Reaktionsoptionen. Output: Einordnungsnotiz und Empfehlung Reaktion. Abgrenzung: nicht eigenes Mahnschreiben ers..."
 ---
 
 # Mahnschreiben-Intake
@@ -16,18 +16,18 @@ description: "Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: A
 ## Triage — kläre vor dem Intake
 
 1. **Forderungsart:** Kaufpreis, Werkverguetung, Schadensersatz, Darlehensrueckzahlung oder sonstiger Anspruch?
-2. **Faelligkeit:** Ist die Forderung bereits fällig und durchsetzbar (§ 271 BGB)?
-3. **Verjährung:** Ist die dreijährige Regelverjährung (§ 195 BGB) gewährt oder droht sie?
+2. **Faelligkeit:** Ist die Forderung bereits fällig und durchsetzbar (Paragraf 271 BGB)?
+3. **Verjährung:** Ist die dreijährige Regelverjährung (Paragraf 195 BGB) gewährt oder droht sie?
 4. **BATNA:** Was ist die beste Alternative zum Mahnschreiben (gerichtliches Mahnverfahren, Klage, Verhandlung)?
 5. **Vertraulichkeitsfilter:** Dürfen mandatsbezogene Daten in das eingesetzte KI-System eingespielt werden?
 
 ## Zentrale Normen
-- § 271 BGB (Fälligkeit)
-- § 286 BGB (Verzug — Mahnungserfordernis)
-- § 288 BGB (Verzugszinsen)
-- § 291 BGB (Prozesszinsen)
-- § 195 BGB (Regelverjährung)
-- § 203 BGB (Verjährungshemmung durch Verhandlungen)
+- Paragraf 271 BGB (Fälligkeit)
+- Paragraf 286 BGB (Verzug — Mahnungserfordernis)
+- Paragraf 288 BGB (Verzugszinsen)
+- Paragraf 291 BGB (Prozesszinsen)
+- Paragraf 195 BGB (Regelverjährung)
+- Paragraf 203 BGB (Verjährungshemmung durch Verhandlungen)
 
 ## Rechtsprechung
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -44,31 +44,31 @@ description: "Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: A
 
 1. **Mandantenidentifikation:**
  - Vollständiger Name / Firma, Anschrift, Kontaktperson
- - Mandantentyp: Verbraucher (§ 13 BGB) oder Unternehmer (§ 14 BGB) – für Verzugszinsberechnung relevant (§ 288 Abs. 1 vs. 2 BGB)
+ - Mandantentyp: Verbraucher (Paragraf 13 BGB) oder Unternehmer (Paragraf 14 BGB) – für Verzugszinsberechnung relevant (Paragraf 288 Abs. 1 vs. 2 BGB)
 
 2. **Schuldneridentifikation:**
  - Vollständiger Name / Firma, Anschrift, HRB-Nummer (bei Gesellschaften)
- - Zustellungsfähige Anschrift vorhanden? (für spätere Klagezustellung, § 253 Abs. 2 Nr. 1 ZPO)
- - Ist die Passivlegitimation des Schuldners geklärt? (z. B. bei Gesamtschuld § 421 BGB, Rechtsnachfolge, Konzernmutter)
+ - Zustellungsfähige Anschrift vorhanden? (für spätere Klagezustellung, Paragraf 253 Abs. 2 Nr. 1 ZPO)
+ - Ist die Passivlegitimation des Schuldners geklärt? (z. B. bei Gesamtschuld Paragraf 421 BGB, Rechtsnachfolge, Konzernmutter)
 
 3. **Sachverhaltserfassung:**
  - Wie kam das Schuldverhältnis zustande? (Vertragsurkunde vorhanden?)
  - Was wurde nicht geleistet oder schlecht geleistet?
  - Wann war Leistung fällig?
- - Hat der Mandant bereits gemahnt? (schriftlich / mündlich / konkludent – relevant für § 286 Abs. 1 BGB)
+ - Hat der Mandant bereits gemahnt? (schriftlich / mündlich / konkludent – relevant für Paragraf 286 Abs. 1 BGB)
  - Gab es Reaktionen des Schuldners (Einwände, Aufrechnungen, Minderung)?
 
 4. **Forderungserfassung:**
  - Hauptforderung (Betrag, Art, Rechtsgrundlage)
- - Nebenforderungen: Verzugszinsen (§ 288 BGB), vorgerichtliche Anwaltskosten (§ 13 RVG i. V. m. VV 2300), Schadensersatz (§§ 280, 281 BGB)
+ - Nebenforderungen: Verzugszinsen (Paragraf 288 BGB), vorgerichtliche Anwaltskosten (Paragraf 13 RVG i. V. m. VV 2300), Schadensersatz (Paragrafen 280, 281 BGB)
  - Fälligkeitsdatum und bisherige Mahnungen (mit Datum)
  - Offene Restforderung (nach Teilzahlungen)
 
 5. **Hebel und Risiko (BATNA):**
  - Was ist die beste Alternative des Mandanten ohne Mahnschreiben?
  - Welche Risiken bestehen (Aufrechnung, Gegenansprüche, Insolvenzrisiko)?
- - Ist ein Güteantrag (§ 15a EGZPO) im zuständigen Bundesland Pflicht?
- - Empfiehlt sich ein Mahnbescheid (§§ 688 ff. ZPO) statt Mahnschreiben?
+ - Ist ein Güteantrag (Paragraf 15a EGZPO) im zuständigen Bundesland Pflicht?
+ - Empfiehlt sich ein Mahnbescheid (Paragrafen 688 ff. ZPO) statt Mahnschreiben?
 
 6. **Vertraulichkeitsfilter:**
  - Enthält der Sachverhalt vertrauliche Informationen Dritter, die nicht in das Schreiben dürfen?
@@ -85,7 +85,7 @@ Verbindlich: `../references/zitierweise.md`.
 
 ## Risiken / typische Fehler
 
-- **Fehlende Passivlegitimation:** Bei GmbH-Schuldner Handelsregisterauszug abrufen; Insolvenzantrag prüfen (InsO § 17 ff.) – Mahnung an insolventen Schuldner ist sinnlos.
-- **Gesamtschuldner übersehen:** Bei mehreren Schuldnern (§ 421 BGB) alle mahnen, um Verjährungshemmung (§ 213 BGB) zu bewirken.
-- **Verjährung prüfen:** Intake prüft automatisch die Regelverjährung (§§ 195, 199 BGB: 3 Jahre zum 31.12.); kürzere Sonderfristen (§ 438 BGB: 2 Jahre für Mängelansprüche; § 548 BGB: 6 Monate für Vermieter; § 195 ff. BGB) gesondert markieren.
-- **Unterlassungsaufforderung ohne Vertragsstrafe:** Abmahnungen nach UWG, UrhG, MarkenG müssen eine Unterlassungs- und Verpflichtungserklärung mit Vertragsstrafeversprechen enthalten; fehlt dies, kann der Abgemahnte eine nicht der Kostenfolge des § 97a UrhG entsprechende Erklärung abgeben.
+- **Fehlende Passivlegitimation:** Bei GmbH-Schuldner Handelsregisterauszug abrufen; Insolvenzantrag prüfen (InsO Paragraf 17 ff.) – Mahnung an insolventen Schuldner ist sinnlos.
+- **Gesamtschuldner übersehen:** Bei mehreren Schuldnern (Paragraf 421 BGB) alle mahnen, um Verjährungshemmung (Paragraf 213 BGB) zu bewirken.
+- **Verjährung prüfen:** Intake prüft automatisch die Regelverjährung (Paragrafen 195, 199 BGB: 3 Jahre zum 31.12.); kürzere Sonderfristen (Paragraf 438 BGB: 2 Jahre für Mängelansprüche; Paragraf 548 BGB: 6 Monate für Vermieter; Paragraf 195 ff. BGB) gesondert markieren.
+- **Unterlassungsaufforderung ohne Vertragsstrafe:** Abmahnungen nach UWG, UrhG, MarkenG müssen eine Unterlassungs- und Verpflichtungserklärung mit Vertragsstrafeversprechen enthalten; fehlt dies, kann der Abgemahnte eine nicht der Kostenfolge des Paragraf 97a UrhG entsprechende Erklärung abgeben.

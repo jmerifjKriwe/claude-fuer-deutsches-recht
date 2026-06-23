@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-einstweilige-verfuegung
-description: "Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern. Normen: §§ 485 ff. ZPO. Prüfraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl, Verfahrensablauf. Output: Antrag auf selbständiges Beweisverfahren. Abgrenzung..."
+description: "Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern. Normen: Paragrafen 485 ff. ZPO. Prüfraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl, Verfahrensablauf. Output: Antrag auf selbständiges Beweisverfahren. Abgrenzung..."
 ---
 
 # Aufbewahrungspflicht und Beweissicherung
@@ -27,19 +27,19 @@ description: "Beweissicherungsantrag im selbständigen Beweisverfahren vorbereit
 **Handels- und steuerrechtliche Pflichtfristen:**
 | Kategorie | Frist | Rechtsgrundlage |
 |---|---|---|
-| Handelsbücher, Inventare, Jahresabschlüsse | 10 Jahre | § 257 Abs. 4 HGB |
-| Buchungsbelege | 10 Jahre | § 257 Abs. 4 HGB, § 147 Abs. 3 AO |
-| Handels- und Geschäftsbriefe | 6 Jahre | § 257 Abs. 4 HGB |
-| Sonstige steuerlich relevante Unterlagen | 6 Jahre | § 147 Abs. 1 Nr. 5 AO |
-| Lohnunterlagen (SV-relevant) | 10 Jahre | § 28f Abs. 2 SGB IV |
+| Handelsbücher, Inventare, Jahresabschlüsse | 10 Jahre | Paragraf 257 Abs. 4 HGB |
+| Buchungsbelege | 10 Jahre | Paragraf 257 Abs. 4 HGB, Paragraf 147 Abs. 3 AO |
+| Handels- und Geschäftsbriefe | 6 Jahre | Paragraf 257 Abs. 4 HGB |
+| Sonstige steuerlich relevante Unterlagen | 6 Jahre | Paragraf 147 Abs. 1 Nr. 5 AO |
+| Lohnunterlagen (SV-relevant) | 10 Jahre | Paragraf 28f Abs. 2 SGB IV |
 
 **Prozessuale Aufbewahrungspflicht:**
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Konsequenzen der Beweisvereitelung:**
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- § 286 ZPO: Freie Beweiswürdigung kann vernichtungsbedingte Nachteile zulasten der vernichtenden Partei ziehen.
-- §§ 339 ff. StGB: Strafbarkeit wegen Beweisvereitelung / Urkundenunterdrückung (§ 274 StGB) bei vorsätzlicher Vernichtung.
+- Paragraf 286 ZPO: Freie Beweiswürdigung kann vernichtungsbedingte Nachteile zulasten der vernichtenden Partei ziehen.
+- Paragrafen 339 ff. StGB: Strafbarkeit wegen Beweisvereitelung / Urkundenunterdrückung (Paragraf 274 StGB) bei vorsätzlicher Vernichtung.
 
 ### 2. Beweissicherungs-Anordnung erstellen (`--anordnen`)
 
@@ -53,14 +53,14 @@ Inhalt der Anordnung:
 - Kontaktperson für Rückfragen
 - Geltungsdauer / Aufhebungsvorbehalt
 
-### 3. Selbständiges Beweisverfahren (§§ 485 ff. ZPO)
+### 3. Selbständiges Beweisverfahren (Paragrafen 485 ff. ZPO)
 
 Wenn Beweismittel außerhalb des Prozesses gesichert werden müssen (z. B. drohende Veränderung von Sachzustand, Mängel, Bauschäden):
 
-- Antrag nach § 485 ZPO: Beantragung der Beweissicherung durch das Prozessgericht (oder nach § 486 ZPO beim Amtsgericht des Ortes)
+- Antrag nach Paragraf 485 ZPO: Beantragung der Beweissicherung durch das Prozessgericht (oder nach Paragraf 486 ZPO beim Amtsgericht des Ortes)
 - Inhalt: Beweisthema, Beweismittel (Sachverständiger, Augenschein), Benennung des Antragsgegners
-- Wirkung: Gutachten bindet das spätere Prozessgericht grundsätzlich (§ 493 ZPO)
-- Fristen: §§ 486 Abs. 2, 487 ZPO
+- Wirkung: Gutachten bindet das spätere Prozessgericht grundsätzlich (Paragraf 493 ZPO)
+- Fristen: Paragrafen 486 Abs. 2, 487 ZPO
 
 ### 4. Statusbericht (`--status`)
 
@@ -78,8 +78,8 @@ Verbindlich: `../references/zitierweise.md`.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- § 257 HGB; § 147 AO (Aufbewahrungsfristen).
-- § 274 StGB (Urkundenunterdrückung), § 339 StGB (Rechtsbeugung, nur für Richter und Beamte).
+- Paragraf 257 HGB; Paragraf 147 AO (Aufbewahrungsfristen).
+- Paragraf 274 StGB (Urkundenunterdrückung), Paragraf 339 StGB (Rechtsbeugung, nur für Richter und Beamte).
 
 ## Ausgabeformat
 
@@ -90,7 +90,7 @@ BEWEISSICHERUNGS-ANORDNUNG
 Mandat: [Slug]
 Datum: TT.MM.JJJJ
 Erstellt von: [Anwalt]
-MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO / § 203 StGB
+MANDATSGEHEIMNIS – Paragraf 43a Abs. 2 BRAO / Paragraf 203 StGB
 
 ──────────────────────────────────────────────
 ANORDNUNG ZUR AUFBEWAHRUNG VON UNTERLAGEN
@@ -128,7 +128,7 @@ Kontakt: [Anwalt, Kanzlei, Telefon]
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Zu enger Anwendungsbereich:** Custodians und Dokumentenkategorien zu eng gewählt; alle betroffenen Abteilungen und IT-Systeme (E-Mail-Archiv, Cloud-Speicher) einschließen.
 - **Datenschutzkollision:** Aufbewahrungspflicht und DSGVO-Löschpflicht können kollidieren; bei Widerspruch gilt prozessuale Sicherungspflicht im Zweifel (vgl. Art. 17 Abs. 3 lit. e DSGVO: Aufbewahrung für Rechtsstreitigkeiten).
-- **Selbständiges Beweisverfahren zu spät:** Nach Sachzustandsveränderung ist keine Beweissicherung mehr möglich; § 485 ZPO-Antrag frühzeitig stellen.
+- **Selbständiges Beweisverfahren zu spät:** Nach Sachzustandsveränderung ist keine Beweissicherung mehr möglich; Paragraf 485 ZPO-Antrag frühzeitig stellen.
 
 <!-- AUDIT 27.05.2026 bundle_040
 -->

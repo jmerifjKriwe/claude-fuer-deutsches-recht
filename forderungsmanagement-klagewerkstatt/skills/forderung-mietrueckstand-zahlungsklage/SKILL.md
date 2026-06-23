@@ -11,33 +11,33 @@ Zwei Wege: reine Zahlungsklage auf rueckstaendige Miete oder kombinierte Zahlung
 
 | Anspruch | Norm |
 |---|---|
-| Mietzins Wohnraum | § 535 Abs. 2 BGB |
-| Faelligkeit Wohnraum im Voraus 3. Werktag | § 556b Abs. 1 BGB |
-| Nebenkostenvorauszahlungen | § 556 Abs. 2 BGB |
-| Heizkostenpauschale | § 9 HeizKV |
-| Geschäftsraummiete | § 535 Abs. 2 BGB (allg. Werktag § 271 BGB) |
+| Mietzins Wohnraum | Paragraf 535 Abs. 2 BGB |
+| Faelligkeit Wohnraum im Voraus 3. Werktag | Paragraf 556b Abs. 1 BGB |
+| Nebenkostenvorauszahlungen | Paragraf 556 Abs. 2 BGB |
+| Heizkostenpauschale | Paragraf 9 HeizKV |
+| Geschäftsraummiete | Paragraf 535 Abs. 2 BGB (allg. Werktag Paragraf 271 BGB) |
 
 ## Verzug bei Mietzahlung
 
-- Wohnraum Faelligkeit kalendermaessig (§ 556b BGB) → **Verzug ohne Mahnung** (§ 286 Abs. 2 Nr. 1 BGB).
+- Wohnraum Faelligkeit kalendermaessig (Paragraf 556b BGB) → **Verzug ohne Mahnung** (Paragraf 286 Abs. 2 Nr. 1 BGB).
 - Geschäftsraum: Vertrag prüfen, sonst Mahnung erforderlich.
 
-Verzugszinsen B2C: 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
+Verzugszinsen B2C: 5 Prozentpunkte über Basiszinssatz (Paragraf 288 Abs. 1 BGB).
 
-## Ausserordentliche Kuendigung § 543 BGB
+## Ausserordentliche Kuendigung Paragraf 543 BGB
 
-**§ 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug** (Wohnraum):
+**Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug** (Wohnraum):
 | Voraussetzung | Inhalt |
 |---|---|
 | a) Mietrueckstand 2 Termine fortlaufend + erheblich | aus 2 Monaten |
 | b) Mietrueckstand erheblich (= mehr als eine Monatsmiete) | Höhe über eine Monatsmiete |
 | Erheblich bei lfd. Vertraegen | mind. **2 Monatsmieten** in Rueckstand |
 
-**§ 569 Abs. 3 BGB Sonderregel Wohnraum**:
+**Paragraf 569 Abs. 3 BGB Sonderregel Wohnraum**:
 - Nr. 1: kumuliert mit Folgemonat erheblich, wenn über Monatsmiete.
 - **Nr. 2 Schonfristzahlung**: Kuendigung wird **unwirksam**, wenn Vermieter innerhalb von 2 Monaten nach Rechtshaengigkeit Raeumungsklage befriedigt wird ODER öffentliche Stelle Befriedigung erklaert.
 
-**Achtung: Schonfristzahlung gilt nur einmal in 2 Jahren** (§ 569 Abs. 3 Nr. 2 S. 2 BGB).
+**Achtung: Schonfristzahlung gilt nur einmal in 2 Jahren** (Paragraf 569 Abs. 3 Nr. 2 S. 2 BGB).
 
 **Schonfrist gilt NICHT für ordentliche Kuendigung** wegen Pflichtverletzung (BGH VIII ZR 261/06).
 
@@ -71,21 +71,21 @@ Es wird beantragt:
    des jeweils zu vollstreckenden Betrages vorlaeufig vollstreckbar.
 ```
 
-## Form der ausserordentlichen Kuendigung § 568 BGB
+## Form der ausserordentlichen Kuendigung Paragraf 568 BGB
 
-- Schriftform Pflicht (§ 568 Abs. 1 BGB), bei Wohnraum.
-- Begruendung mit konkretem Rueckstand pro Monat erforderlich (§ 569 Abs. 4 BGB).
-- Hinweis auf Widerspruchsrecht des Mieters (§ 568 Abs. 2 BGB) bei ordentl. Kuendigung.
-- Bei mehreren Mietern: an alle zustellen (§ 425 BGB).
+- Schriftform Pflicht (Paragraf 568 Abs. 1 BGB), bei Wohnraum.
+- Begruendung mit konkretem Rueckstand pro Monat erforderlich (Paragraf 569 Abs. 4 BGB).
+- Hinweis auf Widerspruchsrecht des Mieters (Paragraf 568 Abs. 2 BGB) bei ordentl. Kuendigung.
+- Bei mehreren Mietern: an alle zustellen (Paragraf 425 BGB).
 
 ## Streitwert
 
 | Klage | Streitwert | Norm |
 |---|---|---|
-| Zahlungsklage | Hauptforderung | § 3 ZPO |
-| Raeumungsklage Wohnraum | Jahresmiete (Nettomiete x 12) | § 41 Abs. 2 GKG |
-| Raeumungsklage Geschäft | Jahresmiete | § 41 Abs. 2 GKG |
-| Kombi | Addition (§ 5 ZPO) |  |
+| Zahlungsklage | Hauptforderung | Paragraf 3 ZPO |
+| Raeumungsklage Wohnraum | Jahresmiete (Nettomiete x 12) | Paragraf 41 Abs. 2 GKG |
+| Raeumungsklage Geschäft | Jahresmiete | Paragraf 41 Abs. 2 GKG |
+| Kombi | Addition (Paragraf 5 ZPO) |  |
 
 ## Sachliche und örtliche Zuständigkeit
 
@@ -103,12 +103,12 @@ Es wird beantragt:
 | Kontoauszuege | Zahlungseingaenge / -ausfaelle |
 | Mahnschreiben | Verzug (sofern kalendermaessig nicht ohnehin) |
 | Kuendigungsschreiben mit Zustellnachweis | bei Raeumung |
-| Korrespondenz | Ratenzahlungsvereinbarungen, Anerkenntnis (§ 212 BGB) |
+| Korrespondenz | Ratenzahlungsvereinbarungen, Anerkenntnis (Paragraf 212 BGB) |
 
 ## Sozialleistungsbezug
 
 Wenn Mieter Sozialleistungen bezieht (Buergergeld, Wohngeld, Sozialhilfe):
-- Vermieter kann sich direkt an Leistungstraeger wenden (§ 22 Abs. 7 SGB II Direktzahlung).
+- Vermieter kann sich direkt an Leistungstraeger wenden (Paragraf 22 Abs. 7 SGB II Direktzahlung).
 - Schonfristzahlung wird oft von Sozialamt geleistet → Heilung Kuendigung beachten.
 
 ## Energiekosten / Nebenkosten-Sonderregeln
@@ -118,18 +118,18 @@ Wenn Mieter Sozialleistungen bezieht (Buergergeld, Wohngeld, Sozialhilfe):
 
 ## Typische Fehler
 
-- Antrag ohne genaue Monate – Bestimmtheit (§ 253 Abs. 2 Nr. 2 ZPO).
-- Kuendigung ohne Begruendung pro Monat → § 569 Abs. 4 BGB unwirksam.
+- Antrag ohne genaue Monate – Bestimmtheit (Paragraf 253 Abs. 2 Nr. 2 ZPO).
+- Kuendigung ohne Begruendung pro Monat → Paragraf 569 Abs. 4 BGB unwirksam.
 - Zahlungsklage allein, dann Schonfrist greift, Raeumung verspaetet.
 - Beklagte: Mietvertrag mit Ehepaar, nur einer verklagt → Gesamtschuldner unvollstaendig.
 - Streitwert Raeumung als Hauptforderung statt Jahresmiete.
 
 ## Quellen
-- BGB § 535 Mietzins [gesetze-im-internet.de/bgb/__535.html](https://www.gesetze-im-internet.de/bgb/__535.html)
-- BGB § 543 ausserord. Kuendigung [gesetze-im-internet.de/bgb/__543.html](https://www.gesetze-im-internet.de/bgb/__543.html)
-- BGB § 556b Faelligkeit [gesetze-im-internet.de/bgb/__556b.html](https://www.gesetze-im-internet.de/bgb/__556b.html)
-- BGB § 568, § 569 Form und Schonfrist [gesetze-im-internet.de/bgb/__569.html](https://www.gesetze-im-internet.de/bgb/__569.html)
-- ZPO § 29a oertlich [gesetze-im-internet.de/zpo/__29a.html](https://www.gesetze-im-internet.de/zpo/__29a.html)
+- BGB Paragraf 535 Mietzins [gesetze-im-internet.de/bgb/__535.html](https://www.gesetze-im-internet.de/bgb/__535.html)
+- BGB Paragraf 543 ausserord. Kuendigung [gesetze-im-internet.de/bgb/__543.html](https://www.gesetze-im-internet.de/bgb/__543.html)
+- BGB Paragraf 556b Faelligkeit [gesetze-im-internet.de/bgb/__556b.html](https://www.gesetze-im-internet.de/bgb/__556b.html)
+- BGB Paragraf 568, Paragraf 569 Form und Schonfrist [gesetze-im-internet.de/bgb/__569.html](https://www.gesetze-im-internet.de/bgb/__569.html)
+- ZPO Paragraf 29a oertlich [gesetze-im-internet.de/zpo/__29a.html](https://www.gesetze-im-internet.de/zpo/__29a.html)
 - GVG Paragraf 23 Nummer 2a [gesetze-im-internet.de/gvg/__23.html](https://www.gesetze-im-internet.de/gvg/__23.html)
-- GKG § 41 Streitwert [gesetze-im-internet.de/gkg_2004/__41.html](https://www.gesetze-im-internet.de/gkg_2004/__41.html)
+- GKG Paragraf 41 Streitwert [gesetze-im-internet.de/gkg_2004/__41.html](https://www.gesetze-im-internet.de/gkg_2004/__41.html)
 - BGH VIII ZR 261/06 Schonfrist ord. Kuendigung [bundesgerichtshof.de](https://www.bundesgerichtshof.de)

@@ -10,7 +10,7 @@ description: "Kanzlei hat hauseigenes Klage-Plugin installiert und will daraus K
 1. Ist das hauseigene Klage-Plugin (`klagewerkstatt-<kanzlei>`) installiert — enthält es `assets/vorlagen-leer/standardklage.md` und `references/hausregeln.json`?
 2. Sind Sachverhalt, Parteien, Forderungshöhe und Beklagtenanschrift vollständig bekannt?
 3. Welche sachliche Zuständigkeit liegt vor: allgemeine Forderung bis einschließlich 10.000 EUR Amtsgericht, darüber Landgericht; Wohnraummietsache nach Paragraf 23 Nummer 2a GVG stets Amtsgericht?
-4. Welche örtliche Zuständigkeit gilt (§§ 12, 13 ZPO allgemein; § 29 ZPO Erfüllungsort; § 29c ZPO Verbraucherverträge)?
+4. Welche örtliche Zuständigkeit gilt (Paragrafen 12, 13 ZPO allgemein; Paragraf 29 ZPO Erfüllungsort; Paragraf 29c ZPO Verbraucherverträge)?
 5. Soll zusätzlich ein Kurz-Memo im Gutachtenstil mit Prozessrisiken erstellt werden?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -63,7 +63,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — Klageschrift aus eigenem Skill-Output generieren | Klageschrift nach Skill-Output-Schema; Template unten |
 | Variante A — Skill-Output unvollstaendig Luecken vorhanden | Luecken manuell fuellen; dann Template anwenden |
-| Variante B — Mandant will Vereinfachung Mahnverfahren statt Klage | Mahnbescheid § 688 ZPO als kostenguenstigere Alternative |
+| Variante B — Mandant will Vereinfachung Mahnverfahren statt Klage | Mahnbescheid Paragraf 688 ZPO als kostenguenstigere Alternative |
 | Variante C — allgemeine Forderung bis einschließlich 10.000 EUR oder Wohnraummietsache | Amtsgericht zuständig; bei Wohnraummiete streitwertunabhängig nach Paragraf 23 Nummer 2a GVG; in erster Instanz kein Anwaltszwang, aber Prozessrisiko prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -88,7 +88,7 @@ Streitwert: [...] EUR
 | Prüfpunkt | Ergebnis |
 |---|---|
 | Sachlich | Amtsgericht / Landgericht; bei Wohnraum Paragraf 23 Nummer 2a GVG, sonst Wertzuständigkeit nach Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG |
-| Örtlich (§§ 12/13/29/29c ZPO) | AG/LG [...] wegen [...] |
+| Örtlich (Paragrafen 12/13/29/29c ZPO) | AG/LG [...] wegen [...] |
 | Online-Quelle | [...] — Abrufdatum: [...] |
 | BeA-SAFE-ID | [...] |
 

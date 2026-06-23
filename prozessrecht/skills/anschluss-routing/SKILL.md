@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Anschluss-Routing für Prozessrecht (ZPO/VwGO/StPO/SGG): wählt den nächsten Spezial-Skill nach Engpass (Berufung 1 Mon. § 517 ZPO, Klageschrift, Klageerwiderung, Schriftsätze), dokumentiert Router-Entscheidung mit Begründung."
+description: "Anschluss-Routing für Prozessrecht (ZPO/VwGO/StPO/SGG): wählt den nächsten Spezial-Skill nach Engpass (Berufung 1 Mon. Paragraf 517 ZPO, Klageschrift, Klageerwiderung, Schriftsätze), dokumentiert Router-Entscheidung mit Begründung."
 ---
 
 # Anschluss-Routing
@@ -24,7 +24,7 @@ Dieses Anschluss-Routing für **Prozessrecht** wählt nach dem ersten Ergebnis d
 - `gegenseite-status-mahnbescheid-mahnschreiben` — Gegenseite Status Mahnbescheid Mahnschreiben
 - `kaltstart-interview` — Kaltstart Interview
 - `mahnbescheid` — Mahnbescheid
-- `kostenfeststellungsklage-verzugsschaden-erledigung` — Zahlung, Aufrechnung, dauernde Einrede, Unmöglichkeit oder Wegfall des Rechtsschutzbedürfnisses nach Klageeinreichung; prüft § 91a ZPO, § 269 Abs. 3 Satz 3 ZPO und materiellen Kostenerstattungsanspruch als Verzugsschaden.
+- `kostenfeststellungsklage-verzugsschaden-erledigung` — Zahlung, Aufrechnung, dauernde Einrede, Unmöglichkeit oder Wegfall des Rechtsschutzbedürfnisses nach Klageeinreichung; prüft Paragraf 91a ZPO, Paragraf 269 Abs. 3 Satz 3 ZPO und materiellen Kostenerstattungsanspruch als Verzugsschaden.
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 
@@ -46,18 +46,18 @@ Dieses Anschluss-Routing für **Prozessrecht** wählt nach dem ersten Ergebnis d
 
 ### Kuratierte Normen-Bibliothek
 
-- § 203 StGB
-- § 45 GKG
-- § 115 VVG
-- § 7 StVG
-- § 68 GKG
-- § 43 GKG
-- § 3a RVG
-- § 97a UrhG
-- § 23 RVG
-- § 4a RVG
-- § 74 VwG
-- § 17 StVG
+- Paragraf 203 StGB
+- Paragraf 45 GKG
+- Paragraf 115 VVG
+- Paragraf 7 StVG
+- Paragraf 68 GKG
+- Paragraf 43 GKG
+- Paragraf 3a RVG
+- Paragraf 97a UrhG
+- Paragraf 23 RVG
+- Paragraf 4a RVG
+- Paragraf 74 VwG
+- Paragraf 17 StVG
 
 ### Leitentscheidungen
 

@@ -110,31 +110,31 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `anspruchstabelle` | Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen: §§ 253 261 ZPO. Prüfraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output:… |
-| `anwaltsgeheimnis-pruefung` | Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: § 43a BRAO, § 203 StGB, § 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche… |
-| `beweissicherung` | Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern. Normen: §§ 485 ff. ZPO. Prüfraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl,… |
-| `chronologie` | Sachverhaltschronologie für Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: §§ 253 138 ZPO. Prüfraster: Ereignisse, Zeitpunkte, Dokumente, Normbezug, streitige vs. unstreitige… |
-| `einstweilige-verfuegung` | Antrag auf einstweilige Verfuegung zur Sicherung zivilrechtlicher Ansprüche formulieren. Normen: §§ 935 940 ZPO. Prüfraster: Verfuegungsanspruch, Verfuegungsgrund, Glaubhaftmachung, Zuständigkeit, Arrest-Abgrenzung.… |
-| `gegenseite-status` | Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Normen: §§ 78 85 ZPO. Prüfraster: Vertreternachweis, Prozessvollmacht, Beklagteninsolvenz,… |
-| `mahnbescheid` | Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetzungen, Formulierung, Übergang zum Streitverfahren. Normen: §§ 688 ff. ZPO. Prüfraster: Zuständigkeit Mahngericht, bestimmte Geldforderung,… |
-| `mahnschreiben-aufnahme` | Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: §§ 204 212 BGB, § 93 ZPO. Prüfraster: Fristenlauf, Anerkennungsrisiko, Reaktionsoptionen. Output:… |
-| `mahnschreiben-entwurf` | Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankündigung. Normen: §§ 286 288 BGB, §§ 204 ff. BGB. Prüfraster: Verjaebrungshemmung, Verzugsbeginn, Schadensersatz, Klageandrohung.… |
-| `mahnschreiben-erhalten` | Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch, Zahlungsplan oder Verjaebrungsaufschub. Normen: §§ 286 287 BGB, §§ 203 204 BGB. Prüfraster: Forderungsprüfung, Verjaebrungsrisiko,… |
-| `mandat-aktualisierung` | Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschlüsse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Prüfraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes… |
-| `mandat-aufnahme` | Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prüfen, Klagekonzept skizzieren. Normen: §§ 253 261 ZPO, BRAO. Prüfraster: Sachverhaltserfassung, Anspruchsgrundlage, Zuständigkeit, Kosten-Risiko-Analyse.… |
-| `mandat-briefing` | Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen. Normen: §§ 373 ff. ZPO. Prüfraster: Beweislast, Zeugenvorbereitung, Verhandlungsstrategien. Output: Briefingdokument für… |
-| `mandat-schliessen` | Mandat nach Prozessabschluss formal schließen: Kostenfestsetzung, Archivierung, Mandanteninformation. Normen: §§ 103 ff. ZPO, RVG. Prüfraster: Kostenfestsetzungsantrag, Ergebnismitteilung, Handaktenfreigabe. Output:… |
+| `anspruchstabelle` | Anspruchstabelle für zivilprozessuales Mandat erstellen: alle Ansprüche und Gegenansprüche tabellarisch erfassen. Normen: Paragrafen 253 261 ZPO. Prüfraster: Anspruchsgrundlage, Betrag, Verjaebrung, Beweisstatus. Output:… |
+| `anwaltsgeheimnis-pruefung` | Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: Paragraf 43a BRAO, Paragraf 203 StGB, Paragraf 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche… |
+| `beweissicherung` | Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern. Normen: Paragrafen 485 ff. ZPO. Prüfraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl,… |
+| `chronologie` | Sachverhaltschronologie für Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: Paragrafen 253 138 ZPO. Prüfraster: Ereignisse, Zeitpunkte, Dokumente, Normbezug, streitige vs. unstreitige… |
+| `einstweilige-verfuegung` | Antrag auf einstweilige Verfuegung zur Sicherung zivilrechtlicher Ansprüche formulieren. Normen: Paragrafen 935 940 ZPO. Prüfraster: Verfuegungsanspruch, Verfuegungsgrund, Glaubhaftmachung, Zuständigkeit, Arrest-Abgrenzung.… |
+| `gegenseite-status` | Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Normen: Paragrafen 78 85 ZPO. Prüfraster: Vertreternachweis, Prozessvollmacht, Beklagteninsolvenz,… |
+| `mahnbescheid` | Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetzungen, Formulierung, Übergang zum Streitverfahren. Normen: Paragrafen 688 ff. ZPO. Prüfraster: Zuständigkeit Mahngericht, bestimmte Geldforderung,… |
+| `mahnschreiben-aufnahme` | Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: Paragrafen 204 212 BGB, Paragraf 93 ZPO. Prüfraster: Fristenlauf, Anerkennungsrisiko, Reaktionsoptionen. Output:… |
+| `mahnschreiben-entwurf` | Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankündigung. Normen: Paragrafen 286 288 BGB, Paragrafen 204 ff. BGB. Prüfraster: Verjaebrungshemmung, Verzugsbeginn, Schadensersatz, Klageandrohung.… |
+| `mahnschreiben-erhalten` | Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch, Zahlungsplan oder Verjaebrungsaufschub. Normen: Paragrafen 286 287 BGB, Paragrafen 203 204 BGB. Prüfraster: Forderungsprüfung, Verjaebrungsrisiko,… |
+| `mandat-aktualisierung` | Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschlüsse, Fristen eintragen. Normen: Paragrafen 233 ff. ZPO. Prüfraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes… |
+| `mandat-aufnahme` | Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prüfen, Klagekonzept skizzieren. Normen: Paragrafen 253 261 ZPO, BRAO. Prüfraster: Sachverhaltserfassung, Anspruchsgrundlage, Zuständigkeit, Kosten-Risiko-Analyse.… |
+| `mandat-briefing` | Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen. Normen: Paragrafen 373 ff. ZPO. Prüfraster: Beweislast, Zeugenvorbereitung, Verhandlungsstrategien. Output: Briefingdokument für… |
+| `mandat-schliessen` | Mandat nach Prozessabschluss formal schließen: Kostenfestsetzung, Archivierung, Mandanteninformation. Normen: Paragrafen 103 ff. ZPO, RVG. Prüfraster: Kostenfestsetzungsantrag, Ergebnismitteilung, Handaktenfreigabe. Output:… |
 | `portfolio-status` | Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahrensstand, naechste Schritte. Normen: ZPO, RVG. Prüfraster: Fristenliste, offene Anträge, Termine, Mahnfristen. Output: Portfolio-Statusbericht… |
-| `prozessrecht-anpassen` | Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Widerklage, Rücknahme. Normen: §§ 263 264 269 ZPO. Prüfraster: Klageaenderungsvoraussetzungen, Rücknahmefolgen, Widerklagemöglichkeiten.… |
-| `prozessrecht-kaltstart-interview` | Prozessrechtliches Erstinterview strukturiert durchführen: Sachverhalt, Klagebegehren, Fristen, Kosten. Normen: §§ 253 261 ZPO, BRAO. Prüfraster: Anspruchsgrundlage, Zuständigkeit, Verjaebrung, Kostenrisiko. Output:… |
+| `prozessrecht-anpassen` | Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Widerklage, Rücknahme. Normen: Paragrafen 263 264 269 ZPO. Prüfraster: Klageaenderungsvoraussetzungen, Rücknahmefolgen, Widerklagemöglichkeiten.… |
+| `prozessrecht-kaltstart-interview` | Prozessrechtliches Erstinterview strukturiert durchführen: Sachverhalt, Klagebegehren, Fristen, Kosten. Normen: Paragrafen 253 261 ZPO, BRAO. Prüfraster: Anspruchsgrundlage, Zuständigkeit, Verjaebrung, Kostenrisiko. Output:… |
 | `prozessrecht-mandat-arbeitsbereich` | Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Prüfraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output:… |
-| `schriftsatz-abschnitt` | Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begründung, Beweisangebot nach ZPO-Schema. Normen: §§ 253 313 ZPO. Prüfraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt für… |
-| `strafverteidigung-ersttermin` | Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Prüfraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output:… |
-| `streitwert` | Streitwert für zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebühren. Normen: §§ 3 9 ZPO, GKG, RVG. Prüfraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output:… |
-| `verkehrsunfall` | Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: §§ 7 18 StVG, §§ 823 253 BGB, § 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung,… |
-| `vollstreckung` | Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Prüfraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis,… |
-| `vorlageanordnung` | Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: §§ 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf… |
-| `zeuge-vorbereitung` | Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output:… |
+| `schriftsatz-abschnitt` | Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begründung, Beweisangebot nach ZPO-Schema. Normen: Paragrafen 253 313 ZPO. Prüfraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt für… |
+| `strafverteidigung-ersttermin` | Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: Paragrafen 137 147 StPO. Prüfraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output:… |
+| `streitwert` | Streitwert für zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebühren. Normen: Paragrafen 3 9 ZPO, GKG, RVG. Prüfraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output:… |
+| `verkehrsunfall` | Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: Paragrafen 7 18 StVG, Paragrafen 823 253 BGB, Paragraf 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung,… |
+| `vollstreckung` | Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: Paragrafen 704 ff. ZPO. Prüfraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis,… |
+| `vorlageanordnung` | Vorlageanordnung nach Paragraf 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: Paragrafen 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf… |
+| `zeuge-vorbereitung` | Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: Paragrafen 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output:… |
 
 ## Worum geht es?
 
@@ -153,30 +153,30 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 ## Fachbegriffe (kurz erklaert)
 
 - **Streitwert** — der Geldwert des Streitgegenstands; bestimmt Gerichts- und Anwaltsgebuehren sowie die sachliche Zuständigkeit.
-- **Mahnbescheid** — gerichtliche Zahlungsaufforderung im schriftlichen Mahnverfahren (§§ 688 ff. ZPO); bei Widerspruch Uebergang zum streitigen Verfahren.
-- **Einstweilige Verfuegung** — vorläufige gerichtliche Maßnahme zur Sicherung eines Anspruchs (§§ 935 ff. ZPO); Verfuegungsanspruch und Verfuegungsgrund erforderlich.
-- **Beweissicherung** — selbständiges Beweisverfahren nach §§ 485 ff. ZPO; sichert Gutachten oder Tatsachen vor Klageerhebung.
-- **Vollstreckbarer Titel** — Grundlage für Zwangsvollstreckung (§ 704 ZPO); benoetigt Vollstreckungsklausel und Zustellungsnachweis.
-- **Vorlageanordnung** — gerichtliche Anordnung zur Vorlage von Urkunden durch Gegner oder Dritte (§ 142 ZPO).
+- **Mahnbescheid** — gerichtliche Zahlungsaufforderung im schriftlichen Mahnverfahren (Paragrafen 688 ff. ZPO); bei Widerspruch Uebergang zum streitigen Verfahren.
+- **Einstweilige Verfuegung** — vorläufige gerichtliche Maßnahme zur Sicherung eines Anspruchs (Paragrafen 935 ff. ZPO); Verfuegungsanspruch und Verfuegungsgrund erforderlich.
+- **Beweissicherung** — selbständiges Beweisverfahren nach Paragrafen 485 ff. ZPO; sichert Gutachten oder Tatsachen vor Klageerhebung.
+- **Vollstreckbarer Titel** — Grundlage für Zwangsvollstreckung (Paragraf 704 ZPO); benoetigt Vollstreckungsklausel und Zustellungsnachweis.
+- **Vorlageanordnung** — gerichtliche Anordnung zur Vorlage von Urkunden durch Gegner oder Dritte (Paragraf 142 ZPO).
 
 ## Rechtsgrundlagen
 
-- §§ 253 ff. ZPO — Klageschrift und Klagezulaessigkeit
-- §§ 688 ff. ZPO — Mahnverfahren und Mahnbescheid
-- §§ 935 ff. ZPO — einstweilige Verfuegung
-- §§ 485 ff. ZPO — selbständiges Beweisverfahren
-- §§ 704 ff. ZPO — Zwangsvollstreckung
-- § 142 ZPO — Vorlageanordnung
-- §§ 3 ff. ZPO — Streitwertbemessung
-- § 78 ZPO — Anwaltszwang (ab Landgericht)
-- §§ 137 ff. StPO — Strafverteidigung und Akteneinsicht
+- Paragrafen 253 ff. ZPO — Klageschrift und Klagezulaessigkeit
+- Paragrafen 688 ff. ZPO — Mahnverfahren und Mahnbescheid
+- Paragrafen 935 ff. ZPO — einstweilige Verfuegung
+- Paragrafen 485 ff. ZPO — selbständiges Beweisverfahren
+- Paragrafen 704 ff. ZPO — Zwangsvollstreckung
+- Paragraf 142 ZPO — Vorlageanordnung
+- Paragrafen 3 ff. ZPO — Streitwertbemessung
+- Paragraf 78 ZPO — Anwaltszwang (ab Landgericht)
+- Paragrafen 137 ff. StPO — Strafverteidigung und Akteneinsicht
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klären: Kläger oder Beklagter? Zivilsache oder Strafsache? Eilbedarf?
 2. Phase des Mandats bestimmen: Vorprozessual (Mahnschreiben, Mahnbescheid), Klagephase, Beweissicherung oder Vollstreckung?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen prüfen: Verjaebrung (§§ 195 ff. BGB), Klageanmeldefristen, Widerspruchsfristen beim Mahnbescheid (zwei Wochen).
+4. Eilfristen prüfen: Verjaebrung (Paragrafen 195 ff. BGB), Klageanmeldefristen, Widerspruchsfristen beim Mahnbescheid (zwei Wochen).
 5. Anschluss-Skill bestimmen: Nach Klageschrift ggf. einstweilige Verfuegung; nach Urteil Vollstreckungsauftrag.
 
 ## Skill-Tour (was gibt es hier?)
@@ -184,7 +184,7 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - `mandat-aufnahme` — Prozessmandat aufnehmen: Sachverhalt, Zuständigkeit, Klagekonzept skizzieren.
 - `prozessrecht-kaltstart-interview` — Erstinterview strukturiert durchfuehren: Sachverhalt, Klagebegehren, Fristen, Kostenrisiko.
 - `prozessrecht-mandat-arbeitsbereich` — Digitaler Arbeitsbereich: Dokumentenablage, Aufgabenverteilung, Fristentracking.
-- `prozessrecht-anpassen` — Strategie anpassen: Klageaenderung, Widerklage, Rücknahme (§§ 263 ff. ZPO).
+- `prozessrecht-anpassen` — Strategie anpassen: Klageaenderung, Widerklage, Rücknahme (Paragrafen 263 ff. ZPO).
 - `mandat-aktualisierung` — Laufendes Mandat aktualisieren: neue Schriftsaetze, Beschlüsse, Fristen eintragen.
 - `portfolio-status` — Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahrensstand, naechste Schritte.
 - `mandat-briefing` — Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen.
@@ -196,12 +196,12 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - `mahnschreiben-entwurf` — Vorgerichtliches Mahnschreiben erstellen: Fristsetzung, Verzugsbeginn, Klageandrohung.
 - `mahnschreiben-aufnahme` — Erhaltenes Mahnschreiben einordnen: Anerkennungsgefahr, Verjaebrungshemmung.
 - `mahnschreiben-erhalten` — Auf erhaltenes Mahnschreiben reagieren: Widerspruch, Zahlungsplan, Verjaebrungsaufschub.
-- `mahnbescheid` — Mahnbescheid im gerichtlichen Mahnverfahren beantragen (§§ 688 ff. ZPO).
-- `einstweilige-verfuegung` — Antrag auf einstweilige Verfuegung zur Anspruchssicherung formulieren (§§ 935 ff. ZPO).
-- `beweissicherung` — Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten (§§ 485 ff. ZPO).
-- `vorlageanordnung` — Urkundenvorlageanordnung nach § 142 ZPO beantragen.
+- `mahnbescheid` — Mahnbescheid im gerichtlichen Mahnverfahren beantragen (Paragrafen 688 ff. ZPO).
+- `einstweilige-verfuegung` — Antrag auf einstweilige Verfuegung zur Anspruchssicherung formulieren (Paragrafen 935 ff. ZPO).
+- `beweissicherung` — Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten (Paragrafen 485 ff. ZPO).
+- `vorlageanordnung` — Urkundenvorlageanordnung nach Paragraf 142 ZPO beantragen.
 - `schriftsatz-abschnitt` — Einzelne Abschnitte eines Schriftsatzes erstellen (Tatbestand, Begruendung, Beweisangebot).
-- `vollstreckung` — Zwangsvollstreckung einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung (§§ 704 ff. ZPO).
+- `vollstreckung` — Zwangsvollstreckung einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung (Paragrafen 704 ff. ZPO).
 - `zeuge-vorbereitung` — Zeugen für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsthemen.
 - `anwaltsgeheimnis-pruefung` — Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen.
 - `verkehrsunfall` — Verkehrsunfall-Mandat vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz.
@@ -209,23 +209,23 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 
 ## Worauf besonders achten
 
-- **Anwaltszwang ab LG**: Vor dem Landgericht und hoeheren Instanzen gilt § 78 ZPO; nur vor dem Amtsgericht kann der Mandant ohne Anwalt auftreten.
-- **Verjaebrung laeuft gegen Kläger**: Mahnschreiben hemmen Verjaebrung nicht; erst Klageschrift oder Mahnbescheid hemmen nach § 204 BGB.
+- **Anwaltszwang ab LG**: Vor dem Landgericht und hoeheren Instanzen gilt Paragraf 78 ZPO; nur vor dem Amtsgericht kann der Mandant ohne Anwalt auftreten.
+- **Verjaebrung laeuft gegen Kläger**: Mahnschreiben hemmen Verjaebrung nicht; erst Klageschrift oder Mahnbescheid hemmen nach Paragraf 204 BGB.
 - **Widerspruch beim Mahnbescheid in zwei Wochen**: Wer keinen Widerspruch einlegt, erhalt auf Antrag des Glaebigers einen Vollstreckungsbescheid.
 - **Glaubhaftmachung bei eV**: Ohne eidesstattliche Versicherung oder sonstige Glaubhaftmachung wird der Antrag auf einstweilige Verfuegung zurueckgewiesen.
 - **Kostenfestsetzungsantrag nicht vergessen**: Nach obsiegendem Urteil muss der Kostenfestsetzungsantrag gestellt werden; das Gericht tituliert Kosten nicht von Amts wegen.
 
 ## Typische Fehler
 
-- Klageschrift ohne bestimmten Antrag eingereicht: § 253 Abs. 2 Nr. 2 ZPO verlangt einen konkreten Antrag; ohne ihn ist die Klage unzulaessig.
-- Beweismittel nicht benannt: § 138 ZPO verlangt, dass Beweismittel zumindest bezeichnet werden; spaeteres Nachschieben kann Verspaeterngsfolgen ausloesen.
+- Klageschrift ohne bestimmten Antrag eingereicht: Paragraf 253 Abs. 2 Nr. 2 ZPO verlangt einen konkreten Antrag; ohne ihn ist die Klage unzulaessig.
+- Beweismittel nicht benannt: Paragraf 138 ZPO verlangt, dass Beweismittel zumindest bezeichnet werden; spaeteres Nachschieben kann Verspaeterngsfolgen ausloesen.
 - Streitwert zu niedrig angesetzt: Unterschaetzung fuehrt zu zu niedrigen Gebühren und verzoegert Verfahren, wenn nachtraeglich korrigiert wird.
 - Kein Widerspruch auf Mahnbescheid eingelegt: Rechtskraftfalle — der Vollstreckungsbescheid ist vollstreckbarer Titel.
-- Vollstreckung ohne Klausel und Zustellungsnachweis begonnen: Vollstreckungsorgane werden Auftrag zurueckweisen; § 750 ZPO ist Grundvoraussetzung.
+- Vollstreckung ohne Klausel und Zustellungsnachweis begonnen: Vollstreckungsorgane werden Auftrag zurueckweisen; Paragraf 750 ZPO ist Grundvoraussetzung.
 
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - ZPO in geltender Fassung
 - GKG und RVG in geltender Fassung
-- § 23 Nr. 1 GVG: Streitwertgrenze AG 10.000 EUR seit 01.01.2026
+- Paragraf 23 Nr. 1 GVG: Streitwertgrenze AG 10.000 EUR seit 01.01.2026

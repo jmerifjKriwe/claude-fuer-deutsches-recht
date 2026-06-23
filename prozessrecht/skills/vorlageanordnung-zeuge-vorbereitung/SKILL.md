@@ -1,13 +1,13 @@
 ---
 name: vorlageanordnung-zeuge-vorbereitung
-description: "Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: §§ 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren §§ 485 ff. ZP..."
+description: "Vorlageanordnung nach Paragraf 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: Paragrafen 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren Paragrafen 485 ff. ZP..."
 ---
 
 # Triage Gerichtliche und Behördliche Beweisanordnungen
 
 ## Arbeitsbereich
 
-Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: §§ 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren §§ 485 ff. ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vorlageanordnung nach Paragraf 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: Paragrafen 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren Paragrafen 485 ff. ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner o
 
 Beweisanordnungen und Vorladungen kommen mit Fristen. Die typischen Fehler: Frist verpassen, zu viel produzieren (Schutzrechtsverlust, unnötige Belastung), zu wenig produzieren (Ordnungsgeld, Beugehaft) oder das Fenster für eine Einwendung versäumen. Dieser Skill klassifiziert, analysiert und erstellt einen Mitwirkungsplan mit Einwendungsgerüst.
 
-Hinweis: Ein direktes Pendant zur US-amerikanischen "Subpoena" existiert im deutschen Recht nicht. Behandle die deutschen Rechtsinstitute, die vergleichbare Funktionen erfüllen: Urkundenvorlageanordnung (§ 142 ZPO), Augenscheinsanordnung (§ 144 ZPO), Zeugenladung (§§ 373 ff. ZPO), polizeiliche und staatsanwaltschaftliche Anforderungen (§ 161a StPO), Durchsuchung und Sicherstellung (§§ 102, 103 StPO) sowie behördliche Auskunftsersuchen.
+Hinweis: Ein direktes Pendant zur US-amerikanischen "Subpoena" existiert im deutschen Recht nicht. Behandle die deutschen Rechtsinstitute, die vergleichbare Funktionen erfüllen: Urkundenvorlageanordnung (Paragraf 142 ZPO), Augenscheinsanordnung (Paragraf 144 ZPO), Zeugenladung (Paragrafen 373 ff. ZPO), polizeiliche und staatsanwaltschaftliche Anforderungen (Paragraf 161a StPO), Durchsuchung und Sicherstellung (Paragrafen 102, 103 StPO) sowie behördliche Auskunftsersuchen.
 
 ## Eingaben
 
@@ -34,24 +34,24 @@ Hinweis: Ein direktes Pendant zur US-amerikanischen "Subpoena" existiert im deut
 
 ### Kernvorschriften: Urkundenvorlage und Beweiserhebung (ZPO)
 
-- **§ 142 ZPO** — Anordnung der Urkundenvorlegung durch das Gericht; Voraussetzungen: Erheblichkeit und Zumutbarkeit; Verweigerungsrecht nach § 142 Abs. 2 ZPO i.V.m. §§ 383, 384 ZPO.
-- **§ 144 ZPO** — Anordnung der Inaugenscheinnahme; analoge Schranken.
-- **§§ 273, 356 ZPO** — Gerichtliche Beweisbeschlüsse; Fristbestimmungen; Folgen der Nichtbefolgung (§ 286 ZPO Beweiswürdigung, § 380 ZPO Ordnungsgeld bei Zeugnisverweigerung).
-- **§§ 373–401 ZPO** — Zeugenbeweis; Ladung, Erscheinungspflicht, Zeugnisverweigerungsrecht; § 383 Nr. 6 ZPO: Zeugnisverweigerung für Rechtsanwälte.
+- **Paragraf 142 ZPO** — Anordnung der Urkundenvorlegung durch das Gericht; Voraussetzungen: Erheblichkeit und Zumutbarkeit; Verweigerungsrecht nach Paragraf 142 Abs. 2 ZPO i.V.m. Paragrafen 383, 384 ZPO.
+- **Paragraf 144 ZPO** — Anordnung der Inaugenscheinnahme; analoge Schranken.
+- **Paragrafen 273, 356 ZPO** — Gerichtliche Beweisbeschlüsse; Fristbestimmungen; Folgen der Nichtbefolgung (Paragraf 286 ZPO Beweiswürdigung, Paragraf 380 ZPO Ordnungsgeld bei Zeugnisverweigerung).
+- **Paragrafen 373–401 ZPO** — Zeugenbeweis; Ladung, Erscheinungspflicht, Zeugnisverweigerungsrecht; Paragraf 383 Nr. 6 ZPO: Zeugnisverweigerung für Rechtsanwälte.
 
 ### Kernvorschriften: Strafverfahren
 
-- **§ 161a StPO** — Staatsanwaltliche Anforderung von Auskünften und Vorlage von Unterlagen; Erscheinens- und Aussagepflicht.
-- **§§ 102, 103 StPO** — Durchsuchung bei Verdächtigen (§ 102) und bei Dritten (§ 103 StPO: erhöhte Anforderungen; Kanzleidurchsuchung nach § 103 grundsätzlich nur bei dringenden Verdachtsmomenten gegen den Anwalt selbst).
-- **§ 94 StPO** — Sicherstellung als Beweismittel; sachliche Voraussetzungen.
-- **§ 97 StPO** — Beschlagnahmeverbot; schützt Schriften des Verteidigers und Gegenstände im Gewahrsam von Zeugnisverweigerungsberechtigten.
-- **§ 53 StPO** — Zeugnisverweigerungsrecht des Rechtsanwalts; vollständige Weigerungsbefugnis.
-- **§ 160a StPO** — Schutz des Verkehrs mit Berufsgeheimnisträgern; Verbot der Umgehung durch verdeckte Ermittlungsmaßnahmen.
+- **Paragraf 161a StPO** — Staatsanwaltliche Anforderung von Auskünften und Vorlage von Unterlagen; Erscheinens- und Aussagepflicht.
+- **Paragrafen 102, 103 StPO** — Durchsuchung bei Verdächtigen (Paragraf 102) und bei Dritten (Paragraf 103 StPO: erhöhte Anforderungen; Kanzleidurchsuchung nach Paragraf 103 grundsätzlich nur bei dringenden Verdachtsmomenten gegen den Anwalt selbst).
+- **Paragraf 94 StPO** — Sicherstellung als Beweismittel; sachliche Voraussetzungen.
+- **Paragraf 97 StPO** — Beschlagnahmeverbot; schützt Schriften des Verteidigers und Gegenstände im Gewahrsam von Zeugnisverweigerungsberechtigten.
+- **Paragraf 53 StPO** — Zeugnisverweigerungsrecht des Rechtsanwalts; vollständige Weigerungsbefugnis.
+- **Paragraf 160a StPO** — Schutz des Verkehrs mit Berufsgeheimnisträgern; Verbot der Umgehung durch verdeckte Ermittlungsmaßnahmen.
 
 ### Kernvorschriften: Beschlagnahmeschutz
 
-- **§ 97 Abs. 1 Nr. 1 StPO** — Beschlagnahmeverbot für schriftliche Mitteilungen zwischen Beschuldigtem und Rechtsanwalt im Gewahrsam des Anwalts.
-- **§ 97 Abs. 2 StPO** — Beschlagnahmeverbot erstreckt sich auf alle Gegenstände, auf die das Zeugnisverweigerungsrecht sich bezieht.
+- **Paragraf 97 Abs. 1 Nr. 1 StPO** — Beschlagnahmeverbot für schriftliche Mitteilungen zwischen Beschuldigtem und Rechtsanwalt im Gewahrsam des Anwalts.
+- **Paragraf 97 Abs. 2 StPO** — Beschlagnahmeverbot erstreckt sich auf alle Gegenstände, auf die das Zeugnisverweigerungsrecht sich bezieht.
 
 ### Leitentscheidungen
 
@@ -66,9 +66,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Vor der Analyse der Beweisanordnung: Welches Verfahren und welche Normen gelten?
 
-- **ZPO-Verfahren**: §§ 142, 144, 273 ZPO; Verweigerungsrechte nach §§ 383, 384 ZPO; Fristberechnung nach §§ 214 ff. ZPO.
-- **StPO-Verfahren**: §§ 94, 97, 102, 103, 161a StPO; § 53 StPO bei Zeugnisverweigerungsrecht; sofortiger Widerspruch bei Beschlagnahme von Verteidigerunterlagen.
-- **VwGO**: §§ 86, 99, 111 VwGO; behördliche Vorlagebeschlüsse; In-camera-Verfahren.
+- **ZPO-Verfahren**: Paragrafen 142, 144, 273 ZPO; Verweigerungsrechte nach Paragrafen 383, 384 ZPO; Fristberechnung nach Paragrafen 214 ff. ZPO.
+- **StPO-Verfahren**: Paragrafen 94, 97, 102, 103, 161a StPO; Paragraf 53 StPO bei Zeugnisverweigerungsrecht; sofortiger Widerspruch bei Beschlagnahme von Verteidigerunterlagen.
+- **VwGO**: Paragrafen 86, 99, 111 VwGO; behördliche Vorlagebeschlüsse; In-camera-Verfahren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Quellenattribuierung: Jeden Normen- und Entscheidungshinweis mit Herkunft versehen: `[Primärquelle]`, `[Kommentar – prüfen]`, `[Trainingsdaten – prüfen]`. Vor Einreichung in Schriftsätzen oder gegenüber dem Gericht sind alle Angaben gegen eine Primärquelle (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang) zu verifizieren.
@@ -77,11 +77,11 @@ Quellenattribuierung: Jeden Normen- und Entscheidungshinweis mit Herkunft verseh
 
 Beweisanordnungen kommen in verschiedenen Formen mit unterschiedlichen Rechtsfolgen:
 
-- **Urkundenvorlageanordnung (§ 142 ZPO, zivil)** — Wir sind Dritter oder Partei; das Gericht verlangt unsere Unterlagen. Übliche Einwendungskategorien: Erheblichkeit, Zumutbarkeit, Beschlagnahmeschutz/Zeugnisverweigerungsrecht.
-- **Zeugenladung (§§ 373 ff. ZPO; § 161a StPO)** — Ein Mitarbeiter oder der Anwalt selbst soll aussagen. Umfang, Relevanz, mögliche Einwendung; etwaige Zeugnisvorbereitung erforderlich.
-- **Durchsuchungs-/Sicherstellungsanordnung (§§ 102, 103 StPO)** — Ermittlungsmaßnahme in Büro- oder Kanzleiräumen. Bei Kanzleidurchsuchung sofortige Prüfung § 97 StPO; Widerspruch zu Protokoll erklären; keine Mitwirkung über die Duldungspflicht hinaus ohne Rechtsrat.
+- **Urkundenvorlageanordnung (Paragraf 142 ZPO, zivil)** — Wir sind Dritter oder Partei; das Gericht verlangt unsere Unterlagen. Übliche Einwendungskategorien: Erheblichkeit, Zumutbarkeit, Beschlagnahmeschutz/Zeugnisverweigerungsrecht.
+- **Zeugenladung (Paragrafen 373 ff. ZPO; Paragraf 161a StPO)** — Ein Mitarbeiter oder der Anwalt selbst soll aussagen. Umfang, Relevanz, mögliche Einwendung; etwaige Zeugnisvorbereitung erforderlich.
+- **Durchsuchungs-/Sicherstellungsanordnung (Paragrafen 102, 103 StPO)** — Ermittlungsmaßnahme in Büro- oder Kanzleiräumen. Bei Kanzleidurchsuchung sofortige Prüfung Paragraf 97 StPO; Widerspruch zu Protokoll erklären; keine Mitwirkung über die Duldungspflicht hinaus ohne Rechtsrat.
 - **Behördliches Auskunftsersuchen (z. B. BKartA, BaFin, Steuerfahndung)** — Eigene Verfahrensordnung; Auskunftsverweigerungsrechte unterschiedlich.
-- **Strafrechtliche Vorladung (§ 163a StPO)** — Als Beschuldigter; sofortiger Rechtsanwalt; Aussageverweigerungsrecht.
+- **Strafrechtliche Vorladung (Paragraf 163a StPO)** — Als Beschuldigter; sofortiger Rechtsanwalt; Aussageverweigerungsrecht.
 
 ### Schritt 2: Schlüsselfelder extrahieren
 
@@ -106,7 +106,7 @@ Beweisanordnungen kommen in verschiedenen Formen mit unterschiedlichen Rechtsfol
 **Umfang / Erheblichkeit**
 - Erfassen die Kategorien tatsächlich vorhandene Dokumente?
 - Ist eine Kategorie überschießend (unverhältnismäßig weit, ohne erkennbaren Bezug zum Verfahrensgegenstand)?
-- Geografischer Umfang / Erscheinungsort — § 142 ZPO: zumutbar; § 103 StPO: Verhältnismäßigkeit; VwGO: § 86 Abs. 1 VwGO Beibringungspflicht.
+- Geografischer Umfang / Erscheinungsort — Paragraf 142 ZPO: zumutbar; Paragraf 103 StPO: Verhältnismäßigkeit; VwGO: Paragraf 86 Abs. 1 VwGO Beibringungspflicht.
 
 **Belastung**
 - Betroffene Personen und Systeme, relevanter Zeitraum
@@ -114,16 +114,16 @@ Beweisanordnungen kommen in verschiedenen Formen mit unterschiedlichen Rechtsfol
 - Kosten — Dritte können in bestimmten Konstellationen Kostenerstattung geltend machen; Rechtsgrundlage prüfen.
 
 **Beschlagnahmeschutz und Zeugnisverweigerung**
-- § 97 StPO-Schutz wahrscheinlich berührt? (Beinahe immer bei jeder rechtsbezogenen Anforderung; häufig auch bei Korrespondenz mit Syndikusrechtsanwälten — Einschränkung beachten)
-- Weitere Weigerungsrechte: § 383 Nr. 6 ZPO, § 53 StPO Zeugnisverweigerung, § 43a BRAO Verschwiegenheit
+- Paragraf 97 StPO-Schutz wahrscheinlich berührt? (Beinahe immer bei jeder rechtsbezogenen Anforderung; häufig auch bei Korrespondenz mit Syndikusrechtsanwälten — Einschränkung beachten)
+- Weitere Weigerungsrechte: Paragraf 383 Nr. 6 ZPO, Paragraf 53 StPO Zeugnisverweigerung, Paragraf 43a BRAO Verschwiegenheit
 - Schutzwürdige Geschäftsgeheimnisse nach GeschGehG
 - Datenschutz — Art. 14 DSGVO: Informationspflicht bei Übermittlung personenbezogener Daten an Dritte
 
 **Sonstige Einwendungsgründe**
-- Vertraulichkeit — Schutzanordnung nach § 174 GVG oder Vereinbarung erforderlich?
+- Vertraulichkeit — Schutzanordnung nach Paragraf 174 GVG oder Vereinbarung erforderlich?
 - Doppelproduktion — hat die Gegenseite bereits dieselben Unterlagen aus einer anderen Quelle?
 - Nicht vorhanden — wir besitzen das Verlangte nicht (mit Substanz darlegen)
-- Zustellungsmangel — Voraussetzungen der §§ 171 ff. ZPO, §§ 33 ff. StPO prüfen
+- Zustellungsmangel — Voraussetzungen der Paragrafen 171 ff. ZPO, Paragrafen 33 ff. StPO prüfen
 
 ### Schritt 5: Einwendungsgerüst
 
@@ -193,8 +193,8 @@ Alle Fristen sofort im Fristenkontrollsystem notieren.
 
 *Erste Scoping-Prüfung; endgültige Entscheidung liegt beim Anwalt.*
 
-**§ 97 StPO / § 43a BRAO / § 53 StPO wahrscheinlich berührt:** [ja/nein + welche Kategorien] `[PRÜFEN]`
-**Weitere Weigerungsrechte:** [GeschGehG, Datenschutz, § 383 ZPO] `[PRÜFEN]`
+**Paragraf 97 StPO / Paragraf 43a BRAO / Paragraf 53 StPO wahrscheinlich berührt:** [ja/nein + welche Kategorien] `[PRÜFEN]`
+**Weitere Weigerungsrechte:** [GeschGehG, Datenschutz, Paragraf 383 ZPO] `[PRÜFEN]`
 **Vertraulichkeitsregister erforderlich:** [ja/nein — Format]
 
 ---
@@ -207,7 +207,7 @@ Alle Fristen sofort im Fristenkontrollsystem notieren.
 |---|---|---|---|---|
 | Erheblichkeit/Verhältnismäßigkeit | [Norm] | [Kategorien] | [stark/vertretbar/schwach] | [ ] |
 | Belastung/Zumutbarkeit | [Norm] | [Kategorien] | | [ ] |
-| § 97 StPO / § 43a BRAO | Beschlagnahmeschutz/Verschwiegenheit | [alle Schutzunterlagen] | stark | [ ] |
+| Paragraf 97 StPO / Paragraf 43a BRAO | Beschlagnahmeschutz/Verschwiegenheit | [alle Schutzunterlagen] | stark | [ ] |
 | Nicht vorhanden | [Norm/Grundsatz] | [falls zutreffend] | | [ ] |
 | [Sonstiges] | | | | [ ] |
 
@@ -268,13 +268,13 @@ Jeder Normen-, Entscheidungs- und Regelhinweis in dieser Triage — einschließl
 Ohne ausdrückliche Bestätigung keine Weiterleitung. Triage, Scoping und internes Fristenmanagement erfordern die Schranke nicht — die Reaktion gegenüber der anordnenden Stelle schon.
 
 - Bei **strafrechtlicher Vorladung als Beschuldigter** → sofort Verteidiger mandatieren; diese Triage endet hier.
-- Bei **Kanzleidurchsuchung (§ 103 StPO)**: sofortiger Widerspruch zu Protokoll; keine freiwillige Herausgabe über Duldungspflicht hinaus ohne anwaltliche Prüfung.
+- Bei **Kanzleidurchsuchung (Paragraf 103 StPO)**: sofortiger Widerspruch zu Protokoll; keine freiwillige Herausgabe über Duldungspflicht hinaus ohne anwaltliche Prüfung.
 - Sonst: Angebot, Mandat anzulegen (in der Regel sinnvoll — Beweisanordnungen sind fast immer bedeutend genug zur Verfolgung).
 - Falls noch keine Beweissicherungsanordnung mit dem Anordnungsumfang vorliegt: sofort an `/prozessrecht:beweissicherung --anordnen` übergeben.
 
 ## Risiken und typische Fehler
 
-- **Beschlagnahmeschutz § 97 StPO:** Bei Kanzleidurchsuchungen sofort Widerspruch erklären; jede Herausgabe ohne Prüfung kann den Schutz endgültig beseitigen.
+- **Beschlagnahmeschutz Paragraf 97 StPO:** Bei Kanzleidurchsuchungen sofort Widerspruch erklären; jede Herausgabe ohne Prüfung kann den Schutz endgültig beseitigen.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Einwendungsfristen:** Laufen teilweise bereits ab Zustellung; kein einheitliches Datum ohne Normprüfung annehmen.
@@ -282,15 +282,15 @@ Ohne ausdrückliche Bestätigung keine Weiterleitung. Triage, Scoping und intern
 
 ## Quellenpflicht
 
-- Gesetzestexte: §§ 142, 144, 273, 373 ff., 383, 384 ZPO; §§ 53, 94, 97, 102, 103, 160a, 161a, 163a StPO; §§ 86, 99 VwGO; § 43a BRAO; GeschGehG
+- Gesetzestexte: Paragrafen 142, 144, 273, 373 ff., 383, 384 ZPO; Paragrafen 53, 94, 97, 102, 103, 160a, 161a, 163a StPO; Paragrafen 86, 99 VwGO; Paragraf 43a BRAO; GeschGehG
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 <!-- AUDIT 27.05.2026
-behandelt aber Abschiebungsanordnung nach § 58a AufenthG gegen algerischen Islamisten (WRONG_TOPIC),
-nicht das behauptete Thema "Auskunftsverweigerungsrecht § 99 VwGO / behoerdliches
+behandelt aber Abschiebungsanordnung nach Paragraf 58a AufenthG gegen algerischen Islamisten (WRONG_TOPIC),
+nicht das behauptete Thema "Auskunftsverweigerungsrecht Paragraf 99 VwGO / behoerdliches
 Geheimhaltungsinteresse". Das im Skill genannte Datum 15.02.2018 existiert auf dejure.org
 ebenfalls nicht. Halluzinierte Referenz geloescht. Keine Ersatzquelle ergaenzt.
 -->

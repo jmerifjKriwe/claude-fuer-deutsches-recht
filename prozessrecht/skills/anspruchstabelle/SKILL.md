@@ -9,11 +9,11 @@ Dieser Skill baut aus einer Akte eine Anspruchstabelle, die Klage, Klageerwideru
 
 ## Normenanker
 
-- § 253 ZPO fuer Klageantrag und bestimmten Streitgegenstand.
-- §§ 138, 282, 296 ZPO fuer Vortrag, Wahrheitspflicht und Praeklusion.
-- §§ 286, 287 ZPO fuer Beweiswuerdigung und Schadensschaetzung.
-- §§ 91 ff. ZPO fuer Kostenrisiko.
-- §§ 195, 199, 204 BGB fuer Verjaehrung und Hemmung.
+- Paragraf 253 ZPO fuer Klageantrag und bestimmten Streitgegenstand.
+- Paragrafen 138, 282, 296 ZPO fuer Vortrag, Wahrheitspflicht und Praeklusion.
+- Paragrafen 286, 287 ZPO fuer Beweiswuerdigung und Schadensschaetzung.
+- Paragrafen 91 ff. ZPO fuer Kostenrisiko.
+- Paragrafen 195, 199, 204 BGB fuer Verjaehrung und Hemmung.
 
 ## Arbeitsgang
 

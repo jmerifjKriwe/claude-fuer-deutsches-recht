@@ -22,11 +22,11 @@ description: "Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahre
 5. **CLAUDE.md geladen:** Ist das Praxisprofil (Risikokalibrierung, Wesentlichkeitsschwelle) aktuell?
 
 ## Zentrale Normen
-- § 43a Abs. 3 BRAO (Sorgfaltspflicht — Fristenkontrolle)
-- § 43a Abs. 6 BRAO (Pflicht zur zeitnahen Mandatsbearbeitung)
-- § 196 BGB (Verjährung von Ansprüchen auf Übertragung von Rechten)
-- § 232 ff. ZPO (Fristen und Wiedereinsetzung)
-- § 233 ZPO (Wiedereinsetzung in den vorigen Stand bei Fristversäumnis)
+- Paragraf 43a Abs. 3 BRAO (Sorgfaltspflicht — Fristenkontrolle)
+- Paragraf 43a Abs. 6 BRAO (Pflicht zur zeitnahen Mandatsbearbeitung)
+- Paragraf 196 BGB (Verjährung von Ansprüchen auf Übertragung von Rechten)
+- Paragraf 232 ff. ZPO (Fristen und Wiedereinsetzung)
+- Paragraf 233 ZPO (Wiedereinsetzung in den vorigen Stand bei Fristversäumnis)
 
 ## Rechtsprechung (ergänzt)
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -44,12 +44,12 @@ description: "Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahre
 
 ### Kernvorschriften
 
-- **§ 43a Abs. 1 BRAO i.V.m. § 11 BORA** — Sorgfaltspflicht; lückenlose Fristen- und Sachstandskontrolle als Berufspflicht; Verfahren ohne aktuellen Eintrag können auf Versäumnisse hinweisen.
-- **§§ 214–233 ZPO; §§ 516, 520, 548, 569 ZPO** — Fristen im Zivilprozess; versäumte Fristen sind einer der häufigsten Anwaltshaftungsgründe.
-- **§ 317 StPO** — Berufungsfrist im Strafverfahren (eine Woche ab Urteilsverkündung); besondere Überwachungspflicht.
-- **§ 74 VwGO** — Klagefrist im Verwaltungsgerichtsverfahren (ein Monat); versäumt grundsätzlich nicht wiedereinsetzungsfähig.
-- **§ 249 HGB** — Rückstellungspflicht für drohende Verluste aus schwebenden Rechtsstreitigkeiten; relevant für die Wesentlichkeitsklassifizierung.
-- **§ 285 Nr. 3a HGB; § 340e Abs. 3 HGB** — Offenlegung wesentlicher Rechtsstreitigkeiten im Jahresabschluss; Berührungspunkt mit der Wesentlichkeitskennzeichnung.
+- **Paragraf 43a Abs. 1 BRAO i.V.m. Paragraf 11 BORA** — Sorgfaltspflicht; lückenlose Fristen- und Sachstandskontrolle als Berufspflicht; Verfahren ohne aktuellen Eintrag können auf Versäumnisse hinweisen.
+- **Paragrafen 214–233 ZPO; Paragrafen 516, 520, 548, 569 ZPO** — Fristen im Zivilprozess; versäumte Fristen sind einer der häufigsten Anwaltshaftungsgründe.
+- **Paragraf 317 StPO** — Berufungsfrist im Strafverfahren (eine Woche ab Urteilsverkündung); besondere Überwachungspflicht.
+- **Paragraf 74 VwGO** — Klagefrist im Verwaltungsgerichtsverfahren (ein Monat); versäumt grundsätzlich nicht wiedereinsetzungsfähig.
+- **Paragraf 249 HGB** — Rückstellungspflicht für drohende Verluste aus schwebenden Rechtsstreitigkeiten; relevant für die Wesentlichkeitsklassifizierung.
+- **Paragraf 285 Nr. 3a HGB; Paragraf 340e Abs. 3 HGB** — Offenlegung wesentlicher Rechtsstreitigkeiten im Jahresabschluss; Berührungspunkt mit der Wesentlichkeitskennzeichnung.
 
 ### Leitentscheidungen
 
@@ -173,7 +173,7 @@ Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `
 
 ## Quellenpflicht
 
-- Gesetzestexte: §§ 43a BRAO; § 11 BORA; §§ 214 ff., 516, 520, 548, 569 ZPO; § 317 StPO; § 74 VwGO; §§ 249, 285 HGB
+- Gesetzestexte: Paragrafen 43a BRAO; Paragraf 11 BORA; Paragrafen 214 ff., 516, 520, 548, 569 ZPO; Paragraf 317 StPO; Paragraf 74 VwGO; Paragrafen 249, 285 HGB
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 

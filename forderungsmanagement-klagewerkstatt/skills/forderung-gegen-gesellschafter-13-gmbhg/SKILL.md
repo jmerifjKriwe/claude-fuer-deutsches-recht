@@ -1,17 +1,17 @@
 ---
 name: forderung-gegen-gesellschafter-13-gmbhg
-description: "Forderung gegen GmbH-Gesellschafter: § 19 sowie § 31 GmbHG (Einlagepflicht, Rueckforderung), § 13 Abs. 2 GmbHG Trennungsprinzip, Durchgriffshaftung bei existenzvernichtendem Eingriff (BGH II ZR 78/06). Pruefraster."
+description: "Forderung gegen GmbH-Gesellschafter: Paragraf 19 sowie Paragraf 31 GmbHG (Einlagepflicht, Rueckforderung), Paragraf 13 Abs. 2 GmbHG Trennungsprinzip, Durchgriffshaftung bei existenzvernichtendem Eingriff (BGH II ZR 78/06). Pruefraster."
 ---
 
 # Forderung gegen Gesellschafter
 
 ## Aufgabe
-Forderung gegen GmbH-Gesellschafter: § 19 sowie § 31 GmbHG (Einlagepflicht, Rueckforderung), § 13 Abs.
+Forderung gegen GmbH-Gesellschafter: Paragraf 19 sowie Paragraf 31 GmbHG (Einlagepflicht, Rueckforderung), Paragraf 13 Abs.
 
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `forderung-gegen-gesellschafter-13-gmbhg`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Forderung gegen GmbH-Gesellschafter: § 19 sowie § 31 GmbHG (Einlagepflicht, Rueckforderung), § 13 Abs. 2 GmbHG Trennungsprinzip, Durchgriffshaftung bei existenzvernichtendem Eingriff (BGH II ZR 78/06). Pruefraster..
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `forderung-gegen-gesellschafter-13-gmbhg`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Forderung gegen GmbH-Gesellschafter: Paragraf 19 sowie Paragraf 31 GmbHG (Einlagepflicht, Rueckforderung), Paragraf 13 Abs. 2 GmbHG Trennungsprinzip, Durchgriffshaftung bei existenzvernichtendem Eingriff (BGH II ZR 78/06). Pruefraster..
 
 Arbeite deshalb fallnah:
 

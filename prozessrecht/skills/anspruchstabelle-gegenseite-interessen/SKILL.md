@@ -9,14 +9,14 @@ description: "Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk im Pro
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Paragraf 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf 195 BGB` — regelmäßige Verjährung.
+- `Paragraf 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -51,18 +51,18 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ### Kuratierte Normen-Bibliothek
 
-- § 203 StGB
-- § 45 GKG
-- § 115 VVG
-- § 7 StVG
-- § 68 GKG
-- § 43 GKG
-- § 3a RVG
-- § 97a UrhG
-- § 23 RVG
-- § 4a RVG
-- § 74 VwG
-- § 17 StVG
+- Paragraf 203 StGB
+- Paragraf 45 GKG
+- Paragraf 115 VVG
+- Paragraf 7 StVG
+- Paragraf 68 GKG
+- Paragraf 43 GKG
+- Paragraf 3a RVG
+- Paragraf 97a UrhG
+- Paragraf 23 RVG
+- Paragraf 4a RVG
+- Paragraf 74 VwG
+- Paragraf 17 StVG
 
 ### Leitentscheidungen
 

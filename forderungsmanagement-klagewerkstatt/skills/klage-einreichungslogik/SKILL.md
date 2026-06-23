@@ -34,11 +34,11 @@ Nach Eingang der Klage versendet das Gericht eine Kostenrechnung. Erst nach Eing
 
 Geht nach Einreichung der Klage, aber vor Zustellung an die Beklagte, eine Zahlung ein oder fällt der Klageanlass sonst weg, ist das keine reine Formsache. Vor einer Prozesserklärung sind drei Wege zu vergleichen:
 
-1. Klagerücknahme mit Kostenantrag nach § 269 Abs. 3 Satz 3 ZPO.
+1. Klagerücknahme mit Kostenantrag nach Paragraf 269 Abs. 3 Satz 3 ZPO.
 2. Erledigungserklärung nur, wenn die zeitliche Lage und die Reaktion der Gegenseite dies tragen.
-3. Umstellung auf Feststellung, dass die Beklagte die Kosten als Verzugsschaden nach §§ 280, 286 BGB zu ersetzen hat.
+3. Umstellung auf Feststellung, dass die Beklagte die Kosten als Verzugsschaden nach Paragrafen 280, 286 BGB zu ersetzen hat.
 
-Die dritte Spur ist besonders wichtig, wenn der Schuldner bei Klageeinreichung schon in Verzug war und die summarische Kostenentscheidung nach § 269 Abs. 3 Satz 3 ZPO wegen offener Beweis- oder Rechtsfragen eine Kostenaufhebung riskieren würde. Dann zum Skill `kostenfeststellungsklage-verzugsschaden-erledigung` wechseln.
+Die dritte Spur ist besonders wichtig, wenn der Schuldner bei Klageeinreichung schon in Verzug war und die summarische Kostenentscheidung nach Paragraf 269 Abs. 3 Satz 3 ZPO wegen offener Beweis- oder Rechtsfragen eine Kostenaufhebung riskieren würde. Dann zum Skill `kostenfeststellungsklage-verzugsschaden-erledigung` wechseln.
 
 ## Streitwert und Gebühren Beispiele 2026
 

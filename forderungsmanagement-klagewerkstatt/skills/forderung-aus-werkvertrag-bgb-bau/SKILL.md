@@ -1,17 +1,17 @@
 ---
 name: forderung-aus-werkvertrag-bgb-bau
-description: "Forderung aus Werk-/Bauvertrag: Faelligkeit § 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungspruefung, Sicherungseinbehalt, Maengelrechte als Einwendung. Output: Pruefraster und Schriftsatz-Module."
+description: "Forderung aus Werk-/Bauvertrag: Faelligkeit Paragraf 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungspruefung, Sicherungseinbehalt, Maengelrechte als Einwendung. Output: Pruefraster und Schriftsatz-Module."
 ---
 
 # Werk-/Bauwerklohn-Forderung
 
 ## Aufgabe
-Forderung aus Werk-/Bauvertrag: Faelligkeit § 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungspruefung, Sicherungseinbehalt, Maengelrechte als Einwendung.
+Forderung aus Werk-/Bauvertrag: Faelligkeit Paragraf 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungspruefung, Sicherungseinbehalt, Maengelrechte als Einwendung.
 
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `forderung-aus-werkvertrag-bgb-bau`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Forderung aus Werk-/Bauvertrag: Faelligkeit § 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungspruefung, Sicherungseinbehalt, Maengelrechte als Einwendung. Output: Pruefraster und Schriftsatz-Module..
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `forderungsmanagement-klagewerkstatt` zum Thema `forderung-aus-werkvertrag-bgb-bau`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Forderung aus Werk-/Bauvertrag: Faelligkeit Paragraf 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungspruefung, Sicherungseinbehalt, Maengelrechte als Einwendung. Output: Pruefraster und Schriftsatz-Module..
 
 Arbeite deshalb fallnah:
 

@@ -21,7 +21,7 @@ Memo (rechtliche Würdigung) wird **nur auf ausdrückliche Anfrage** erstellt.
 **Schritt 1 — Kanzlei-Profil**
 Einmal abfragen und merken:
 
-> Kanzleiname, Rechtsanwältin/Rechtsanwalt mit Anschrift, BeA-SAFE-ID, AGB-Klausel zum Gerichtsstand (sofern für Verbraucher unzulässig nach § 29c ZPO klar abgrenzen), übliche Mandantengruppe (B2B, B2C, gemischt), bevorzugte Zinsformel (Basiszins+5/+9, §§ 288 Abs. 1/2 BGB), Standard-Anlagenliste (z. B. Rechnung, Auftragsbestätigung, Mahnungen, Lieferschein, AGB).
+> Kanzleiname, Rechtsanwältin/Rechtsanwalt mit Anschrift, BeA-SAFE-ID, AGB-Klausel zum Gerichtsstand (sofern für Verbraucher unzulässig nach Paragraf 29c ZPO klar abgrenzen), übliche Mandantengruppe (B2B, B2C, gemischt), bevorzugte Zinsformel (Basiszins+5/+9, Paragrafen 288 Abs. 1/2 BGB), Standard-Anlagenliste (z. B. Rechnung, Auftragsbestätigung, Mahnungen, Lieferschein, AGB).
 
 **Schritt 2 — Materialaufnahme (Lernkorpus)**
 Den Nutzer bitten, alle einschlägigen Eigenmaterialien hochzuladen oder per Pfad zu nennen:
@@ -38,7 +38,7 @@ Bei Schweigen mit den im Plugin liegenden Leervorlagen unter `assets/vorlagen-le
 Aus dem Lernkorpus extrahieren (Zusammenfassung am Schluss dem Nutzer vorlegen):
 
 - Aufbau der Klageschrift (Rubrum, Anträge, Begründung, Beweismittel, Anlagen, Schluss).
-- Standardklauseln: Antragswortlaut, Zinsantrag, vorgerichtliche RA-Kosten als Nebenforderung, Mahnverzugsbeginn, Verzugszinsen (§§ 286, 288 BGB), Verzugsschaden (§ 280 BGB).
+- Standardklauseln: Antragswortlaut, Zinsantrag, vorgerichtliche RA-Kosten als Nebenforderung, Mahnverzugsbeginn, Verzugszinsen (Paragrafen 286, 288 BGB), Verzugsschaden (Paragraf 280 BGB).
 - Tonalität: knapp/ausführlich; aktiv/passiv; Direktanrede des Gerichts.
 - Zitierweise: Pinpoint, Randnummer, jüngere BGH-Entscheidungen zuerst, deutsche Kommentartradition.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -69,7 +69,7 @@ Zusätzlich Dokumenten-Drop akzeptieren (Rechnungen, Mahnungen, Korrespondenz). 
 Pflichtschritt vor Auslieferung. Reihenfolge:
 
 1. **Sachliche Zuständigkeit** rechnerisch: Streitwert bis einschließlich 10.000 EUR → Amtsgericht nach Paragraf 23 Nummer 1 GVG; über 10.000 EUR → Landgericht nach Paragraf 71 Absatz 1 GVG. Sondertatbestände beachten: Wohnraummietsachen ausschließlich und streitwertunabhängig Amtsgericht nach Paragraf 23 Nummer 2a GVG, auch bei verbundener Räumungs- und Zahlungsklage; Nachbarschaftsstreitigkeiten Amtsgericht nach Paragraf 23 Nummer 2e GVG; Familiensachen Familiengericht; Handelssachen Kammer für Handelssachen nach Paragrafen 95 und 96 GVG.
-2. **Örtliche Zuständigkeit** rechtlich: allgemeiner Gerichtsstand der Beklagten (§§ 12, 13 ZPO). Erfüllungsort (§ 29 ZPO) prüfen — bei Geldschulden Sitz der Klagepartei nur bei qualifizierter Schickschuld, sonst Wohnsitz Beklagte. Verbraucher-Sondertatbestand § 29c ZPO. AGB-Gerichtsstand prüfen, aber bei Verbrauchern nach § 38 ZPO unwirksam.
+2. **Örtliche Zuständigkeit** rechtlich: allgemeiner Gerichtsstand der Beklagten (Paragrafen 12, 13 ZPO). Erfüllungsort (Paragraf 29 ZPO) prüfen — bei Geldschulden Sitz der Klagepartei nur bei qualifizierter Schickschuld, sonst Wohnsitz Beklagte. Verbraucher-Sondertatbestand Paragraf 29c ZPO. AGB-Gerichtsstand prüfen, aber bei Verbrauchern nach Paragraf 38 ZPO unwirksam.
 3. **Online-Adressrecherche** (immer ausführen):
    - Für NRW-Anschriften: `pplx content fetch "https://www.justizadressen.nrw.de/de/justiz/suche?suchbegriff=<PLZ_oder_Ort>"` (PLZ oder Ort der Beklagten). Wenn PLZ allein nicht reicht, mit Ort nachfassen.
    - Bundesweit ergänzend: `pplx content fetch "https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php"` und Landes-Justizportale.
@@ -104,10 +104,10 @@ Bei Zustimmung: zwei Seiten, DOCX oder Markdown.
 ## Rechtlicher Rahmen
 
 ### Pflichtinhalte und Form der Klageschrift
-- **§ 253 Abs. 2 ZPO** Klageinhalt (Parteien, Gericht, Anträge, Sachverhalt, Beweismittel).
-- **§ 130 ZPO** Form der Schriftsätze; **§ 130a ZPO** elektronisches Dokument; **§ 130d ZPO** Pflicht zur elektronischen Einreichung für Rechtsanwältinnen und Rechtsanwälte (beA).
+- **Paragraf 253 Abs. 2 ZPO** Klageinhalt (Parteien, Gericht, Anträge, Sachverhalt, Beweismittel).
+- **Paragraf 130 ZPO** Form der Schriftsätze; **Paragraf 130a ZPO** elektronisches Dokument; **Paragraf 130d ZPO** Pflicht zur elektronischen Einreichung für Rechtsanwältinnen und Rechtsanwälte (beA).
 - **Paragraf 78 Absatz 1 Satz 1 ZPO** Anwaltszwang vor Landgericht und höheren Gerichten; vor dem Amtsgericht in erster Instanz kein Anwaltszwang im Umkehrschluss.
-- **§ 12 RVG / Anlage 2 VV RVG**: Gebührentabelle; **Nr. 2300 VV RVG** Geschäftsgebühr; **Vorbem. 3 Abs. 4 VV RVG** Anrechnung 0,65; **Nr. 3100 VV RVG** Verfahrensgebühr.
+- **Paragraf 12 RVG / Anlage 2 VV RVG**: Gebührentabelle; **Nr. 2300 VV RVG** Geschäftsgebühr; **Vorbem. 3 Abs. 4 VV RVG** Anrechnung 0,65; **Nr. 3100 VV RVG** Verfahrensgebühr.
 
 ### Sachliche Zuständigkeit
 - **Paragraf 23 Nummer 1 GVG** Amtsgericht bis einschließlich 10.000 EUR.
@@ -115,18 +115,18 @@ Bei Zustimmung: zwei Seiten, DOCX oder Markdown.
 - **Paragraf 23 Nummer 2a GVG** Wohnraummietsachen ausschließlich und streitwertunabhängig Amtsgericht, einschließlich verbundener Räumungs- und Zahlungsklagen.
 
 ### Örtliche Zuständigkeit
-- **§§ 12, 13 ZPO** allgemeiner Gerichtsstand der Beklagten.
-- **§ 17 ZPO** Sitz juristischer Personen.
-- **§ 29 ZPO** besonderer Gerichtsstand des Erfüllungsortes.
-- **§ 29c ZPO** Verbraucherverträge (Wohnsitz Verbraucher).
-- **§ 38 ZPO** Gerichtsstandsvereinbarung (zwischen Vollkaufleuten zulässig, gegenüber Verbraucher gemäß § 38 Abs. 3 ZPO eingeschränkt).
-- **§ 17 ZPO** Sitz; **§ 24 ZPO** dinglicher Gerichtsstand.
+- **Paragrafen 12, 13 ZPO** allgemeiner Gerichtsstand der Beklagten.
+- **Paragraf 17 ZPO** Sitz juristischer Personen.
+- **Paragraf 29 ZPO** besonderer Gerichtsstand des Erfüllungsortes.
+- **Paragraf 29c ZPO** Verbraucherverträge (Wohnsitz Verbraucher).
+- **Paragraf 38 ZPO** Gerichtsstandsvereinbarung (zwischen Vollkaufleuten zulässig, gegenüber Verbraucher gemäß Paragraf 38 Abs. 3 ZPO eingeschränkt).
+- **Paragraf 17 ZPO** Sitz; **Paragraf 24 ZPO** dinglicher Gerichtsstand.
 - Bei grenzüberschreitenden Sachverhalten **Brüssel Ia VO (EU) 1215/2012**, insb. Art. 7 Nr. 1 lit. a und b (Erfüllungsort), Art. 17–19 (Verbrauchersachen), Art. 25 (Gerichtsstandsvereinbarung).
 
 ### Materielle Anspruchsgrundlagen (Standard)
-- **§ 433 Abs. 2 BGB** Kaufpreisanspruch; **§ 631 Abs. 1 BGB** Werklohnanspruch; **§ 611a Abs. 2 BGB** Vergütungsanspruch Dienstvertrag; **§ 535 Abs. 2 BGB** Miete; **§ 488 BGB** Darlehensrückzahlung.
-- **§ 286 BGB** Verzug; **§ 288 Abs. 1 BGB** Verzugszinsen 5 Prozentpunkte über Basiszins; **§ 288 Abs. 2 BGB** 9 Prozentpunkte zwischen Unternehmern für Entgeltforderung; **§ 288 Abs. 5 BGB** Verzugspauschale 40 EUR (B2B).
-- **§ 280 BGB** Schadensersatz inkl. vorgerichtlicher RA-Kosten.
+- **Paragraf 433 Abs. 2 BGB** Kaufpreisanspruch; **Paragraf 631 Abs. 1 BGB** Werklohnanspruch; **Paragraf 611a Abs. 2 BGB** Vergütungsanspruch Dienstvertrag; **Paragraf 535 Abs. 2 BGB** Miete; **Paragraf 488 BGB** Darlehensrückzahlung.
+- **Paragraf 286 BGB** Verzug; **Paragraf 288 Abs. 1 BGB** Verzugszinsen 5 Prozentpunkte über Basiszins; **Paragraf 288 Abs. 2 BGB** 9 Prozentpunkte zwischen Unternehmern für Entgeltforderung; **Paragraf 288 Abs. 5 BGB** Verzugspauschale 40 EUR (B2B).
+- **Paragraf 280 BGB** Schadensersatz inkl. vorgerichtlicher RA-Kosten.
 
 ### Leitentscheidungen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

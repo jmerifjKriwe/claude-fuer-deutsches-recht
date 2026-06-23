@@ -9,15 +9,15 @@ description: "Vollstreckung: Behörden-, Gerichts- oder Registerweg im Prozessre
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 1 StGB` — Keine Strafe ohne Gesetz.
-- `§ 15 StGB` — Vorsatz/Fahrlaessigkeit.
-- `§ 16 Abs. 1 StGB` — Tatbestandsirrtum.
-- `§ 17 StGB` — Verbotsirrtum.
-- `§ 46 Abs. 1 StGB` — Strafzumessung.
-- `§ 152 Abs. 2 StPO` — Legalitaetsprinzip/Anfangsverdacht.
-- `§ 160 Abs. 2 StPO` — Ermittlung auch entlastender Umstaende.
-- `§ 244 Abs. 2 StPO` — Aufklaerungspflicht.
-- `§ 261 StPO` — freie richterliche Beweiswuerdigung.
+- `Paragraf 1 StGB` — Keine Strafe ohne Gesetz.
+- `Paragraf 15 StGB` — Vorsatz/Fahrlaessigkeit.
+- `Paragraf 16 Abs. 1 StGB` — Tatbestandsirrtum.
+- `Paragraf 17 StGB` — Verbotsirrtum.
+- `Paragraf 46 Abs. 1 StGB` — Strafzumessung.
+- `Paragraf 152 Abs. 2 StPO` — Legalitaetsprinzip/Anfangsverdacht.
+- `Paragraf 160 Abs. 2 StPO` — Ermittlung auch entlastender Umstaende.
+- `Paragraf 244 Abs. 2 StPO` — Aufklaerungspflicht.
+- `Paragraf 261 StPO` — freie richterliche Beweiswuerdigung.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

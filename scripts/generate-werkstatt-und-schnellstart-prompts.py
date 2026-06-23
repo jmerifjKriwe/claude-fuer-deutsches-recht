@@ -58,6 +58,8 @@ def plugin_dirs() -> list[Path]:
         dirs.append(plugin_json.parent.parent)
     for plugin_json in (REPO / "_GERICHTE_EXPERIMENTAL").glob("*/.claude-plugin/plugin.json"):
         dirs.append(plugin_json.parent.parent)
+    for plugin_json in (REPO / "gerichtsplugins").glob("*/.claude-plugin/plugin.json"):
+        dirs.append(plugin_json.parent.parent)
     return sorted(set(dirs), key=lambda p: p.as_posix())
 
 
