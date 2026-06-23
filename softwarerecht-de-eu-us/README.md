@@ -1,5 +1,7 @@
 # Softwarerecht Deutschland/EU/International/USA
 
+Wenn du das hier oeffnest, willst du einen IT- oder Softwarevertrag pruefen und Leistungspflichten sowie Haftung sauber fassen.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

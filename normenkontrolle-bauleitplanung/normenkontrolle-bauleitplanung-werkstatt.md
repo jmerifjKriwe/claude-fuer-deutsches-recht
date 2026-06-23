@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen Bebauungsplan oder staedtebaulichen Vertrag auf Festsetzungen und Fehler pruefen.
+
 # Normenkontrolle Bauleitplanung — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

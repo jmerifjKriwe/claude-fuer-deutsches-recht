@@ -330,6 +330,8 @@ def build_werkstatt(plugin_dir: Path) -> str:
                 lines.append("")
 
     text = "\n".join(lines).strip() + "\n"
+    if profile.oeffnungssatz:
+        text = profile.oeffnungssatz + "\n\n" + text
     return sanitize(text)
 
 
@@ -356,6 +358,8 @@ def build_schnellstart(plugin_dir: Path) -> str:
         "## Kurzweg",
         "",
     ]
+    if profile.oeffnungssatz:
+        lines = [profile.oeffnungssatz, ""] + lines
     for idx, station in enumerate(stations, 1):
         lines.append(f"{idx}. {clean(station, 180)}")
     lines += ["", "## Anker", ""]

@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.
+
 # Mittelstand Corporate Ma — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

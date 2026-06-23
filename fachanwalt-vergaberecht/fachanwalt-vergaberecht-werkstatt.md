@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine Vergabeentscheidung ruegen und das Nachpruefungsverfahren fristgerecht fuehren.
+
 # Fachanwalt Vergaberecht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

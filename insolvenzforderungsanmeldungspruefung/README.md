@@ -1,5 +1,7 @@
 # Insolvenzforderungsanmeldungsprüfung
 
+Wenn du das hier oeffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt waehlen.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du Werklohn, Maengel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
+
 # Urteilsbauer Relationsmacher — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

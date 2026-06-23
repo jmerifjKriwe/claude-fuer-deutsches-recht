@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du Versorgungsausgleich, Zugewinn und Unterhalt sauber durchrechnen und beantragen.
+
 # Richter Familiengericht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

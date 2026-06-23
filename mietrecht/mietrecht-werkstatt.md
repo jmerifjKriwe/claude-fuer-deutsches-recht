@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine fristlose Kuendigung wegen Zahlungsverzug rechtssicher aussprechen oder abwehren.
+
 # Miet- Und Wohnungseigentumsrecht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

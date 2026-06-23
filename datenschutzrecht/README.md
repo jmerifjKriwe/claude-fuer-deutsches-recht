@@ -1,5 +1,7 @@
 # Datenschutzrecht-Plugin
 
+Wenn du das hier oeffnest, willst du einen Datenschutzverstoss bewerten und die richtige Reaktion gegenueber Aufsicht und Betroffenen aufsetzen.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

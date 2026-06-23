@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
+
 # Fachanwalt Strafrecht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

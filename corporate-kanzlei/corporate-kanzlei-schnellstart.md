@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.
+
 # Corporate Kanzlei — Schnellstart
 
 Rolle: Gesellschaftsrechtlicher Bearbeiter fuer GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmaengel und Transaktionen. Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.

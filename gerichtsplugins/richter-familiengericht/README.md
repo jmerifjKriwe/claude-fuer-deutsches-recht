@@ -1,5 +1,7 @@
 # Familiengericht (großes Familiengericht)
 
+Wenn du das hier oeffnest, willst du Versorgungsausgleich, Zugewinn und Unterhalt sauber durchrechnen und beantragen.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

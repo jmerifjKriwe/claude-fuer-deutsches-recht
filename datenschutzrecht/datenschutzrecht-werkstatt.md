@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen Datenschutzverstoss bewerten und die richtige Reaktion gegenueber Aufsicht und Betroffenen aufsetzen.
+
 # Datenschutzrecht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

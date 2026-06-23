@@ -1,5 +1,7 @@
 # Leasingrecht Praxis
 
+Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

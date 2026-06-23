@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen Verwaltungsakt anfechten und vorlaeufigen Rechtsschutz erreichen.
+
 # Zwangsverwaltung Zvg — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

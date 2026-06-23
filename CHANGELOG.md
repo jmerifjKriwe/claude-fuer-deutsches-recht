@@ -1,3 +1,15 @@
+# v388.0.0 — i-Tuepfelchen: der Oeffnungssatz Wenn du das hier oeffnest
+
+Jedes Plugin traegt jetzt ganz oben einen einzigen, themenscharfen Satz nach dem Muster Wenn du das hier oeffnest, willst du, der das konkrete Arbeitsergebnis benennt. Wortgleich in drei Dateien: README, Werkstatt-Prompt, Schnellstart-Prompt.
+
+- Neues Feld oeffnungssatz je Themenprofil in scripts/themen_profile.py, ein Satz fuer jedes der neunzehn Profile (Arbeitsrecht, Mietrecht, Familienrecht, Strafrecht, Insolvenz, Steuer und weitere bis zum Auffangprofil).
+- Der Generator stellt den Satz als allererste Zeile von Werkstatt- und Schnellstart-Prompt voran; das Plugin mietrecht wird als handkuratiert uebersprungen und hat den Satz von Hand erhalten.
+- Ein Patch-Helper setzt den Satz in allen 229 Plugin-READMEs direkt unter die Ueberschrift.
+- Schnellstart-Grenze von 7500 Zeichen bleibt eingehalten, kein Prompt darueber.
+- Repo-weiter Versions-Bump auf v388.0.0. YAML- und Strukturvalidator laufen fehlerfrei.
+
+---
+
 # v387.0.0 — Handkuratierte Prompts gegen den Generator abgesichert
 
 Behebt eine Sollbruchstelle: bislang haette ein erneuter Lauf von generate-werkstatt-und-schnellstart-prompts.py mit force jede von Hand veredelte Werkstatt- oder Schnellstart-Datei wieder mit Generator-Standardtext ueberschrieben.

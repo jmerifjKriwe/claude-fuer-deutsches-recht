@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
+
 # Richter Sozialgericht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

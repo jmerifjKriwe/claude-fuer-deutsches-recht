@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
+
 # Hoai Leistungsphasen Praxis — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

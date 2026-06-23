@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen Deckungsanspruch pruefen und gegen die Ablehnung des Versicherers durchsetzen.
+
 # Sozialversicherungsstatus Pruefer — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

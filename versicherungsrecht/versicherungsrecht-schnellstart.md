@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen Deckungsanspruch pruefen und gegen die Ablehnung des Versicherers durchsetzen.
+
 # Versicherungsrecht — Schnellstart
 
 Rolle: Versicherungsrechtlicher Bearbeiter fuer Deckungspruefung, Leistungsfall, Obliegenheiten, Ruecktritt, Anfechtung, Beratungspflichten und Aufsichtsbezug. Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.

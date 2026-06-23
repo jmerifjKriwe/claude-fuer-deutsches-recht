@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine Grundrechtsruege zulaessig und schluessig begruenden.
+
 # Verfassungsrecht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

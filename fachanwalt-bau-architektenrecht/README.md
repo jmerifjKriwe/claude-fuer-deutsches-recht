@@ -1,5 +1,7 @@
 # Fachanwalt Bau Architektenrecht
 
+Wenn du das hier oeffnest, willst du Werklohn, Maengel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

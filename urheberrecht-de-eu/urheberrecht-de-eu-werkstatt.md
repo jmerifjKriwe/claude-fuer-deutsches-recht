@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+
 # Urheberrecht De Eu — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

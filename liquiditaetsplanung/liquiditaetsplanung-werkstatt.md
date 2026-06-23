@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine belastbare Liquiditaetsplanung aufstellen und drohende Zahlungsunfaehigkeit fruehzeitig erkennen.
+
 # Liquiditaetsplanung — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

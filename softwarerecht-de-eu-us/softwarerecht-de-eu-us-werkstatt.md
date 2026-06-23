@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen IT- oder Softwarevertrag pruefen und Leistungspflichten sowie Haftung sauber fassen.
+
 # Softwarerecht De Eu Us — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

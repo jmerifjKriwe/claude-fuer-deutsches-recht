@@ -1,5 +1,7 @@
 # Fachanwalt Arbeitsrecht
 
+Wenn du das hier oeffnest, willst du eine Kuendigung rechtssicher angreifen oder aussprechen und die Klagefrist sichern.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

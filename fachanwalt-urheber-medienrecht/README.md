@@ -1,5 +1,7 @@
 # Fachanwalt Urheber Medienrecht
 
+Wenn du das hier oeffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

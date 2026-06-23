@@ -23,11 +23,13 @@ class ThemenProfil:
     pruefraster: tuple[str, ...]
     stop: tuple[str, ...]
     skelette: tuple[str, ...] = field(default_factory=tuple)
+    oeffnungssatz: str = ""
 
 
 PROFILE: tuple[ThemenProfil, ...] = (
     ThemenProfil(
         key="arbeits",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du eine Kuendigung rechtssicher angreifen oder aussprechen und die Klagefrist sichern.",
         label="Arbeitsrecht",
         rolle="Arbeitsrechtlicher Bearbeiter fuer Individual- und Kollektivarbeitsrecht mit Fokus auf Fristen, Form, Darlegungslast und verwertbare Prozess- oder Vertragsprodukte.",
         normen=(
@@ -73,6 +75,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="miet",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du eine fristlose Kuendigung wegen Zahlungsverzug rechtssicher aussprechen oder abwehren.",
         label="Miet- und Wohnungseigentumsrecht",
         rolle="Mietrechtlicher Bearbeiter fuer Wohnraum, Gewerberaum, Betriebskosten, Maengel, Kuendigung, Raeumung und WEG-Konflikte.",
         normen=(
@@ -112,6 +115,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="famil",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du Versorgungsausgleich, Zugewinn und Unterhalt sauber durchrechnen und beantragen.",
         label="Familienrecht",
         rolle="Familienrechtlicher Bearbeiter fuer Scheidung, Unterhalt, Kindschaft, Versorgungsausgleich und vermoegensrechtliche Folgesachen.",
         normen=(
@@ -151,6 +155,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="straf",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.",
         label="Strafrecht und Strafverfahren",
         rolle="Strafrechtlicher Bearbeiter fuer Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift.",
         normen=(
@@ -190,6 +195,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="datenschutz",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du einen Datenschutzverstoss bewerten und die richtige Reaktion gegenueber Aufsicht und Betroffenen aufsetzen.",
         label="Datenschutzrecht",
         rolle="Datenschutzrechtlicher Bearbeiter fuer Verantwortliche, Auftragsverarbeitung, Betroffenenrechte, Datenschutzaufsicht und Datenpannen.",
         normen=(
@@ -229,6 +235,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="insolvenz",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt waehlen.",
         label="Insolvenz- und Sanierungsrecht",
         rolle="Insolvenzrechtlicher Bearbeiter fuer Krisenfrueherkennung, Insolvenzantrag, Forderungsanmeldung, Anfechtung, Plan und Sanierung.",
         normen=(
@@ -268,6 +275,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="steuer",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du einen Steuerbescheid pruefen und Einspruch oder Klage tragfaehig begruenden.",
         label="Steuerrecht",
         rolle="Steuerrechtlicher Bearbeiter fuer Veranlagung, Einspruch, Betriebspruefung, internationale Besteuerung und Gestaltungsrisiken.",
         normen=(
@@ -307,6 +315,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="gesellschaft",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.",
         label="Gesellschaftsrecht",
         rolle="Gesellschaftsrechtlicher Bearbeiter fuer GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmaengel und Transaktionen.",
         normen=(
@@ -346,6 +355,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="verfass",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du eine Grundrechtsruege zulaessig und schluessig begruenden.",
         label="Verfassungsrecht",
         rolle="Verfassungsrechtlicher Bearbeiter fuer Grundrechte, Staatsorganisationsrecht, Verfassungsbeschwerde, Normenkontrolle und Verhaeltnismaessigkeit.",
         normen=(
@@ -385,6 +395,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="versicherung",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du einen Deckungsanspruch pruefen und gegen die Ablehnung des Versicherers durchsetzen.",
         label="Versicherungsrecht",
         rolle="Versicherungsrechtlicher Bearbeiter fuer Deckungspruefung, Leistungsfall, Obliegenheiten, Ruecktritt, Anfechtung, Beratungspflichten und Aufsichtsbezug.",
         normen=(
@@ -424,6 +435,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="liquiditaet",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du eine belastbare Liquiditaetsplanung aufstellen und drohende Zahlungsunfaehigkeit fruehzeitig erkennen.",
         label="Liquiditaetsplanung",
         rolle="Liquiditaetsplanender Bearbeiter fuer Unternehmen, Geschaeftsleitung und Beratung mit Fokus auf Zahlungsfaehigkeit, Wochenplanung, Szenarien, Covenants und dokumentierte Anschlussentscheidungen.",
         normen=(
@@ -463,6 +475,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="sozial",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.",
         label="Sozialrecht",
         rolle="Sozialrechtlicher Bearbeiter fuer Verwaltungsverfahren, Widerspruch, Klage, Leistungsrecht, Krankenversicherung, Teilhabe, Erwerbsminderung und existenzsichernde Leistungen.",
         normen=(
@@ -502,6 +515,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="verwaltung",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du einen Verwaltungsakt anfechten und vorlaeufigen Rechtsschutz erreichen.",
         label="Verwaltungsrecht",
         rolle="Verwaltungsrechtlicher Bearbeiter fuer Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.",
         normen=(
@@ -541,6 +555,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="vergabe",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du eine Vergabeentscheidung ruegen und das Nachpruefungsverfahren fristgerecht fuehren.",
         label="Vergaberecht",
         rolle="Vergaberechtlicher Bearbeiter fuer Ausschreibung, Rüge, Nachpruefungsverfahren, Zuschlagsverbot, Wertung und strategische Korrektur von Vergabefehlern.",
         normen=(
@@ -580,6 +595,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="urheber",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.",
         label="Urheber- und Medienrecht",
         rolle="Urheberrechtlicher Bearbeiter fuer Werk, Rechtekette, Lizenz, Nutzung, Schranken, Plattformen, Abmahnung und Unterlassung.",
         normen=(
@@ -619,6 +635,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="it",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du einen IT- oder Softwarevertrag pruefen und Leistungspflichten sowie Haftung sauber fassen.",
         label="IT-Recht",
         rolle="IT-rechtlicher Bearbeiter fuer Software, SaaS, IT-Projekte, Cloud, Leistungsstoerung, Datenschutzschnittstellen, Service-Level und Vertragsabnahme.",
         normen=(
@@ -659,6 +676,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
 
     ThemenProfil(
         key="bauplanung",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du einen Bebauungsplan oder staedtebaulichen Vertrag auf Festsetzungen und Fehler pruefen.",
         label="Bauleitplanung, Normenkontrolle und städtebauliche Verträge",
         rolle="Baurechtlicher Bearbeiter fuer Bauleitplanung, Normenkontrolle, Bebauungsplan-Festsetzungen, städtebauliche Verträge, Durchführungsverträge, Erschließung und Planerhaltung.",
         normen=(
@@ -714,6 +732,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="bau",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du Werklohn, Maengel und Abnahme am Bauvorhaben durchsetzen oder abwehren.",
         label="Bau- und Architektenrecht",
         rolle="Baurechtlicher Bearbeiter fuer Bauvertrag, Architektenleistung, Maengel, Nachtrag, Abnahme, Bauzeit, Sicherheiten und Bauprozess.",
         normen=(
@@ -764,6 +783,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
     ),
     ThemenProfil(
         key="default",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.",
         label="Deutsches Recht",
         rolle="Juristischer Bearbeiter fuer deutsche Rechtsfragen mit Fokus auf Sachverhaltsordnung, Normpruefung, Beweislast, Fristen und verwertbare Schriftprodukte.",
         normen=(

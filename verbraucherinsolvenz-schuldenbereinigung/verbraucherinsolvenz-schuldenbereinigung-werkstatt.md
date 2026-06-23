@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt waehlen.
+
 # Verbraucherinsolvenz Schuldenbereinigung — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

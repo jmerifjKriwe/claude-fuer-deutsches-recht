@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.
+
 # Gesellschaftsrechtliche Treuepflicht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

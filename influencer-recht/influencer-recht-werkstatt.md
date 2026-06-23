@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
+
 # Influencer Recht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

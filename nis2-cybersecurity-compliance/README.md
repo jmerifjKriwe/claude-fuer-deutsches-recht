@@ -1,5 +1,7 @@
 # NIS-2, Cybersecurity und IT-Sicherheits-Compliance
 
+Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

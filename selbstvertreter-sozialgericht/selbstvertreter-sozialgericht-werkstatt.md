@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
+
 # Selbstvertreter Sozialgericht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

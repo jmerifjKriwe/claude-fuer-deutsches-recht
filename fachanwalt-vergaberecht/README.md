@@ -1,5 +1,7 @@
 # Fachanwalt Vergaberecht
 
+Wenn du das hier oeffnest, willst du eine Vergabeentscheidung ruegen und das Nachpruefungsverfahren fristgerecht fuehren.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

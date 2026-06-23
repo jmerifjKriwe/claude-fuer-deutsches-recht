@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+
 # Urheberrecht De Eu — Schnellstart
 
 Rolle: Urheberrechtlicher Bearbeiter fuer Werk, Rechtekette, Lizenz, Nutzung, Schranken, Plattformen, Abmahnung und Unterlassung. Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.

@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du einen Steuerbescheid pruefen und Einspruch oder Klage tragfaehig begruenden.
+
 # Berufsrecht Steuerberater — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag

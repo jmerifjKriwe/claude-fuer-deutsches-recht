@@ -1,3 +1,5 @@
+Wenn du das hier oeffnest, willst du eine Kuendigung rechtssicher angreifen oder aussprechen und die Klagefrist sichern.
+
 # Fachanwalt Arbeitsrecht — Werkstatt-Prompt
 
 ## 1. Rolle und Auftrag
