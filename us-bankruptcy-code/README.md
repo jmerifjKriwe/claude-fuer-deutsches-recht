@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`us-bankruptcy-code-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`us-bankruptcy-code-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`us-bankruptcy-code-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-bankruptcy-code/us-bankruptcy-code-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`us-bankruptcy-code-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-bankruptcy-code/us-bankruptcy-code-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`us-bankruptcy-code.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`us-bankruptcy-code-werkstatt.md`](./us-bankruptcy-code-werkstatt.md) (im Browser ansehen)
-- [`us-bankruptcy-code-schnellstart.md`](./us-bankruptcy-code-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ist der große deutsche Arbeitskompass zum U.S. Bankruptcy Code, also Title 11 des United States Code. Es deckt Chapter 7, 9, 11, 12, 13 und 15, Automatic Stay, Claims, DIP Financing, Cash Collateral, 363 Sales, Executory Contracts, Preferences, Fraudulent Transfers, Subchapter V, Plan Confirmation, Cramdown, Chapter 15 und distressed transactions ab.

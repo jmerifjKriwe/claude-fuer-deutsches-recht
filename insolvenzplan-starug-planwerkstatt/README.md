@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`insolvenzplan-starug-planwerkstatt-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzplan-starug-planwerkstatt-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`insolvenzplan-starug-planwerkstatt-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzplan-starug-planwerkstatt-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`insolvenzplan-starug-planwerkstatt-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`insolvenzplan-starug-planwerkstatt-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`insolvenzplan-starug-planwerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzplan-starug-planwerkstatt.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip) (Metallbau Hansa GmbH – Insolvenzplan und StaRUG-Restrukturierung) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`insolvenzplan-starug-planwerkstatt-werkstatt.md`](./insolvenzplan-starug-planwerkstatt-werkstatt.md) (im Browser ansehen)
-- [`insolvenzplan-starug-planwerkstatt-schnellstart.md`](./insolvenzplan-starug-planwerkstatt-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Freistehendes Cowork-Plugin für die Erstellung, Prüfung und Härtung von Insolvenzplänen und StaRUG-Restrukturierungsplänen. Es führt vom Kaltstart über Datenraum, Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen- und Klassenbildung, darstellenden und gestaltenden Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, gerichtliche Schritte und Planvollzug bis zum Monitoring.

@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`energierecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/energierecht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`energierecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/energierecht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`energierecht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/energierecht/energierecht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`energierecht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/energierecht/energierecht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`energierecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/energierecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-batteriespeicher-brandenburg-berlin-resilienz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-batteriespeicher-brandenburg-berlin-resilienz.zip) (Märkische Reserve Süd — Batteriespeicher Brandenburg/Berlin); [`testakte-energierecht-stadtwerke-quartier.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) (Akte Energierecht: Stadtwerke Klotzkette AG – Quartier Hafenbogen); [`testakte-kernfusion-transrapid-starnberger-see.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kernfusion-transrapid-starnberger-see.zip) (Projekt Isarlicht — Kernfusion und Transrapid am Starnberger See) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`energierecht-werkstatt.md`](./energierecht-werkstatt.md) (im Browser ansehen)
-- [`energierecht-schnellstart.md`](./energierecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Vollständiger Energierechts-Assistent für Stadtwerke, Energieversorger, Wärmewirtschaft, energieintensive Unternehmen, Immobilienwirtschaft, Infrastrukturbetreiber, Contracting, Wasserstoff, E-Mobility, Transaktionen und Projektfinanzierung.

@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`berufsrecht-steuerberater-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-steuerberater-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`berufsrecht-steuerberater-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-steuerberater-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`berufsrecht-steuerberater-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-steuerberater/berufsrecht-steuerberater-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`berufsrecht-steuerberater-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-steuerberater/berufsrecht-steuerberater-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`berufsrecht-steuerberater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-steuerberater.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`berufsrecht-steuerberater-werkstatt.md`](./berufsrecht-steuerberater-werkstatt.md) (im Browser ansehen)
-- [`berufsrecht-steuerberater-schnellstart.md`](./berufsrecht-steuerberater-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Plugin für Steuerberaterrecht: StBerG, BOStB, Steuerberaterkammer, Vorbehaltsaufgaben, Werbung, Verschwiegenheit, Gebühren, Geldwäsche, Berufsgericht, Berufsausübungsgesellschaft und Haftungsprävention.

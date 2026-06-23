@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`handelsregister-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsregister-praxis-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`handelsregister-praxis-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsregister-praxis-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`handelsregister-praxis-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/handelsregister-praxis/handelsregister-praxis-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`handelsregister-praxis-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/handelsregister-praxis/handelsregister-praxis-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`handelsregister-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsregister-praxis.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-handelsregister-registergericht-rabenhof-gmbh-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsregister-registergericht-rabenhof-gmbh-2026.zip) (Rabenhof Sensorik GmbH - Registergericht Charlottenburg, HRB 246810 B) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`handelsregister-praxis-werkstatt.md`](./handelsregister-praxis-werkstatt.md) (im Browser ansehen)
-- [`handelsregister-praxis-schnellstart.md`](./handelsregister-praxis-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Ein Registergerichts-Cockpit für Gesellschaftsrechtler, Notariate, Kanzleien und Rechtsabteilungen. Es ordnet, was eingetragen werden soll, welche Urkunden nötig sind, wer beim Registergericht entscheidet, wie man Beanstandungen beantwortet und wann Beschwerde oder Eilrechtsschutz Sinn ergeben.

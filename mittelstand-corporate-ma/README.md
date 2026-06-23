@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`mittelstand-corporate-ma-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mittelstand-corporate-ma-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`mittelstand-corporate-ma-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mittelstand-corporate-ma-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`mittelstand-corporate-ma-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mittelstand-corporate-ma/mittelstand-corporate-ma-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`mittelstand-corporate-ma-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mittelstand-corporate-ma/mittelstand-corporate-ma-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`mittelstand-corporate-ma.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mittelstand-corporate-ma.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge.zip) (Share Deal Pellbach Werkzeugbau GmbH & Co. KG — Familiennachfolge mit PE-Beteiligung, Earn-Out, MAC) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`mittelstand-corporate-ma-werkstatt.md`](./mittelstand-corporate-ma-werkstatt.md) (im Browser ansehen)
-- [`mittelstand-corporate-ma-schnellstart.md`](./mittelstand-corporate-ma-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Technischer Plugin-Name: `mittelstand-corporate-ma`.

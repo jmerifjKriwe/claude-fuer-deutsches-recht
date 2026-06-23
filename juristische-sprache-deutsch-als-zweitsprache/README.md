@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`juristische-sprache-deutsch-als-zweitsprache-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`juristische-sprache-deutsch-als-zweitsprache-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`juristische-sprache-deutsch-als-zweitsprache-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`juristische-sprache-deutsch-als-zweitsprache-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`juristische-sprache-deutsch-als-zweitsprache.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`juristische-sprache-deutsch-als-zweitsprache-werkstatt.md`](./juristische-sprache-deutsch-als-zweitsprache-werkstatt.md) (im Browser ansehen)
-- [`juristische-sprache-deutsch-als-zweitsprache-schnellstart.md`](./juristische-sprache-deutsch-als-zweitsprache-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin hilft Menschen, die mit deutschem Recht zu tun haben, aber Deutsch nicht als Herkunftssprache sprechen. Es erklaert Bescheide, Fristen, Formulare, Verträge, Schriftsaetze und Gerichtssprache respektvoll und klar.

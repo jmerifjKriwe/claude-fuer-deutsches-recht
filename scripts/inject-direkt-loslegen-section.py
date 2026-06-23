@@ -136,7 +136,10 @@ def block(plugin_name: str, directory: Path, akten_slugs: list[str]) -> str:
     title = readme_title(directory, plugin_name)
     werkstatt_file = f"{stem}-werkstatt.md"
     schnellstart_file = f"{stem}-schnellstart.md"
-    display = title.replace("`", "").strip()
+    rel_dir = relpath(directory, REPO).replace("\\", "/")
+    raw_base = f"https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/{rel_dir}"
+    werkstatt_url = f"{raw_base}/{werkstatt_file}"
+    schnellstart_url = f"{raw_base}/{schnellstart_file}"
     testakte_cell = testakte_download_cell(plugin_name, directory, akten_slugs)
     return f"""{BEGIN}
 ## Direkt loslegen ohne Plugin-Setup
@@ -147,14 +150,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`{plugin_name}-werkstatt.zip`]({RELEASE_BASE}/{plugin_name}-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`{plugin_name}-schnellstart.zip`]({RELEASE_BASE}/{plugin_name}-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`{werkstatt_file}`]({werkstatt_url}) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`{schnellstart_file}`]({schnellstart_url}) |
 | Plugin als Komplett-ZIP | ZIP | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
 | Testakte(n) als ZIP | ZIP | {testakte_cell} |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`{werkstatt_file}`](./{werkstatt_file}) (im Browser ansehen)
-- [`{schnellstart_file}`](./{schnellstart_file}) (im Browser ansehen)
 {END}"""
 
 

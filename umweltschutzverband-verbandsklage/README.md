@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`umweltschutzverband-verbandsklage-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`umweltschutzverband-verbandsklage-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`umweltschutzverband-verbandsklage-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`umweltschutzverband-verbandsklage-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`umweltschutzverband-verbandsklage.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-umweltschutzverband-windpark-moorbach-umwrg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip) (Umweltverbandsakte Moorbach) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`umweltschutzverband-verbandsklage-werkstatt.md`](./umweltschutzverband-verbandsklage-werkstatt.md) (im Browser ansehen)
-- [`umweltschutzverband-verbandsklage-schnellstart.md`](./umweltschutzverband-verbandsklage-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ist für anerkannte und werdende Umweltvereinigungen gebaut: Beteiligung, Einwendungen, Akteneinsicht, Umweltinformationen, Verbandsklage, Normenkontrolle und strategische, aber sorgfältige Prozessführung.

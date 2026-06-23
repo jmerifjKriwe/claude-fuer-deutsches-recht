@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`mandantenanfragen-assistent-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mandantenanfragen-assistent-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`mandantenanfragen-assistent-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mandantenanfragen-assistent-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`mandantenanfragen-assistent-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mandantenanfragen-assistent/mandantenanfragen-assistent-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`mandantenanfragen-assistent-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mandantenanfragen-assistent/mandantenanfragen-assistent-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`mandantenanfragen-assistent.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mandantenanfragen-assistent.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mandantenanfragen-kanzlei-roosendaal-koeln-erstkontakt-q2-2026.zip) (Mandantenanfragen Q2/2026 — Kanzlei Roosendaal & Tannenfels, Köln) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`mandantenanfragen-assistent-werkstatt.md`](./mandantenanfragen-assistent-werkstatt.md) (im Browser ansehen)
-- [`mandantenanfragen-assistent-schnellstart.md`](./mandantenanfragen-assistent-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 **Version:** 3.2.1

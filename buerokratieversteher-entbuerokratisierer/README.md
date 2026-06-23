@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`buerokratieversteher-entbuerokratisierer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`buerokratieversteher-entbuerokratisierer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`buerokratieversteher-entbuerokratisierer-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`buerokratieversteher-entbuerokratisierer-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`buerokratieversteher-entbuerokratisierer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`buerokratieversteher-entbuerokratisierer-werkstatt.md`](./buerokratieversteher-entbuerokratisierer-werkstatt.md) (im Browser ansehen)
-- [`buerokratieversteher-entbuerokratisierer-schnellstart.md`](./buerokratieversteher-entbuerokratisierer-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Geführtes Laien-Plugin für Menschen, die vor einem Behördenbrief, Bescheid, Antrag, Formular, Gerichtstermin oder einer Vorladung sitzen und zuerst verstehen müssen: Was ist das, was muss ich tun, was sollte ich besser nicht vorschnell sagen?

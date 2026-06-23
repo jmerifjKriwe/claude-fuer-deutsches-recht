@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`parteienrecht-parteiorganisation-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/parteienrecht-parteiorganisation-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`parteienrecht-parteiorganisation-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/parteienrecht-parteiorganisation-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`parteienrecht-parteiorganisation-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`parteienrecht-parteiorganisation-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`parteienrecht-parteiorganisation.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/parteienrecht-parteiorganisation.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`parteienrecht-parteiorganisation-werkstatt.md`](./parteienrecht-parteiorganisation-werkstatt.md) (im Browser ansehen)
-- [`parteienrecht-parteiorganisation-schnellstart.md`](./parteienrecht-parteiorganisation-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Formales Organisationsplugin für politische Parteien und ihre Gebietsverbände. Es ist ausdrücklich nicht politisch-programmatisch, sondern hilft, Satzung, Parteiengesetz, Wahlrecht, Parteifinanzen und Verfahrensformalitäten sauber einzuhalten.

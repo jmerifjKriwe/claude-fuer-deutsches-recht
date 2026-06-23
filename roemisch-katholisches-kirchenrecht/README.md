@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`roemisch-katholisches-kirchenrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`roemisch-katholisches-kirchenrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`roemisch-katholisches-kirchenrecht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`roemisch-katholisches-kirchenrecht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`roemisch-katholisches-kirchenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip) (Kirchenrechtliche Arbeitsakte: Sancta Caecilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`roemisch-katholisches-kirchenrecht-werkstatt.md`](./roemisch-katholisches-kirchenrecht-werkstatt.md) (im Browser ansehen)
-- [`roemisch-katholisches-kirchenrecht-schnellstart.md`](./roemisch-katholisches-kirchenrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ist ein großes, ausdrücklich **papsttreues, lehramtsorientiertes und katholisches** Arbeitswerkzeug für Fragen des römisch-katholischen Kirchenrechts und der katholischen Lehre. Es denkt vom **Codex Iuris Canonici**, vom **Katechismus der Katholischen Kirche**, vom Dienst des Papstes und der Gemeinschaft mit der Kirche her.

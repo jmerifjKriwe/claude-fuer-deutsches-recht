@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`nis2-cybersecurity-compliance-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`nis2-cybersecurity-compliance-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`nis2-cybersecurity-compliance-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`nis2-cybersecurity-compliance-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`nis2-cybersecurity-compliance.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip) (Akte Lahnwerke Maschinenbau AG - Slack, AirTags und IT-Sicherheitslage) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`nis2-cybersecurity-compliance-werkstatt.md`](./nis2-cybersecurity-compliance-werkstatt.md) (im Browser ansehen)
-- [`nis2-cybersecurity-compliance-schnellstart.md`](./nis2-cybersecurity-compliance-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ist der tägliche Cyber-Compliance-Begleiter für Geschäftsführung, Vorstand, CISO, Datenschutz, Legal und IT: Es ordnet Pflichten, liest technische Unterlagen, trennt Papier-Compliance von echter Wirksamkeit und erzeugt belastbare Maßnahmenpläne.

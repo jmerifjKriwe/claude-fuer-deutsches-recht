@@ -10,7 +10,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 DOCS = REPO / "docs"
-RELEASE_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
+RAW_BASE = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main"
 
 
 def prompt_stem(plugin_name: str) -> str:
@@ -40,9 +40,9 @@ def main() -> int:
     lines = [
         "# Werkstatt- und Schnellstart-Coverage",
         "",
-        "Diese Tabelle zeigt, ob jedes Plugin eine ausführliche Werkstatt-Datei, eine kompakte Schnellstart-Datei und die zugehörigen Release-Asset-ZIPs besitzt.",
+        "Diese Tabelle zeigt, ob jedes Plugin eine ausführliche Werkstatt-Datei und eine kompakte Schnellstart-Datei besitzt. Werkstatt und Schnellstart werden ausschliesslich als Markdown-Direkt-Download angeboten (raw.githubusercontent.com), nicht mehr als ZIP.",
         "",
-        "| Plugin | Werkstatt-Datei | Werkstatt-Quelle | Schnellstart-Datei | Schnellstart-Quelle | Werkstatt-ZIP-Asset | Schnellstart-ZIP-Asset |",
+        "| Plugin | Werkstatt-Datei | Werkstatt-Quelle | Werkstatt-Direct-Download | Schnellstart-Datei | Schnellstart-Quelle | Schnellstart-Direct-Download |",
         "| --- | --- | --- | --- | --- | --- | --- |",
     ]
     for plugin in plugins:
@@ -55,11 +55,13 @@ def main() -> int:
             ok += 1
         werkstatt_rel = werkstatt.relative_to(REPO)
         schnellstart_rel = schnellstart.relative_to(REPO)
+        werkstatt_raw = f"{RAW_BASE}/{werkstatt_rel.as_posix()}"
+        schnellstart_raw = f"{RAW_BASE}/{schnellstart_rel.as_posix()}"
         lines.append(
             f"| `{name}` | [`{werkstatt.name}`](../{werkstatt_rel.as_posix()}) | {source_label(werkstatt)} | "
+            f"[Markdown]({werkstatt_raw}) | "
             f"[`{schnellstart.name}`](../{schnellstart_rel.as_posix()}) | {source_label(schnellstart)} | "
-            f"[`{name}-werkstatt.zip`]({RELEASE_BASE}/{name}-werkstatt.zip) | "
-            f"[`{name}-schnellstart.zip`]({RELEASE_BASE}/{name}-schnellstart.zip) |"
+            f"[Markdown]({schnellstart_raw}) |"
         )
     percent = 100 if not plugins else round(ok * 100 / len(plugins), 2)
     lines += [

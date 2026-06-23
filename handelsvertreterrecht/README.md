@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`handelsvertreterrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`handelsvertreterrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`handelsvertreterrecht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/handelsvertreterrecht/handelsvertreterrecht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`handelsvertreterrecht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/handelsvertreterrecht/handelsvertreterrecht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`handelsvertreterrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsvertreterrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsvertreterrecht-provisionsausgleich-nordstern-medtech.zip) (Akte Nordstern MedTech Vertrieb - Provision, Buchauszug und Ausgleich) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`handelsvertreterrecht-werkstatt.md`](./handelsvertreterrecht-werkstatt.md) (im Browser ansehen)
-- [`handelsvertreterrecht-schnellstart.md`](./handelsvertreterrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin prüft und gestaltet Handelsvertreter- und Vertriebsverhältnisse vom Statuscheck bis zum Ausgleichsanspruch: rechtlich präzise, zahlenfest, beweisnah und mit Blick auf Kartellrecht, Datenschutz, Steuer und internationale Vertriebsmodelle.

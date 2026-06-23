@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`aktenauszug-gerichtsverfahren-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenauszug-gerichtsverfahren-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`aktenauszug-gerichtsverfahren-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenauszug-gerichtsverfahren-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`aktenauszug-gerichtsverfahren-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`aktenauszug-gerichtsverfahren-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`aktenauszug-gerichtsverfahren.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenauszug-gerichtsverfahren.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`aktenauszug-gerichtsverfahren-werkstatt.md`](./aktenauszug-gerichtsverfahren-werkstatt.md) (im Browser ansehen)
-- [`aktenauszug-gerichtsverfahren-schnellstart.md`](./aktenauszug-gerichtsverfahren-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 **Version:** 3.2.1

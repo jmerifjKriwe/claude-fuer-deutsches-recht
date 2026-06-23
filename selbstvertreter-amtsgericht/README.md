@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`selbstvertreter-amtsgericht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-amtsgericht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`selbstvertreter-amtsgericht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-amtsgericht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`selbstvertreter-amtsgericht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/selbstvertreter-amtsgericht/selbstvertreter-amtsgericht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`selbstvertreter-amtsgericht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/selbstvertreter-amtsgericht/selbstvertreter-amtsgericht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`selbstvertreter-amtsgericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-amtsgericht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip) (Akte Selbstvertreter Amtsgericht — Küchentisch Kaufpreis) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`selbstvertreter-amtsgericht-werkstatt.md`](./selbstvertreter-amtsgericht-werkstatt.md) (im Browser ansehen)
-- [`selbstvertreter-amtsgericht-schnellstart.md`](./selbstvertreter-amtsgericht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 ## Für wen?

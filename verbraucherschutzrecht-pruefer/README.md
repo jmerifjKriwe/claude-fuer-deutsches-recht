@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`verbraucherschutzrecht-pruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherschutzrecht-pruefer-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`verbraucherschutzrecht-pruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherschutzrecht-pruefer-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`verbraucherschutzrecht-pruefer-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`verbraucherschutzrecht-pruefer-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`verbraucherschutzrecht-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherschutzrecht-pruefer.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-verbraucherschutzrecht-smartmeter-abo-plattform.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verbraucherschutzrecht-smartmeter-abo-plattform.zip) (Verbraucherakte SmartMeter-Abo) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`verbraucherschutzrecht-pruefer-werkstatt.md`](./verbraucherschutzrecht-pruefer-werkstatt.md) (im Browser ansehen)
-- [`verbraucherschutzrecht-pruefer-schnellstart.md`](./verbraucherschutzrecht-pruefer-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin prüft verbraucherschützende Vorschriften nicht als lose Sammlung, sondern als Schutzarchitektur: Informationspflicht, Widerruf, AGB-Kontrolle, Gewährleistung, Lauterkeit, Streitbeilegung, Plattform und Durchsetzung.

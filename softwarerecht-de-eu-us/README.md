@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`softwarerecht-de-eu-us-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`softwarerecht-de-eu-us-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`softwarerecht-de-eu-us-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/softwarerecht-de-eu-us/softwarerecht-de-eu-us-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`softwarerecht-de-eu-us-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/softwarerecht-de-eu-us/softwarerecht-de-eu-us-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`softwarerecht-de-eu-us.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip) (Akte Lahnwerke Maschinenbau AG - Slack, AirTags und IT-Sicherheitslage); [`testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip) (Codeforst / Sonnenklee - RouteLuchs) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`softwarerecht-de-eu-us-werkstatt.md`](./softwarerecht-de-eu-us-werkstatt.md) (im Browser ansehen)
-- [`softwarerecht-de-eu-us-schnellstart.md`](./softwarerecht-de-eu-us-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Großes Praxis-Plugin für Softwarerecht: Entwicklung, Rechtekette, Arbeitnehmer- und Freelancer-Code, § 69b UrhG, US work made for hire, SaaS, On-Prem-Lizenzen, Open Source, SBOM, Datenschutz, Cybersecurity, Data Act, Cyber Resilience Act, AI-Code, Softwarepatente, Trade Secrets, Exportkontrolle, M&A und Litigation.

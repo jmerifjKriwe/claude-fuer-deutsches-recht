@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`aktenaufbereiter-strafrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenaufbereiter-strafrecht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`aktenaufbereiter-strafrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenaufbereiter-strafrecht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`aktenaufbereiter-strafrecht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aktenaufbereiter-strafrecht/aktenaufbereiter-strafrecht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`aktenaufbereiter-strafrecht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aktenaufbereiter-strafrecht/aktenaufbereiter-strafrecht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`aktenaufbereiter-strafrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenaufbereiter-strafrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub.zip) (EG Juwel Stuttgart — Sammelverfahren bandenmaessiger schwerer Raub, Königstrasse) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`aktenaufbereiter-strafrecht-werkstatt.md`](./aktenaufbereiter-strafrecht-werkstatt.md) (im Browser ansehen)
-- [`aktenaufbereiter-strafrecht-schnellstart.md`](./aktenaufbereiter-strafrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Aktenaufbereiter für die Strafverteidigung. Bringt große Strafakten in den Griff durch sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergänzbar. Erkennt Lücken und Widersprüche. Kein Ersatz für Aktenlektüre.

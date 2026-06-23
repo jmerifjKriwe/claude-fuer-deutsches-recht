@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`startup-hr-personalabteilung-berlin-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`startup-hr-personalabteilung-berlin-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`startup-hr-personalabteilung-berlin-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`startup-hr-personalabteilung-berlin-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`startup-hr-personalabteilung-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`startup-hr-personalabteilung-berlin-werkstatt.md`](./startup-hr-personalabteilung-berlin-werkstatt.md) (im Browser ansehen)
-- [`startup-hr-personalabteilung-berlin-schnellstart.md`](./startup-hr-personalabteilung-berlin-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Personalabteilungs-Plugin für ein typisches Berliner Start-up mit ungefähr 100 Beschäftigten. Es ist für die Person gedacht, die im Alltag HR, Office, Payroll-Koordination, Mitarbeiterkommunikation, Vorfallmanagement und Geschäftsführungs-Briefings gleichzeitig stemmen muss.

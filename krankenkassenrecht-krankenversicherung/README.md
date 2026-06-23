@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`krankenkassenrecht-krankenversicherung-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`krankenkassenrecht-krankenversicherung-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`krankenkassenrecht-krankenversicherung-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`krankenkassenrecht-krankenversicherung-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`krankenkassenrecht-krankenversicherung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) (Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`krankenkassenrecht-krankenversicherung-werkstatt.md`](./krankenkassenrecht-krankenversicherung-werkstatt.md) (im Browser ansehen)
-- [`krankenkassenrecht-krankenversicherung-schnellstart.md`](./krankenkassenrecht-krankenversicherung-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin erklärt Krankenversicherung so, dass Betroffene, Arbeitgeber, Kanzleien und Leistungsabteilungen die Akte sortieren können: Wer muss zahlen, welche Unterlagen fehlen, welche Frist läuft und welcher Rechtsweg ist richtig?

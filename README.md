@@ -26,7 +26,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 Viele Skills in diesem Repo sind im Kern strukturierte **Werkstatt-Prompts** — also nicht primär Eingangs- oder Kaltstart-Skills einer größeren agentischen Tätigkeit, sondern eigenständig nutzbare, hochstrukturierte Prompt-Bausteine. Solche Skills funktionieren auch **außerhalb von Claude Code, Codex oder Perplexity Computer**: einfach die `SKILL.md` als Markdown herunterladen, in ChatGPT, Claude, Gemini, Perplexity, Mistral, Le Chat oder ein anderes Tool kopieren und nach Bedarf anpassen.
 
-Für den Einsatz ohne Plugin-Installation gibt es zusätzlich pro Plugin zwei reine Markdown-Dateien: einen ausführlichen **Werkstatt-Prompt** und einen kompakten **Schnellstart-Prompt** mit höchstens 7.500 Zeichen. Beide stehen als echte Download-ZIPs im Release bereit; die Markdown-Dateien selbst bleiben im Repo als Browser-Ansicht nachvollziehbar.
+Für den Einsatz ohne Plugin-Installation gibt es zusätzlich pro Plugin zwei reine Markdown-Dateien: einen ausführlichen **Werkstatt-Prompt** und einen kompakten **Schnellstart-Prompt** mit höchstens 7.500 Zeichen. Beide werden als **Markdown-Direkt-Download** über `raw.githubusercontent.com` angeboten (nicht als ZIP). Der Download-Link steht oben in jeder Plugin-README und in jeder Plugin-Detailseite.
 
 ### Formatstandard für erzeugte Dokumente
 
@@ -51,14 +51,12 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | --- | --- | --- |
 | **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
 | **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | Reine `SKILL.md`-Dateien aller Plugins plus die plugin-lokalen Werkstatt- und Schnellstart-Prompts. Einzelne Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
-| **Alle Werkstatt-Prompts als ZIP** | [alle-werkstatt-prompts.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-werkstatt-prompts.zip) | Pro Plugin ein ausführlicher, plugin-spezifischer Markdown-Prompt für Nutzer ohne Plugin-Installation. |
-| **Alle Schnellstart-Prompts als ZIP** | [alle-schnellstart-prompts.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-schnellstart-prompts.zip) | Pro Plugin ein kompakter Markdown-Prompt bis 7.500 Zeichen als Spar-Workflow für den schnellen Einsatz in Chatbots. |
 | **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Alle Testaktenordner in Originalstruktur mit PDF, DOCX, XLSX, JPEG, EML, Markdown und jeweiligem Gesamt-PDF. |
 | **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Jede Testakte mit jeder einzelnen Unterlage als separater, sauber gerenderter PDF im Originalordnerlayout. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
-| **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Skill-Markdown-ZIPs, alle Werkstatt- und Schnellstart-Prompt-ZIPs, alle Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien in einem Archiv. |
+| **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Skill-Markdown-ZIPs, alle Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien in einem Archiv. Werkstatt- und Schnellstart-Prompts sind als Markdown-Dateien innerhalb der Plugin-Ordner enthalten und werden zusätzlich pro Plugin als Markdown-Direkt-Download verlinkt. |
 | **SHA-256-Prüfsummen** | [checksums-sha256.txt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | Maschinenlesbare Prüfsummen für Release-Assets; die Release-Pipeline gleicht Größen und Hashes nach dem Upload gegen GitHub ab. |
 | **Klotzkettes Juristische Promptliste** | [PROMPTLISTE.md](./PROMPTLISTE.md) | Kuratierte Übersichtsseite praxistauglicher Prompt-Bausteine — sortiert nach Fachanwaltschaften, zum Kopieren in ChatGPT, Claude, Gemini, Perplexity oder beliebige andere Tools. Mit großem Disclaimer. |
-| **Werkstatt- und Schnellstart-Coverage** | [docs/werkstatt-und-schnellstart-coverage.md](./docs/werkstatt-und-schnellstart-coverage.md) | Prüfliste, welches Plugin welche Werkstatt- und Schnellstart-Dateien sowie welche Release-ZIP-Assets besitzt. |
+| **Werkstatt- und Schnellstart-Coverage** | [docs/werkstatt-und-schnellstart-coverage.md](./docs/werkstatt-und-schnellstart-coverage.md) | Prüfliste, welches Plugin welche Werkstatt- und Schnellstart-Markdown-Dateien besitzt, mit Markdown-Direkt-Download-Links. |
 
 ### Inhaltliche Cluster
 
@@ -88,8 +86,8 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 >
 > - `<plugin>.zip` — installierbares Plugin für Claude Code / Claude Desktop / Cowork.
 > - `alle-skills-markdown.zip` — reine `SKILL.md`-Dateien aller Plugins plus Werkstatt- und Schnellstart-Prompts.
-> - `<plugin>-werkstatt.zip` — ausführlicher Markdown-Prompt als Plugin-Werkstatt ohne Installation.
-> - `<plugin>-schnellstart.zip` — kompakter Markdown-Prompt bis 7.500 Zeichen, wenn es schnell gehen soll.
+> - `<plugin>/<plugin>-werkstatt.md` — ausführlicher Markdown-Prompt als Plugin-Werkstatt ohne Installation. Direkt-Download oben in jeder Plugin-README über `raw.githubusercontent.com`.
+> - `<plugin>/<plugin>-schnellstart.md` — kompakter Markdown-Prompt bis 7.500 Zeichen, wenn es schnell gehen soll. Ebenfalls als Markdown-Direkt-Download.
 >
 > Vorteil: viel kleinerer Download, schnellerer Start, kein Overhead durch ungenutzte Plugins.
 

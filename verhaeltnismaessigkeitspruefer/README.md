@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`verhaeltnismaessigkeitspruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`verhaeltnismaessigkeitspruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`verhaeltnismaessigkeitspruefer-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`verhaeltnismaessigkeitspruefer-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`verhaeltnismaessigkeitspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) (Initiative Lausitzer Lebensraum e.V. ./. Polizeipraesidium Cottbus (Polizeiverfuegung Anti-Kohle-Versammlung Forst Lausitz)) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`verhaeltnismaessigkeitspruefer-werkstatt.md`](./verhaeltnismaessigkeitspruefer-werkstatt.md) (im Browser ansehen)
-- [`verhaeltnismaessigkeitspruefer-schnellstart.md`](./verhaeltnismaessigkeitspruefer-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Plugin für die juristisch tiefe Anwendung der vierstufigen Schranken-Schranke

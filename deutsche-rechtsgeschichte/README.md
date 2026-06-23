@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`deutsche-rechtsgeschichte-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`deutsche-rechtsgeschichte-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`deutsche-rechtsgeschichte-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`deutsche-rechtsgeschichte-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`deutsche-rechtsgeschichte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip) (Rechtsgeschichtliche Akte Falkenau); [`testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-preussisches-landrecht-wusterhagen-muehlenstau-aufopferung.zip) (Akte Wusterhagen: Mühlenstau, Chaussee und Aufopferung) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`deutsche-rechtsgeschichte-werkstatt.md`](./deutsche-rechtsgeschichte-werkstatt.md) (im Browser ansehen)
-- [`deutsche-rechtsgeschichte-schnellstart.md`](./deutsche-rechtsgeschichte-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Rechtsgeschichte als Werkzeug, nicht als Museum: Quellen lesen, Epochen trennen, Kontinuitäten prüfen und Gegenwartsargumente sauber historisieren.

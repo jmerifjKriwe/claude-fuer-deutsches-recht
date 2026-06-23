@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`hinweisgeberschutz-compliance-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`hinweisgeberschutz-compliance-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`hinweisgeberschutz-compliance-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`hinweisgeberschutz-compliance-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`hinweisgeberschutz-compliance.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-hinweisgeberschutz-nda-meldekanal-waldkrone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hinweisgeberschutz-nda-meldekanal-waldkrone.zip) (Akte Waldkrone HealthTech GmbH - NDA, Meldekanal und Lieferantenhinweis); [`testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-internal-investigation-vertriebsbonus-staatsanwaltschaft-honeypot.zip) (Vertriebsbonus und staatsanwaltschaftlicher Honeypot) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`hinweisgeberschutz-compliance-werkstatt.md`](./hinweisgeberschutz-compliance-werkstatt.md) (im Browser ansehen)
-- [`hinweisgeberschutz-compliance-schnellstart.md`](./hinweisgeberschutz-compliance-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin führt Unternehmen, Kanzleien und Rechtsabteilungen durch den ganzen Lebenszyklus eines Hinweises: Meldekanal, Fristen, Vertraulichkeit, NDA-Konflikte, Untersuchung, Repressalienschutz, Behördenkommunikation und Dokumentation.

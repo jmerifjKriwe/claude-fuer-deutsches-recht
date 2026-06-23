@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`selbstvertreter-sozialgericht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`selbstvertreter-sozialgericht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`selbstvertreter-sozialgericht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`selbstvertreter-sozialgericht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`selbstvertreter-sozialgericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip) (Akte Selbstvertreter Sozialgericht — Heizkosten und Eilantrag) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`selbstvertreter-sozialgericht-werkstatt.md`](./selbstvertreter-sozialgericht-werkstatt.md) (im Browser ansehen)
-- [`selbstvertreter-sozialgericht-schnellstart.md`](./selbstvertreter-sozialgericht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 ## Für wen ist das?

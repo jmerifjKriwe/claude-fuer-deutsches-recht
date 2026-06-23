@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`notariat-alltag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`notariat-alltag-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`notariat-alltag-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/notariat-alltag/notariat-alltag-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`notariat-alltag-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/notariat-alltag/notariat-alltag-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`notariat-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip) (Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`notariat-alltag-werkstatt.md`](./notariat-alltag-werkstatt.md) (im Browser ansehen)
-- [`notariat-alltag-schnellstart.md`](./notariat-alltag-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ist die Werkbank für das wuselige Notariat: Es sortiert Vorgänge, macht Vollzugsschritte sichtbar, trennt Beurkundung, Beglaubigung, Register- und Grundbuchvollzug und hilft, aus unvollständigen Unterlagen belastbare To-do-Listen zu bauen.

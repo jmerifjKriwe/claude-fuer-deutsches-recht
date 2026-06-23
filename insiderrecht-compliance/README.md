@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`insiderrecht-compliance-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insiderrecht-compliance-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`insiderrecht-compliance-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insiderrecht-compliance-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`insiderrecht-compliance-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insiderrecht-compliance/insiderrecht-compliance-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`insiderrecht-compliance-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insiderrecht-compliance/insiderrecht-compliance-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`insiderrecht-compliance.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insiderrecht-compliance.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip) (Meridian MedTech: Insiderrecht, Ad-hoc und M&A-Leak) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`insiderrecht-compliance-werkstatt.md`](./insiderrecht-compliance-werkstatt.md) (im Browser ansehen)
-- [`insiderrecht-compliance-schnellstart.md`](./insiderrecht-compliance-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin hilft Unternehmen, Kanzleien, Vorständen, Aufsichtsräten, Investor-Relations-Teams und Beratern bei Insiderrecht, Ad-hoc-Publizität und Marktmissbrauchsrisiken. Es fragt zuerst: Liegt eine Insiderinformation vor, wer weiß was, darf gehandelt werden, muss veröffentlicht werden, darf aufgeschoben werden, wer steht auf der Insiderliste, und welche Beweise braucht man später?

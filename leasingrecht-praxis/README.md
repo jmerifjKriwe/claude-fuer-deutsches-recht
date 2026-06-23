@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`leasingrecht-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`leasingrecht-praxis-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`leasingrecht-praxis-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/leasingrecht-praxis/leasingrecht-praxis-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`leasingrecht-praxis-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/leasingrecht-praxis/leasingrecht-praxis-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`leasingrecht-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip) (Akte Rotorwerk: Maschinenleasing, Restwert und Insolvenzgerücht) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`leasingrecht-praxis-werkstatt.md`](./leasingrecht-praxis-werkstatt.md) (im Browser ansehen)
-- [`leasingrecht-praxis-schnellstart.md`](./leasingrecht-praxis-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Leasing ist oft Finanzierung, Beschaffung, Bilanz, Steuer und Insolvenzrisiko in einem. Dieses Plugin macht daraus eine klare Prüfspur für Anbieter, Leasingnehmer, Banken und Kanzleien.

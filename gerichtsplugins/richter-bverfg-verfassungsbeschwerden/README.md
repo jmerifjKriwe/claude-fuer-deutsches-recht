@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`richter-bverfg-verfassungsbeschwerden-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-bverfg-verfassungsbeschwerden-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`richter-bverfg-verfassungsbeschwerden-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-bverfg-verfassungsbeschwerden-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`richter-bverfg-verfassungsbeschwerden-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`richter-bverfg-verfassungsbeschwerden-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`richter-bverfg-verfassungsbeschwerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-bverfg-verfassungsbeschwerden.zip) |
 | Testakte(n) als ZIP | ZIP | [`richter-bverfg-verfassungsbeschwerden-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-bverfg-verfassungsbeschwerden-testakte.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`richter-bverfg-verfassungsbeschwerden-werkstatt.md`](./richter-bverfg-verfassungsbeschwerden-werkstatt.md) (im Browser ansehen)
-- [`richter-bverfg-verfassungsbeschwerden-schnellstart.md`](./richter-bverfg-verfassungsbeschwerden-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.

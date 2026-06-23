@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`zwangsverwaltung-zvg-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsverwaltung-zvg-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`zwangsverwaltung-zvg-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsverwaltung-zvg-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`zwangsverwaltung-zvg-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/zwangsverwaltung-zvg/zwangsverwaltung-zvg-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`zwangsverwaltung-zvg-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/zwangsverwaltung-zvg/zwangsverwaltung-zvg-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`zwangsverwaltung-zvg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsverwaltung-zvg.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-zwangsverwaltung-friedrichshoefe-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) (Zwangsverwaltung Büro- und Geschäftshaus "Friedrichshöfe"); [`testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip) (Zwangsverwaltung ZVG – Mietshaus Parkstraße 18, Leipzig); [`testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) (ZVG-Versteigerung Eppendorf-Altbau) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`zwangsverwaltung-zvg-werkstatt.md`](./zwangsverwaltung-zvg-werkstatt.md) (im Browser ansehen)
-- [`zwangsverwaltung-zvg-schnellstart.md`](./zwangsverwaltung-zvg-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Technischer Plugin-Name: `zwangsverwaltung-zvg`.

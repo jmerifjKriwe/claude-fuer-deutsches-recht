@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`pruefungsrecht-hochschule-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/pruefungsrecht-hochschule-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`pruefungsrecht-hochschule-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/pruefungsrecht-hochschule-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`pruefungsrecht-hochschule-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/pruefungsrecht-hochschule/pruefungsrecht-hochschule-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`pruefungsrecht-hochschule-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/pruefungsrecht-hochschule/pruefungsrecht-hochschule-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`pruefungsrecht-hochschule.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/pruefungsrecht-hochschule.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee.zip) (Akte Jana Mondsee - Drittversuch, KI-Vorwurf und Masterarbeit) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`pruefungsrecht-hochschule-werkstatt.md`](./pruefungsrecht-hochschule-werkstatt.md) (im Browser ansehen)
-- [`pruefungsrecht-hochschule-schnellstart.md`](./pruefungsrecht-hochschule-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ist der robuste Prüfungsrechts-Werkzeugkasten für Studenten, Hochschulen, Prüfungsämter und Anwälte: kein Bauchgefühl über Fairness, sondern Ordnung, Frist, Bewertungsrüge, Akteneinsicht und prozessfester nächster Schritt.

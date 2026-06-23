@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`krisenfrueherkennung-starug-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`krisenfrueherkennung-starug-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`krisenfrueherkennung-starug-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/krisenfrueherkennung-starug/krisenfrueherkennung-starug-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`krisenfrueherkennung-starug-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/krisenfrueherkennung-starug/krisenfrueherkennung-starug-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`krisenfrueherkennung-starug.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-krisenfrueherkennung-starug-vier-varianten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip) (Krisenfrüherkennung & StaRUG – Vier Varianten) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`krisenfrueherkennung-starug-werkstatt.md`](./krisenfrueherkennung-starug-werkstatt.md) (im Browser ansehen)
-- [`krisenfrueherkennung-starug-schnellstart.md`](./krisenfrueherkennung-starug-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 **Plugin-Slug:** `krisenfrueherkennung-starug`

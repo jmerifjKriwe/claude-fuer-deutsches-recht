@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`dsa-dma-digitalregulierung-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`dsa-dma-digitalregulierung-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`dsa-dma-digitalregulierung-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`dsa-dma-digitalregulierung-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`dsa-dma-digitalregulierung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-dsa-dma-bayrische-baustube-meissner.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) (Aktenübersicht — Baustube Meißnerlein GmbH ./. Glitzerwald Inc. u. a.); [`testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip) (DSA/DMA — VLOP-Designation und Mahnverfahren Körnerstrom Social GmbH (Halmweise.de)) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`dsa-dma-digitalregulierung-werkstatt.md`](./dsa-dma-digitalregulierung-werkstatt.md) (im Browser ansehen)
-- [`dsa-dma-digitalregulierung-schnellstart.md`](./dsa-dma-digitalregulierung-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Plugin für die anwaltliche Praxis im Recht der digitalen Märkte und Dienste.

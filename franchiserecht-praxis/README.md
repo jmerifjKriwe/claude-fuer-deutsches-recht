@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`franchiserecht-praxis-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/franchiserecht-praxis-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`franchiserecht-praxis-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/franchiserecht-praxis-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`franchiserecht-praxis-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/franchiserecht-praxis/franchiserecht-praxis-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`franchiserecht-praxis-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/franchiserecht-praxis/franchiserecht-praxis-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`franchiserecht-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/franchiserecht-praxis.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-franchiserecht-systemgastronomie-expansion-streit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-franchiserecht-systemgastronomie-expansion-streit.zip) (Akte Knusperkrone: Franchise-Expansion, Gebietsschutz und Systemhandbuch-Streit) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`franchiserecht-praxis-werkstatt.md`](./franchiserecht-praxis-werkstatt.md) (im Browser ansehen)
-- [`franchiserecht-praxis-schnellstart.md`](./franchiserecht-praxis-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Franchise lebt vom Spannungsfeld aus einheitlichem System und selbstständigen Unternehmern. Dieses Plugin prüft Aufklärung, Vertrag, Handbuch, Marken, Kontrolle, Kartellrecht und operative Eskalation.

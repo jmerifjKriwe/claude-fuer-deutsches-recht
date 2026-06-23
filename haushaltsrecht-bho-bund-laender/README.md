@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`haushaltsrecht-bho-bund-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`haushaltsrecht-bho-bund-laender-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`haushaltsrecht-bho-bund-laender-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`haushaltsrecht-bho-bund-laender-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`haushaltsrecht-bho-bund-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip) (Haushaltsakte Bund/Land) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`haushaltsrecht-bho-bund-laender-werkstatt.md`](./haushaltsrecht-bho-bund-laender-werkstatt.md) (im Browser ansehen)
-- [`haushaltsrecht-bho-bund-laender-schnellstart.md`](./haushaltsrecht-bho-bund-laender-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin macht Haushaltsrecht verständlich und bedienbar: vom ersten Blick in Einzelplan und Titel bis zur haushaltsrechtlichen Szenario-Umschichtung, Wirtschaftlichkeitsprüfung, Sondervermögen-Logik und Dashboard.

@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`oeffentliches-wirtschaftsrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`oeffentliches-wirtschaftsrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`oeffentliches-wirtschaftsrecht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`oeffentliches-wirtschaftsrecht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`oeffentliches-wirtschaftsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip) (ÖPP-Akte Schulcampus Havelstadt) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`oeffentliches-wirtschaftsrecht-werkstatt.md`](./oeffentliches-wirtschaftsrecht-werkstatt.md) (im Browser ansehen)
-- [`oeffentliches-wirtschaftsrecht-schnellstart.md`](./oeffentliches-wirtschaftsrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin prüft, wann Staat, Kommune und Private wirtschaftlich zusammenarbeiten dürfen: Organisationsform, Vergabe, Beihilfe, ÖPP, kommunale Wirtschaft, Daseinsvorsorge, Privatisierung und Kontrolle.

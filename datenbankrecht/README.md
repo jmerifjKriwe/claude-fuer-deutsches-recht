@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`datenbankrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`datenbankrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`datenbankrecht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/datenbankrecht/datenbankrecht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`datenbankrecht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/datenbankrecht/datenbankrecht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`datenbankrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-datenbankrecht-scraping-plattform-investitionsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenbankrecht-scraping-plattform-investitionsschutz.zip) (Akte Datenspeicher Havel: Scraping, API, Immobilienportal und KI-Training) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`datenbankrecht-werkstatt.md`](./datenbankrecht-werkstatt.md) (im Browser ansehen)
-- [`datenbankrecht-schnellstart.md`](./datenbankrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Das Plugin macht das sui-generis-Datenbankrecht praktisch: Es fragt nicht nach schöner Gestaltung, sondern nach wesentlicher Investition, Entnahme, Weiterverwendung, wesentlichem Teil und systematischen Teilentnahmen.

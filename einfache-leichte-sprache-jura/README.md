@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`einfache-leichte-sprache-jura-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`einfache-leichte-sprache-jura-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`einfache-leichte-sprache-jura-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`einfache-leichte-sprache-jura-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`einfache-leichte-sprache-jura.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-einfache-leichte-sprache-jura-mandantenbrief.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) (Juristischer Mandantenbrief in Einfacher und Leichter Sprache) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`einfache-leichte-sprache-jura-werkstatt.md`](./einfache-leichte-sprache-jura-werkstatt.md) (im Browser ansehen)
-- [`einfache-leichte-sprache-jura-schnellstart.md`](./einfache-leichte-sprache-jura-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Freistehendes Plugin für die Übertragung juristischer Texte in **Einfache

@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`schulrecht-laender-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`schulrecht-laender-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`schulrecht-laender-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schulrecht-laender/schulrecht-laender-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`schulrecht-laender-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schulrecht-laender/schulrecht-laender-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`schulrecht-laender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) (Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit); [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) (Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`schulrecht-laender-werkstatt.md`](./schulrecht-laender-werkstatt.md) (im Browser ansehen)
-- [`schulrecht-laender-schnellstart.md`](./schulrecht-laender-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ist der landesrechtliche Schulrechts-Kompass für Eltern, Schüler, Schulen, Schulträger, Behörden und Anwälte. Es beginnt immer mit Bundesland, Schulart, Entscheidung und Frist und führt dann in einen brauchbaren nächsten Schritt.

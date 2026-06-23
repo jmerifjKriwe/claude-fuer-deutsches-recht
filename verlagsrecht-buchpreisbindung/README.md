@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`verlagsrecht-buchpreisbindung-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verlagsrecht-buchpreisbindung-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`verlagsrecht-buchpreisbindung-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verlagsrecht-buchpreisbindung-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`verlagsrecht-buchpreisbindung-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`verlagsrecht-buchpreisbindung-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`verlagsrecht-buchpreisbindung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verlagsrecht-buchpreisbindung.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-verlagsrecht-buchpreisbindung-fachverlag-lilienfeld.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verlagsrecht-buchpreisbindung-fachverlag-lilienfeld.zip) (Akte Lilienfeld Verlag: Fachbuch, E-Book-Bundle, Remittenden und Preisbindungsabmahnung) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`verlagsrecht-buchpreisbindung-werkstatt.md`](./verlagsrecht-buchpreisbindung-werkstatt.md) (im Browser ansehen)
-- [`verlagsrecht-buchpreisbindung-schnellstart.md`](./verlagsrecht-buchpreisbindung-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin trennt Urheberrecht, Verlagsvertragsrecht, Preisbindung, Vertrieb und redaktionelle Realität. Es ist für Fachverlage, Belletristik, E-Books, Loseblatt, Plattformen und Buchhandel gedacht.

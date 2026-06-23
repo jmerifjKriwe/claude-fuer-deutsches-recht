@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`status-navigator-step-plan-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/status-navigator-step-plan-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`status-navigator-step-plan-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/status-navigator-step-plan-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`status-navigator-step-plan-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/status-navigator-step-plan/status-navigator-step-plan-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`status-navigator-step-plan-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/status-navigator-step-plan/status-navigator-step-plan-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`status-navigator-step-plan.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/status-navigator-step-plan.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip) (LausitzStorage 200 GmbH i.G. (Batteriegroßspeicher Jänschwalde/Peitz)) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`status-navigator-step-plan-werkstatt.md`](./status-navigator-step-plan-werkstatt.md) (im Browser ansehen)
-- [`status-navigator-step-plan-schnellstart.md`](./status-navigator-step-plan-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 **Status-Navigator und Step-Plan-Macher**.

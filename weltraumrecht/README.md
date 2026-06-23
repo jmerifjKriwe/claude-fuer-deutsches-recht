@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`weltraumrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`weltraumrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`weltraumrecht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/weltraumrecht/weltraumrecht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`weltraumrecht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/weltraumrecht/weltraumrecht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`weltraumrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) (Akte Nordlicht-Orbit: Satellitenschwarm, Küstenstartplatz und Absturzrisiko) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`weltraumrecht-werkstatt.md`](./weltraumrecht-werkstatt.md) (im Browser ansehen)
-- [`weltraumrecht-schnellstart.md`](./weltraumrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Das Plugin behandelt Raumfahrt nicht als Science-Fiction, sondern als haftungs-, genehmigungs-, sicherheits-, versicherungs-, frequenz- und völkerrechtlich hochverdichtete Praxis.

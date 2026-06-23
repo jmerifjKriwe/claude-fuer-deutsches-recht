@@ -101,8 +101,6 @@ def header(total_skills: int, total_plugins: int, version: str) -> str:
     megazip = f"{GH_RELEASE}/alle-plugins-megazip.zip"
     komplett = f"{GH_RELEASE}/alles-komplettpaket.zip"
     alle_md = f"{GH_RELEASE}/alle-skills-markdown.zip"
-    alle_werkstatt = f"{GH_RELEASE}/alle-werkstatt-prompts.zip"
-    alle_schnellstart = f"{GH_RELEASE}/alle-schnellstart-prompts.zip"
     return f"""# Skill-Gesamtuebersicht
 
 Automatisch generierte Gesamtuebersicht aller **{total_skills} Skills** in **{total_plugins} Plugins**.
@@ -114,14 +112,12 @@ Stand: `{version}`.
 | Paket | Inhalt | Download |
 | --- | --- | --- |
 | **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller {total_plugins} Plugins plus Werkstatt- und Schnellstart-Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`]({alle_md}) |
-| **Alle Werkstatt-Prompts** | Pro Plugin ein ausführlicher Ein-Datei-Arbeitsmodus fuer Chatbots ohne Plugin-Installation | [`alle-werkstatt-prompts.zip`]({alle_werkstatt}) |
-| **Alle Schnellstart-Prompts** | Pro Plugin ein kompakter Ein-Datei-Prompt bis 7.500 Zeichen fuer schnelle Chatbot-Nutzung | [`alle-schnellstart-prompts.zip`]({alle_schnellstart}) |
 | **Alle Plugins (installierbar)** | Alle {total_plugins} Plugin-ZIPs in einem Archiv fuer kompatible Plugin-Oberflaechen | [`alle-plugins-megazip.zip`]({megazip}) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Uebersichten | [`alles-komplettpaket.zip`]({komplett}) |
 
-Das Markdown-Paket reicht, wenn man die vollstaendigen Skills in einem beliebigen Chat-System nutzen will. Die Werkstatt-Prompts sind die ausführliche Ein-Datei-Variante; die Schnellstart-Prompts sind die Sparvariante fuer schnelle Antworten. Das Plugin-Paket ist fuer kompatible Plugin-Oberflaechen. Das Komplettpaket enthaelt zusaetzlich Testakten und alle Repo-Uebersichten.
+Das Markdown-Paket reicht, wenn man die vollstaendigen Skills in einem beliebigen Chat-System nutzen will. Werkstatt- und Schnellstart-Prompts liegen pro Plugin direkt als Markdown-Datei zum Download (oben in jeder Plugin-Detailseite und in jeder Plugin-README). Das Plugin-Paket ist fuer kompatible Plugin-Oberflaechen. Das Komplettpaket enthaelt zusaetzlich Testakten und alle Repo-Uebersichten.
 
-Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin eigene Links (Plugin-ZIP, Werkstatt-ZIP, Schnellstart-ZIP und Browser-Ansicht der Promptdateien).
+Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin eigene Links (Werkstatt-Markdown, Schnellstart-Markdown, Plugin-ZIP).
 
 ## Worum es hier geht: alles nur grosse Prompts
 
@@ -130,17 +126,15 @@ Diese Skills sind am Ende **nichts weiter als grosse, sehr sorgfaeltig formulier
 So benutzt man einen Skill ausserhalb eines Plugin-Setups:
 
 1. Unten in der Plugin-Tabelle auf das gewuenschte Plugin klicken — die Detailseite mit allen Skills oeffnet sich.
-2. Auf der Detailseite oben auf **Werkstatt-ZIP** oder **Schnellstart-ZIP** klicken — die Datei landet direkt im Download-Ordner. Entpacken, Markdown öffnen.
+2. Auf der Detailseite oben auf **Werkstatt** oder **Schnellstart** klicken — die `.md`-Datei wird direkt heruntergeladen.
 3. **Entweder** den kompletten Text mit `Strg+A` / `Cmd+A` kopieren und in das eigene Chat-System einfuegen.
-4. **Oder** die einzelne `SKILL.md` als Anhang in den Chatbot ziehen.
+4. **Oder** die `.md`-Datei als Anhang in den Chatbot ziehen.
 5. Danach die eigene Frage / das eigene Dokument hinterherschicken — der Chatbot uebernimmt die Rolle aus dem Skill.
-
-**Hinweis zu Browser-Links:** `[Markdown]` zeigt die Datei im Browser an (zum Lesen oder Kopieren). `[Raw .md]` oeffnet den Rohtext — GitHub liefert ihn als `text/plain` aus, manche Browser zeigen ihn deshalb als Text statt als Download. **Wenn ein echter Datei-Download gewuenscht ist, immer das Plugin-Markdown-ZIP nehmen.**
 
 So bekommt man die komplette Sammlung als installierbares ZIP:
 
 - In der Plugin-Tabelle unten in der Spalte **Plugin-ZIP** auf den Download-Link klicken. Das laedt eine ZIP-Datei mit **allen** Skills dieses Plugins inkl. Hilfsdateien, Pruefrastern und Vorlagen — direkt in kompatiblen Plugin-Oberflaechen installierbar.
-- Wer kein Plugin-Setup nutzt, nimmt **Werkstatt-ZIP** oder **Schnellstart-ZIP**. Beide enthalten je eine Markdown-Datei, die in beliebige Chatbots gezogen oder kopiert werden kann.
+- Wer kein Plugin-Setup nutzt, nimmt **Werkstatt** oder **Schnellstart** als Markdown-Direkt-Download. Beide sind je eine `.md`-Datei, die in beliebige Chatbots gezogen oder kopiert werden kann.
 - Wer die volle Skilltiefe als Markdown will, nimmt zusätzlich das Sammelpaket `alle-skills-markdown.zip`.
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
@@ -154,18 +148,19 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
     lines = [
         "## Alle Plugins",
         "",
-        "Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Plugin-ZIP** laedt die installierbare Plugin-Sammlung. **Werkstatt-ZIP** und **Schnellstart-ZIP** laden die Ein-Datei-Prompts als echte Downloads.",
+        "Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Werkstatt** und **Schnellstart** laden die Ein-Datei-Prompts direkt als Markdown. **Plugin-ZIP** laedt die installierbare Plugin-Sammlung.",
         "",
-        "| Plugin | Skills | Detailseite | Plugin-ZIP | Werkstatt-ZIP | Schnellstart-ZIP |",
+        "| Plugin | Skills | Detailseite | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP |",
         "| --- | ---: | --- | --- | --- | --- |",
     ]
     for name, skills in plugins:
         zip_url = f"{GH_RELEASE}/{name}.zip"
-        werkstatt_url = f"{GH_RELEASE}/{name}-werkstatt.zip"
-        schnellstart_url = f"{GH_RELEASE}/{name}-schnellstart.zip"
+        _source_rel = _source_rel_for(name)
+        werkstatt_url = f"{GH_RAW}/{_source_rel}/{name}-werkstatt.md"
+        schnellstart_url = f"{GH_RAW}/{_source_rel}/{name}-schnellstart.md"
         detail = f"skills-index/{name}.md"
         lines.append(
-            f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | [Plugin]({zip_url}) | [Werkstatt]({werkstatt_url}) | [Schnellstart]({schnellstart_url}) |"
+            f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | [Werkstatt]({werkstatt_url}) | [Schnellstart]({schnellstart_url}) | [Plugin]({zip_url}) |"
         )
     lines.append("")
     return "\n".join(lines)
@@ -184,8 +179,8 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     _source_rel = _source_rel_for(name)
     skills_dir = REPO_ROOT / _source_rel / "skills"
     plugin_zip = f"{GH_RELEASE}/{name}.zip"
-    werkstatt_zip = f"{GH_RELEASE}/{name}-werkstatt.zip"
-    schnellstart_zip = f"{GH_RELEASE}/{name}-schnellstart.zip"
+    werkstatt_md = f"{GH_RAW}/{_source_rel}/{name}-werkstatt.md"
+    schnellstart_md = f"{GH_RAW}/{_source_rel}/{name}-schnellstart.md"
     md_zip = f"{GH_RELEASE}/alle-skills-markdown.zip"
     plugin_readme = f"{GH_BLOB}/{_source_rel}/README.md"
     lines = [
@@ -198,22 +193,22 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "",
         "## ⬇️ Downloads",
         "",
-        "| Paket | Inhalt | Link |",
+        "| Paket | Format | Link |",
         "| --- | --- | --- |",
-        f"| **Werkstatt-ZIP** | Ausführlicher Markdown-Arbeitsmodus dieses Plugins als echter Datei-Download | [{name}-werkstatt.zip]({werkstatt_zip}) |",
-        f"| **Schnellstart-ZIP** | Kompakter Markdown-Prompt bis 7.500 Zeichen als echter Datei-Download | [{name}-schnellstart.zip]({schnellstart_zip}) |",
-        f"| **Alle Skills als Markdown** | Sammel-ZIP mit allen `SKILL.md`-Dateien und Promptdateien | [alle-skills-markdown.zip]({md_zip}) |",
-        f"| **Plugin-ZIP** | Installierbares Plugin (Skills + Hilfsdateien + Pruefrastern + Vorlagen) | [{name}.zip]({plugin_zip}) |",
+        f"| **Grosser Prompt (Werkstatt)** | Markdown | [{name}-werkstatt.md]({werkstatt_md}) |",
+        f"| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [{name}-schnellstart.md]({schnellstart_md}) |",
+        f"| **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip]({md_zip}) |",
+        f"| **Plugin (installierbar)** | ZIP | [{name}.zip]({plugin_zip}) |",
         "",
         "## So benutzt man einen Skill",
         "",
         "Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-System.",
         "",
-        "- **Schnelltest mit einer Datei:** den Schnellstart-ZIP oben herunterladen, entpacken und als Markdown-Datei in den Chatbot ziehen.",
-        "- **Volle Ein-Datei-Tiefe:** den Werkstatt-ZIP oben herunterladen, entpacken und als ausführlichen Arbeitsmodus verwenden.",
+        "- **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.",
+        "- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausfuehrlichen Arbeitsmodus verwenden.",
         "- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.",
         "- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.",
-        "- **`[Raw .md]`** zeigt den Rohtext. Manche Browser zeigen das als Text statt als Download — fuer echte Downloads das Markdown-ZIP oben nehmen.",
+        "- **`[Raw .md]`** zeigt den Rohtext direkt — als echter Download.",
         "",
         "## Skills in diesem Plugin",
         "",

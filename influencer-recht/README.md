@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`influencer-recht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`influencer-recht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`influencer-recht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/influencer-recht/influencer-recht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`influencer-recht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/influencer-recht/influencer-recht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`influencer-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) (Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerprüfung) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`influencer-recht-werkstatt.md`](./influencer-recht-werkstatt.md) (im Browser ansehen)
-- [`influencer-recht-schnellstart.md`](./influencer-recht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Das Plugin übersetzt Creator-Alltag in Recht: Kooperation, Geschenk, Affiliate-Link, Story, Livestream, Gewinnspiel, Musik, Minderjährige, Agenturvertrag und Steuer werden als zusammenhängender Workflow geprüft.

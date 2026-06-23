@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`us-copyright-registrierung-verlag-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`us-copyright-registrierung-verlag-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`us-copyright-registrierung-verlag-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`us-copyright-registrierung-verlag-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`us-copyright-registrierung-verlag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`us-copyright-registrierung-verlag-werkstatt.md`](./us-copyright-registrierung-verlag-werkstatt.md) (im Browser ansehen)
-- [`us-copyright-registrierung-verlag-schnellstart.md`](./us-copyright-registrierung-verlag-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Schutzfähigkeit, Rechtekette, Registrierung, Fair Use, DMCA, Musik, Software, AI, Litigation Readiness, Lizenzierung und Verlagsworkflow.

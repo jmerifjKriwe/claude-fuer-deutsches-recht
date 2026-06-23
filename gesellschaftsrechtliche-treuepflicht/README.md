@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`gesellschaftsrechtliche-treuepflicht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrechtliche-treuepflicht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`gesellschaftsrechtliche-treuepflicht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrechtliche-treuepflicht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`gesellschaftsrechtliche-treuepflicht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`gesellschaftsrechtliche-treuepflicht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`gesellschaftsrechtliche-treuepflicht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrechtliche-treuepflicht.zip) |
 | Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`gesellschaftsrechtliche-treuepflicht-werkstatt.md`](./gesellschaftsrechtliche-treuepflicht-werkstatt.md) (im Browser ansehen)
-- [`gesellschaftsrechtliche-treuepflicht-schnellstart.md`](./gesellschaftsrechtliche-treuepflicht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin prüft gesellschaftsrechtliche Treuepflicht nicht als wolkiges Gerechtigkeitsgefühl, sondern als präzise Interessen-, Rollen- und Rechtsfolgenprüfung. Es hilft, aus Konfliktstoff gerichtsfeste Argumente, Verteidigungslinien und Vergleichsoptionen zu bauen.

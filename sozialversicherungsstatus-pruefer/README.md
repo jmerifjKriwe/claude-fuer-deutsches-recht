@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`sozialversicherungsstatus-pruefer-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`sozialversicherungsstatus-pruefer-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`sozialversicherungsstatus-pruefer-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`sozialversicherungsstatus-pruefer-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`sozialversicherungsstatus-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) (Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026); [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) (Klingenhain Musikschule / DRV-Statusprüfung) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`sozialversicherungsstatus-pruefer-werkstatt.md`](./sozialversicherungsstatus-pruefer-werkstatt.md) (im Browser ansehen)
-- [`sozialversicherungsstatus-pruefer-schnellstart.md`](./sozialversicherungsstatus-pruefer-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Großes Praxis-Plugin zur Frage: abhängig beschäftigt, selbständig, scheinselbständig oder selbständig mit besonderer Versicherungspflicht? Schwerpunkt sind § 7 und § 7a SGB IV, DRV-Statusfeststellung, Geschäftsführer, Gesellschafter-Geschäftsführer, Freelancer, Anwälte, Berater, IT-Freelancer, Lehrkräfte, Musikschulen, Plattformarbeit, Betriebsprüfung, Beitragsnachforderung und Widerspruch/Klage.

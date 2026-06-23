@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`aktienrecht-hauptversammlung-ag-se-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktienrecht-hauptversammlung-ag-se-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`aktienrecht-hauptversammlung-ag-se-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktienrecht-hauptversammlung-ag-se-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`aktienrecht-hauptversammlung-ag-se-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`aktienrecht-hauptversammlung-ag-se-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`aktienrecht-hauptversammlung-ag-se.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktienrecht-hauptversammlung-ag-se.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip) (Meridian MedTech: Insiderrecht, Ad-hoc und M&A-Leak) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`aktienrecht-hauptversammlung-ag-se-werkstatt.md`](./aktienrecht-hauptversammlung-ag-se-werkstatt.md) (im Browser ansehen)
-- [`aktienrecht-hauptversammlung-ag-se-schnellstart.md`](./aktienrecht-hauptversammlung-ag-se-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin führt durch die Hauptversammlung vom ersten Kalendertermin bis zum unterschriebenen Protokoll und zur Registeranmeldung. Es kann klein und pragmatisch für die Familien-AG arbeiten oder kapitalmarktfähig für börsennotierte AG/SE mit Proxy Advisors, MAR, Stimmrechtsvertretung und Anfechtungslage.

@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`einigungsvertrag-vermoegensrecht-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`einigungsvertrag-vermoegensrecht-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`einigungsvertrag-vermoegensrecht-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`einigungsvertrag-vermoegensrecht-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`einigungsvertrag-vermoegensrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) (Einheitsvertragsakte Lindenau) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`einigungsvertrag-vermoegensrecht-werkstatt.md`](./einigungsvertrag-vermoegensrecht-werkstatt.md) (im Browser ansehen)
-- [`einigungsvertrag-vermoegensrecht-schnellstart.md`](./einigungsvertrag-vermoegensrecht-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ordnet die langen Schatten der deutschen Einheit: Einigungsvertrag, Art. 21/22, Treuhand, Vermögensgesetz, Bodenreform, Mauergrundstücke, offene Vermögensfragen und heutige Register-/Restitutionsprobleme.

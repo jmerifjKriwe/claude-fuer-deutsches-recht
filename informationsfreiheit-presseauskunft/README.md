@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`informationsfreiheit-presseauskunft-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`informationsfreiheit-presseauskunft-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`informationsfreiheit-presseauskunft-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`informationsfreiheit-presseauskunft-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`informationsfreiheit-presseauskunft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-informationsfreiheit-presseauskunft-klinikdaten-hafenstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-informationsfreiheit-presseauskunft-klinikdaten-hafenstadt.zip) (IFG-/Presseauskunftsakte Hafenstadt) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`informationsfreiheit-presseauskunft-werkstatt.md`](./informationsfreiheit-presseauskunft-werkstatt.md) (im Browser ansehen)
-- [`informationsfreiheit-presseauskunft-schnellstart.md`](./informationsfreiheit-presseauskunft-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses Plugin ist das Cockpit für Menschen, Journalistinnen, Kanzleien, NGOs und Unternehmen, die amtliche Informationen bekommen wollen, ohne an Zuständigkeitsnebel, Gebührenbescheiden oder Ausweichantworten hängen zu bleiben.

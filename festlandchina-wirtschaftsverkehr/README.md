@@ -9,14 +9,10 @@ Für ausgearbeitete Dokumente gilt als Standard: Times New Roman 11 pt, klare de
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Großer Prompt (Werkstatt) | ZIP | [`festlandchina-wirtschaftsverkehr-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr-werkstatt.zip) |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | ZIP | [`festlandchina-wirtschaftsverkehr-schnellstart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr-schnellstart.zip) |
+| Großer Prompt (Werkstatt) | Markdown | [`festlandchina-wirtschaftsverkehr-werkstatt.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/festlandchina-wirtschaftsverkehr/festlandchina-wirtschaftsverkehr-werkstatt.md) |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen) | Markdown | [`festlandchina-wirtschaftsverkehr-schnellstart.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/festlandchina-wirtschaftsverkehr/festlandchina-wirtschaftsverkehr-schnellstart.md) |
 | Plugin als Komplett-ZIP | ZIP | [`festlandchina-wirtschaftsverkehr.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr.zip) |
 | Testakte(n) als ZIP | ZIP | [`testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-festlandchina-wirtschaftsverkehr-fabrik-import-investition.zip) (China-Wirtschaftsakte Morgenstern) |
-
-Wer die Markdown-Datei lieber im Browser ansehen statt herunterladen will:
-- [`festlandchina-wirtschaftsverkehr-werkstatt.md`](./festlandchina-wirtschaftsverkehr-werkstatt.md) (im Browser ansehen)
-- [`festlandchina-wirtschaftsverkehr-schnellstart.md`](./festlandchina-wirtschaftsverkehr-schnellstart.md) (im Browser ansehen)
 <!-- END direkt-loslegen (autogen) -->
 
 China-Geschäft ohne Illusionen und ohne Reflexe: freiheitsbewusst, regelgebunden, de-risked, dokumentiert und wirtschaftlich handlungsfähig.
