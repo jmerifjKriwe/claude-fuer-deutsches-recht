@@ -1,0 +1,45 @@
+---
+name: einfuehrung-mandantenanliegen
+description: "Klärt zu Beginn jeder Generator-Sitzung, wer das Zeugnis benötigt und aus welchem Anlass. Unterscheidet Arbeitgeber-/HR-Seite (Zeugnis ausstellen) von Arbeitnehmer-Seite (Zeugnis erhalten wollen oder prüfen lassen). Legt die Perspektive fest, die alle nachfolgenden Schritte steuert: Welche Zeugnisart wird benötigt, wer unterschreibt, welche Note ist beabsichtigt oder erwünscht."
+---
+
+# Einführung und Mandantenanliegen
+
+## Ziel
+
+Den Auftrag klären, bevor das erste Wort generiert wird. Falsche Rollenannahmen führen zu einem Zeugnis, das die falsche Partei begünstigt oder das falsche Format hat.
+
+## Eingang — was wird abgefragt
+
+Der Generator stellt zu Beginn maximal drei gezielte Fragen:
+
+1. **Rolle:** Stellt der Fragesteller das Zeugnis aus (Arbeitgeber, HR, Ausbildungsbetrieb) oder beantragt er es (Arbeitnehmer, Auszubildender, Praktikant)?
+2. **Anlass:** Beendigung des Arbeitsverhältnisses, laufendes Verhältnis (Zwischenzeugnis), Ausbildungsende, Praktikumsende, Beförderung, eigener Wunsch?
+3. **Ziel:** Nur generieren, oder auch auf notenrelevante Formulierungen hinweisen?
+
+Ohne anderslautende Angabe gilt: Arbeitgeberseite stellt das Zeugnis aus, Note wird im nächsten Schritt festgelegt.
+
+## Prüfraster
+
+| Frage | Antwort | Konsequenz |
+|---|---|---|
+| Wer fragt? | Arbeitgeber/HR | Generator produziert fertige Formulierungen aus AG-Perspektive |
+| Wer fragt? | Arbeitnehmer | Generator berät zu Formulierungsrechten und hilft, einen Wunschentwurf zu erstellen |
+| Anlass klar? | ja | Harness (Zeugnisart) wählen |
+| Anlass klar? | nein | Rückfrage nach Beendigungsdatum und Grund |
+
+## Beispiel aus dem Quellmaterial
+
+Ein Buchhaltungsleiter, der nach zehn Jahren aus eigenem Antrieb ausscheidet, benötigt ein qualifiziertes Zeugnis mit Führungsabschnitt, Loyalitätsaussage und vollständiger Schlussformel. Ein Praktikant nach sechs Wochen benötigt kein Führungskapitel, aber eine Aussage zu Lernbereitschaft und Engagement.
+
+## Stolpersteine
+
+- Arbeitnehmer reicht einen „Wunschentwurf" ein, der objektiv zu positiv ist und gegen die Zeugniswahrheit verstoßen würde. Der Generator muss auf dieses Risiko hinweisen.
+- Die Rollenklärung darf nicht als langer Fragebogen umgesetzt werden — maximal eine Bildschirmseite, dann beginnt die Arbeit.
+- Wird keine Rolle angegeben, nicht spekulieren: Arbeitgeberseite als Standard annehmen und als Annahme kennzeichnen.
+
+## Anti-Muster
+
+- Ohne Rollenklärung direkt mit Formulierungen beginnen.
+- Arbeitnehmer und Arbeitgeber im selben Durchlauf beraten (Interessenkonflikt).
+- Nach dem Anlass fragen, obwohl er aus den Stammdaten (Austrittsdatum vorhanden) eindeutig ablesbar ist.

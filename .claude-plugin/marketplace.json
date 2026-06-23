@@ -79,6 +79,15 @@
       }
     },
     {
+      "name": "arbeitszeugnisgenerator",
+      "source": "./arbeitszeugnisgenerator",
+      "description": "Erstellt deutsche Arbeitszeugnisse Schritt fuer Schritt: Rolle, Stammdaten, Taetigkeiten, Leistungs- und Verhaltensbewertung, Notenwahl per Ampelsystem, Schlussformeln. Wahlweise vorgegebene Note oder gefuehrte Einschaetzung. Mehrere Harnesses: qualifiziert, einfach, Ausbildung.",
+      "version": "389.0.0",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "aufsichtsrat-ag-se-praxis",
       "source": "./aufsichtsrat-ag-se-praxis",
       "description": "Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbestimmung.",
