@@ -64,6 +64,10 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 34 EStG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 6a EStG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 43a BRAO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 2 6a EStG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,355 +115,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. altersversorgung boutique fristennotiz psv
+### 11.1. Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. anschluss routing
+### 11.2. Anschluss-Routing für Betriebliche Altersversorgung im Konzern: wählt den nächsten Spezial-Skill nach Engpass (Anpassungsprüfung alle 3 Jahre Paragraf 16 BetrAVG, Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen), dokumentiert.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. bav cta treuhand spezial
+### 11.3. Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Prüfraster und Mustertexte für Trust-Setup im Konzern im Bav Strategie Konzern.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. bav erstattung fuenftelregelung
+### 11.4. Auszahlung bAV und Steueroptimierung: Fuenftelregelung Paragraf 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Prüfraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfuehrungswege im.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. bav grenzueberschreitend mobil spezial
+### 11.5. Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Prüfraster und Mustertexte für Mitarbeiter-Pakete im Bav Strategie Konzern.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. bav konzern design workflow
+### 11.6. Konzern-für Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext für Steering-Vorlage im.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. bav pensionsfond rueckdeckung spezial
+### 11.7. Spezialfall Pensionsfonds mit Rueckdeckungsversicherung: hybride Konstruktion, Trennung Versorgungstraeger und Versicherer, PSV-Schutz im Insolvenzfall, Anlagenrestriktionen. Prüfraster und Mustertexte für Wechsel Direktzusage zu Pensionsfonds im Bav Strategi.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. bav strategie konzern schnellstart
+### 11.8. Benefits: Mandantenkommunikation und Entscheidungsvorlage.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. benefits mandantenkommunikation entscheidungsvorlage
+### 11.9. Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. betrieblichen drei duesseldorfer sonderfall
+### 11.10. Boutique: Fristennotiz und nächster Schritt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. boutique fristennotiz und naechster schritt
+### 11.11. Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: Paragrafen 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bA.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. buyout ma country by cta contractual
+### 11.12. Buyouts Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. buyouts quellenkarte
+### 11.13. Länderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. country by country benefits matrix konzern
+### 11.14. CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: Paragraf 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. cta contractual trust arrangement strukturierung
+### 11.15. Einstieg, Schnelltriage und Fallrouting im bAV Strategie Konzern-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Be.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. design start chronologie
+### 11.16. Dokumentenintake für Betriebliche Altersversorgung im Konzern: sortiert Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen, prüft Datum, Absender, Frist und Beweiswert (Aktuarisches Gutachten, Tarifverträge); markiert Lücken; be.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. dokumente intake
+### 11.17. Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: Paragrafen 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. drei stufen expatriate pensionsplanung
+### 11.18. Drei: Zahlen, Schwellenwerte und Berechnung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. drei zahlen schwellen und berechnung
+### 11.19. Duesseldorfer: Sonderfall und Edge-Case-Prüfung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. duesseldorfer sonderfall und edge case
+### 11.20. Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. durchfuehrungswege fuenf harmonisierung
+### 11.21. Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz im Bav Strategie Konzern.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. einfuehrung durchfuehrungswege erstattung
+### 11.22. Einstieg, Triage und Routing für Betriebliche Altersversorgung im Konzern: ordnet Rolle (Arbeitgeber/Konzern, Arbeitnehmer, Betriebsrat), markiert Frist (Anpassungsprüfung alle 3 Jahre Paragraf 16 BetrAVG), wählt Norm (BetrAVG, Paragraf 1 BetrAVG Zusage, Para.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. einstieg routing
+### 11.23. Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatria.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. expatriate pensionsplanung und totalization
+### 11.24. Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Bav Strategie Konzern.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. fristen risikoampel mandantenkommunikation
+### 11.25. Fuenf: Behörden-, Gerichts- oder Registerweg.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. fuenf behoerden gericht und registerweg
+### 11.26. Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: Paragrafen 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgre.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. governance und anpassungsmechanismen
+### 11.27. Harmonisierung: Formular, Portal und Einreichungslogik.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. harmonisierung formular portal und einreichung
+### 11.28. bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: Paragrafen 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. harmonisierung migration historisch
+### 11.29. Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: Paragrafen 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Ab.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. historisch gewachsene altsysteme due diligence
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. internationale buyout datenflows und datenschutz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. internationale fehlerkatalog
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. internationale harmonisierung japan corporate
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. japan bav und corporate pension iorp
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. kollektivrechtliche loesungen und sozialplan
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. konzernen pension pensionsmodelle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. mitbestimmung betriebsrat pension buyout
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. output waehlen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. pension buyout strukturierung und de risking
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. pension verhandlung vergleich und eskalation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. pensionsmodelle fuenf bav cta pensionsfond
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. pensionsmodelle risikoampel und gegenargumente
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. psv pensionssicherungsverein und haftungsketten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. quellen livecheck
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. restrukturierung beweislast stil strategische
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. spezial buyouts livequellen und rechtsprechungscheck
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. spezial internationale red team und qualitaetskontrolle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. stil abschlussprodukt und uebergabe
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. strategische erstpruefung und mandatsziel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. stufen theorie interessen versorgungssystem
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. theorie mehrparteien konflikt und interessen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. unterlagen luecken
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. versorgungsordnung und betriebsvereinbarung drafting
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. versorgungssystem international schnittstellen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. workflow chronologie und belegmatrix
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. workflow kaltstart und routing
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. workflow mandantenkommunikation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. workflow redteam qualitygate
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. workflow unterlagen lueckenliste
+### 11.30. Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: Datenschutz-Grundverordnung, Drittlandtransfers. Normen: Datenschutz-Grundverordnung Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Outp.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

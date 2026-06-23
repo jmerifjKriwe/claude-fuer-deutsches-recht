@@ -111,391 +111,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. anpassen
+### 11.1. Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. 5 24 Datenschutz-Grundverordnung Rechenschaftspflicht. Prüfraster: Bestandsaufnahme Lueckenanalyse Datenschutz-Grundverordnung-Anforderunge.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. anschluss routing
+### 11.2. Anschluss-Routing für Datenschutzrecht Datenschutz-Grundverordnung/BDSG: wählt den nächsten Spezial-Skill nach Engpass (Art. 33 Meldung 72h, Verarbeitungsverzeichnis, DSFA, AVV), dokumentiert Router-Entscheidung mit Begründung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. anwendungsfall triage
+### 11.3. Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 Datenschutz-Grundverordnung Anwendungsbereich Paragraf 1 BDSG. Prüfraster: Anwendungsbereich personenbezogene Daten Verantwortlicher Auftragsverarbeiter Drittland. Output.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. art 9 besondere kategorien
+### 11.4. Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 Datenschutz-Grundverordnung. Behandelt: rassische/ethnische Herkunft; politische Meinungen; religiöse/weltanschauliche Überzeugungen; Gewerkschaftszugehörigkeit; g.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. aufnahme statusinformation
+### 11.5. Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskur.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. auskunft behoerden gericht und registerweg
+### 11.6. Auskunft: Behörden-, Gerichts- oder Registerweg: Auskunft: Behörden-, Gerichts- oder Registerweg.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. auskunft behoerden gerichts registerweg
+### 11.7. Auskunft: Behörden-, Gerichts- oder Registerweg im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Ve.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. avv art 26 joint controllership deutsch
+### 11.8. Joint-Controller-Vereinbarung nach Art. 26 Datenschutz-Grundverordnung in deutscher Vertragssprache. Behandelt Aufgabenverteilung Anlaufstelle für Betroffene Transparenz Innenregress und EuGH-Rechtsprechung zu Fanpages Like-Button und Zeugen Jehovas. Output.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. avv art 28 dsgvo grundtatbestand
+### 11.9. Grundtatbestand der Auftragsverarbeitung nach Art. 28 Datenschutz-Grundverordnung. Klaert Rollenzuordnung Verantwortlicher gegen Auftragsverarbeiter wenn ein Dienstleister personenbezogene Daten im fremden Auftrag verarbeitet. Wann gilt Art. 28 wann Art. 26 w.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. avv art 28 mindestinhalte checkliste
+### 11.10. Vollstaendige Pflichtinhalte-Checkliste für einen AVV nach Art. 28 Abs. 3 lit. a bis h Datenschutz-Grundverordnung. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und abrufenfrage. Geeignet für das Drafting eines neuen AVV oder das abruf.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. avv abrufen und kontrollrechte
+### 11.11. abrufen- und Kontrollrechte des Verantwortlichen gegenueber dem Auftragsverarbeiter nach Art. 28 Abs. 3 lit. h Datenschutz-Grundverordnung. Behandelt Vor-Ort-abrufens Selbstauskunft Zertifikate sowie das Verhältnis zwischen abrufen-Recht und Geschäftsgeheimni.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. avv cloud und subverarbeitung art 28 iv
+### 11.12. Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 Datenschutz-Grundverordnung. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-K.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. avv eu kommission musterklauseln 2021 915
+### 11.13. EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und V.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. avv eu us data privacy framework bezug
+### 11.14. Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Prüfung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Out.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. avv haftung risikoallokation art 82 dsgvo
+### 11.15. Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 Datenschutz-Grundverordnung. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertrag.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. avv konzern und multi party konstellation
+### 11.16. AVV im Konzern und in Multi-Party-Konstellationen. Behandelt Konzern-AVV mit zentraler Group-IT Shared-Service-Center und konzernweiter Liste der Auftragsverarbeiter. Klaert die Frage ob Konzern als Einheit auftritt oder jede Gesellschaft eigenstaendig. Outpu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. avv loeschung rueckgabe nach vertragsende
+### 11.17. Pflicht zur Loeschung oder Rueckgabe personenbezogener Daten nach Ende des Auftragsverarbeitungsvertrags gemaess Art. 28 Abs. 3 lit. g Datenschutz-Grundverordnung. Wahlrecht des Verantwortlichen Format und Nachweis Aufbewahrungsausnahmen sowie Backup- und Log.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. avv pruefung
+### 11.18. Auftragsverarbeitungsvertrag nach Art. 28 Datenschutz-Grundverordnung prüfen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 Datenschutz-Grundverordnung AVV-Pflicht Paragraf 62 BDSG. Prüfraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebunden.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. avv pruefung bestehender vertraege abrufen
+### 11.19. Prüfung bestehender AVV-Vertraege Vendor-Inventur AVV-abrufen und Vertragsfolgemanagement. Behandelt die systematische Durchsicht eines AVV-Bestands die Identifikation veralteter Klauseln SCC-Altmuster fehlender DPF-Bezug und sub-AV-Listenpflege. Output: abru.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. avv rolemix getrennt vs gemeinsam
+### 11.20. Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 Datenschutz-Grundverordnung. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellationen mi.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. avv rolemix getrennt vs gemeinsam verantwortlich
+### 11.21. Abgrenzung Rollenmix Art: 4 Nr. 7 versus Art. 26 versus Art. 28 Datenschutz-Grundverordnung. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellatio...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. avv tom art 32 dsgvo anlage
+### 11.22. TOM-Anlage zum AVV nach Art. 32 Datenschutz-Grundverordnung. Strukturierte Aufstellung der technischen und organisatorischen Maßnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmäßige Prüfung. O.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. bdsg tatbestand beweis und belege
+### 11.23. Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage: Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. bdsg tatbestandsmerkmale beweisfragen beleglage
+### 11.24. Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion o.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. behoerdenpaket zahlen schwellen und berechnung
+### 11.25. Behördenpaket: Zahlen, Schwellenwerte und Berechnung: Behördenpaket: Zahlen, Schwellenwerte und Berechnung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. behoerdenpaket zahlen schwellenwerte berechnung
+### 11.26. Behördenpaket: Zahlen, Schwellenwerte und Berechnung im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion od.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. benachrichtigung art 34 ausnahmen
+### 11.27. Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 Datenschutz-Grundverordnung. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. benachrichtigung art 34 betroffene
+### 11.28. Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art. 34 Datenschutz-Grundverordnung. Behandelt: Pflichtinhalte nach Art. 34 Abs. 2 Datenschutz-Grundverordnung; klare und einfache Sprache; Beschreibung d.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. benachrichtigung art 34 schwelle hohes
+### 11.29. Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art. 34 Abs. 1 Datenschutz-Grundverordnung erreicht ist. Behandelt: Abgrenzung zur Meldeschwelle Art. 33 Abs. 1 Datenschutz-Grundverordnung; EDSA-Beispielfallgruppen; Faktoren Schwere und Wahrscheinl.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. beweissicherung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. bussgeldverteidigung art 83
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. chronologie und belegmatrix
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. compliance dokumentation und akte
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. datenpanne meldung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. datenpanne schriftsatz brief memo bausteine
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. datenpanne schriftsatz brief und memo bausteine
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. datenschutz aufsichtsbehoerde
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. datenschutz auskunftei restschuldbefreiung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. datenschutz auskunftei restschuldbefreiung art17
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. datenschutz auskunftsersuchen art 15 praxis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. datenschutz bank ablehnung score beweisplan
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. datenschutz beschwerde art 77
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. datenschutz beschwerde art 77 aufsichtsbehoerde
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. datenschutz beschwerde aufsicht auskunftei
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. datenschutz betroffenenrechte art 15 22
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. datenschutz betroffenenrechte art 15 22 orchestriert
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. datenschutz bussgeldverfahren art 83 dsgvo
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. datenschutz bussgeldverfahren art 83 dsgvo verteidigung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. datenschutz datenpanne art 33 34 72h incident
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. datenschutz datenpanne art 33 34 72h incident response
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. datenschutz erstgespraech mandantenmatrix 7
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. datenschutz erstgespraech mandantenmatrix 7 fragen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. datenschutz kreditagentur auskunft art15
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. datenschutz kreditagentur auskunft art15 scorelogik
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. datenschutz livecheck bfdi laender
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. datenschutz livecheck bfdi laender aufsichtsbehoerden
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. datenschutz loeschpflicht art 17 aufbewahrung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. datenschutz loeschpflicht art 17 und aufbewahrung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. datenschutz mandantenkommunikation aufsichtsbehoerde
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. datenschutz mandatssteckbrief fristen rollen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. datenschutz schadensersatz art 82 dsgvo
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. datenschutz schadensersatz art 82 dsgvo gerichtsstreit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. datenschutz schufa insolvenzdaten loeschung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. datenschutz scoring art22 schufa c63421
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. datenschutzrecht schnellstart
+### 11.30. Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben. Behandelt: Chain of Custody; Logging-Sicherung; Speicherabbilder; Hashes; Zeugeni.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

@@ -111,391 +111,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. aktenfuehrung
+### 11.1. Aktenführung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Aktenführung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. aktenherausgabe patentakten
+### 11.2. Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. aktenherausgabe patentakten organisationspflicht
+### 11.3. Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. aktenherausgabe patentakten rechtsprechungscheck
+### 11.4. Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. arbeitnehmererfinder und verschwiegenheit kaltst
+### 11.5. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. arbeitnehmererfinder und verschwiegenheit kammer
+### 11.6. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. arbeitnehmererfinder und verschwiegenheit organi
+### 11.7. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. arbeitnehmererfinder und verschwiegenheit rechtsprechungscheck
+### 11.8. Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. auslandsvertreter correspondent
+### 11.9. Patentanwälte: auslandsvertreter und correspondent risk - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. auslandsvertreter und correspondent risk kaltsta
+### 11.10. Patentanwälte: auslandsvertreter und correspondent risk - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. auslandsvertreter und correspondent risk kammera
+### 11.11. Patentanwälte: auslandsvertreter und correspondent risk - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. auslandsvertreter und correspondent risk organis
+### 11.12. Patentanwälte: auslandsvertreter und correspondent risk - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. berufsausuebungsgesellschaft
+### 11.13. Berufsausübungsgesellschaft: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Gesellschaftsform, Fremdbeteiligung, Geschäftsführung, Compliance und Register, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächs.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. berufsgericht disziplinarverfahren frist
+### 11.14. Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. berufsgerichtliche ruege
+### 11.15. Patentanwälte: berufsgerichtliche ruege - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. berufsgerichtliche ruege kammerantwort und verfahren
+### 11.16. Patentanwälte: berufsgerichtliche ruege - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. berufsgerichtliche ruege organisationspflicht
+### 11.17. Patentanwälte: berufsgerichtliche ruege - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. berufsgerichtliche ruege rechtsprechungscheck
+### 11.18. Patentanwälte: berufsgerichtliche ruege - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. berufshaftpflicht berufspflichtverletzung
+### 11.19. Berufshaftpflicht: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Berufshaftpflicht im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwae.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. berufshaftpflicht claim risk f
+### 11.20. Patentanwälte: berufshaftpflicht und claim risk - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. berufshaftpflicht und claim risk kammerantwort u
+### 11.21. Patentanwälte: berufshaftpflicht und claim risk - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. berufshaftpflicht und claim risk organisationspf
+### 11.22. Patentanwälte: berufshaftpflicht und claim risk - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. berufshaftpflicht und claim risk rechtsprechungs
+### 11.23. Patentanwälte: berufshaftpflicht und claim risk - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. berufspflichtverletzung
+### 11.24. Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Berufspflichtverletzung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. berufsrecht patentanwaelte schnellstart
+### 11.25. Beschwerdemanagement: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Beschwerdemanagement im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Paten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. beschwerdemanagement
+### 11.26. Patentanwälte: beweisnot bei offenbarung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. beweisnot bei offenbarung organisationspflicht u
+### 11.27. Patentanwälte: beweisnot bei offenbarung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. beweisnot offenbarung
+### 11.28. Patentanwälte: beweisnot bei offenbarung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. beweisnot offenbarung datenraum trade epo
+### 11.29. Patentanwälte: beweisnot bei offenbarung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. beweisnot offenbarung faktenma
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. cross border
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. datenraum dokumentenintake aktenlog
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. datenraum trade secrets fakten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. datenraum und trade secrets kammerantwort
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. datenraum und trade secrets organisationspflicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. datenraum und trade secrets rechtsprechungscheck
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. dokumentenintake und aktenlog
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. einspruchsverfahren conflict
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. einspruchsverfahren und conflict check kammerant
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. einspruchsverfahren und conflict check rechtspre
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. entscheidungsvorlage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. epo representative
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. epo representative schnittstelle organisationspf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. epo representative schnittstelle rechtsprechungs
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. erfinderkommunikation im konzern kammerantwort u
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. erfinderkommunikation im konzern organisationspf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. erfinderkommunikation im konzern rechtsprechungs
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. erfinderkommunikation konzern
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. fachbezeichnung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. fortbildung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. frist und zustaendigkeit cockpit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. fristenkontrolle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. fristenkontrolle epo dpma kaltstart und faktenma
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. fristenkontrolle epo dpma kammerantwort und verf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. fristenkontrolle epo dpma organisationspflicht u
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. fristenkontrolle epo fristenversaeumnis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. fristenversaeumnis epo lizenzvertragsberatung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. fristenversaeumnis epo restitutio kaltstart
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. fristenversaeumnis epo restitutio kammerantwort
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. fristenversaeumnis epo restitutio rechtsprechung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. fruehe veroeffentlichung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. fruehe veroeffentlichung konferenz kaltstart
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. fruehe veroeffentlichung konferenz kammerantwort
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. fruehe veroeffentlichung konferenz rechtsprechun
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. gebuehren und kostentransparenz kaltstart und fa
+### 11.30. Cross-Border: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Cross-Border im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

@@ -64,6 +64,11 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - BGB Paragraf 1671 und Paragraf 1684: elterliche Sorge und Umgang.
 - FamFG Paragraf 38: Beschlussform und Begruendung.
 - VersAusglG Paragraf 1 und Paragraf 10: Grundsatz und interne Teilung.
+- Paragraf 43a BRAO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 1564 ff. BGB - Paragraf 1671 BGB - Paragraf 1684 BGB - Paragrafen 1601 ff. BGB - Paragrafen 1372 ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 49 FamFG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 1379 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 1390 BGB Anfechtung. - Paragraf 1565 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +116,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. abaenderung versorgungsausgleich 51 versausglg
+### 11.1. Familienrechtlicher Skill zu Abänderung Versorgungsausgleich Paragraf 51 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. aerztliche versorgungswerke berufsstaendische versorgung
+### 11.2. Familienrechtlicher Skill zu Ärztliche Versorgungswerke berufsständische Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. allgemein familienrecht normenradar
+### 11.3. Familienrechtlicher Skill zu Fachanwalt Familienrecht — Allgemein im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arb.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. anpassung wegen invaliditaet oder besonderer haerte
+### 11.4. Familienrechtlicher Skill zu Anpassung wegen Invalidität oder besonderer Härte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. anpassung wegen unterhalt 33 ff versausglg
+### 11.5. Familienrechtlicher Skill zu Anpassung wegen Unterhalt Paragrafen 33 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. anrechte dokumentenintake
+### 11.6. Anrechte Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. anwartschaft dynamisch statisch bewertung
+### 11.7. Familienrechtlicher Skill zu Anwartschaft dynamisch statisch Bewertung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. ausgleich nach der scheidung 20 ff versausglg
+### 11.8. Familienrechtlicher Skill zu Ausgleich nach der Scheidung Paragrafen 20 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. auslaendische anrechte versorgungsausgleich
+### 11.9. Familienrechtlicher Skill zu Ausländische Anrechte Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. ausschluss grobe unbilligkeit 27 versausglg
+### 11.10. Familienrechtlicher Skill zu Ausschluss grobe Unbilligkeit Paragraf 27 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. beamtenrechtliche kuerzung und rueckausnahme
+### 11.11. Familienrechtlicher Skill zu Beamtenrechtliche Kürzung und Rückausnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. beamtenversorgung versorgungsausgleich
+### 11.12. Familienrechtlicher Skill zu Beamtenversorgung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. beschwerde gegen va beschluss famfg
+### 11.13. Familienrechtlicher Skill zu Beschwerde gegen VA-Beschluss FamFG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. betriebliche altersversorgung direktzusage pensionskasse fonds
+### 11.14. Familienrechtlicher Skill zu Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. dokumente intake
+### 11.15. Dokumentenintake für Fachanwalt Familienrecht: sortiert Heiratsurkunde, Scheidungsantrag, Vermögensauseinandersetzung, prüft Datum, Absender, Frist und Beweiswert (Einkommensnachweise, Vermögensauskunft); markiert Lücken; berücksichtigt Mandatsgeheimnis Parag.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. duesseldorfer abschlussprodukt und uebergabe
+### 11.16. Familienrechtlicher Skill zu Duesseldorfer: Abschlussprodukt und Übergabe im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzb.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. duesseldorfer tabelle unterhalt
+### 11.17. Familienrechtlicher Skill zu Fachanwalt Familienrecht Duesseldorfer Tabelle Unterhalt: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko un.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. ehegattenrecht internationales art 13 egbgb
+### 11.18. Ehegattenrecht Internationales Art 13 Egbgb: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. ehevertrag red team und qualitaetskontrolle
+### 11.19. Familienrechtlicher Skill zu Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzba.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. ehevertrag scheidungsfolgenkontrolle
+### 11.20. Familienrechtlicher Skill zu Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentation: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. ehevertrag sittenwidrigkeit bgh xii zr 129 04
+### 11.21. Ehevertrag Sittenwidrigkeit BGH Xii Zr 129 04: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. ehezeit bestimmen 3 versausglg
+### 11.22. Familienrechtlicher Skill zu Ehezeit bestimmen Paragraf 3 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. eingetragene mandantenkommunikation entscheidungsvorlage
+### 11.23. Familienrechtlicher Skill zu Eingetragene: Mandantenkommunikation und Entscheidungsvorlage im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. einstieg routing
+### 11.24. Anwalts-Dashboard Fachanwalt Familienrecht: Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch, Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs, Norm-Radar; maximal eine Rückfrage. Der Anwalt bleibt im Driver Seat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. ergaenzend sonderfall edge case
+### 11.25. Familienrechtlicher Skill zu Ergaenzend: Sonderfall und Edge-Case-Prüfung im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzb.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. erstgespraech mandatsannahme
+### 11.26. Familienrechtlicher Skill zu Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. erstpruefung und mandatsziel
+### 11.27. Familienrechtlicher Skill zu Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und di.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. eu auslandsrenten und scheidung
+### 11.28. Familienrechtlicher Skill zu EU-Auslandsrenten und Scheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. excel pruefmatrix anrechte
+### 11.29. Familienrechtlicher Skill zu Excel-Prüfmatrix Anrechte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. externe teilung 14 versausglg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. fachanwalt familienrecht duesseldorfer tabelle unterhalt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. fachanwalt familienrecht kindeswohlgefaehrdung eilantrag
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. fachanwalt familienrecht mediation 156 famfg cochemer
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. fachanwalt familienrecht orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. fachanwalt familienrecht sbgg personenstandswechsel folgen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. fachanwalt familienrecht scheidungsantrag stellen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. fachanwalt familienrecht schnellstart
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. fachanwalt familienrecht unterhaltsberechnung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. fachanwalt familienrecht versorgungsausgleich
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. fachanwalt familienrecht zugewinnausgleich berechnen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. famfg quellenkarte
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. familiengericht verhandlung vergleich und eskalation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. familienrecht tatbestand beweis und belege
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. famr einfuehrung themen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. famr kindeswohlgefaehrdung eilantrag spezial
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. famr mandantenaufnahme spezial
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. famr regenbogenfamilien recht spezial
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. famr trennungsfolgen workflow
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. famr trennungsjahr praxis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. famr vermoegensauseinandersetzung workflow
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. famr versorgungsausgleich spezial
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. fehlerhafte auskunft versorgungstraeger
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. fragebogen versorgungsausgleich ausfuellen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. fristen behoerden gericht und registerweg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. geringfuegigkeit 18 versausglg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. gesetzliche rentenversicherung entgeltpunkte
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. gewaltschutz und umgang schnittstelle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. grundprinzip versorgungsausgleich halbteilung 1 versausglg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. interne teilung 10 versausglg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. kanzlei fristennotiz und naechster schritt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. kapitalwert korrespondierender kapitalwert pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. kindesunterhalt mindestsatz paragraf 1612a bgb
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. kindeswohl hochkonflikt wechselmodell
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. kindeswohlgefaehrdung eilantrag
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. kindeswohlpruefung paragraf 1697a bgb bgh xii zb 186 15
+### 11.30. Familienrechtlicher Skill zu Externe Teilung Paragraf 14 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

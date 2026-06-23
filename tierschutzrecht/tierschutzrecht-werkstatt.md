@@ -64,6 +64,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 90a BGB richtig einordnen. Paragraf 90a BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +112,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 90a bgb richtig einordnen
+### 11.1. Tierschutzrecht: Paragraf 90a BGB richtig einordnen. Paragraf 90a BGB richtig einordnen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. anordnung und wegnahme pruefen
+### 11.2. Tierschutzrecht: Anordnung und Wegnahme prüfen. Anordnung und Wegnahme prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. beweisfotos und datenschutz
+### 11.3. Tierschutzrecht: Beweisfotos und Datenschutz. Beweisfotos und Datenschutz im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. bussgeldverfahren tierschg
+### 11.4. Tierschutzrecht: Bußgeldverfahren TierSchG. Bußgeldverfahren TierSchG im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. eilrechtsschutz tierhalter
+### 11.5. Tierschutzrecht: Eilrechtsschutz gegen Haltungsverbot. Eilrechtsschutz gegen Haltungsverbot im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. fundtier und eigentum
+### 11.6. Tierschutzrecht: Fundtier und Eigentum. Fundtier und Eigentum im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. gefaehrlicher hund zucht qualzucht
+### 11.7. Tierschutzrecht: Gefährlicher Hund Landesrecht. Gefährlicher Hund Landesrecht im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. gefluegelmast anordnung angreifen
+### 11.8. Geflügelmast: Anordnung angreifen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. gefluegelmast behoerdenantrag schreibe
+### 11.9. Geflügelmast: Behördenantrag schreiben im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. gefluegelmast beweise sichern
+### 11.10. Geflügelmast: Beweise sichern im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. gefluegelmast bussgeld tiertransport
+### 11.11. Geflügelmast: Bußgeld verteidigen. Buß im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. gefluegelmast eilantrag bauen
+### 11.12. Geflügelmast: Eilantrag bauen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. gefluegelmast halterpflichten erklaere
+### 11.13. Geflügelmast: Halterpflichten erklären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. gefluegelmast kosten klaeren
+### 11.14. Geflügelmast: Kosten klären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. gefluegelmast schutzbedarf
+### 11.15. Geflügelmast: Schutzbedarf prüfen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. gefluegelmast strafrisiko kosten klaeren
+### 11.16. Geflügelmast: Strafrisiko bewerten im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. gefluegelmast suchen tiertransport
+### 11.17. Geflügelmast: Vergleich suchen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. haltung und betreuung dokumentieren
+### 11.18. Tierschutzrecht: Haltung und Betreuung dokumentieren. Haltung und Betreuung dokumentieren im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. hundehaltung anordnung angreifen
+### 11.19. Hundehaltung: Anordnung angreifen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. hundehaltung behoerdenantrag anordnung
+### 11.20. Hundehaltung: Behördenantrag schreiben im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. hundehaltung beweise sichern
+### 11.21. Hundehaltung: Beweise sichern im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. hundehaltung bussgeld verteidigen
+### 11.22. Hundehaltung: Bußgeld verteidigen. Buß im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. hundehaltung eilantrag bauen
+### 11.23. Hundehaltung: Eilantrag bauen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. hundehaltung halterpflichten erklaeren
+### 11.24. Hundehaltung: Halterpflichten erklären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. hundehaltung kosten halterpflichten
+### 11.25. Hundehaltung: Kosten klären im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. hundehaltung schutzbedarf pruefen
+### 11.26. Hundehaltung: Schutzbedarf prüfen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. hundehaltung strafrisiko bewerten
+### 11.27. Hundehaltung: Strafrisiko bewerten im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. hundehaltung vergleich suchen
+### 11.28. Hundehaltung: Vergleich suchen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. kaltstart tierschutzfall
+### 11.29. Tierschutzrecht: Kaltstart Tierschutzfall. Kaltstart Tierschutzfall im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. kaltstart triage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. katzenkolonie anordnung angreifen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. katzenkolonie behoerdenantrag schreibe
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. katzenkolonie beweise sichern
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. katzenkolonie bussgeld pferdestall
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. katzenkolonie eilantrag bauen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. katzenkolonie halterpflichten erklaere
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. katzenkolonie kosten klaeren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. katzenkolonie schutzbedarf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. katzenkolonie strafrisiko kosten klaeren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. katzenkolonie suchen pferdestall
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. nutztierhaltung kontrolle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. pferdestall anordnung angreifen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. pferdestall behoerdenantrag schreiben
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. pferdestall beweise strafrisiko bewerten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. pferdestall bussgeld verteidigen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. pferdestall eilantrag suchen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. pferdestall halterpflichten erklaeren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. pferdestall kosten klaeren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. pferdestall schutzbedarf pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. pferdestall strafrisiko bewerten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. pferdestall vergleich suchen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. rinderbetrieb anordnung beweise sichern
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. rinderbetrieb behoerdenantrag schreibe
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. rinderbetrieb beweise sichern
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. rinderbetrieb bussgeld verteidigen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. rinderbetrieb eilantrag bauen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. rinderbetrieb halterpflichten eilantrag
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. rinderbetrieb kosten klaeren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. rinderbetrieb schutzbedarf pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. rinderbetrieb strafrisiko bewerten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. rinderbetrieb vergleich suchen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. schlachthof anordnung beweise sichern
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. schlachthof behoerdenantrag schreiben
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. schlachthof beweise sichern
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. schlachthof bussgeld verteidigen
+### 11.30. Tierschutzrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

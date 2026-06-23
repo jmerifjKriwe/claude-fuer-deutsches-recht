@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - InsO Paragraf 174: Forderungsanmeldung.
 - StaRUG Paragraf 1: Krisenfrueherkennungspflichten.
+- Paragrafen 56 80 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 129-147 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 146 und Grenzen bei Paragraf 133-Wertungen sowie Dreiecksverhältn... Insolvenzanfechtungsansprüche nach Paragrafen 129-147 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 113 125 InsO Paragraf 165 SGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 58 66 79 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 270 ff. InsO. Paragrafen 270 274 275 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 17 18 19 InsO Eroffnungsgründe Paragrafen 26 54 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. Paragrafen 174 175 176 InsO Paragrafen 38 39 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,325 +119,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. aktenanlage iv plan
+### 11.1. Neue Verfahrensakte anlegen und Verfahrenscockpit strukturieren wenn Insolvenzverwalter oder Sachwalter bestellt wird. Paragrafen 56 80 InsO Verwalterbestellung und Verwaltungsbefugnis. Prüfraster: Aktenzeichen Beteiligtenregister Ordnerplan Massekonto Forder.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. anfechtung iv arbeitsrecht
+### 11.2. Insolvenzanfechtungsansprüche nach Paragrafen 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuldnerakten-Screening, Kandidatenmatrix, Paragrafen 130/131/133/134/135, Bargeschäft Paragraf 142, Rechtsfolgen Paragrafen 143-147, Ve.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. arbeitsrecht insolvenzgeld
+### 11.3. Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. Paragrafen 113 125 InsO Paragraf 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorfinanzie.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. berichte iv masseunzulaenglichkeit
+### 11.4. Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versammlung erstellen. Paragrafen 58 66 79 InsO Berichtspflichten. Prüfraster: Stichtag Massestand Tabelle Verwertung Prozesse Personal Steuern Ri.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. cross iv eigenverwaltung
+### 11.5. Insolvenzverwaltung bei Cross-Border-Assets: ausländischer trustee, debtor in possession oder monitor verwertet deutsche GmbH-Anteile, Grundstücke oder Forderungen; Anerkennung, Inzidentprüfung, Register- und Grundbuchvollzug im Insolvenzverwaltung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. eigenverwaltung sachwaltung
+### 11.6. Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach Paragrafen 270 ff. InsO. Paragrafen 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Prüfraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung Anfechtung Haftung Gläubi.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. einstieg routing
+### 11.7. Einstieg, Triage und Routing für Insolvenzverwaltung: ordnet Rolle (Verwalter, Schuldner, Gläubiger), markiert Frist (Berichtstermin), wählt Norm (InsO Paragrafen 80/148/159 ff. Verwertung, InsVV Vergütung) und Zuständigkeit (Insolvenzgericht), leitet zum pas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. eroeffnungsgutachten iv
+### 11.8. Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt. Paragrafen 17 18 19 InsO Eroffnungsgründe Paragrafen 26 54 InsO Massekostendeckung. Prüfraster: Zahlungsunfähigkeit drohende ZU Überschul.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. forderungsanmeldung pruefung
+### 11.9. Eingehende Forderungsanmeldungen nach Paragraf 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. Paragrafen 174 175 176 InsO Paragrafen 38 39 InsO Rang. Prüfraster: Schriftform Beleg Grund Betrag Rang Absonderungsrechte vorsaetzlich unerlaubte Handl.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. idw iv
+### 11.10. Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpaket.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. insolvenzverwalter fristen form und zustaendigkeit
+### 11.11. Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem A.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. insolvenzverwaltung schnellstart
+### 11.12. Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. insolvenzverwaltungs erstpruefung und mandatsziel
+### 11.13. Einstieg, Schnelltriage und Fallrouting im Insolvenzverwaltung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begl.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. kaltstart triage
+### 11.14. Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. Paragrafen 56 80 InsO Verwalterbestellung Paragraf 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle Sicherungsmassnahmen Betrieb.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. kommandocenter
+### 11.15. Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprüche Versicherungen Rückstaende. Paragrafen 80 148 InsO Verwaltungsbefugnis und Massezugehoerigkeit. Prüfraster: Massekarte Priorisierung realisierbare Forderungen Sicherungsrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. masseeinsammlung iv massemehrung
+### 11.16. Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. Paragrafen 159 160 InsO Verwertung Paragraf 133 InsO Vorsatzanfechtung Paragraf 15b InsO Haftungsansprüche. Prüfraster: Werthebel Assets Prozesse Anfechtung D und O V.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. massemehrung asset realisation
+### 11.17. Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge steuern wenn Masseverbindlichkeiten nicht für alle ausreichen. Paragraf 208 InsO Paragrafen 53 54 InsO Massekosten. Prüfraster: Ist- oder Prognoseunzulaenglichkeit Alt- und Neumasseverbindlichkeiten Zahlun.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. masseunzulaenglichkeit 208
+### 11.18. Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. Paragrafen 244 245 InsO Kopf- und Summenmehrheit Paragrafen 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestritt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. plan abstimmung anlagenpaket
+### 11.19. Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. Paragrafen 229 230 InsO Plananlagen Paragrafen 14 15 StaRUG Unterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschrifte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. plan anlagenpaket
+### 11.20. Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen vorhanden sind. Paragraf 245 InsO Paragraf 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwe.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. plan cramdown datenraum
+### 11.21. Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig und widerspruchsfrei verfassen. Paragraf 220 InsO Paragraf 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Maßnahmen Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Off.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. plan darstellender gerichtliche
+### 11.22. Planbegleitenden Datenraum aufbauen und Dokumentenregister führen wenn alle Planbausteine belegbar sein muessen. Paragrafen 218 229 InsO Paragrafen 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Lu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. plan datenraum register
+### 11.23. Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Bestätigung. Paragrafen 231 232 248 InsO Vorprüfung Bestätigung Paragrafen 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichungsantrag Vorlaufprüfung Eroerterung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. plan gerichtliche schritte
+### 11.24. Gestaltenden Teil des Insolvenzplans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. Paragraf 221 InsO Paragraf 7 StaRUG Planwirkungen. Prüfraster: Rechtsaenderungen je Gruppe Quoten Stundungen Sicherheitenaenderungen Bedingun.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. plan gestaltender gruppen
+### 11.25. Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden um Planbestätigungsrisiken zu minimieren. Paragrafen 222 223 InsO Gruppenbildung Paragrafen 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung wirtschaftliche Interessen Absonderungsr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. plan gruppen klassenbildung
+### 11.26. Vollständigen Insolvenzplan nach Paragrafen 217 ff. InsO von Grund auf strukturieren. Paragrafen 217 220 221 InsO Planarchitektur. Prüfraster: Planvorlageberechtigung darstellender gestaltender Teil Anlagen Gruppen Sicherheiten Planvollzug. Output: Insolvenzp.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. plan insolvenzplan minderheitenschutz
+### 11.27. Integrierte Planrechnung aus GuV, Liquidität und Bilanz für Insolvenzplan, StaRUG oder Sanierungskonzept erstellen. Paragrafen 220 229 InsO Finanzplanung Paragraf 14 StaRUG. Prüfraster: Ist-Zahlen, Planannahmen, Maßnahmenwirkung, Base Case, Downside, Stresssz.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. plan integrierte kommandocenter
+### 11.28. Steuerliche und bilanzielle Folgen des Insolvenzplans oder StaRUG prüfen damit Planwirkungen nicht an Nebenwirkungen scheitern. Paragrafen 3a 3c EStG Sanierungsgewinn Paragraf 8c KStG Verlustvortrag. Prüfraster: Erlass Stundung Debt-Equity-Swap Bilanzierung V.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. plan iv steuern
+### 11.29. Erstes Mandatsgespräch strukturieren wenn Insolvenzplan oder StaRUG-Verfahren startet und kaum Unterlagen vorliegen. Paragrafen 13 15a 17 InsO Paragrafen 29 42 StaRUG Antragspflichten. Prüfraster: Basisdaten Krisenursachen Gläubigerlandschaft Liquiditaetslage.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. plan kaltstart interview
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. plan kommandocenter
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. plan minderheitenschutz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. plan planbetroffene planvollzug
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. plan planvollzug monitoring
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. plan redteam qualitygate
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. plan sanierungskonzept sicherheiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. plan sicherheiten drittsicherheiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. plan stabilisierung stakeholder
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. plan stakeholder kommunikation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. plan starug vergleichsrechnung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. plan verfahrenswahl
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. plan vergleichsrechnung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. qualitaets iv schutzschirm
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. regelverfahren insolvenzverwalter
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. schutzschirm 270d
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. sicherung iv tabelle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. sicht tatbestand beweis und belege
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. spezial sicht tatbestand beweis und belege
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. steuern sozialversicherung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. tabelle pruefungstermin
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. verteilung iv vorlaeufige
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. vorlaeufige verwaltung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. workflow kaltstart und routing
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. zahlungsklagen insolvenzverwaltungs
+### 11.30. Insolvenzplan- oder StaRUG-Mandat starten Verfahrensroute bestimmen Ampelstatus setzen. Paragrafen 217 218 InsO Paragrafen 29 ff. StaRUG. Prüfraster: Rolle Verfahrensziel Datenraumstand Zahlenstand Stakeholder Fristen naechste Aktion. Output: Startvermerk Dat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

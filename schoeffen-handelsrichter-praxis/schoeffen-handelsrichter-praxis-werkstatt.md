@@ -111,391 +111,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. befangenheit selbstanzeige
+### 11.1. Befangenheit Selbstanzeige (Orientierung): hilft ehrenamtlichen Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. befangenheit selbstanzeige sitzung
+### 11.2. Befangenheit Selbstanzeige (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. befangenheit und selbstanzeige
+### 11.3. Befangenheit und Selbstanzeige: erklärt persönliche Nähe, Vorwissen, Social Media, Branchenkontakt und Neutralität erkennen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarn.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. beratung abstimmung orientierung sitzung
+### 11.4. Beratung und Abstimmung: erklärt Beratungsgeheimnis, Abstimmungslogik, Dissens und Protokollfragen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. beratung und abstimmung orientierung
+### 11.5. Beratung und Abstimmung (Orientierung): hilft ehrenamtlichen Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. beratung und abstimmung sitzung
+### 11.6. Beratung und Abstimmung (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Beratungsgeheimnis, Stimmengewicht, Reihenfolge, Protokoll und Minderheitsgefühl mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxi.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. beweiswuerdigung zeugen deal verstaendigung
+### 11.7. Beweiswürdigung von Zeugen: erklärt Wahrnehmung, Erinnerung, Aussagekonstanz und Vorsicht vor Bauchgefühl für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereit.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. bilanzstreit orientierung sitzung
+### 11.8. Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsri.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. deal verstaendigung schoeffe orientierung
+### 11.9. Verständigung im Strafverfahren (Orientierung): hilft ehrenamtlichen Richtern bei Deal, Transparenz, Protokoll, Geständnis und Rolle der Schöffen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. deal verstaendigung schoeffe sitzung
+### 11.10. Verständigung im Strafverfahren (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Deal, Transparenz, Protokoll, Geständnis und Rolle der Schöffen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. dokumentenintake und aktenlog
+### 11.11. Dokumentenintake und Aktenlog: erklärt ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachb.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. ehrenamtlicher richter asyl sitzung
+### 11.12. Ehrenamtlicher Richter Asyl (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Pr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. ehrenamtlicher richter asyl sitzung baurecht
+### 11.13. Ehrenamtlicher Richter Asyl (Orientierung): hilft ehrenamtlichen Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Prax.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. ehrenamtlicher richter baurecht beamtenrecht
+### 11.14. Ehrenamtlicher Richter Baurecht (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter P.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. ehrenamtlicher richter baurecht orientierung
+### 11.15. Ehrenamtlicher Richter Baurecht (Orientierung): hilft ehrenamtlichen Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Pra.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. ehrenamtlicher richter beamtenrecht orientierung
+### 11.16. Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. ehrenamtlicher richter beamtenrecht sitzung
+### 11.17. Ehrenamtlicher Richter Beamtenrecht (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrich.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. ehrenamtlicher richter verwaltungsgericht vg
+### 11.18. Ehrenamtlicher Richter am Verwaltungsgericht: erklärt Rolle in Tatsachen- und Rechtsfragen, Aktenstudium und Beratung für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung un.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. ehrenamtlicher richter vg orientierung
+### 11.19. Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richtern bei Rolle im Verwaltungsprozess, Behördenakte, Amtsermittlung und Beratungsgeheimnis mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Hand.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. ehrenamtlicher richter vg sitzung
+### 11.20. Ehrenamtlicher Richter Verwaltungsgericht (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Rolle im Verwaltungsprozess, Behördenakte, Amtsermittlung und Beratungsgeheimnis mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Ha.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. entscheidungsvorlage frage zeugen
+### 11.21. Entscheidungsvorlage: erklärt macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachberei.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. frage an zeugen stellen orientierung
+### 11.22. Fragen an Zeugen stellen (Orientierung): hilft ehrenamtlichen Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. frage an zeugen stellen sitzung
+### 11.23. Fragen an Zeugen stellen (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. fragerecht ohne freispruch zweifel
+### 11.24. Fragerecht ohne Vorwegnahme: erklärt Fragen sachlich, offen und ohne Wertung stellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Hand.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. freispruch zweifel orientierung
+### 11.25. Freispruch bei Zweifel (Orientierung): hilft ehrenamtlichen Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. freispruch zweifel sitzung
+### 11.26. Freispruch bei Zweifel (Sitzungspraxis): hilft ehrenamtlichen Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. frist und zustaendigkeit cockpit
+### 11.27. Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. gesellschafterstreit sitzung handelskauf
+### 11.28. Handelsrichter Gesellschafterstreit (Sitzungspraxis): hilft ehrenamtlichen Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. handelsrichter bilanzstreit sitzung
+### 11.29. Handelsrichter Bilanzstreit (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handels.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. handelsrichter gesellschafterstreit orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. handelsrichter handelskauf orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. handelsrichter handelskauf sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. handelsrichter kfh rolle orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. handelsrichter kfh rolle sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. handelsrichter vertriebsstreit sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. jugendschoeffe besonderheiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. jugendschoeffe besonderheiten sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. jugendschoeffe besonderheiten sitzung ladung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. kaltstart routing
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. kammer handelssachen kfh
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. ladung erhalten erste orientierung orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. ladung erhalten mandanten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. mandanten oder beteiligtenkommunikation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. protokoll und nachbereitung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. quellen rspr fristen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. red team qualitygate
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. rolle ehrenamtlicher sachverstaendiger
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. sachverstaendiger verstehen orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. sachverstaendiger verstehen sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. schoeffe btmg kcang sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. schoeffe btmg kcang sitzung digitale beweise
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. schoeffe digitale beweise dolmetscher
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. schoeffe digitale beweise orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. schoeffe dolmetscher orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. schoeffe dolmetscher sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. schoeffe ermuedung komplexverfahren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. schoeffe ermuedung komplexverfahren orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. schoeffe haeusliche gewalt orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. schoeffe haeusliche gewalt sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. schoeffe medienkontakt orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. schoeffe medienkontakt sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. schoeffe opferzeugenschutz orientierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. schoeffe opferzeugenschutz sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. schoeffe polizeizeuge orientierung sitzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. schoeffe polizeizeuge sitzung
+### 11.30. Handelsrichter Gesellschafterstreit (Orientierung): hilft ehrenamtlichen Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsric.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

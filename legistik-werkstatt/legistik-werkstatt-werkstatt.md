@@ -64,6 +64,11 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 42 Abs. 1 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 43 Abs. 1 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 44 Abs. 1 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 45 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 46 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +116,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. aa ausfuhrkontrolle
+### 11.1. Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschäftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktion.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. aa ausfuhrkontrolle und aussenwirtschaftsdimension
+### 11.2. Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschäftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktion.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. aa eu bmi verwaltungsverfahren
+### 11.3. Sachbereich EU-Grundlagen und Ratsverfahren im Geschäftsbereich AA: Normbestand (EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.); Akteure (AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.); EU-Bezug (Rat der EU; Ratsformation.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. aa eu grundlagen und ratsverfahren
+### 11.4. Sachbereich EU-Grundlagen und Ratsverfahren im Geschäftsbereich AA: Normbestand (EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.); Akteure (AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.); EU-Bezug (Rat der EU; Ratsformation.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. aa konsular bmas arbeitsrecht
+### 11.5. Sachbereich Konsularrecht und Passrecht im Geschäftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. aa konsular und passrecht
+### 11.6. Sachbereich Konsularrecht und Passrecht im Geschäftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. aa sanktionsumsetzung internationale
+### 11.7. Sachbereich Sanktionsumsetzung und internationale Abkommen im Geschäftsbereich AA: Normbestand (AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.); Akteure (AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.); EU-Bezug (EU-Sanktionsregime gegen Drittstaaten und Person.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. aa sanktionsumsetzung und internationale abkommen
+### 11.8. Sachbereich Sanktionsumsetzung und internationale Abkommen im Geschäftsbereich AA: Normbestand (AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.); Akteure (AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.); EU-Bezug (EU-Sanktionsregime gegen Drittstaaten und Person.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. aa voelkerrecht und vertragsgesetzgebung
+### 11.9. Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschäftsbereich AA: Normbestand (GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.); Akteure (AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.); EU-Bezug (Gemi.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. aenderungs formular portal einreichungslogik
+### 11.10. Änderungs: Formular, Portal und Einreichungslogik im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. aenderungs formular portal und einreichung
+### 11.11. Änderungs: Formular, Portal und Einreichungslogik.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. anschluss routing
+### 11.12. Anschluss-Routing für Legistik-Werkstatt (Gesetzgebung): wählt den nächsten Spezial-Skill nach Engpass (Beteiligungsfristen, Referentenentwurf, Kabinettvorlage, BR-Drucksache), dokumentiert Router-Entscheidung mit Begründung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. baut quellenkarte
+### 11.13. Baut Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. begruendung allgemein und besonders
+### 11.14. Zweiteilige Begründung zu einem Gesetzesentwurf oder einer Verordnung verfassen. Anwendungsfall Referentenentwurf oder Kabinettsentwurf ist fertig und Begründung muss nach HdR-Schema aufgebaut werden. Allgemeiner Teil A Anlass und Ziel B wesentlicher Inhalt C.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. bmas arbeitsrecht und arbeitsschutz
+### 11.15. Sachbereich Arbeitsrecht und Arbeitsschutz im Geschäftsbereich BMAS: Normbestand (BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.); Akteure (BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Länder.); EU-Bezug (Arbeitsschutz-.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. bmas arbeitsschutz und arbeitssicherheit
+### 11.16. Sachbereich Arbeitsschutz und Arbeitssicherheit im Geschäftsbereich BMAS: Normbestand (ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.); Akteure (BAuA; UVT (Berufsgenossenschaften); Länder-Arbeitsschutzbehoerden; KomNet.); EU-Bezug.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. bmas rente und altersvorsorgerecht
+### 11.17. Sachbereich Rente und Altersvorsorgerecht im Geschäftsbereich BMAS: Normbestand (SGB VI; AVG (alt); FRG; ZRBG; Riester; Foerderhinweise Steuer (mit BMF).); Akteure (DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).); EU-Bezug.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. bmas sozialversicherungsrecht sgb
+### 11.18. Sachbereich Sozialversicherungsrecht (SGB) im Geschäftsbereich BMAS: Normbestand (SGB I bis SGB XII; ASVG-Äquivalent; AsylbLG (mit BMI).); Akteure (DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt für Soziale Sicherung); SGericht.); EU-Bezug (VO 883/2004 (Koo.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. bmas teilhabe bmbfsfj familien
+### 11.19. Sachbereich Teilhaberecht (SGB IX) im Geschäftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur für Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschäftigungsrichtlinien.); typische.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. bmas teilhabe schwerbehindertenrecht sgb
+### 11.20. Sachbereich Teilhaberecht (SGB IX) im Geschäftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur für Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschäftigungsrichtlinien.); typische.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. bmbfsfj familien und elterngeldrecht
+### 11.21. Sachbereich Familien- und Elterngeldrecht im Geschäftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Länder; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutter.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. bmbfsfj gleichstellungs
+### 11.22. Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschäftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftrag.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. bmbfsfj gleichstellungs und antidiskriminierungsrecht
+### 11.23. Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschäftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftrag.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. bmbfsfj kinder jugendhilferecht sgb viii
+### 11.24. Sachbereich Kinder- und Jugendhilferecht (SGB VIII) im Geschäftsbereich BMBFSFJ: Normbestand (SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.); Akteure (Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale für Kinder- und Jugend-medienschutz (BzKJ).); E.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. bmbfsfj kinder und jugendhilferecht sgb viii
+### 11.25. Sachbereich Kinder- und Jugendhilferecht (SGB VIII) im Geschäftsbereich BMBFSFJ: Normbestand (SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.); Akteure (Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale für Kinder- und Jugend-medienschutz (BzKJ).); E.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. bmbfsfj schul und berufsbildungsrecht
+### 11.26. Sachbereich Schul- und Berufsbildungsrecht im Geschäftsbereich BMBFSFJ: Normbestand (BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Länder; AufstFoeG.); Akteure (BMBFSFJ; Länder-Kultusministerien; KMK; BIBB; Berufsverbaende.); EU-Bezug (Berufsanerkennungs-RL; Euro.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. bmbfsfj senioren pflegevorbeugungsrecht
+### 11.27. Sachbereich Seniorenrecht und Pflegevorbeugung im Geschäftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Länder; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Länder-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.).
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. bmbfsfj senioren und pflegevorbeugungsrecht
+### 11.28. Sachbereich Seniorenrecht und Pflegevorbeugung im Geschäftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Länder; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Länder-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.).
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. bmds datenrecht und data act
+### 11.29. Sachbereich Datenrecht und Data Act im Geschäftsbereich BMDS: Normbestand (Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.); Akteure (BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.); EU-Bezug (Data Act; Data Governance Act; Open Data RL.); ty.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. bmds digitale verwaltung ozg und egovg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. bmds it ki verordnung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. bmds it sicherheit und bsig
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. bmds ki verordnung und aufsichtsstruktur
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. bmds verwaltungsdigitalisierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. bmds verwaltungsdigitalisierung und registermodernisierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. bmf finanzmarktaufsicht bafin kwg wpig
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. bmf geldwaesche und sanktionsrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. bmf haushalts und zuwendungsrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. bmf steuerrecht und fiskalnormen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. bmf zoll und aussenwirtschaftsrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. bmftr biotechnologie und laborsicherheit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. bmftr forschungsfoerderung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. bmftr forschungsfoerderung und ressortforschung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. bmftr hochschul und wissenschaftsrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. bmftr kuenstliche intelligenz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. bmftr kuenstliche raumfahrt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. bmftr raumfahrt und weltraumrecht wrgg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. bmg arzneimittel medizinprodukterecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. bmg arzneimittel und medizinprodukterecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. bmg berufsrecht heilberufe approbation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. bmg berufsrecht heilberufe und approbation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. bmg infektionsschutz und pandemierecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. bmg krankenhaus und versorgungsstrukturrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. bmg krankenhaus versorgungsstrukturrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. bmg krankenversicherungs leistungsrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. bmg krankenversicherungs und leistungsrecht sgb v
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. bmi auslaender
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. bmi auslaender und staatsangehoerigkeitsrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. bmi bevoelkerungsschutz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. bmi bevoelkerungsschutz oeffentlicher
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. bmi oeffentlicher dienst beamtenrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. bmi oeffentlicher dienst und beamtenrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. bmi sicherheits und polizeirecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. bmi verwaltungsverfahren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. bmi verwaltungsverfahren und bundesverwaltung
+### 11.30. Sachbereich Digitale Verwaltung (OZG; EGovG) im Geschäftsbereich BMDS: Normbestand (OZG; OZG-AeG; EGovG; EGovG-Länder; eIDAS-DurchG; XOeV.); Akteure (BMDS; ITZBund; FITKO; Länder-CIOs; Bundesdruckerei.); EU-Bezug (Single Digital Gateway; eIDAS 2.0; EU Digital.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

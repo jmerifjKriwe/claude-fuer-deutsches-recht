@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 44 Abs. 1 Nr. 4 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 44 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 45 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 44 Abs. 1 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 1 BGleiG und Paragraf 2 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 1 BGleiG und Paragraf 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die N.: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 2 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 44 Abs. 1 Nr. 7 GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,385 +119,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. allgemein
+### 11.1. Einstieg in das Normenkontrollrat-NKR-Plugin: Triage von Gesetzesvorhaben nach Erfüllungsaufwand, One-in-one-out, Digitalcheck, Befristung, Alternativenprüfung und Vollzugsfolgenabschätzung. Routet zum passenden Spezial-Skill und liefert bei Eile eine erste S.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. alternativen keine aufgabe kompetenz
+### 11.2. Systematische Prüfung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbaus.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. alternativen keine regelung soft law
+### 11.3. Systematische Prüfung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbaus.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. aufgabe und kompetenz nkrg
+### 11.4. Zeigt Aufgabe Zuständigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere Paragraf 1 Einsetzung beim BMJ Paragraf 2 Erfuellungsaufwand Paragraf 3 Zusammensetzung Paragraf 4 Prüfung Paragraf 6 Stellu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. buerokratieabbau katalog konkrete
+### 11.5. Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertex.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. buerokratiekosten vs erfuellungsaufwand
+### 11.6. Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen für Prüfung Berichtswesen Vorblatt One-in-one-out. Mit Vergl.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. digital anschlussfaehigkeit digitalcheck
+### 11.7. Prüfskill Digitaltauglichkeit. Adressiert die seit 2022 geltende Pflicht zum Digitalcheck (Bundesregelungsvorhaben muessen digital praktikabel sein) und die OZG-Anschlussfaehigkeit. Mit Standardpruefraster Anschluss an bestehende Standards (XOEV FIM ELSTER be.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. digital anschlussfaehigkeit tauglich
+### 11.8. Prüfskill Digitaltauglichkeit. Adressiert die seit 2022 geltende Pflicht zum Digitalcheck (Bundesregelungsvorhaben muessen digital praktikabel sein) und die OZG-Anschlussfaehigkeit. Mit Standardpruefraster Anschluss an bestehende Standards (XOEV FIM ELSTER be.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. digitalcheck und onlinezugangsgesetz ozg
+### 11.9. Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach Paragraf 4 Abs. 3 i.V.m. Paragraf 9 NKRG für Bundesregelungsvorha.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. einmalig vs erforderlichkeitspruefung warum
+### 11.10. Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Muster.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. einmalig vs jaehrlich laufend
+### 11.11. Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Muster.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. erforderlichkeitspruefung warum
+### 11.12. Erforderlichkeitspruefung als erster Prüfschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Prüfraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für d.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. erforderlichkeitspruefung warum ueberhaupt regeln
+### 11.13. Erforderlichkeitspruefung als erster Prüfschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Prüfraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für d.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. erfuellungsaufwand buerger grundbegriff
+### 11.14. Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle für die Stellungnahme und Bausteinen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. erfuellungsaufwand buerger wirtschaft
+### 11.15. Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle für die Stellungnahme und Bausteinen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. erfuellungsaufwand grundbegriff
+### 11.16. Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO Paragraf 44 und HdR. Trennt den Begriff von benachbarten Konzepten (Buerokratiekosten Vollzugskosten Haushaltskosten Folgekosten Sachkosten). Liefert die Standarddefinition wie sie in jeder NKR-Stell.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. eu ebene eu richtlinien
+### 11.17. Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. eu ebene und better regulation
+### 11.18. Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. eu richtlinien umsetzung und goldplating
+### 11.19. Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Prüfraster für Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Prüf-Checkliste Mustertexten und Standard-Argumentatio.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. evaluation jahresbericht fallzahlen
+### 11.20. Beschreibt Evaluierungspraxis ex-post-Prüfung und Jahresbericht des NKR nach Paragraf 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bauste.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. evaluation und jahresbericht
+### 11.21. Beschreibt Evaluierungspraxis ex-post-Prüfung und Jahresbericht des NKR nach Paragraf 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bauste.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. evaluierung befristung sunset klausel
+### 11.22. Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlun.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. evaluierung befristung verfahrensgang
+### 11.23. Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlun.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. fallzahlen schaetzung bandbreiten
+### 11.24. Methodischer Fachmodul für Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreite.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. gleichstellungs gendercheck handelsregister
+### 11.25. Fachmodul Gleichstellungs- und Gendercheck nach Paragraf 1 BGleiG und Paragraf 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Prüfung sich darauf bezieht. Mit Prüfraster Muste.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. gleichstellungs und gendercheck
+### 11.26. Fachmodul Gleichstellungs- und Gendercheck nach Paragraf 1 BGleiG und Paragraf 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Prüfung sich darauf bezieht. Mit Prüfraster Muste.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. handelsregister elektronische zustellung
+### 11.27. Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Prüfpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. handelsregister und elektronische zustellung
+### 11.28. Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Prüfpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. leitfaden ermittlung
+### 11.29. Strukturierter Überblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Sc.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. leitfaden ermittlung und darstellung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. mittelstandsfreundlichkeit kmu test
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. nachhaltigkeit klimacheck one
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. nachhaltigkeit klimacheck vereinbarkeit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. nkr alternativen pruefung keine regelung soft law
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. nkr erfuellungsaufwand buerger wirtschaft verwaltung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. nkr pruefumfang was prueft der nkr nicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. nkr stellungnahme zum bundestag anhoerung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. nkr verhaeltnismaessigkeit aus nkr sicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. nkr zusammenarbeit mit bundesregierung und ressorts
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. normenkontrollrat nkr schnellstart
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. one in one out bilanz und buchung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. one in out bilanz und buchung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. orientierung mandatsaufnahme praktikabilitaet
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. orientierung und mandatsaufnahme
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. praktikabilitaet vollzug test
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. pruefumfang was prueft der nicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. pruefumfang was standardkostenmodell skm
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. standardkostenmodell skm
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. stellungnahme aufbau ergebnis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. stellungnahme aufbau und format
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. stellungnahme ergebnis und empfehlung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. stellungnahme evaluationsklausel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. stellungnahme formulierungshilfe vs referentenentwurf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. stellungnahme grundsatzfeststellung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. stellungnahme mahnender charakter grenzen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. stellungnahme pressepolitik bundestag
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. stellungnahme pressepolitik jahresbericht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. stellungnahme zum bundestag anhoerung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. verfahrensgang referentenentwurf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. verfahrensgang referentenentwurf bis bundestag
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. verhaeltnismaessigkeit aus sicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. verhaeltnismaessigkeit sicht zeitwerttabelle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. zeitwerttabelle und fallzahlen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. zusammenarbeit bundesregierung ressorts
+### 11.30. Strukturierter Überblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Sc.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

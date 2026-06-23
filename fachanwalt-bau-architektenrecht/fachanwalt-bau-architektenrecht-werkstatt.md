@@ -85,6 +85,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - BauGB Paragraf 11 und Paragraf 12: städtebaulicher Vertrag, Durchführungsvertrag und vorhabenbezogener Bebauungsplan.
 - BauGB Paragraf 124: Erschließungsvertrag als Spezialregelung.
 - BauNVO Paragrafen 1 bis 23: Art und Maß der Nutzung, Bauweise und überbaubare Grundstücksflächen.
+- Paragraf 640 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 640 641 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 640 Abs. 1 S. 2 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 634a BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 650a BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 650i BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 650p BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -107,14 +115,6 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 6. Welche Festsetzung oder städtebauliche Vertragsbindung begrenzt Planung, Genehmigung oder Kostenweitergabe.
 7. Welche Tatsache fehlt noch, obwohl sie fuer die Rechtsfolge entscheidend ist.
 8. Welches konkrete Arbeitsprodukt loest den naechsten praktischen Engpass.
-
-### 6.1. Zusatzraster Städtebau und Festsetzungen
-
-1. Bebauungsplan lesen: Planzeichnung, textliche Festsetzungen, BauNVO-Fassung, örtliche Bauvorschriften und Begründung getrennt erfassen.
-2. Genehmigungsrisiko prüfen: BauGB Paragraf 30, Paragraf 31 und BauNVO-Werte auf Vertragssoll, Architektenpflicht und Käuferinformation übertragen.
-3. Städtebauliche Vertragslasten prüfen: Folgekosten, Erschließung, Durchführungsfristen, Sicherheiten und Rückabwicklung als Kosten- und Haftungspositionen behandeln.
-4. Bauträger- und Architektenhaftung prüfen: Wurde die planungsrechtliche Beschränkung im Vertrag, in der Baubeschreibung, in der Kostenaufstellung und in der Genehmigungsplanung transparent verarbeitet.
-5. Streitprodukt festlegen: Vertragsklausel, Risikomemo, Bedenkenhinweis, Nachtragsbewertung, Genehmigungsargumentation oder Haftungsschreiben.
 
 ## 7. Schriftsatz- und Memo-Geruest
 
@@ -144,391 +144,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. abnahme fiktion paragraf 640 bgb bgh vii zr 301 13
+### 11.1. Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. abnahme mit vorbehalt
+### 11.2. Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maengelvorbehalt, Sicherungsrechte: Normen: Paragrafen 640 641 BGB, Paragraf 12 VOB/B. Prüfraster: Abnahmeprotokoll,...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. abnahme quellenkarte
+### 11.3. Abnahme Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. abnahme verweigerung
+### 11.4. Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht: Normen: Paragraf 640 Abs. 1 S. 2 BGB, Paragraf 12 Abs. 3 VOB/B. Prüfraster: w...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. anschluss routing
+### 11.5. Anschluss-Routing für Fachanwalt Bau- und Architektenrecht: wählt den nächsten Spezial-Skill nach Engpass (Verjährung 5 Jahre Paragraf 634a BGB, Bauvertrag, Pläne, Bautagebuch), dokumentiert Router-Entscheidung mit Begründung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. architektenhonorar hoai mindestsatz eugh c 377 17
+### 11.6. HOAI-Mindestsatzunterschreitung nach EuGH C-377/17 und BGH VII ZR 174/19.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. architektenrecht tatbestand beweis und belege
+### 11.7. Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. bau abnahme checkliste workflow
+### 11.8. Abnahme: technische Abnahme gegen rechtliche Abnahme Paragraf 640 BGB, Abnahmevoraussetzungen, Verweigerungsrechte bei wesentlichen Maengeln, fiktive Abnahme Paragraf 640 Abs: Abnahme: technische Abnahme gegen rechtliche Abnahme Paragraf 640 BGB, Abnahmevorau.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. bau einfuehrung vertragstypen
+### 11.9. Bau- und Architektenrecht einfuehrend: Bauvertrag Paragraf 650a BGB, Verbraucherbauvertrag Paragraf 650i BGB, Architektenvertrag Paragraf 650p BGB, Ingenieurvertrag, Bautraegervertrag Paragraf 650u BGB, VOB Bauvertrag: Bau- und Architektenrecht einfuehrend: B.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. bau honorar hoai grundzuege
+### 11.10. HOAI in Grundzuegen: Leistungsbilder Paragraf 34 ff: HOAI, Honorarzonen, Mindest- und Hoechstsaetze nach EuGH-Spruch zu HOAI 2013, Pauschalierung, abrechenbare anrechenbare Kosten. Beispielrechnung und typische Streitp...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. bau kuendigung vob spezial
+### 11.11. Spezialfall Kuendigung VOB-Bauvertrag: Paragraf 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit Vergueng, Abgrenzung BGB: Spezialfall Kuendigung VOB-Bauvertrag: Paragraf 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit V.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. bau mangelhaftung spezial symptomtheorie
+### 11.12. Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen: K...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. bau nachtrag workflow
+### 11.13. Nachtragsmanagement: Paragraf 650b BGB Anordnungsrecht, Vergueng nach Paragraf 650c BGB, Soll-Ist-Abgleich, Dokumentation Stoerung: Mustertext für Nachtr...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. bau schiedsgutachten spezial
+### 11.14. Spezialfall Schiedsgutachten in Bauvertraegen: Paragrafen 317 ff: BGB analog, vereinbarte Verbindlichkeit, Inhaltsbestimmung gegen Tatsachenermittlung. SOBau-Regeln, DIS-Schiedsgutachten, einstweilige Verfue...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. bau sicherungsmittel spezial
+### 11.15. Spezialfall Sicherungsmittel: Paragraf 650f BGB Bauhandwerkersicherung, Vertragserfuellungsbuergschaft, Gewaehrleistungsbuergschaft, Insolvenz Bauunternehmer: Spezialfall Sicherungsmittel: Paragraf 650f BGB Bauhandwerkersicherung, Vertragserfuellungsbuergscha.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. baugenehmigung nachbarklage paragraf 58 vwgo bverwg 4 c 1 19
+### 11.16. Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. bauordnungsrecht behoerden gericht und registerweg
+### 11.17. Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg: Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. bautraeger abnahme formgerecht 640 bgb
+### 11.18. Bautraeger-Abnahme formgerecht nach Paragraf 640 BGB: Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Bewe...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. bautraeger abnahmefiktion clause unwirksam
+### 11.19. Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit: Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenz...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. bautraeger anlagen zur baubeschreibung
+### 11.20. Anlagen zur Baubeschreibung beim Bautraegervertrag: Skill listet typische Anlagen Plaene Grundriss Schnitt Ansicht Wohnflaechenberechnung Energieausweis Teilungserklaerung. Folgen fehlender oder veralteter...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. bautraeger aufflassungsvormerkung 883 bgb
+### 11.21. Aufflassungsvormerkung Paragraf 883 BGB beim Bautraegervertrag: Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolve...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. bautraeger belehrungspflicht 17 beurkg
+### 11.22. Notar-Belehrungspflicht nach Paragraf 17 BeurkG beim Bautraegervertrag: Skill klaert den Umfang die Pflicht zur Erläuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach Paragraf...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. bautraeger bonitaetspruefung warnsignale
+### 11.23. Bautraeger-Bonitaetspruefung Warnsignale: Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. bautraeger eigenkapital ueberpruefung vor vertrag
+### 11.24. Bautraeger-Eigenkapital-Überprüfung vor Vertragsabschluss: Skill klaert was Erwerber selbst prüfen koennen Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. bautraeger elektronische notarverkuendung 2023
+### 11.25. Elektronische notarielle Verkuendung beim Bautraegervertrag: Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. St...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. bautraeger fertigstellungsfrist und verzug
+### 11.26. Bautraeger Fertigstellungsfrist und Verzug: Skill klaert die Vereinbarung der Bauzeit Verzugsfolgen Vertragsstrafe und das Verhältnis zur MaBV. BGH-Linie zu zu weiten Verzugsfristen. Liefert Prüfraster.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. bautraeger finanzierungsgrundschuld belastungsfolge
+### 11.27. Bautraeger-Finanzierungsgrundschuld und Belastungsfolge: Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Prüfra...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. bautraeger gemeinschaftliche maengelverfolgung weg
+### 11.28. Gemeinschaftliche Maengelverfolgung in der WEG: Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. bautraeger grundbuchaufflassung 925 bgb
+### 11.29. Aufflassung nach Paragraf 925 BGB beim Bautraegervertrag: Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhältnis zur Vormerkung. Notarielle Beurkundung. Liefert Prüfraster.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. bautraeger grundbuchgebuehren rangwahrung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. bautraeger haftungsausschluss 307 bgb
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. bautraeger insolvenz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. bautraeger insolvenz konsequenzen erwerber
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. bautraeger leistungsbeschreibung baubeschreibung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. bautraeger mabv buchfuehrungspflicht 10
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. bautraeger mabv erweiterte sicherheit 7
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. bautraeger mabv gewerberechtliche folgen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. bautraeger mabv grundlagen 1 2
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. bautraeger mabv ratenplan 3 mabv
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. bautraeger mabv sicherheit 2 buergschaft
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. bautraeger mabv vermoegenstrennung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. bautraeger mabv vollstaendigkeitserklaerung 7
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. bautraeger maengelhaftung fuenf jahre 634a
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. bautraeger maengelruegen und formerfordernis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. bautraeger notarvertrag grundlagen pruefraster
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. bautraeger pfandfreigabe und loeschung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. bautraeger rangruecktritt grundpfandrechte
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. bautraeger rechtswidrige anpassungsklauseln
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. bautraeger rueckabwicklung bei insolvenz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. bautraeger selbstvornahme und vorschussklage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. bautraeger sonderwuensche zusaetzliche vereinbarungen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. bautraeger typische nichtigkeitsfallen checkliste
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. bautraeger typische notar fehler checkliste
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. bautraeger weg abgeschlossenheitsbescheinigung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. bautraeger weg erstverwalter bestellung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. bautraeger weg gemeinschaftsordnung pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. bautraeger weg instandhaltungsruecklage uebergabe
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. bautraeger weg teilungserklaerung pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. bautraegervertrag mev verstoss bgh vii zr 25 20
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. bautraegervertrag verbraucher mabv agb abnahme
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. bauvertrag schriftsatz brief und memo bausteine
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. bgb fristen form und zustaendigkeit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. denkmalschutz abriss paragraf 9 dschg bayverfgh
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. dokumente intake
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. einfuehrung formular portal und einreichung
+### 11.30. Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag: Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Prüfras...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

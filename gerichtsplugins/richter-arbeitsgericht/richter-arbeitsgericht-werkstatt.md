@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - BGB Paragraf 623: Schriftform fuer Kuendigung und Aufhebungsvertrag.
 - TzBfG Paragraf 14 bis Paragraf 17: Befristung, Schriftform, Rechtsfolge und Befristungskontrollklage.
 - BetrVG Paragraf 102: Anhoerung des Betriebsrats vor Kuendigung.
+- Paragraf 2 ArbGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 48 ArbGG i.V.m. Paragrafen 12 ff. ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 54 ArbGG Sachliche Zuständigkeit Paragraf 2 ArbGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 54 ArbGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 4 und 7 KSchG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 1 KSchG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 4 KSchG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 1 Abs. 3 KSchG Kündigungsschutzklage Paragraf 4 KSchG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -112,67 +120,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 zustaendigkeit und guetetermin
+### 11.1. Sachliche Zuständigkeit Paragraf 2 ArbGG, örtliche Zuständigkeit Paragraf 48 ArbGG i.V.m. Paragrafen 12 ff. ZPO, Klagezustellung, Anberaumung Guetetermin Paragraf 54 ArbGG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 kuendigungsschutzklage pruefen
+### 11.2. Kündigungsschutzklage Paragraf 4 KSchG: Klagefrist 3 Wochen, Kündigungsgründe (personenbedingt verhaltensbedingt betriebsbedingt) Paragraf 1 KSchG, Sozialauswahl Paragraf 1 Abs. 3 KSchG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 zahlungsklage lohn und gehalt
+### 11.3. Zahlungsklage: faelliger Arbeitslohn, Annahmeverzug Paragrafen 615 BGB, Urlaubsabgeltung Paragraf 7 Abs. 4 BUrlG, Entgeltfortzahlung im Krankheitsfall Paragraf 3 EFZG, Verzugspauschale Paragraf 288 Abs. 5 BGB
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 betriebsuebergang und tarif
+### 11.4. Betriebsübergang Paragraf 613a BGB, Eintritt in Arbeitsverhältnisse, Widerspruchsrecht, Informationspflichten Abs. 5; Tarifgebundenheit Paragraf 3 TVG, Tariftreue, Nachwirkung Paragraf 4 Abs. 5
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 befristung und teilzeit
+### 11.5. Befristungskontrolle TzBfG: sachgrundlose Befristung Paragraf 14 Abs. 2, Sachgrundbefristung Paragraf 14 Abs. 1, Zweckbefristung; Teilzeit Paragraf 8 TzBfG (Anspruch auf Verringerung)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 agg diskriminierung
+### 11.6. AGG Paragraf 7: Benachteiligungsverbot, geschuetzte Merkmale Paragraf 1, Beweislastregel Paragraf 22, Entschaedigung und Schadensersatz Paragraf 15, Ausschlussfrist Paragraf 15 Abs. 4
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 einstweilige verfuegung arbeitsrecht
+### 11.7. Einstweilige Verfügung im Arbeitsrecht: Verfügungsanspruch und -grund Paragraf 940 ZPO, Schutz von Beschaeftigungsanspruch, Wettbewerbsverbot, Verschwiegenheit; Eilbeschluss
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 betriebsverfassung beschlussverfahren
+### 11.8. Beschlussverfahren Paragrafen 80 ff. ArbGG: Beteiligte, Verfahrensgegenstand (Mitbestimmung Paragraf 87 BetrVG, Einigungsstelle Paragraf 76 BetrVG), Antrag im Beschlussverfahren
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 urteil arbeitsgericht
+### 11.9. Urteil Paragraf 60 ArbGG i.V.m. Paragrafen 313 ZPO, Tenor, Tatbestand, Entscheidungsgründe, Streitwert (3 Bruttomonatsgehaelter bei Kündigung), Berufung an LAG Paragraf 64 ArbGG, Revision an BAG Paragraf 72 ArbGG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag arbeitsgericht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter arbeitsgericht schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag: Tenor-Skizze, Kündigungsprüfungsschema, Anspruchsprüfung, Vergleichsvorschlag für Guetetermin, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

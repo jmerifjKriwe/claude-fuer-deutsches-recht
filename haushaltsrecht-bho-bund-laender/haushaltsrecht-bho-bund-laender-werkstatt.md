@@ -111,391 +111,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 081 buergergeld krankenversicherung dashbo
+### 11.1. Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 191 globaler minderausgabe dashboard bauen
+### 11.2. Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. beteiligung unternehmen brh aufgabe
+### 11.3. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 65 Beteiligung Unternehmen praktisch anwenden. BHO Paragraf 65 Beteiligung Unternehmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik u.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. bho 007 verpflichtungsermaechtigung pruefen
+### 11.4. Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung prüfen. Verpflichtungsermächtigung prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. bho 012 deckungsfaehigkeit pruefen
+### 11.5. Haushaltsrecht BHO Bund und Länder: Deckungsfähigkeit prüfen. Deckungsfähigkeit prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. bho 014 erlaeuterung rechtlich bewerten
+### 11.6. Haushaltsrecht BHO Bund und Länder: Erläuterung rechtlich bewerten. Erläuterung rechtlich bewerten im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. bho 016 nachtragshaushalt pruefen
+### 11.7. Haushaltsrecht BHO Bund und Länder: Nachtragshaushalt prüfen. Nachtragshaushalt prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. bho 066 bho 58 aenderung vertraege praktisch a
+### 11.8. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 58 Änderung Verträge praktisch anwenden. BHO Paragraf 58 Änderung Verträge praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabefo.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. bho 068 bho 63 vermoegenserwerb praktisch anwe
+### 11.9. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 63 Vermögenserwerb praktisch anwenden. BHO Paragraf 63 Vermögenserwerb praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. bho 071 bho 89 brh pruefung praktisch anwenden
+### 11.10. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 89 BRH Prüfung praktisch anwenden. BHO Paragraf 89 BRH Prüfung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. bho 072 bho 90 inhalt pruefung praktisch anwen
+### 11.11. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 90 Inhalt Prüfung praktisch anwenden. BHO Paragraf 90 Inhalt Prüfung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat b.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. bho 074 bho 97 pruefungsergebnis praktisch anw
+### 11.12. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 97 Prüfungsergebnis praktisch anwenden. BHO Paragraf 97 Prüfungsergebnis praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeform.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. bho 086 verteidigungsausgaben titel pruefen
+### 11.13. Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Titel prüfen. Titel prüfen für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. bho 096 sondervermoegen bundeswehr titel pruef
+### 11.14. Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Titel prüfen. Titel prüfen für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. bho 1 feststellung praktisch anwenden
+### 11.15. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 1 Feststellung praktisch anwenden. BHO Paragraf 1 Feststellung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. bho 10 unterrichtung praktisch anwende
+### 11.16. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 10 Unterrichtung praktisch anwenden. BHO Paragraf 10 Unterrichtung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bea.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. bho 106 klimafonds titel pruefen
+### 11.17. Haushaltsrecht BHO Bund und Länder: Klimafonds: Titel prüfen. Titel prüfen für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. bho 11 vollstaendigkeit praktisch anwe
+### 11.18. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 11 Vollständigkeit praktisch anwenden. BHO Paragraf 11 Vollständigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. bho 114 entlastung praktisch anwenden
+### 11.19. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 114 Entlastung praktisch anwenden. BHO Paragraf 114 Entlastung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. bho 116 digitalisierungstitel titel pruefen
+### 11.20. Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Titel prüfen. Titel prüfen für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. bho 12 geltungsdauer praktisch anwende
+### 11.21. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 12 Geltungsdauer praktisch anwenden. BHO Paragraf 12 Geltungsdauer praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bea.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. bho 126 zinsausgaben titel pruefen
+### 11.22. Haushaltsrecht BHO Bund und Länder: Zinsausgaben: Titel prüfen. Titel prüfen für Zinsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. bho 13 gesamtplan einzelplan
+### 11.23. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 13 Gesamtplan Einzelplan. BHO Paragraf 13 Gesamtplan Einzelplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsre.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. bho 136 personalhaushalt titel pruefen
+### 11.24. Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Titel prüfen. Titel prüfen für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. bho 14 funktionenplan praktisch anwend
+### 11.25. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 14 Funktionenplan praktisch anwenden. BHO Paragraf 14 Funktionenplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat b.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. bho 146 investitionslinie titel pruefen
+### 11.26. Haushaltsrecht BHO Bund und Länder: Investitionslinie: Titel prüfen. Titel prüfen für Investitionslinie im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. bho 15 bruttoveranschlagung praktisch
+### 11.27. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 15 Bruttoveranschlagung praktisch anwenden. BHO Paragraf 15 Bruttoveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Aus.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. bho 156 zuwendung an verband titel pruefen
+### 11.28. Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Titel prüfen. Titel prüfen für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. bho 16 verpflichtungsermaechtigung praxis
+### 11.29. Haushaltsrecht BHO Bund und Länder: BHO Paragraf 16 Verpflichtungsermächtigung praktisch anwenden. BHO Paragraf 16 Verpflichtungsermächtigung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenl.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. bho 166 projektfoerderung titel pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. bho 17 einzelveranschlagung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. bho 17 einzelveranschlagung praktisch
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. bho 176 institutionelle foerderung titel pruef
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. bho 177 institutionelle foerderung umschichtun
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. bho 178 institutionelle foerderung sperre bewe
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. bho 179 institutionelle foerderung deckung fin
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. bho 180 institutionelle foerderung szenario re
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. bho 181 institutionelle foerderung dashboard b
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. bho 182 institutionelle foerderung risiko mark
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. bho 183 institutionelle foerderung brh frage f
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. bho 184 institutionelle foerderung parlamentsf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. bho 185 institutionelle foerderung vollzug tra
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. bho 186 globaler minderausgabe titel pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. bho 19 uebertragbarkeit praktisch anwe
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. bho 2 bedeutung praktisch anwenden
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. bho 20 deckungsfaehigkeit praktisch an
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. bho 206 reste und uebertragbarkeit titel pruef
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. bho 21 wegfall sperre praktisch anwend
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. bho 22 sperrvermerk praktisch anwenden
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. bho 23 zuwendungen praktisch anwenden
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. bho 236 eu mittel titel pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. bho 24 baumassnahmen praktisch anwende
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. bho 246 kommunaler finanztransfer titel pruefe
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. bho 266 bund laender programm titel pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. bho 267 bund laender programm umschichtung sim
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. bho 268 bund laender programm sperre bewerten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. bho 269 bund laender programm deckung finden
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. bho 270 bund laender programm szenario rechnen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. bho 271 bund laender programm dashboard bauen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. bho 272 bund laender programm risiko markieren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. bho 273 bund laender programm brh frage formul
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. bho 274 bund laender programm parlamentsfrage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. bho 275 bund laender programm vollzug tracken
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. bho 276 haushaltssperre titel pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. bho 286 vertrauensgremium titel pruefen
+### 11.30. Haushaltsrecht BHO Bund und Länder: Projektförderung: Titel prüfen. Titel prüfen für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

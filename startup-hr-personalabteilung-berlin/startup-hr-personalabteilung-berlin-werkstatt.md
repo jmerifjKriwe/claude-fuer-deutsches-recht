@@ -64,6 +64,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 87 BetrVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +112,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. angebotsschreiben offer letter
+### 11.1. Berliner Start-up-HR: Offer Letter und Vertragsangebot: Bindung, Bedingungen, Startdatum, Vergütung, Equity-Hinweis und Rücktrittsrisiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkre.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. anwalt steuerberater personalakte
+### 11.2. Berliner Start-up-HR: Externe Anwälte, Steuerberater und Lohnbüro briefen: Sachverhalt, Dokumente, Fragen, Frist und Datenschutzfilter. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkrete.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. arbeitnehmerueberlassung aueg risk
+### 11.3. Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schri.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. arbeitserlaubnis blue arbeitsschutz
+### 11.4. Berliner Start-up-HR: Aufenthalts- und Arbeitserlaubnis-Check bei Nicht-EU-Beschäftigten, Blue Card, Fiktionsbescheinigung und Payroll-Stopps. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem k.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. arbeitsschutz psychische gefaehrdungsbeurteilung
+### 11.5. Berliner Start-up-HR: Arbeitsschutz und psychische Gefährdungsbeurteilung: Start-up-gerecht, dokumentiert und ohne Wellness-Fassade. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem S.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. arbeitsvertrag abmahnung entwurf englisch
+### 11.6. Berliner Start-up-HR: Abmahnung entwerfen und prüfen: Pflichtverstoß, Beweis, Rüge, Warnung, Verhältnismäßigkeit und Ton. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im S.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. arbeitsvertrag befristung tzbfg
+### 11.7. Berliner Start-up-HR: Befristete Arbeitsverträge nach TzBfG: Sachgrund, sachgrundlos, Verlängerung, Schriftform, Risikoampel und Reminder. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. arbeitsvertrag englisch deutsch bilingual
+### 11.8. Berliner Start-up-HR: Bilinguale deutsch/englische Arbeitsverträge: maßgebliche Sprache, deutsche Schutzstandards und verständliche HR-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und näc.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. arbeitsvertrag founder nahe schluesselrolle
+### 11.9. Berliner Start-up-HR: Schlüsselrollen nah an Foundern: VP, Head of, C-Level minus Organstellung, Bonus, Vesting, Geheimnisse und Exit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. arbeitsvertrag remote hybrid berlin
+### 11.10. Berliner Start-up-HR: Remote-/Hybrid-Vertragsbausteine für Berlin: Arbeitsort, Ausstattung, Kosten, Datenschutz, Arbeitszeit, Auslandstage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konk.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. arbeitsvertrag standard unbefristet
+### 11.11. Berliner Start-up-HR: Unbefristeten Arbeitsvertrag für Start-up-Rollen prüfen und entwerfen: NachwG, Probezeit, Vergütung, Remote, IP, Vertraulichkeit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und n.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. arbeitszeit erfassung arbzg
+### 11.12. Berliner Start-up-HR: Arbeitszeiterfassung für Start-up: Höchstarbeitszeit, Pausen, Ruhezeit, Überstunden, Vertrauensarbeitszeit und abrufen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem ko.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. arbeitszeugnis standard und code
+### 11.13. Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem S.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. aufhebungsvertrag und sperrzeit
+### 11.14. Berliner Start-up-HR: Aufhebungsvertrag: Freiwilligkeit, Bedenkzeit, Sperrzeitrisiko, Abfindung, Zeugnis, Freistellung und Rückgabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem S.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. barrierefreiheit arbeitsplatz accommodation
+### 11.15. Berliner Start-up-HR: Angemessene Vorkehrungen am Arbeitsplatz: Hilfsmittel, Arbeitszeit, Remote, Kosten, Integrationsamt und Teamkommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. bem betriebliches benefits policy
+### 11.16. Berliner Start-up-HR: BEM nach längerer Krankheit: Einladung, Freiwilligkeit, Datenschutz, Beteiligte, Maßnahmen und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Sc.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. benefits policy jobticket urban sports
+### 11.17. Berliner Start-up-HR: Benefits-Policy für Jobticket, Urban Sports, Lunch, Kita-Zuschuss, Learning Budget und Gleichbehandlung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. berlin bildungszeit und feiertage
+### 11.18. Berliner Start-up-HR: Berlin-spezifische HR-Punkte: Bildungszeit, Feiertage, lokale Behörden, Datenschutzaufsicht und Standortkommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem kon.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. berlin kaltstart routing hr command center
+### 11.19. Berliner Start-up-HR: HR-Command-Center für Berliner Start-up-Alltag: Mitarbeiterbestand, Rollen, Payroll, Personalakte, Fristen, Eskalation und Datenschutzmodus. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Bri.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. besondere kategorien gesundheit schwerbehinderung
+### 11.20. Berliner Start-up-HR: Gesundheit, Schwerbehinderung, Schwangerschaft und andere besondere Kategorien nur erforderlichkeitsscharf verarbeiten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem ko.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. betriebsbedingte kuendigung startup
+### 11.21. Berliner Start-up-HR: Betriebsbedingte Kündigung im Start-up: Unternehmerentscheidung, Wegfall, Sozialauswahl, Weiterbeschäftigung und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und näc.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. betriebsfeier drogen sexuelle betriebsrat
+### 11.22. Berliner Start-up-HR: Drogen-/Alkoholvorfall bei Betriebsfeier: Fürsorge, Arbeitsschutz, Beweise, Sanktionen, Datenschutz und Wiederholungsschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächst.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. betriebsfeier sexuelle belaestigung intake
+### 11.23. Berliner Start-up-HR: Sexuelle Belästigung bei Betriebsfeier: Sofortschutz, AGG-Beschwerde, Untersuchung, Verhältnismäßigkeit und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. betriebsrat anhoerung kuendigung 102
+### 11.24. Berliner Start-up-HR: Betriebsratsanhörung vor Kündigung: vollständige Unterrichtung, Fristen, Nachschieben, Widerspruch und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konk.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. betriebsrat gruendung reagieren
+### 11.25. Berliner Start-up-HR: Wenn Beschäftigte Betriebsrat gründen wollen: neutral bleiben, Schutzrechte, Kommunikation, Wahlvorstand und Management-Briefing. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und n.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. betriebsrat mitbestimmung 87 router
+### 11.26. Berliner Start-up-HR: Mitbestimmung nach Paragraf 87 BetrVG im Alltag: Arbeitszeit, Überstunden, Monitoring, Ordnung, Vergütung, Softwaretools. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. betriebsvereinbarung remote
+### 11.27. Berliner Start-up-HR: Betriebsvereinbarungen zu Remote, IT, Arbeitszeit, Benefits und Hinweisgeberprozessen entwerfen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Star.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. betriebsversammlung und kommunikation
+### 11.28. Berliner Start-up-HR: Betriebsversammlung und Kommunikation: HR-Rolle, Fragen, Konflikte, Protokollnotiz und keine Behinderung der Betriebsratsarbeit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nä.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. chef briefing ohne datenschutzbruch
+### 11.29. Berliner Start-up-HR: Briefing an Chefs/Chefinnen ohne Datenschutzbruch: Ampel, aggregierte Daten, erforderliche Details und klare Entscheidungsvorlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. company event planung hr risk
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. datenschutz beschaeftigteneinwilligung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. datenschutz chef liste gehaelter fehlzeiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. datenschutz hris und saas tools
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. datenschutz incident hr datenpanne
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. datenschutz ki in hr recruiting
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. datenschutz monitoring produktivitaet
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. datenschutz roter datev export payroll
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. datev export import plausibilisierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. datev payroll datenpaket monatslauf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. dienstgeraete byod policy
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. diskriminierung agg beschwerdestelle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. diversity inclusion elternzeit mutterschutz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. elternzeit mutterschutz pflegezeit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. empfang office manager hr schnittstelle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. english speaking employees plain german
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. entwicklungsplan learning budget
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. exit interview founder employee freelancer
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. fehlende payroll unterlagen chaser
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. founder employee boundary
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. freelancer scheinselbststaendigkeit router
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. fristentracker befristung probezeit visa
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. fristlose kuendigung 626 bgb
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. gehaltsband transparenz und entgtranspg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. gehaltsfaelligkeiten und zahlungslauf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. gewalt drohung hausverbot
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. hr abschlussprodukt paket
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. hr dashboard ceo briefing
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. hr mail an mitarbeiter konfliktarm
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. hr monatsabschluss quality gate
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. hr red team vor versand
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. interne untersuchung ip rechte krankmeldung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. ip rechte software und erfindungen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. krankmeldung efzg au bescheinigung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. lohnpfaendung unterhalt pfaendungsfreigrenzen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. minijob werkstudent praktikum payroll
+### 11.30. Berliner Start-up-HR: Betriebsfeier planen: Alkohol, Awareness, Fotoeinwilligung, Kosten, Arbeitszeit, Versicherung und Eskalationsplan. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkret.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

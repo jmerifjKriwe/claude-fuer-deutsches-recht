@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - GmbHG Paragraf 15: Uebertragung von Geschaeftsanteilen.
 - GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschaeftsfuehrer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
+- Paragraf 12 HGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 376 FamFG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 8 HGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 17 ff. HGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 17-37a HGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 30 HGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 3 GmbHG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 39 GmbHG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,67 +119,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 anmeldung pruefen zustaendigkeit
+### 11.1. Prüfung der Anmeldung: Formerfordernis (notarielle Beglaubigung Paragraf 12 HGB), Aktivlegitimation, Vollständigkeit der Anlagen, örtliche und sachliche Zuständigkeit Paragraf 376 FamFG i.V.m. RPflG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 firmenrecht pruefen
+### 11.2. Firmenprüfung Paragrafen 17-37a HGB: Kennzeichnungseignung, Unterscheidbarkeit (Paragraf 30 HGB), Irrefuehrungsverbot (Paragraf 18 Abs. 2), Rechtsformzusatz, Sitzangabe
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 gesellschaftsvertrag pruefen gmbh
+### 11.3. Prüfung GmbH-Satzung Paragraf 3 GmbHG: Mindestinhalt, Stammkapital, Geschaeftsfuehrervertretung, Gegenstand des Unternehmens, Satzungsstrenge bei Aktiengesellschaft
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 vertretungsmacht und prokura
+### 11.4. Eintragung Geschaeftsfuehrer Paragraf 39 GmbHG, Vorstand Paragraf 81 AktG, Prokura Paragrafen 48-53 HGB (Erteilung, Erloeschen, Gesamtprokura), Handlungsvollmacht Paragraf 54
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 kapitalerhoehung und kapitalherabsetzung
+### 11.5. Prüfung Kapitalerhoehung GmbH Paragrafen 55-57 GmbHG, AG Paragrafen 182-191 AktG; Kapitalherabsetzung Paragrafen 58-58f GmbHG; Werthaltigkeit Sacheinlage Paragraf 9 GmbHG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 umwandlung eintragen
+### 11.6. Eintragung Umwandlungen Paragrafen 16 und 19 UmwG: Verschmelzung, Spaltung, Formwechsel; Sperrwirkung Paragraf 16 Abs. 2 UmwG, Werthaltigkeit, Gläubigerschutz
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 zwischenverfuegung und beschwerde
+### 11.7. Zwischenverfuegung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 loeschung von amts wegen
+### 11.8. Loeschung wegen Vermögenslosigkeit Paragraf 394 FamFG; Loeschung wegen Mangel des Gesellschaftsvertrags Paragraf 397 FamFG; Anhörung Steuerverwaltung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 vereins und genossenschaftsregister
+### 11.9. Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstandsbestellung, Wahrnehmung wirtschaftlicher Geschaefte (BGH Wertungen); Genossenschaftsregister Paragrafen 156 ff. GenG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag register
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter amtsgericht handelsregister schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eintragungsfähigkeit, ggf. Zwischenverfuegungsentwurf, ausdrücklich zur Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

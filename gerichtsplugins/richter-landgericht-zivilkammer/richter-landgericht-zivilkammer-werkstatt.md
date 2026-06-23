@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 522 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 71 GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 119 GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 348a ZPO Eingangsprüfung Paragraf 522 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 348a ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 348 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 286 ZPO würdigen. 4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 139 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,67 +119,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 eingang und besetzung
+### 11.1. Eingangsprüfung Paragraf 522 ZPO bei Berufung, sachliche Zuständigkeit Paragraf 71 GVG (Erste Instanz) und Paragraf 119 GVG (Berufung gegen Amtsgerichtsurteil), Geschaeftsverteilungsplan, Einzelrichterübertragung Paragraf 348a ZPO
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 grosse relation zivilrecht
+### 11.2. Vollständige zivilrechtliche Relation: Schluessigkeitsprüfung (Klägerstation), Erheblichkeitsprüfung (Beklagtenstation), beweisbedürftige Tatsachen, Beweislastverteilung, Plausibilisierung, schriftliches Votum für die Kammerberatung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 fruehe erste verfuegung paragraf 139
+### 11.3. Hinweisverfuegung Paragraf 139 ZPO: Hinweise auf rechtliche Bedenken, Auflagen zur Substantiierung, Ergaenzung des Vortrags, Beweisangebote, Fristsetzung; Verfahrensbeschleunigung Paragrafen 282 296
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 beweisbeschluss und sachverstaendiger
+### 11.4. Beweisbeschluss Paragrafen 358-360 ZPO: Beweisthema, Beweismittel, Auswahl des Sachverständigen, Sachverständigenfragen, Vorschuss, Würdigung des Gutachtens Paragraf 286
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 zeugenbeweis und parteivernehmung
+### 11.5. Zeugenbeweis Paragrafen 373-401 ZPO, Beweisaufnahme im Termin, Belehrung, Glaubhaftigkeit, Parteivernehmung Paragrafen 445-455 ZPO, Aussagewert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 urteil grosses zivilurteil
+### 11.6. Urteilsentwurf nach Paragraf 313 ZPO bei groesserem Streitwert: ausfuehrlicher Tatbestand, gegliederte Entscheidungsgründe (Zulässigkeit, Begründetheit, Anspruchsprüfung, Beweiswürdigung), Nebenentscheidungen, vorläufige Vollstreckbarkeit Paragrafen 708-711
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 berufungsverfahren paragraf 511 ff
+### 11.7. Berufungsverfahren: Zulässigkeit Paragraf 511, Berufungsbegründung Paragraf 520, Prüfungsumfang Paragraf 529, Zurückweisungsbeschluss Paragraf 522 Abs. 2, Berufungsurteil Paragraf 540
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 kostenentscheidung und streitwert
+### 11.8. Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51 GKG, Streitwertbeschluss, Änderung der Kostenquote bei Teilerfolg, Mehrwert eines Vergleichs
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 vergleich und mediation
+### 11.9. Vergleichsgespraech leiten Paragraf 278 ZPO, Mediation Paragraf 278a ZPO, Prozessvergleich Paragraf 794 Abs. 1 Nr. 1, Vollstreckungstitel, Vollstreckungsklausel Paragrafen 724 ff.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag kammer
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter landgericht zivilkammer schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag für die Kammerberatung: Tenor-Vorschlag, tragende Gründe, Beweiswürdigung, Hilfsbegründungen, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

@@ -64,6 +64,8 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
 - Datenschutz-Grundverordnung Artikel 32: Sicherheit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 33 und Artikel 34: Meldung von Verletzungen des Schutzes personenbezogener Daten.
+- Paragraf 49 OWiG und Paragraf 147 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 46 OWiG einbezogene StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +113,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. akteneinsicht 49 owig 147 stpo
+### 11.1. Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. anhoerung 55 owig
+### 11.2. Anhörung nach Paragraf 55 OWiG: Reaktion auf Anhörung vorbereiten, Aussagefreiheit wahren und Akteneinsicht anstoßen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über Paragraf 46 OWiG.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. anwesenheit 73 owig vertretung
+### 11.3. Anwesenheit und Entbindung Paragraf 73 OWiG: Erscheinenspflicht, Entbindung und Vertretung von Unternehmen und Organen im Termin steuern. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO übe.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. arbeitnehmerdaten und betriebsrat im sanktionsverfahren
+### 11.4. Beschäftigtendaten und Betriebsrat: HR-Systeme, Monitoring, Betriebsrat, Paragraf 26 BDSG und Beschäftigteneinwilligung verteidigen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über Par.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. art 58 anordnung verwaltungsakt
+### 11.5. Art.-58-Anordnung als Verwaltungsakt: Anordnung, Verwarnung, Verbot, Löschung und Transferstopp als verwaltungsgerichtliche Streitigkeit prüfen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; S.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. art 78 rechtsschutz und betroffenenbeschwerde
+### 11.6. Art. 78 Rechtsschutz: Effektiven Rechtsschutz gegen Aufsichtsentscheidungen und Untätigkeit aus Sicht von Verantwortlichen oder Betroffenen ordnen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. art 83 abs 2 kriterien einzeln
+### 11.7. Art. 83 Abs. 2 Kriterien einzeln prüfen: Alle Bußgeldkriterien einzeln mit Tatsachen, Entlastung und Gegenrechnung bearbeiten. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über Paragraf.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. aufsicht in regulierten branchen
+### 11.8. Regulierte Branchen Bank Gesundheit Energie: Datenschutzaufsicht mit BaFin, Krankenhausaufsicht, BNetzA, BSI und Sozialdatenschutz koordinieren. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; S.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. aufsichtliche anordnung plus bussgeld doppelspur
+### 11.9. Anordnung plus Bußgeld Doppelspur: Verwaltungsgerichtliche und OWiG-Verteidigung bei gleicher Tatsachengrundlage widerspruchsfrei koordinieren. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; St.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. aufsichtsbehoerden antwortschreiben
+### 11.10. Antwortschreiben an Aufsichtsbehörde: Behördenschreiben präzise, beweisgestützt, nicht überschießend und mit klaren Vorbehalten formulieren. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. aufsichtsbehoerden auskunftsverlangen art 58 1
+### 11.11. Auskunftsverlangen Art. 58 Abs. 1 Datenschutz-Grundverordnung beantworten: Auskunfts-, Vorlage- und Prüfverlangen beantworten, ohne spätere Bußgeldverteidigung zu beschädigen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Pa.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. auslaendische mutter und deutsche tochter
+### 11.12. Ausländische Mutter und deutsche Tochter: Adressat, Zustellung, Verantwortlicher, Niederlassung, Konzernumsatz und wirtschaftliche Einheit in Auslandsfällen prüfen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. behoerdenkommunikation reputationsschutz
+### 11.13. Behördenkommunikation mit Reputationsschutz: Ton, Timing, Presse, Veröffentlichung, Kundenkommunikation und Verteidigungsrechte koordinieren. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. behoerdenstrategie kooperation oder schweigen
+### 11.14. Kooperation oder Schweigen strategisch wählen: Kooperationsnutzen, Art.-83-Milderung, Aussagefreiheit, Scope-Erweiterung und Folgeklagen abwägen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. behoerdenuntaetigkeit und beschwerdegegner
+### 11.15. Behördenuntätigkeit und Beschwerdegegner: Untätigkeit der Aufsicht und Rechte des Beschwerdegegners im Art.-77/78-Kontext bearbeiten. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über Pa.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. behoerdenvergleich erledigung und auflagen
+### 11.16. Erledigung mit der Aufsicht verhandeln: Informelle Erledigung, Verwarnung, Auflage, reduzierte Geldbuße oder Rücknahme rechtlich sauber verhandeln. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. bescheid oder anhoerung richtig lesen
+### 11.17. Behördenpost richtig lesen: Auskunftsverlangen, Beschwerdeweiterleitung, Anhörung, Verwarnung, Anordnung, Zwangsgeldandrohung und Bußgeldbescheid voneinander unterscheiden. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Parag.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. beschlussverfahren 72 owig
+### 11.18. Beschlussverfahren Paragraf 72 OWiG: Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über Parag.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. beschwerde betroffener behoerdenverfahren
+### 11.19. Beschwerde eines Betroffenen als Auslöser: Art.-77-Beschwerde, Behördenprüfung, Betroffenenkommunikation und Art.-82-Folgerisiko sauber steuern. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; S.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. besondere datenkategorien art 9
+### 11.20. Besondere Datenkategorien Art. 9: Gesundheits-, Beschäftigten-, biometrische, religiöse oder politische Daten als Schwerefaktor prüfen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. bestimmtheit und ermessen art 58
+### 11.21. Bestimmtheit und Ermessen Art. 58: Unklare, überschießende oder ermessensfehlerhafte Aufsichtsmaßnahmen präzise angreifen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über Paragraf 46 O.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. beweisrecht stpo im owig datenschutz
+### 11.22. Beweisrecht im Datenschutz-OWiG: Strafprozessuale Beweislogik auf Datenschutz-Grundverordnung-Vorwürfe übertragen, ohne zivilrechtliche Darlegungslast zu simulieren. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 4.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. bfdi vs landesaufsicht
+### 11.23. BfDI oder Landesaufsicht: Sachliche Zuständigkeit zwischen BfDI, Landesdatenschutzbehörden, Kirchenaufsicht und Spezialaufsicht prüfen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. bussgeldbescheid 65 owig analyse
+### 11.24. Bußgeldbescheid Paragraf 65 OWiG analysieren: Tenor, Tat, Norm, Begründung, Bemessung, Zustellung und Rechtsbehelf des Bußgeldbescheids zerlegen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. bussgeldreduzierung verhandlungspaket
+### 11.25. Bußgeldreduzierung Verhandlungspaket: EDPB-Gegenrechnung, Remediation, Kooperationsnachweise, Zahlungsfähigkeit und Veröffentlichungsschutz verhandlungsfähig machen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 4.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. datenloeschung vs beweissicherung
+### 11.26. Datenlöschung vs. Beweissicherung: Löschpflicht, Aufbewahrung, Zweckwechsel, Litigation Hold und minimierte Beweissicherung austarieren. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. datenpanne vor bussgeld selbstmeldung
+### 11.27. Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen: Art.-33/34-Meldung, 72-Stunden-Timeline, Remediation und Bußgeldmilderung verbinden. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO üb.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. datenschutz sanktionsverfahren verteidigung schnellstart
+### 11.28. Dokumentenmatrix vor Akteneinsicht: VVT, DSFA, TOM, AVV, Löschkonzept, Incident-Timeline, DSB-Vermerke, Schulungen und Logs einsammeln. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72; StPO über.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. dokumentenmatrix akteneinsicht vorlage und luecken
+### 11.29. Durchsuchung Beschlagnahme und Datenzugriff: Extremfälle von Behördenzugriffen auf Server, Kommunikation, Mandatsunterlagen und Geschäftsgeheimnisse vorbereiten. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 un.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. durchsuchung beschlagnahme und datenzugriff
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. edpb 04 2022 bemessungsmethodik
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. edpb art 65 streitbeilegung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. edsa und dsk praxis livecheck
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. einspruch 67 owig frist und form
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. einstellung anregen vor bescheid
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. einstweilige anordnung 123 vwgo datenschutz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. eugh vorlage art 267
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. fristenzentrale zustellung und wiedervorlage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. fristverlaengerung behoerde ohne nachteile
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. fruehstellungnahme vor bussgeldbescheid
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. gerichtstermin sprechzettel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. gewinnabschoepfung und finanzieller vorteil
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. grch verfahrensgrundrechte
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. hauptverhandlung 71 owig
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. internationale datenpanne und multi notification
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. interne untersuchung legal hold
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. irische dpc und deutsche aufsicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. kaltstart verfahrensstand und mandatsziel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. ki tools im sanktionsverfahren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. kinder und schutzbeduerftige betroffene
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. kirchliche datenschutzaufsicht sanktionen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. kosten auslagen und d und o risiko
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. lieferanten und auftragsverarbeiter regress
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. loeschkonzept und aufbewahrungsfehler
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. loeschungsanordnung und datenbestand
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. logfiles und technische beweise
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. mandanteninterview ohne selbstbelastung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. mandantenreport regulatorische risikolage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. massnahmenplan als sanktionsminderung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. mehrere verstoesse und art 83 3
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. milderung durch compliance vor dem vorfall
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. milderung durch remediation nach dem vorfall
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. normenkollision geheimnisse und datenschutzaufsicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. oeffentliche stellen bussgeldprivilegien
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. one stop shop art 56 60
+### 11.30. EDPB 04/2022 Bemessungsmethodik: Startbetrag, Schwere, Umsatz, erschwerende/mildernde Umstände, Höchstgrenze und Verhältnismäßigkeit nachrechnen. Normanker: Datenschutz-Grundverordnung Art. 58 und 77-84; BDSG Paragraf 41; OWiG Paragrafen 46 und 55 und 66-72.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

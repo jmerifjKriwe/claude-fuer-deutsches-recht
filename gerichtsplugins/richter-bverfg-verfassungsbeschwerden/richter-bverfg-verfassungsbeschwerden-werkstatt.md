@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - GG Artikel 12 Absatz 1: Berufsfreiheit.
 - GG Artikel 14 Absatz 1: Eigentum und Inhaltsbestimmung.
 - BVerfGG Paragraf 90: Verfassungsbeschwerde.
+- Paragraf 93a Abs. 2 BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 93 BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 93a BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 32 BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 92 BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 90 Abs. 2 BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 93b BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 93d Abs. 1 BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,67 +119,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 annahme pruefung paragraf 93a
+### 11.1. Annahmevoraussetzungen Paragraf 93a Abs. 2 BVerfGG: grundsaetzliche verfassungsrechtliche Bedeutung lit. a, Durchsetzung der Grundrechte lit. b, schwerer Nachteil; Verhaeltnis von Annahmeprüfung und Begründetheit
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 substantiierungs pruefung paragraf 92
+### 11.2. Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten Rechts, Sachverhaltsdarstellung, Auseinandersetzung mit angegriffenen Entscheidungen, Beifuegung der Entscheidungen
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 rechtswegerschoepfung paragraf 90 abs 2
+### 11.3. Rechtswegerschoepfung Paragraf 90 Abs. 2 BVerfGG: vollständige Erschoepfung des fachgerichtlichen Instanzenzugs, Nichtzulassungsbeschwerde, Anhörungsrüge, Ausnahmen (allgemeine Bedeutung)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 subsidiaritaet und frist
+### 11.4. Materielle Subsidiaritaet (zumutbare anderweitige Abhilfe, prozessuale Obliegenheiten), Beschwerdefrist Paragraf 93 BVerfGG (ein Monat bei Entscheidungen, ein Jahr bei Gesetzen), Wiedereinsetzung Paragraf 93 Abs. 2
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 grundrechtsdogmatik pruefen
+### 11.5. Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken, Schranken-Schranken, Verhältnismäßigkeit); Gleichheitsgrundrechte Art. 3 GG (neue Formel)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 fachgerichtliche entscheidung pruefen
+### 11.6. Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher Massstaebe, willkuerliche Auslegung, Heck'sche Formel, Sphaerentheorie
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 kammer und senat zustaendigkeit
+### 11.7. Zuständigkeit Kammer (drei Richter) Paragraf 93b BVerfGG vs. Senatszuständigkeit, Annahmebeschluss durch Kammer, Senatsannahme bei besonderer Bedeutung, einstimmige Nichtannahme
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 votum wissenschaftlicher mitarbeiter
+### 11.8. Strukturiertes Votum: Sachverhalt verkuerzt, Prüfungspunkte Zulässigkeit (Frist Substantiierung Rechtsweg Subsidiaritaet), Prüfungspunkte Begründetheit (Schutzbereich Eingriff Rechtfertigung), Entscheidungsvorschlag (Annahme, Nichtannahme, Hinweise auf Senats.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 nichtannahmebeschluss entwurf
+### 11.9. Nichtannahmebeschluss Paragraf 93d Abs. 1 BVerfGG: ohne Begründung, mit Kurzbegründung, mit ausfuehrlicher Begründung; Wirkung Paragraf 93d Abs. 1 S. 2 (kein Rechtsmittel)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag kammer bverfg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter bverfg verfassungsbeschwerden schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag für die Kammer: Annahme oder Nichtannahme, ggf. Vorlage an den Senat, ggf. einstweilige Anordnung Paragraf 32 BVerfGG, Risikohinweise, ausdrücklich zur kammerinternen Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

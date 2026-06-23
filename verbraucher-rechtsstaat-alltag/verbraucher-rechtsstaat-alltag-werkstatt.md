@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 13 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 14 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 312c BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 312d BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 355 Abs. 1 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 357 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 434 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 475 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +119,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. abo falle kuendigung
+### 11.1. Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. abo kuendigung fitness streaming
+### 11.2. Abo-Kündigung Fitness und Streaming: führt Laien durch Laufzeitvertrag, Kündigungsbutton, automatische Verlängerung, Umzug, Krankheit und Beitragsrückstand. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sp.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. arzt rechnung bankentgelte zustimmungsfiktion
+### 11.3. Arztrechnung GOÄ für Laien: führt Laien durch Privatrechnung, Steigerungssatz, Analogziffer, Erstattung und Einwendungen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Al.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. bankentgelte zustimmungsfiktion
+### 11.4. Bankentgelte und Zustimmungsfiktion: führt Verbraucher durch Rückforderung von Kontoentgelten nach BGH XI ZR 26/20, XI ZR 139/23 und XI ZR 45/24; mit Kontoauszugsmatrix, Verjährungscheck, Anspruchsschreiben und Ombudsmann-/Klagepfad im Verbraucher Rechtsstaat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. baubehoerde nachbarbrief
+### 11.5. Baubehörde und Nachbarbrief: führt Laien durch Nachbaranhörung, Baugenehmigung, Einwendungen, Frist und Akteneinsicht. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Allta.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. behoerdenformular verstehen bescheid
+### 11.6. Behördenformular verstehen: führt Laien durch Formular, Anlagen, Mitwirkungspflichten, Datenschutz und sichere Ausfüllstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtss.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. bescheid brief verstehen
+### 11.7. Bescheid oder Brief verstehen: erklärt erkennen, ob es Rechnung, Mahnung, Bescheid, Klage, Vollstreckung, Anhörung oder Werbung ist in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönl.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. datenschutz auskunft loeschung
+### 11.8. Datenschutz Auskunft und Löschung: führt Laien durch Datenschutz-Grundverordnung-Auskunft, Löschung, Identitätsnachweis, Fristen und Beschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Ver.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. dokumentenintake und aktenlog
+### 11.9. Dokumentenintake und Aktenlog: erklärt ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. ecommerce kauf fahrradreparatur
+### 11.10. E-Commerce Kauf und Widerruf: erklärt Widerruf, Rücksendung, Gewährleistung, Garantie, Plattformstreit und Zahlungsdienstleister in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlich.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. entscheidungsvorlage
+### 11.11. Entscheidungsvorlage: erklärt macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbrauche.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. fahrradreparatur dienstleistung
+### 11.12. Fahrradreparatur und kleine Dienstleistungen: erklärt Werkvertrag, Kostenvoranschlag, Abnahme, Mangel und Rechnung in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Ve.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. fahrradreparatur nachbesserung fake shop
+### 11.13. Fahrradreparatur und Nachbesserung: führt Laien durch Kleine Reparatur, misslungene Werkleistung, neue Schäden und Streit um Ersatzteile. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbrauche.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. fake shop und chargeback
+### 11.14. Fake-Shop und Chargeback: führt Laien durch Betrugsnaher Online-Kauf, Kontaktsperre, Zahlungsrückholung und Anzeigeentscheidung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtss.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. fitnessstudio rueckzahlung schliessung
+### 11.15. Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeiträge, Unmöglichkeit, Vertragsverlängerung, BGH XII ZR 64/21, Kündigung, Gutscheinlösung, Krankheit, Umzug und Beitragsinkasso im Verbraucher Rechtsstaat Alltag.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. frist und zustaendigkeit cockpit
+### 11.16. Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. fristkalender laie
+### 11.17. Fristkalender für Laien: führt Laien durch Fristen aus Bescheiden, Mahnungen, Gerichtspost und Verträgen sicher erfassen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Al.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. garantie vs gebrauchtkauf privat
+### 11.18. Garantie versus Gewährleistung: führt Laien durch Herstellergarantie, gesetzliche Mängelrechte, Fristen und richtige Anspruchsgegner. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Re.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. gebrauchtkauf privat maengel
+### 11.19. Gebrauchtkauf privat mit Mängeln: führt Laien durch Privater Gebrauchtkauf, Gewährleistungsausschluss, arglistiges Verschweigen und Beweisprobleme. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. gerichtlicher mahnbescheid laie
+### 11.20. Gerichtlicher Mahnbescheid für Laien: führt Laien durch Mahnbescheid, Vollstreckungsbescheid, Widerspruch, Einspruch und Kostenrisiko. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher R.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. gerichtspost familiengericht laiencheck
+### 11.21. Gerichtspost Familiengericht verstehen: führt Laien durch Familiengerichtliche Ladung, Anhörung, Jugendamt, Umgang, Sorge und einstweilige Anordnung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache i.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. gerichtspost laiencheck
+### 11.22. Gerichtspost Laiencheck: erklärt erkennen ob Zeuge, Beklagter, Schuldner, Kläger oder Betroffener in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtss.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. handwerkerrechnung zu hoch
+### 11.23. Handwerkerrechnung zu hoch: führt Laien durch Werkvertrag, Kostenvoranschlag, Stundenlohnzettel, Nachtrag und mangelhafte Ausführung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Re.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. hotel maengel inkasso erste mahnung
+### 11.24. Hotelmängel und Bewertung: führt Laien durch Mängel im Hotel, Reklamation vor Ort, Minderung und spätere Online-Bewertung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat A.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. inkasso brief erste hilfe
+### 11.25. Inkasso-Brief erste Hilfe: führt Laien durch Inkassoschreiben, Hauptforderung, Nebenforderungen, Drohkulisse und Widerspruchsstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. inkasso mahnung vollstreckung
+### 11.26. Inkasso, Mahnung und Vollstreckung: erklärt Forderung prüfen, nicht vorschnell anerkennen, Frist sichern in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. inkassokosten konzerninkasso jugendamt
+### 11.27. Inkassokosten, Konzerninkasso und Verzug: prüft Hauptforderung, Verzug, Paragraf 280/286/249 BGB, RDG-Schnittstelle, BGH VIII ZR 138/23, Gebührenhöhe, Drohkulisse und Verbraucherantwort ohne Anerkenntnis im Verbraucher Rechtsstaat Alltag.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. jugendamt schreiben verstehen
+### 11.28. Jugendamt-Schreiben verstehen: führt Laien durch Einladung, Hilfeplan, Kindeswohlhinweis, Mitwirkung und Datenschutz im Jugendamtkontakt. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbrauche.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. kaltstart routing
+### 11.29. Allgemeiner Kaltstart und Routing: erklärt führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. kindergeld kinderzuschlag bescheid
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. kita platz kleinanzeige betrug kleine
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. kleinanzeige betrug
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. kleine dienstleistung schlecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. kleiner kauf konto gesperrt mandanten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. konto gesperrt bank
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. mandanten oder beteiligtenkommunikation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. mietkaution rueckzahlung mitgliedschaft
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. mitgliedschaft verein streit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. nebenkostenabrechnung verbraucher
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. online bestellbutton zahlungspflicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. online bewertung abmahnung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. online shop liefert nicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. paket verloren plattformkonto sperre probeabo
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. plattformkonto sperre
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. probeabo widerruf kuendigung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. protokoll nachbereitung rechnung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. quellen rspr fristen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. rechnung ohne auftrag
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. rechnung quittung beleg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. red team qualitygate
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. reise flug reparatur statt vermerk mustertext
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. reparatur statt neukauf right to repair
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. schriftsatz vermerk und mustertext
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. schufa eintrag scoring negativeintrag
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. schufa scoring negativeintrag dsgvo
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. schulbehoerde ordnungsmassnahme
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. sitzungs terminvorbereitung strom gas telefon
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. strom gas preiserhoehung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. telefon internet stoerung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. unfall fahrrad verbraucherschlichtung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. verbraucher rechtsstaat alltag schnellstart
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. verbraucherschlichtung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. vergleichsangebot pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. versicherung lehnt vorladung polizei zahnarzt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. vertrag unterschrieben abo falle
+### 11.30. Kindergeld und Kinderzuschlag Bescheid: führt Laien durch Familienkasse, Rückforderung, Einspruch, Nachweise und Fristen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Al.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

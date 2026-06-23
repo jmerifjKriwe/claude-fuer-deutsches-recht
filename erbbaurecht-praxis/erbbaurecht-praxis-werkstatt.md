@@ -11,6 +11,7 @@ Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisb
 - Abnahme, Kuendigung oder Sicherheitenabruf steht unmittelbar bevor.
 - Beweissicherung ist vor Nachbesserung noetig.
 - Technische Ursache oder Verantwortlichkeit ist ungeklärt.
+- Bebauungsplan, Durchführungsvertrag oder Folgekostenlast wurde im Projektvertrag nicht transparent übernommen.
 - Wenn Identitaet, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfaehig bestimmbar sind, wird zuerst eine knappe Lueckenliste erzeugt.
 - Wenn das gewuenschte Ergebnis eine endgueltige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Pruefpunkten ausgegeben.
 
@@ -48,9 +49,25 @@ Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm
 
 Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fuer Memo, Schriftsatz, Vertrag, Beschluss, Tabelle oder Entscheidungsvermerk. Der Baustein benennt Ergebnis, Risiko und Anschlussarbeit.
 
-### 3.5. Arbeitsprodukt: Maengelruege, Nachtragsbewertung, Abnahmeprotokoll, Klageentwurf oder Gutachterfragen formulieren.
+### 3.5. Städtebauliche Verträge: Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit prüfen.
 
 Eingang: Erfasse fuer diese Station alle Dokumente, Daten, Namen, Fristen, Betraege und Belege, die den Punkt 5 tragen. Ordne jedes Dokument einer Tatsache und jeder Tatsache einem moeglichen Tatbestandsmerkmal zu.
+
+Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm, Tatsache, Beleg, Gegenargument, Rechtsfolge ab. Vermeide abstrakte Belehrungen; jeder Satz muss den konkreten Arbeitsgegenstand dieser Station voranbringen.
+
+Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fuer Memo, Schriftsatz, Vertrag, Beschluss, Tabelle oder Entscheidungsvermerk. Der Baustein benennt Ergebnis, Risiko und Anschlussarbeit.
+
+### 3.6. Festsetzungen: Bebauungsplan, BauNVO-Werte, Baufenster, örtliche Bauvorschriften und Befreiungsbedarf in die Planungspflichten übersetzen.
+
+Eingang: Erfasse fuer diese Station alle Dokumente, Daten, Namen, Fristen, Betraege und Belege, die den Punkt 6 tragen. Ordne jedes Dokument einer Tatsache und jeder Tatsache einem moeglichen Tatbestandsmerkmal zu.
+
+Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm, Tatsache, Beleg, Gegenargument, Rechtsfolge ab. Vermeide abstrakte Belehrungen; jeder Satz muss den konkreten Arbeitsgegenstand dieser Station voranbringen.
+
+Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fuer Memo, Schriftsatz, Vertrag, Beschluss, Tabelle oder Entscheidungsvermerk. Der Baustein benennt Ergebnis, Risiko und Anschlussarbeit.
+
+### 3.7. Arbeitsprodukt: Maengelruege, Nachtragsbewertung, Abnahmeprotokoll, Klageentwurf, Vertragsprüfung oder Gutachterfragen formulieren.
+
+Eingang: Erfasse fuer diese Station alle Dokumente, Daten, Namen, Fristen, Betraege und Belege, die den Punkt 7 tragen. Ordne jedes Dokument einer Tatsache und jeder Tatsache einem moeglichen Tatbestandsmerkmal zu.
 
 Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm, Tatsache, Beleg, Gegenargument, Rechtsfolge ab. Vermeide abstrakte Belehrungen; jeder Satz muss den konkreten Arbeitsgegenstand dieser Station voranbringen.
 
@@ -64,6 +81,11 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - BGB Paragraf 640: Abnahme.
 - BGB Paragraf 650a: Bauvertrag.
 - BGB Paragraf 650q: Architekten- und Ingenieurvertrag.
+- BauGB Paragraf 9: Festsetzungen des Bebauungsplans als Rahmen fuer Genehmigungs- und Planungsrisiken.
+- BauGB Paragraf 11 und Paragraf 12: städtebaulicher Vertrag, Durchführungsvertrag und vorhabenbezogener Bebauungsplan.
+- BauGB Paragraf 124: Erschließungsvertrag als Spezialregelung.
+- BauNVO Paragrafen 1 bis 23: Art und Maß der Nutzung, Bauweise und überbaubare Grundstücksflächen.
+- Paragraf 873 Abs. 1 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -72,6 +94,9 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - BGH, Urteil vom 24.01.2008 - VII ZR 280/05: Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen.
 - BGH, Urteil vom 10.10.2013 - VII ZR 19/12: Abnahme und Abnahmereife steuern Faelligkeit und Maengelrechte.
 - BGH, Urteil vom 25.06.2015 - VII ZR 220/14: Nachtraege verlangen nachvollziehbare Grundlage und Abgrenzung vom Vertragssoll.
+- BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
+- BVerwG, Urteil vom 25.06.2014 - 4 CN 4.13: Bebauungsplan-Festsetzungen brauchen eine passende Rechtsgrundlage im Festsetzungskatalog.
+- BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Der Erschließungsvertrag nach BauGB Paragraf 124 ist gegenüber BauGB Paragraf 11 die speziellere Regelung.
 
 ## 6. Pruefraster
 
@@ -80,8 +105,9 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 3. Welche Maengelrechte sind nach Fristsetzung eroeffnet.
 4. Welche Bauzeit- oder Nachtragsfolge ist kausal belegt.
 5. Welche technische Frage muss ein Sachverstaendiger klaeren.
-6. Welche Tatsache fehlt noch, obwohl sie fuer die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt loest den naechsten praktischen Engpass.
+6. Welche Festsetzung oder städtebauliche Vertragsbindung begrenzt Planung, Genehmigung oder Kostenweitergabe.
+7. Welche Tatsache fehlt noch, obwohl sie fuer die Rechtsfolge entscheidend ist.
+8. Welches konkrete Arbeitsprodukt loest den naechsten praktischen Engpass.
 
 ## 7. Schriftsatz- und Memo-Geruest
 
@@ -111,307 +137,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. ablauf laufzeitende erbbaurecht aktenstruktur
+### 11.1. Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. altlasten rueckbau erbbaurecht
+### 11.2. Ordnet Baugrund, Kontamination, Rückbaupflicht, Kostenverteilung und Beweissicherung im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. change control dingliche vorkaufsrechte
+### 11.3. Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. entschaedigung bei heimfall und ablauf
+### 11.4. Prüft Entschädigung bei Heimfall, Zeitablauf, Wohnzweck, Marktwert, Bewertungsunterlagen und Sicherheiten im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. erbbau beschwerde erbbaugrundbuch lesen
+### 11.5. Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. erbbaugrundbuch lesen
+### 11.6. Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. erbbaurecht aktenstruktur
+### 11.7. Sortiert Vertrag, Grundbuch, Zins, Zustimmung, Bau, Bank, Kommunikation und Streit chronologisch im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. erbbaurecht betreiberwechsel
+### 11.8. Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. erbbaurecht dingliche vorkaufsrechte
+### 11.9. Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. erbbaurecht fristen und reminder
+### 11.10. Baut Kalender für Zinsanpassung, Laufzeitende, Baupflicht, Versicherungen, Zustimmung und Berichtspflichten im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. erbbaurecht gewerbepark
+### 11.11. Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. erbbaurecht indexklausel inflation
+### 11.12. Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. erbbaurecht investoren q and a
+### 11.13. Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. erbbaurecht kita sozialimmobilie
+### 11.14. Prüft kommunale Zwecke, Betreiberwechsel, Fördermittel, Zustimmung, Rückbau und Ausfallrisiko im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. erbbaurecht mandantenbrief
+### 11.15. Erklärt Lage, Risiken und nächste Schritte ohne Fachchinesisch und mit Entscheidungsoptionen im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. erbbaurecht notar und grundbuchkosten
+### 11.16. Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. erbbaurecht photovoltaik untererbbaurecht
+### 11.17. Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. erbbaurecht praxis schnellstart
+### 11.18. Checkt, ob ein Entwurf investierbar, vollziehbar, finanzierbar und konfliktfest ist.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. erbbaurecht qualitygate vertrag
+### 11.19. Prüft Eigentümerzustimmung, Erbbauzinsrang, Finanzierungssicherheit und Heimfallkompensation im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. erbbaurecht rangruecktritt bank
+### 11.20. Prüft Schiedsklausel, Gerichtsstand, Beweisverfahren, Gutachterklausel und Vergleichsmechanik im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. erbbaurecht schieds und gerichtsstand
+### 11.21. Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. erbbaurecht teilerbbaurecht und aufteilung
+### 11.22. Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. erbbaurecht untererbbaurecht und weitergabe
+### 11.23. Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. erbbaurecht vorlage zustimmungsantrag
+### 11.24. Prüft Grundstück, Bauwerk, Laufzeit, Nutzung, Erbbauzins, Heimfall, Zustimmung, Versicherung, Instandhaltung und Entschädigung im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. erbbaurechtsvertrag pflichtinhalt
+### 11.25. Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. erbbauzins rueckstand mahnung
+### 11.26. Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. erbbauzins struktur erbbauzinsanpassung
+### 11.27. Prüft Anpassungsmechanik, Billigkeit, Verbraucher-/Wohnzwecknähe, Index, Streitwert und Dokumentationslogik im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. erbbauzinsanpassung paragraph 9a
+### 11.28. Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. erbbauzinsrang finanzierungsbank erbbaurecht
+### 11.29. Prüft Beleihbarkeit, Rang, Laufzeitrest, Heimfallrisiko, Erbbauzinsrückstände und Bankauflagen im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. finanzierung bankfaehigkeit gemeinde kirche
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. gemeinde kirche stiftung als eigentuemer
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. heimfall gruende indexklausel inflation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. heimfall verteidigung insolvenz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. insolvenz erbbauberechtigter
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. instandhaltung versicherung investoren q
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. kaltstart routing
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. kauf due kita sozialimmobilie
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. kommunale beschlussvorlage erbbaurecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. laufzeit verlaengerung wohnungs weg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. nachhaltigkeit baupflicht notar
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. nutzungszweckwechsel wohnen rangruecktritt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. rechtsprechung live erbbaurecht reminder
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. rueckbau am schieds gerichtsstand
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. sicherheiten buergschaft teilerbbaurecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. steuern grunderwerbsteuer entschaedigung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. verjaehrung verwirkung vorlage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. verkauf spa erbbaurechtsvertrag pflichtinhalt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. vs eigentum erbbauzins rueckstand
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. wohnungs erbbaurecht und weg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. zustimmung veraeusserung zwangsversteigerung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. zwangsversteigerung erbbaurecht
+### 11.30. Prüft Beschluss, Genehmigung, Gemeinwohlbindung, Vergabe-/Beihilfefragen und Zustimmungspraxis im Erbbaurecht Praxis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

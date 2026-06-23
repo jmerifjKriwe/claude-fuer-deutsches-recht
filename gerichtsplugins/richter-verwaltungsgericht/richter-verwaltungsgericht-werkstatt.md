@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
+- Paragraf 40 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 6 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 42 Abs. 2 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 68 ff. und 74 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 80 und Paragraf 80a VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 123 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 86 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 99 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,67 +119,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 zulaessigkeit verwaltungsklage
+### 11.1. Zulässigkeit der Klage: Verwaltungsrechtsweg Paragraf 40 VwGO, Klagearten Paragrafen 42 113 (Anfechtung Verpflichtung Feststellung), Klagebefugnis, Vorverfahren Paragraf 68, Frist Paragraf 74
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 amtsermittlung und sachverhaltsfeststellung
+### 11.2. Amtsermittlungsgrundsatz Paragraf 86 VwGO, Ladung der Behoerde zur Vorlage der Akten Paragraf 99 VwGO, Sachverhaltsaufklärung, Beteiligtenvernehmung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 begruendetheit anfechtungsklage
+### 11.3. Begründetheit Paragraf 113 Abs. 1 VwGO: Rechtmaessigkeit des Verwaltungsakts (Rechtsgrundlage, formelle und materielle Rechtmaessigkeit), subjektives Recht des Klägers
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 begruendetheit verpflichtungsklage
+### 11.4. Verpflichtungsklage Paragraf 113 Abs. 5 VwGO: Anspruch auf Erlass des begehrten VA, Bescheidungsurteil, Spruchreife, Beurteilungszeitpunkt
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 eilrechtsschutz paragraf 80 abs 5
+### 11.5. Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: Anordnung oder Wiederherstellung der aufschiebenden Wirkung, Folgenabwaegung, Erfolgsaussichten der Hauptsache, öffentliches Interesse
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 eilrechtsschutz paragraf 123
+### 11.6. Einstweilige Anordnung Paragraf 123 VwGO: Sicherungs- und Regelungsanordnung, Anordnungsanspruch und -grund, Vorwegnahme der Hauptsache (Ausnahme)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 beweisaufnahme verwaltungsgericht
+### 11.7. Beweisaufnahme Paragraf 96 VwGO i.V.m. ZPO: Sachverständigenbeweis, Zeugen, Augenschein, Urkunden, Beweiswürdigung Paragraf 108 VwGO
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 urteilsentwurf paragraf 117 vwgo
+### 11.8. Urteilsentwurf Paragraf 117 VwGO: Tenor, Tatbestand (Sachverhalt), Entscheidungsgründe (Zulässigkeit, Begründetheit), Nebenentscheidungen Paragraf 154 VwGO, Streitwert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 rechtsmittel vwgo
+### 11.9. Berufung Paragrafen 124 ff. VwGO (Zulassung durch OVG/VGH), Revision Paragraf 132 VwGO (Zulassung durch BVerwG), Nichtzulassungsbeschwerde, Beschwerde Paragraf 146 VwGO
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag verwaltungsgericht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter verwaltungsgericht schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, Argumentation der Behoerde gegenübergestellt dem Klägervortrag, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - SGG Paragraf 87: Klagefrist.
 - SGG Paragraf 103: Amtsermittlung im sozialgerichtlichen Verfahren.
 - SGG Paragraf 86b: einstweiliger Rechtsschutz.
+- Paragrafen 51 ff. SGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 54 und 55 SGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 86b SGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 103 SGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 109 SGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 56 Gesetzliche Unfallversicherung SGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 7 SGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 132 ff. SGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,67 +119,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 zulaessigkeit sozialklage
+### 11.1. Zulässigkeit Paragrafen 51 ff. SGG: Rechtsweg, Klagearten (Anfechtung Leistung Untaetigkeit Feststellung), Vorverfahren Paragraf 78, Klagefrist Paragraf 87, Klagebefugnis
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 amtsermittlung sozialgericht
+### 11.2. Amtsermittlungsgrundsatz Paragraf 103 SGG: Beweisaufnahme von Amts wegen, Sachverständigengutachten Paragraf 109 SGG (Anhörung eines bestimmten Arztes), Beiziehung medizinischer Unterlagen
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 eilrechtsschutz paragraf 86b
+### 11.3. Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkung Abs. 1, einstweilige Anordnung Abs. 2 (Anordnungsanspruch und -grund), Existenzsicherung in Eilfaellen
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 krankenversicherung pruefung
+### 11.4. Krankenversicherung SGB V: Versicherungspflicht Paragraf 5, Leistungsanspruch Paragraf 27 (Krankenbehandlung), Hilfsmittel Paragraf 33, Krankengeld Paragraf 44, ambulante und stationaere Behandlung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 rentenversicherung pruefung
+### 11.5. Gesetzliche Rentenversicherung SGB VI: Altersrente Paragrafen 35 ff., Erwerbsminderungsrente Paragraf 43, Wartezeit, Mindestbeitragszeiten, Hinterbliebenenrente
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 unfallversicherung pruefung
+### 11.6. Gesetzliche Unfallversicherung SGB VII: Arbeitsunfall Paragraf 8, Berufskrankheit Paragraf 9, Versicherte Paragraf 2, Heilbehandlung Paragraf 27, Verletztenrente Paragraf 56
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 buergergeld und sgb ii
+### 11.7. Buergergeld SGB II: Anspruchsberechtigung Paragraf 7 SGB II, Bedarfsgemeinschaft, Regelbedarf Paragraf 20, Kosten der Unterkunft Paragraf 22, Sanktionen Paragraf 31 ff. (jetzt Leistungsminderungen)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 schwerbehinderung und grad
+### 11.8. Schwerbehindertenrecht SGB IX: Grad der Behinderung Paragraf 152, Versorgungsmedizinverordnung (VersMedV), Merkzeichen, Gleichstellung, Nachteilsausgleiche
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 urteil sozialgericht
+### 11.9. Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Bescheidung), Tatbestand, Entscheidungsgründe, Nebenentscheidungen Paragrafen 193 ff. SGG (Kosten), Berufung an LSG, Revision an BSG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag sozialgericht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter sozialgericht schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag: Tenor-Skizze, sozialrechtliche Anspruchsprüfung, medizinische Beweiswürdigung, soziale Faktoren, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

@@ -64,6 +64,11 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 32 BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 32 Abs. 1 BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 32 Abs. 6 BVerfGG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 80 Abs. 5 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 123 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +116,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. absolute grenze existenzminimum
+### 11.1. Grundrecht auf Gewaehrleistung eines menschenwuerdigen Existenzminimums aus Art 1 I iVm Art 20 I GG als absolute Grenze der Verhältnismäßigkeit von Sozialleistungskuerzungen, Asylbewerberleistungen und Sanktionsregelungen. Mit BVerfG-Linie Hartz IV, AsylbLG.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. absolute grenze menschenwuerde art 1 i gg
+### 11.2. Absolute Grenze der Verhältnismäßigkeit Art 1 I GG: Menschenwuerde ist abwaegungsfest und unverfuegbar. Mit Objektformel, Kernbereich, Bezug zu Wesensgehalt Art 19 II GG und zentralen BVerfG-Linien Luftsicherheitsgesetz, Lebenslange Freiheitsstrafe, Hartz IV.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. absolute grenze wesensgehalt art 19 ii gg
+### 11.3. Wesensgehaltsgarantie Art 19 II GG als absolute Grenze der Verhältnismäßigkeit. Mit objektiv-relativem und subjektiv-absolutem Verstaendnis, Beispielen aus der BVerfG-Rspr und der dogmatischen Bruecke zum Uebermassverbot und zur Menschenwuerde.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. abwaegungsgesetz und gewichtsformel alexy
+### 11.4. Robert Alexys Gewichtsformel als praktisches Werkzeug fuer die Angemessenheits-Prüfung Stufe 4. Mit Triadenlogik leicht/mittel/schwer, Quotientenberechnung, Anwendung auf BVerfG-Faelle (Vorratsdaten, Klimaschutz, Bundesnotbremse) und Reflexion ueber Grenzen d.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. agg systematik und verhaeltnismaessigkeit
+### 11.5. Allgemeines Gleichbehandlungsgesetz als einfachrechtliche Umsetzung der Unionsrichtlinien zum Diskriminierungsschutz. Erklaert Schutzbereich nach Paragraph 1 AGG Anwendungsbereich nach Paragraph 2 AGG Diskriminierungsformen nach Paragraph 3 AGG sowie die zent.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. angemessenheit abwaegung
+### 11.6. Stufe 4 der Verhältnismäßigkeit Angemessenheit als Abwaegung zwischen Eingriffsschwere und Gewicht des Zwecks. Mit dem Gewichtungsraster Wahrscheinlichkeit Intensitaet Reversibilitaet und Hinweisen wie eine Abwaegung methodisch kontrollierbar bleibt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. apotheken urteil bverfge 7 377
+### 11.7. Apotheken-Urteil BVerfGE Band 7 Seite 377 vom 11.06.1958 als Geburtsstunde der Drei-Stufen-Lehre der Berufsfreiheit Art 12 GG. Mit Sachverhalt Stufen-Lehre Berufsausuebung subjektive und objektive Berufswahl und Hinweisen wann welche Stufe greift.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. art 3 abs 2 3 besondere gleichheitssaetze
+### 11.8. Besondere Gleichheitssaetze nach Art. 3 Abs. 2 und Abs. 3 GG. Gleichberechtigung von Mann und Frau als Strukturprinzip mit positivem Foerderauftrag sowie absolute Diskriminierungsverbote wegen Geschlecht Abstammung Rasse Sprache Heimat und Herkunft Glauben re.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. art 3 gg allgemeiner gleichheitssatz
+### 11.9. Allgemeiner Gleichheitssatz Art. 3 Abs. 1 GG als Spezialfall der Verhältnismäßigkeitspruefung. Willkuerformel, Neue Formel des BVerfG, gleitender Maßstab nach Regelungsdichte, Verhältnismäßigkeit der Differenzierung. Klaert wann strenge und wann zurueckhalten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. ascii pruefungsschema
+### 11.10. ASCII-Prüfungsschema fuer die vierstufige Verhältnismäßigkeitspruefung mit Box-Drawing fuer Sequenzen Abzweige und Ampelstatus. Mit Vorlage fuer Schriftsatzanlage Klausurausarbeitung und Mandatsmemo.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. audiovisuelle leitentscheidungen sammlung
+### 11.11. Kuratierte Quellenkarte zu frei prüfbaren audiovisuellen und amtlichen Materialien zu Leitentscheidungen des Bundesverfassungsgerichts. Keine behaupteten Mitschnitte ohne Permalink; jede Fundstelle braucht Gericht, Datum, Aktenzeichen und stabile Quelle.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. belgien redelijkheid evenredigheid
+### 11.12. Belgische Verhältnismäßigkeitsdogmatik des Grondwettelijk Hof Cour constitutionnelle und des Raad van State Conseil d Etat ueber Redelijkheidstoets und Evenredigheidstoets im Rahmen von Art 10 11 GW Gleichheit und Art 22 23 GW Privatleben Sozialgrundrechte. M.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. bestimmtheit normklarheit eingriffsgesetze
+### 11.13. Verfassungsrechtliche Bestimmtheits- und Normklarheitsanforderungen an Eingriffsgesetze als Vorfrage der materiellen Verfassungsmaessigkeit. Mit Stufenmodell des BVerfG und Anwendung im Sicherheitsrecht, Steuerrecht und in der Datenverarbeitung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. bundesnotbremse bverfge 159 223
+### 11.14. Bundesnotbremse BVerfGE Band 159 Seite 223 vom 19.11.2021 als vollstaendige Verhältnismäßigkeitspruefung der Pandemie-Maßnahmen Ausgangsbeschraenkung und Kontaktbeschraenkung. Mit Einschaetzungspraerogative bei dynamischer Wissenslage und Prüfung Stufe fuer S.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. bverfg polizeirecht gefahrenprognose
+### 11.15. Polizeiliche und sicherheitsrechtliche Maßnahmen mit BVerfG-Rechtsprechung prüfen: legitimer Sicherheitszweck, Gefahrenschwelle, Prognosebasis, Bestimmtheit, Richtervorbehalt und verfahrensrechtliche Sicherungen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. bverfg uebermassverbot dogmatiklinie
+### 11.16. Uebermassverbot als BVerfG-Dogmatiklinie von Berufsfreiheit ueber Sicherheitsrecht bis Klima: vier Stufen, Kontrolldichte, Einschaetzungspraerogative und absolute Grenzen ohne rechtsgeschichtliche Abschweifung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. daenemark proportionalitetsprincip
+### 11.17. Daenische Verhältnismäßigkeitsdogmatik mit Proportionalitetsprincip im Forvaltningsret und im Politilov 2004 als Eignung Noedvendighed Proportionalitet i snaever forstand. Mit Hoejesteret als Verfassungsgericht ohne formelle Normenkontrolltradition Inkorporat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. drittwirkung grundrechte mittelbar
+### 11.18. Mittelbare Drittwirkung der Grundrechte im Privatrecht. Grundrechte wirken nicht unmittelbar zwischen Privaten sondern strahlen ueber die Generalklauseln Paragraphen 138 242 826 BGB in das Zivilrecht ein. Erläutert Lueth-Linie objektive Wertordnung Ausstrahlu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. drittwirkung praxischeck zivilrecht
+### 11.19. Praktischer Prüfkatalog fuer Drittwirkung im Zivilrecht. Behandelt die wichtigsten Einbruchstellen Paragraph 138 BGB Paragraph 242 BGB Paragraph 826 BGB Paragraph 307 BGB sowie die Leitlinien aus Buergschaft Handelsvertreter Chefarztkuendigung und Plattformau.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. drittwirkung stadionverbot bundesverfassungsgericht
+### 11.20. Stadionverbot-Entscheidung BVerfGE 148 267 als seltenes Beispiel einer eingriffsaehnlichen Drittwirkung. Wo Private faktisch oeffentliche Funktionen wahrnehmen und einen monopolartigen Zugang gewaehren strahlen Grundrechte besonders stark in die Vertragsfreih.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. drittwirkung unionsgrundrechte charta
+### 11.21. Horizontale Wirkung der Unionsgrundrechte aus der Charta der Grundrechte und der unionsrechtlichen Diskriminierungsverbote. Erläutert EuGH-Linie Mangold Kuecuekdeveci Egenberger Bauer und IR zur Drittwirkung im Anwendungsbereich des Unionsrechts. Wann eine Ch.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. egmr emrk verhaeltnismaessigkeit
+### 11.22. Verhältnismäßigkeitspruefung des Europaeischen Gerichtshofs fuer Menschenrechte nach Art 8 bis 11 EMRK und Art 1 ZP 1 mit den drei Stufen prescribed by law legitimate aim necessary in a democratic society. Mit margin of appreciation pressing social need least.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. eigentum art 14 inhalts schranken enteignung
+### 11.23. Art. 14 GG verhältnismäßig prüfen: Inhalts- und Schrankenbestimmung, Enteignung, Ausgleichspflichten, Eigentumsbindung, Atomausstieg-Linie und Abgrenzung zu Berufsfreiheit und Gleichheit.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. eilrechtsschutz folgenabwaegung paragraf 32 bverfgg
+### 11.24. Einstweiliger Rechtsschutz und Folgenabwaegung im Verfassungsrecht: Paragraf 32 BVerfGG, schwere Nachteile, drohende Gewalt, Gemeinwohlgrund, offener Ausgang der Hauptsache und irreparable Grundrechtsfolgen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. einschaetzungspraerogative kontrolldichte
+### 11.25. Drei Stufen der Kontrolldichte des BVerfG (Evidenz-, Vertretbarkeits-, intensive inhaltliche Kontrolle) und Einschaetzungspraerogative des Gesetzgebers bei Geeignetheit und Erforderlichkeit. Mit Anwendungsbeispielen vom Apothekenurteil ueber Mitbestimmung bis.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. erforderlichkeit mildestes mittel
+### 11.26. Stufe 3 der Verhältnismäßigkeit Erforderlichkeit als Suche nach dem mildesten gleich effektiven Mittel. Mit Prüfraster fuer Mittelvergleich Effektivitaetsvergleich und Drittbelastungsverlagerung sowie Hinweisen zur Einschaetzungspraerogative.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. eugh cjeu verhaeltnismaessigkeit
+### 11.27. Verhältnismäßigkeitspruefung des Gerichtshofs der Europaeischen Union nach Art 52 I GRCh und allgemeinem Grundsatz mit Stufen Gesetzesvorbehalt Wesensgehalt legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit. Mit Digital Rights Ireland Schrems II La.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. frankreich controle proportionnalite
+### 11.28. Franzoesische Verhältnismäßigkeitsdogmatik des Conseil constitutionnel und des Conseil d Etat mit Triple Test des CE seit Ville Nouvelle Est Adequation Necessite Proportionnalite stricto sensu und dem QPC-Verfahren seit 2010. Mit Conciliation Argumentation de.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. geeignetheit pruefung
+### 11.29. Stufe 2 der Verhältnismäßigkeit Geeignetheit als Foerderung des Zwecks ohne volle Zweckerreichung. Mit Hinweisen zur Einschaetzungspraerogative des Gesetzgebers und zur ex-ante Perspektive bei Prognosen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. gleichbehandlung arbeitsrecht praxischeck
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. griechenland stedikastiriou analogikotita
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. hartz iv bverfge 125 175
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. irland supreme court proportionality
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. italien ragionevolezza proporzionalita
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. kanada oakes fallmatrix
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. kanada oakes test uebersicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. klausur pruefungsschema kompakt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. klimaschutz bverfge 157 30
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. kruzifix bverfge 93 1
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. legitimer zweck pruefung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. lueth urteil bverfge 7 198
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. luftsicherheitsgesetz bverfge 115 118
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. luxemburg cour constitutionnelle proportionnalite
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. meinungsfreiheit wechselwirkungslehre wunsiedel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. mermaid flowchart pruefung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. mitbestimmung bverfge 50 290
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. niederlande evenredigheidsbeginsel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. oeffentlicher raum fraport grundrechtsbindung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. oesterreich vfgh verhaeltnismaessigkeit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. online durchsuchung bverfge 120 274
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. padlet vier stufen tafel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. polen tk zasada proporcjonalnosci
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. polizeirecht eingriff pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. praktische konkordanz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. preussisches ovg kreuzberg polizeirecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. rechtsgeschichte verhaeltnismaessigkeit linie
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. religionsfreiheit kopftuch konkrete gefahr
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. schnellpruefung fuenfminuten express
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. schranke vorbehaltlos verfassungsimmanent
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. schutzbereich eingriff rechtfertigung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. schutzpflichtdimension grundrechte
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. schwangerschaftsabbruch bverfge 39 1
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. section 36 vs deutsche schranken schranke
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. spanien juicio proporcionalidad
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. strafrecht strafzumessung verhaeltnismaessigkeit
+### 11.30. Arbeitsrechtlicher Praxischeck zum AGG. Behandelt das Benachteiligungsverbot nach Paragraph 7 AGG den Entschaedigungs- und Schadensersatzanspruch nach Paragraph 15 AGG und die Beweislastregel nach Paragraph 22 AGG. Erläutert wie Bewerbungsverfahren Befoerderu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

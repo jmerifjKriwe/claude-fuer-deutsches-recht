@@ -64,6 +64,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 43a BRAO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +112,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. abgrenzung konventionelle software vs ki
+### 11.1. Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 Regulierungsrahmen. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und mens.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. abgrenzung konventionelle software vs ki system
+### 11.2. Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 Regulierungsrahmen. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und mens.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. ai act owi verfahren internal investigation
+### 11.3. Regulierungsrahmen-Ordnungswidrigkeiten und interne Untersuchung: Sachverhaltsaufklaerung ohne Selbstbelastungschaos, Legal Privilege/Geschuetztheit, Mitarbeiterinterviews, Datenexport, Behördenschreiben, Remediation und Verteidigungsakte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. algorithmische kollusion und pricing ki
+### 11.4. Algorithmische Kollusion und KI-Pricing: Preisalgorithmen, Signalling, Hub-and-Spoke, Plattformdaten, Monitoring, Kartellrecht, Compliance-Firewalls und Beweisindikatoren für Rechtsabteilung und Vertrieb.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. anbieter werden art 25
+### 11.5. Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 Regulierungsrahmen Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche Änderung des Systems Bestim.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. anwaltliche ki art kompetenz automatisierte
+### 11.6. Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, Paragraf 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, Datenschutz-Grundverordnung, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk für Kanzlei und Rechtsabteilung im Ki.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. anwaltliche ki nutzung quellencheck brao
+### 11.7. Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, Paragraf 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, Datenschutz-Grundverordnung, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk für Kanzlei und Rechtsabteilung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. art 4 ki kompetenz schulungsprogramm
+### 11.8. Art. 4 Regulierungsrahmen als praktisches Schulungs- und Nachweissystem: Rollendifferenzierte AI-Literacy für Vorstand, Legal, IT, HR, Fachabteilung, Einkauf, Support und externe Dienstleister; mit Kompetenzmatrix, Pflichtenkalender, Schulungsnachweisen, Shad.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. automatisierte entscheidung dsgvo art 22
+### 11.9. Schnittstelle Regulierungsrahmen und Datenschutz-Grundverordnung Art. 22: automatisierte Einzelentscheidung, Profiling, menschliche Beteiligung, Bewerber/Kredit/Kundenranking, Informationspflicht, DPIA, Rechtsgrundlage und technische Governance.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. automatisierte entscheidung dsgvo art 22 schnittstelle
+### 11.10. Schnittstelle Regulierungsrahmen und Datenschutz-Grundverordnung Art. 22: automatisierte Einzelentscheidung, Profiling, menschliche Beteiligung, Bewerber/Kredit/Kundenranking, Informationspflicht, DPIA, Rechtsgrundlage und technische Governance im Ki Vo Ai Ac.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. begrenztes risiko art 50 transparenzpflichten
+### 11.11. Unternehmen setzt Chatbot Deepfake-Tool oder KI-Textgenerator ein und fragt: Welche Hinweispflichten treffen uns gegenüber Nutzern? Art. 50 Regulierungsrahmen begrenztes Risiko. Prüfraster: Chatbot-Hinweispflicht Art. 50 Abs. 1 Regulierungsrahmen Deepfake-Ken.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. betreiber checkliste folgenabschaetzung
+### 11.12. Betreiber von Hochrisiko-KI benoetigt fertige Compliance-Dokumentation für interne Zwecke oder Aufsichtsbehoerde. Art. 26 und 27 Regulierungsrahmen Betreiber-Compliance-Output. Zwei Output-Dokumente: Betreiber-Compliance-Checkliste Art. 26 mit allen Pflichtpu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. betreiber deployer bevollmaechtigter
+### 11.13. Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 Regulierungsrahmen: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. betreiber deployer pflichten art 26
+### 11.14. Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 Regulierungsrahmen: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. bevollmaechtigter produkthersteller pflichten
+### 11.15. Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für integrierte KI-Komponenten? Art. 22 Regulierungsrahmen Bevollmaechtigter Art. 25 Produkthersteller. Prüfraster: Bevollmaechtigter als EU-Ve.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. bildung pruefungsrecht anhang iii monitoring
+### 11.16. Anhang III Regulierungsrahmen für Bildung, Prüfung, Zulassung und Lernsteuerung: Hochrisiko-Check für KI in Hochschulen, Schulen, EdTech, Proctoring, Zulassungsranking, Plagiats-/KI-Erkennung und Lernstandsdiagnostik.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. biometrie emotionserkennung polizei grenzen
+### 11.17. Biometrie, Emotionserkennung und Polizeigrenzen nach Regulierungsrahmen: Verbote, Ausnahmen, Hochrisiko, Strafverfolgung, Grundrechte und nationale Eingriffsermächtigung prüfen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. code of practice und harmonisierte normen
+### 11.18. Normen- und Standards-Landkarte für Regulierungsrahmen-Compliance: Art. 40 harmonisierte Normen, Art. 41 gemeinsame Spezifikationen, Art. 56 GPAI Code of Practice, ISO/IEC 42001 / 23894 / 22989 / 23053 sowie Sicherheits- und Datenschutzstandards. Erklaert Ver.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. einfuehrer importer eu datenbank fallfremde
+### 11.19. Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 Regulierungsrahmen Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kenn.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. einfuehrer importer pflichten art 23
+### 11.20. Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 Regulierungsrahmen Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kenn.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. einstieg routing
+### 11.21. Einstieg, Triage und Routing für Regulierungsrahmen/AI Act Prüfer: ordnet Rolle (Anbieter, Deployer, Importeur), markiert Frist (Verbotene Praktiken ab 2.2.2025), wählt Norm (Regulierungsrahmen EU 2024/1689, Anhang III Hochrisiko-Liste) und Zuständigkeit (KI-.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. entscheidungsbaum gesamt owi verfahren
+### 11.22. Master-für die vollstaendige Regulierungsrahmen-Prüfung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art. 6 Abs. 2/Anhang III-Hochrisiko, Rueckausnahme, GPAI/Chatbot-Abgrenzung, Betreiber-Fehlgebrauch, Pflichten, Standards und Outp.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. entscheidungsbaum ki vo gesamt workflow
+### 11.23. Master-Workflow: Regulierungsrahmen-Gesamtprüfung im EU Regulierungsrahmen (AI Act): Dieser Skill ist der zentrale Entscheidungsbaum des Regulierungsrahmen-Prüfers. Er führt vom ersten Art.-3-Check bis zum dokumentierbaren Endvermerk. Er soll nicht nur klassi.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. eu datenbank registrierung art 49 und 71
+### 11.24. Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 Regulierungsrahmen Registrierungspflichten. Prüfraster: Anbieter vor Inverkehrbringen Pflicht Art. 49 Abs. 1 öffentliche Ste.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. fallfremde textbausteine prozessrisiko
+### 11.25. Fallfremde KI-Textbausteine erkennen und entschärfen: Namen, Daten, Aktenzeichen, Tatvorwürfe, falsche Anlagen, fremde Prozessgeschichte und bewusst/unbewusst irreführender Vortrag in Schriftsatz, Einspruch, Klage oder Behördenantwort.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. falsche wiese warnung ki vo
+### 11.26. Nutzer fragt eine Regulierungsrahmen-Frage die eigentlich unter Datenschutz-Grundverordnung Produkthaftung MDR oder Maschinenverordnung faellt. Warnt vor typischen Rechtsgebiets-Verwechslungen Regulierungsrahmen versus Datenschutz-Grundverordnung versus Produ.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. gerichtliche ki assistenz hochrisiko justiz
+### 11.27. Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III Regulierungsrahmen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. gerichtliche ki governance aufsichtsbehoerden
+### 11.28. Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III Regulierungsrahmen im Ki Vo Ai Act.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. governance aufsichtsbehoerden art 70
+### 11.29. Unternehmen oder Behörde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur Regulierungsrahmen-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. Regulierungsrahmen Governance. Prüfraster: nationale Aufsichtsbehoerde.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. gpai code of practice copyright safety evidence
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. gpai code practice copyright safety evidence
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. gpai modelle art 51 bis 55
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. gpai systemisches risiko schwelle 10e25 flop
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. gpai systemisches risiko urheberrecht policy
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. gpai urheberrecht policy art 53
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. gpai vorliegen art 3 nr 63
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. grundrechte folgenabschaetzung art 27 praxis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. haendler distributor harmonisierte normen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. haendler distributor pflichten art 24
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. harmonisierte normen gap uebergang
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. high risk negative determination memo
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. hochrisiko art 6 abs 1 sicherheitsbauteil
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. hochrisiko art 6 abs 2 anhang iii
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. hochrisiko art abs aufzeichnungspflichten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. hochrisiko aufzeichnungspflichten logging art
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. hochrisiko bestaetigt end to end roadmap
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. hochrisiko bestaetigt end to roadmap
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. hochrisiko datenqualitaet data governance art
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. hochrisiko genauigkeit konformitaetsbewertung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. hochrisiko genauigkeit robustheit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. hochrisiko konformitaetsbewertung art 43
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. hochrisiko menschliche aufsicht art 14
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. hochrisiko risikomanagementsystem art 9
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. hochrisiko technische art 11 anhang iv
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. hochrisiko technische dokumentation art 11 und anhang iv
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. hochrisiko transparenz informationen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. hochrisiko transparenz zuordnung art
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. hochrisiko zuordnung art 6 und anhang i iii
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. hochschule ki detektor menschliche pruefung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. hochschule ki taeuschung anscheinsbeweis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. kaltstart triage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. kanzlei ki outsourcing berufsgeheimnis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. kanzlei outsourcing zivilprozess rollen liegt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. ki halluzinationen red team
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. ki im zivilprozess rollen und grenzen
+### 11.30. GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen für Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung im Ki Vo Ai Act Prüfer.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

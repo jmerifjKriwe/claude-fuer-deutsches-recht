@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - StPO Paragraf 261: freie richterliche Beweiswuerdigung.
 - StPO Paragraf 267: Urteilsgruende im Strafurteil.
 - StGB Paragraf 46: Strafzumessung.
+- Paragraf 25 GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 28 GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 199 ff. StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 140 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 244 ff. StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 261 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 25 oder 28 GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 199-203 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,67 +119,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 akte erstdurchsicht strafsache
+### 11.1. Strukturierte Erstdurchsicht: Anklagesatz, wesentliches Ergebnis der Ermittlungen, hinreichender Tatverdacht, Beweismittel, BZRG-Auszug, Personalien
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 zustaendigkeit und eroeffnungsbeschluss
+### 11.2. Zuständigkeit Strafrichter oder Schöffengericht (Paragraf 25 oder 28 GVG), Eröffnung Paragrafen 199-203 StPO, Nichteröffnung oder Ablehnung mit Begründung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 hauptverhandlung vorbereiten
+### 11.3. Terminierung, Ladung Paragraf 214 StPO, Beweisantraege, Erforderlichkeit Verteidigerbestellung Paragraf 140 StPO, Verständigung Paragraf 257c StPO Risiken
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 beweisaufnahme und beweisantraege
+### 11.4. Beweisaufnahme nach Paragrafen 244-256 StPO, Umgang mit Beweisantraegen, Praesenzvermutung Paragraf 244 Abs. 6, Wahrunterstellung, Ablehnungsgründe
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 beweiswuerdigung strafrecht
+### 11.5. Beweiswürdigung Paragraf 261 StPO: Indizien, Aussage gegen Aussage, Glaubhaftigkeit, In-dubio-pro-reo, Sachverständigenkritik
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 strafzumessung paragraf 46 stgb
+### 11.6. Strafzumessung Paragraf 46 StGB: Schuld als Grundlage, Strafzumessungstatsachen, Strafrahmen, Strafmilderung Paragrafen 49 49a, Strafaussetzung Paragraf 56, Bewaehrungsauflagen
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 tenor und rechtsmittelbelehrung straf
+### 11.7. Tenor: Schuldspruch, Strafausspruch, Nebenstrafen, Bewaehrung, Einziehung Paragraf 73 StGB, Kostenentscheidung Paragraf 465 StPO, Rechtsmittelbelehrung Berufung und Revision
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 urteilsbegruendung paragraf 267 stpo
+### 11.8. Urteilsgründe: Persoenliche Verhaeltnisse, Feststellungen zum Tatgeschehen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Nebenentscheidungen
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 strafbefehl und beschleunigtes verfahren
+### 11.9. Strafbefehlsverfahren Paragrafen 407-412 StPO, Voraussetzungen, Inhalt, Einspruch, Hauptverhandlung nach Einspruch; beschleunigtes Verfahren Paragrafen 417-420 StPO
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag strafrichter
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter amtsgericht straf schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag mit Schuldspruch-Skizze, Strafzumessungs-Skizze, Nebenfolgen, Risikohinweisen, ausdrücklich zur richterlichen Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

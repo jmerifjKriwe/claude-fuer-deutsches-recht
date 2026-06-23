@@ -64,6 +64,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragrafen 305 ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +112,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. abmahnung buchpreisbindung
+### 11.1. Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes — BuchPrG Paragrafen 9–11, Abmahnung verfassen und beantworten, Unterlassungserklärung, Schadensersatz und Prozessstrategie im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbe.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. auslandsrechte rezensionsexemplar
+### 11.2. Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due Diligence und Compliance-Anforderungen für internationale Lizenzverträge im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. autor herausgeber mitwirkende rechtekette
+### 11.3. Verlagsrecht: Rechtekette bei Sammelwerken — Autor, Herausgeber, Mitwirkende, Übersetzer und Verlag; Klärung von Urheber-, Nutzungs- und Vergütungsrechten nach UrhG und VerlG im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmal.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. autorenkuendigung verlagsagentur
+### 11.4. Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Nachvergütung nach UrhG Paragraf 32a und Vertragsanpassung — Voraussetzungen, Verfahren und Durchsetzung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. bibliothekslizenz autor
+### 11.5. Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG Paragraf 27, Onleihe, OverDrive, Lizenzmodelle, EuGH Volksbank-Entscheidung und Zugangssteuerung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. bildrechte ki
+### 11.6. Verlagsrecht: Bildrechte, Kartenrechte, Tabellen und sonstiges Drittmaterial im Buch — Nutzungsrechte einholen, Bildrechtsverträge, CC-Lizenzen und Haftung bei Fehlern im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. buchhandelsvertrag konditionen und remission
+### 11.7. Verlagsrecht: Buchhandelsvertrag zwischen Verlag und Buchhandel — Konditionenabkommen, Remissionsrecht, Retourenquoten, Auslieferungsverträge und Buchpreisbindungs-Compliance im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmal.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. buchmesse nachlassverwaltung
+### 11.8. Verlagsrecht: Rechtehandel auf Buchmessen (Frankfurt, Bologna) — NDA, Letter of Intent, Lizenzvertragsvorbereitung, exklusive Verhandlung und internationale Lizenzpraxis im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. buchpreisbindung ladenpreis festsetzen
+### 11.9. Buchpreisbindungsgesetz: Ladenpreis rechtssicher festsetzen — BuchPrG Paragrafen 3–5, Preismeldung, Ausnahmen, E-Book-Besonderheiten und Durchsetzungspraxis im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. druckvertrag buchhandelsvertrag
+### 11.10. Verlagsrecht: Druckverträge, Papierlieferengpässe, Lieferverzug der Druckerei — Werkvertragsrecht, höhere Gewalt, Schadensersatz, Preisklauseln und Notfallplanung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. e book preisbindung und plattformrabatte
+### 11.11. Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchPrG Paragraf 2 Abs. 1 Nr. 3, Durchsetzung und Vertragsgestaltung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestan.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. e uebersetzungsrechte
+### 11.12. Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsme.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. fachbuch verlagsinsolvenz
+### 11.13. Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online-Datenbanken — Nutzungsrechte, Datenbankrecht, Aktualisierungspflichten, Lizenzmodelle und Preisbindung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. fachzeitschrift peer review und haftung
+### 11.14. Verlagsrecht: Fachzeitschriften, Peer-Review-Verfahren, Haftung für fehlerhafte Fachinformation und Autorenrechte — UrhG Paragrafen 38 und 32d, wissenschaftliche Publikationsstandards im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestan.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. hoerbuch fachzeitschrift
+### 11.15. Verlagsrecht: Hörbuch-Produktion — Sprechervertrag, Leistungsschutzrechte des ausübenden Künstlers (UrhG Paragrafen 73–83), GEMA, Preisbindung und Plattformverträge im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. honorar vorschuss absatzhonorar und abrechnung
+### 11.16. Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG Paragrafen 22–28, UrhG Paragrafen 32 und 32a und 32d — Berechnung, Angemessenheit und Auskunft im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlä.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. isbn vg
+### 11.17. Verlagsrecht und Buchhandel: ISBN-Vergabe, Metadatenpflege, VLB-Meldeprozesse und bibliothekarische Pflichtablieferung — rechtliche Anforderungen und Praxisstandards im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Friste.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. kaltstart triage
+### 11.18. Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Ski...
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. ki generierte inhalte im verlag
+### 11.19. Verlagsrecht: KI-generierte Texte, Bilder und Übersetzungen im Verlag — Urheberrechtsstatus, Kennzeichnungspflichten, Vertragsklauseln und Haftungsrisiken (EU AI Act, UrhG) im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. kuendigung wegen nichtausuebung
+### 11.20. Verlagsrecht: Rückruf und Kündigung wegen Nichtausübung — UrhG Paragraf 41 im Detail: Voraussetzungen, Sperrfristen, Verfahren, Wirkung und Strategien für Autor und Verlag im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. maengelexemplar remittenden und preisbindung
+### 11.21. Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbindung — BuchPrG Paragraf 6, Kennzeichnungspflicht, Handhabung bei Verlag, Auslieferung und Buchhandel im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Frist.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. manuskriptablieferung honorar
+### 11.22. Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug nach VerlG Paragrafen 2–4, BGB Paragrafen 280 und 286 — Pflichten, Fristen, Rechtsfolgen bei Verzug und Mängelrüge im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsm.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. marketplace titelschutz
+### 11.23. Buchpreisbindungsgesetz: Preisdisziplin bei Amazon Marketplace und anderen Online-Händlern — Durchsetzung des Ladenpreises, Abmahnung, Monitoring und Compliance-Praxis im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. muster autorenvertrag red team
+### 11.24. Red-Team-Prüfung eines Muster-Autorenvertrags: kritische Klauselanalyse zu Nutzungsrechten, Honorar, Paragraf 32a UrhG, Paragraf 32d UrhG, Laufzeit, Rückruf und Kündigung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. muster buchpreisfreigabe dokumentation
+### 11.25. Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestsetzung und -aufhebung gemäß Paragrafen 3 und 7 BuchPrG, VLB-Protokoll, Ausnahmenbelege nach Paragraf 6 BuchPrG im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkma.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. muster herausgebervertrag red team
+### 11.26. Red-Team-Prüfung eines Muster-Herausgebervertrags: Sammelwerk-Besonderheiten nach UrhG Paragraf 4, Beitragsautoren-Rechtekette, Vergütung, Haftung und Klauselanalyse.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. nachlassverwaltung autorenerbe
+### 11.27. Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG Paragraf 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmal.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. onlineportal paywall datenbankrecht schnittstelle
+### 11.28. Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG Paragrafen 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen abrufen und TDM-Schranken im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. open ladenpreis
+### 11.29. Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und Verlagspolitik — Rechteabgrenzung, Buchpreisbindung bei OA, Förderauflagen und Vertragsgestaltung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. persoenlichkeitsrecht im sachbuch
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. plagiat persoenlichkeitsrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. podcast onlineportal
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. preisbindungsstreit verlegerrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. presserecht gegendarstellung und unterlassung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. rabatte maengelexemplar
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. redaktionsvertrag freelancer und arbeitnehmer
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. rezensionsexemplar influencer und steuer
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. rueckruf muster
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. schulbuch presserecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. subskriptionspreis e
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. titelschutz werktitel und reihenname
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. uebersetzungsrechte auslandslizenz und co edition
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. verl 001 kaltstart verlagsmandat werk vertrag vertrieb preis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. verl 002 verlagsvertrag hauptpflichten rechteuebertragung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. verl 003 autor herausgeber mitwirkende rechtekette
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. verl 004 manuskriptablieferung abnahme lektorat und verzug
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. verl 005 honorar vorschuss absatzhonorar und abrechnung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. verl 006 e book rechte print rechte hoerbuch und audio
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. verl 007 uebersetzungsrechte auslandslizenz und co edition
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. verl 008 open access creative commons und verlagspolitik
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. verl 009 buchpreisbindung ladenpreis festsetzen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. verl 010 rabatte bibliotheken schulen bundles und serien
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. verl 011 maengelexemplar remittenden und preisbindung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. verl 012 subskriptionspreis einfuehrungspreis und aktion
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. verl 013 e book preisbindung und plattformrabatte
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. verl 014 marketplace haendler amazon und preisdisziplin
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. verl 015 titelschutz werktitel und reihenname
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. verl 016 isbn metadaten vlb und meldeprozesse
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. verl 017 vg wort meldung beteiligung und ausschuettung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. verl 018 bildrechte karten tabellen und drittmaterial
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. verl 019 ki generierte inhalte im verlag
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. verl 020 plagiat manuskript und quellenpruefung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. verl 021 persoenlichkeitsrecht im sachbuch
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. verl 022 fachbuch aktualisierung loseblatt und online datenbank
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. verl 023 redaktionsvertrag freelancer und arbeitnehmer
+### 11.30. Verlagsrecht: Persönlichkeitsrechte im Sachbuch — allgemeines Persönlichkeitsrecht, Recht am eigenen Bild, Gegendarstellung, Unterlassung und Haftung von Autor und Verlag im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, F.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

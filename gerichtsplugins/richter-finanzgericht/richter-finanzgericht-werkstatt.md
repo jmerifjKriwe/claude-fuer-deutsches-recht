@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
 - EStG Paragraf 49: beschraenkte Steuerpflicht.
 - FGO Paragraf 76: Sachaufklaerung im Finanzgerichtsverfahren.
+- Paragrafen 40-65 FGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 347 AO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 47 FGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 40 Abs. 2 Zulässigkeit der Klage Paragrafen 40-65 FGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 5 FGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 6 FGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 44 und 47 FGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 69 FGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,67 +119,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 zulaessigkeit finanzgerichtsklage
+### 11.1. Zulässigkeit der Klage Paragrafen 40-65 FGO: Klagearten (Anfechtung Verpflichtung Feststellung Untaetigkeit), Vorverfahren Einspruch nach Paragraf 347 AO, Klagefrist Paragraf 47 FGO, Klagebefugnis Paragraf 40 Abs. 2
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 amtsermittlung finanzgericht
+### 11.2. Amtsermittlungsgrundsatz Paragraf 76 FGO, Heranziehung der Akten Paragraf 71, Beweismittel, Schaetzungsbefugnis Paragraf 162 AO, Mitwirkungspflicht des Klägers
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 aussetzung der vollziehung
+### 11.3. Aussetzung der Vollziehung Paragraf 69 FGO bzw. Paragraf 361 AO: ernstliche Zweifel an der Rechtmaessigkeit, unbillige Haerte, Sicherheitsleistung, Verfahren
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 steuerbescheid pruefen
+### 11.4. Prüfung des angegriffenen Steuerbescheids: formelle Rechtmaessigkeit (Begründung Paragraf 121 AO, Bekanntgabe Paragraf 122), materielle Prüfung der Steuerart
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 est pruefungsschema
+### 11.5. Einkommensteuer-Prüfung: Einkunftsart, Einkunftsermittlung (Paragrafen 4 und 5 EStG oder Paragraf 11 EStG), Sonderausgaben, außergewoehnliche Belastungen, Tarif Paragraf 32a EStG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 ust pruefungsschema
+### 11.6. Umsatzsteuer: Steuerbarkeit Paragraf 1 UStG, Steuerpflicht und Steuerbefreiung Paragraf 4, Bemessungsgrundlage Paragraf 10, Vorsteuerabzug Paragraf 15, Rechnungsanforderungen Paragraf 14
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 koerperschaft und gewerbesteuer
+### 11.7. Körperschaftsteuer: Subjektsteuerpflicht Paragraf 1 KStG, Einkommensermittlung Paragraf 8 KStG i.V.m. EStG, verdeckte Gewinnausschuettung Paragraf 8 Abs. 3; Gewerbesteuer Paragrafen 2 und 7-9 GewStG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 schaetzung und betriebspruefung
+### 11.8. Schaetzung Paragraf 162 AO als Beweismittel: aeussere und innere Schaetzung, Zeitreihenvergleich, Geldverkehrsrechnung, Chi-Quadrat-Test; Verwertbarkeit aus Betriebsprüfung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 urteil finanzgericht und revision
+### 11.9. Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag finanzgericht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter finanzgericht schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, materielle Prüfung der Steuerart, Beweiswürdigung, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

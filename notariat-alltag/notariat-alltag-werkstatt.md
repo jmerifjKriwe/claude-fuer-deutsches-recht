@@ -64,6 +64,8 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 40 GmbHG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 177 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +113,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 001 urkundenvorgang vollzugscockpit
+### 11.1. Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit. Strukturierte Eingangsdiagnose für jeden neu aufgenommenen Urkundenvorgang: Beteiligte, Vollzugsvoraussetzungen, Fristenrahmen, Kosten und Wiedervorlage.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 002 beurkundung oder unterschriftsbeglaubigung richtig
+### 11.2. Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (Paragrafen 6–35 BeurkG) und Beglaubigung (Paragrafen 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 003 grundstueckskauf vollzugsvoraussetzungen kaufpreisf
+### 11.3. Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit und Auflassungsvormerkung. Strukturierter Vollzugsablauf von der Beurkundung bis zur Eigentumsumschreibung mit GrESt, GBO und Lastenfreistellung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 005 gesellschafterliste nach anteilskauf kapitalerhoehu
+### 11.4. Notariat im Alltag: Gesellschafterliste nach Anteilskauf, Kapitalerhöhung oder Einziehung. Pflichten nach Paragraf 40 GmbHG, Inhalt, Einreichung, Registeraktualisierung und Gutglaubensschutz im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 006 handelsregisteranmeldung geschaeftsfuehrer bestellu
+### 11.5. Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer-Bestellung, Abberufung, Vertretungsmacht. Formelle Anforderungen, Inhalt der Anmeldung, Vollzug und Zwischenverfügungsrisiken im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 008 notarielle kostenrechnung gnotkg gegenstandswert
+### 11.6. Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert und Kostenschuldner. Strukturierte Kostenberechnung nach dem Kostenverzeichnis, Gegenstandswertermittlung, Schuldnerbestimmung und Rechnungsstellung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 009 geldwaeschepruefung immobilientransaktion wirtschaf
+### 11.7. Notariat im Alltag: Geldwäscheprüfung bei Immobilientransaktionen – wirtschaftlich Berechtigter, Risikoklassifizierung, Dokumentationspflichten nach GwG Paragrafen 1–17 und Meldepflichten im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 011 vollmacht genehmigung vollmachtloser vertreter
+### 11.8. Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter und Nachgenehmigung. Formvoraussetzungen, Prüfung der Vertretungsmacht, Wirkung der Genehmigung und Schwebende Unwirksamkeit nach Paragraf 177 BGB im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 012 erbfolge erbschein europaeisches nachlasszeugnis und tnz
+### 11.9. Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlasszeugnis und Grundbuchberichtigung. Gesetzliche und gewillkürte Erbfolge, Erbscheinsantrag beim Nachlassgericht, ENZ nach EuErbVO und Grundbuchberichtigung nach Paragraf 35 GBO im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 015 schenkungsvertrag niessbrauch wohnrecht rueckforder
+### 11.10. Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. 016 teilungserklaerung weg sondernutzungsrechte und auf
+### 11.11. Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach Paragraf 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen im Notari.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. 017 erbbaurecht bestellung aenderung heimfall und rang
+### 11.12. Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall und Rang. Inhalt des Erbbaurechtsvertrags, Grundbuchrecht, Erbbauzins, Heimfallklauseln und Finanzierbarkeit des Erbbaurechts im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. 019 treuhand und notaranderkonto strenge ausnahmepruefu
+### 11.13. Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach Paragraf 54a BeurkG, Paragrafen 23 ff. DONot und den Verwahrungsregeln, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken im.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. 020 elektronischer rechtsverkehr ben xnotar xjustiz
+### 11.14. Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz und Registerportal. Technische und rechtliche Anforderungen für elektronische Einreichungen beim Handelsregister, Grundbuchamt und den Gerichten im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. 021 urkundsentwurf mandantenkorrektur und belehrungsdok
+### 11.15. Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur und Belehrungsdokumentation. Prozess der Entwurfserstellung, Versand- und Wartefristpflichten, Protokollierung von Korrekturen und Belehrungen nach Paragraf 17 BeurkG im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. 023 identitaetspruefung videoident und praesenztermin g
+### 11.16. Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach Paragraf 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. 024 dolmetscher beteiligte ohne deutschkenntnisse und s
+### 11.17. Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse und Sprachvermerk. Anforderungen nach Paragraf 16 BeurkG, Dolmetscherqualifikation, Sprachvermerk in der Urkunde und zweisprachige Beurkundung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. 028 landwirtschaftsverkehr grundstuecksverkehrsgenehmig
+### 11.18. Notariat im Alltag: Landwirtschaftsverkehr – Grundstücksverkehrsgenehmigung und Vorkaufsrechte. GrdstVG, Zuständigkeitsfragen, gesetzliche Vorkaufsrechte nach BauGB und GrdstVG, sowie siedlungsrechtliche Vorkaufsrechte im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. 029 familiengesellschaft poolvertrag und minderjaehrige
+### 11.19. Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. 030 stiftung verein genossenschaft notarielle schnittst
+### 11.20. Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen. Stiftungsgeschäft, Satzungsbeurkundung, Registrierung und typische notarielle Beiträge zu diesen Rechtsformen im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. 032 kapitalerhoehung barkapital sachkapital bezugsrecht
+### 11.21. Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. 033 unternehmensnachfolge anteilsabtretung niessbrauch
+### 11.22. Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch und Stimmrechtsbindung. Strukturierung der Unternehmensnachfolge mittels GmbH-Anteilsabtretung, Nießbrauchsvorbehalt und Poolvertrag im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. 035 aufgebotsverfahren verlorener grundschuldbrief
+### 11.23. Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief. Verfahren nach Paragrafen 1162–1163 BGB i.V.m. FamFG, Antrag beim Amtsgericht, Bekanntmachungspflichten und Kraftloserklärung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. 036 signatur qualifizierte elektronische signatur und d
+### 11.24. Notariat im Alltag: Signatur – qualifizierte elektronische Signatur und Dateiformate. Rechtliche Anforderungen der qeS nach eIDAS, notarielle Signaturpflichten, zulässige Dateiformate und Signaturprüfung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. 037 datenschutz im notariat aktenversand und cloudgrenz
+### 11.25. Notariat im Alltag: Datenschutz im Notariat – Aktenversand und Cloudgrenzen. Datenschutz-Grundverordnung-Pflichten, verschlüsselter Aktenversand, Cloudnutzung im Notariat und Datenschutzfolgenabschätzung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. 039 fristenkalender vollzugsmonitor wiedervorlage eskal
+### 11.26. Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage und Eskalation. Systematisches Fristenmanagement im Notariat, Wiedervorlagepflichten und Eskalationsregeln bei drohenden Vollzugsblockaden im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. 040 mandantenmail freundlich knapp und rechtssicher
+### 11.27. Notariat im Alltag: Mandantenmail – freundlich, knapp und rechtssicher. Kommunikationsregeln für notarielle Schreiben an Mandanten, zulässige Hinweise, Abgrenzung zur unzulässigen Rechtsberatung und Formulierungsbeispiele im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. 041 konflikttraechtige mandanten und neutrale amtsfuehr
+### 11.28. Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung. Umgang mit streitigen Beteiligten im Beurkundungsverfahren, Grenzen der notariellen Mitwirkung und Ablehnung der Beurkundung im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. 043 kanzleiorganisation vier augen prinzip und fehlerku
+### 11.29. Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fehlerkultur. Organisatorische Anforderungen an das Notariat, Qualitätssicherung, Fehlermanagement und Lernkultur im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. 044 notarvertretung notariatsverwalter und amtsuebergab
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. 046 abwicklung todesfall beteiligter vor vollzug
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. 047 gesellschafterstreit im notartermin neutralitaet
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. 049 liste wirtschaftlich berechtigter transparenzregist
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. 050 grundbuchauszug lesen abteilung ii und iii
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. 052 vollzug mit behoerden genehmigungen vorkaufsrechtsz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. 053 immobilienfinanzierung bankauflagen und treuhandauf
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. 054 auslandsbeteiligte steuerliche hinweise und grenzen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. 056 notarielle bescheinigung vertretungsbescheinigung u
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. 057 remote vorbereitung ohne unzulaessige fernbeurkundu
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. 059 kaufpreisfaelligkeit bei altlasten baulasten und mi
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. 061 sorgerechtsgenehmigung familiengerichtliche genehmi
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. 063 fehlerkorrektur nachtragsurkunde schreibfehler
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. 064 checkliste tagesstart im notariat
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. auslandsurkunde apostille vollmacht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. auszahlungsvoraussetzungen kaufpreis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. bautraegervertrag mabv familiengesellschaft
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. beschwerde mandantenmail freundlich
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. beteiligter betreuung landwirtschaftsverkehr
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. ehevertrag scheidungsfolgenvereinbarung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. gerichts behoerdenkommunikation
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. gmbh gruendung gesellschafterliste
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. grundbuchantrag rangstelle notarielle
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. grundschuld buchgrundschuld treuhand
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. kaltstart triage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. nachlassauseinandersetzung grundbuch
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. notariat 001 kaltstart urkundenvorgang und vollzugscockpit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. notariat 002 beurkundung ubeglaubigung richtig einordnen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. notariat 003 grundstueckskauf vollzug kaufpreis vormerkung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. notariat 004 gmbh gruendung musterprotokoll individueller
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. notariat 005 gesellschafterliste anteilskauf kapitalerhoehung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. notariat 006 hr anmeldung gf bestellung abberufung vertretung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. notariat 007 grundbuchantrag rangstelle zwischenverfuegung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. notariat 008 notariell kostenrechnung gnotkg gegenstandswert
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. notariat 009 geldwaeschepruefung immobilientransaktion risiko
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. notariat 010 auslandsurkunde apostille legalisation uebersetzung
+### 11.30. Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation im Notariat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

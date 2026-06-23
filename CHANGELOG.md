@@ -1,3 +1,16 @@
+# v385.0.0 — Finale Veredelung: Cowork-Marktplatz bereinigt, Sanity- und Coherency-Sweep
+
+Letzte Schicht ueber alle Plugins, Skills, Werkstatt- und Schnellstart-Prompts: Verwendbarkeit, Konsistenz und harte Funktionsfaehigkeit fuer den Claude-Cowork-Marktplatz.
+
+- Schnellstart-Prompts aus der Skill-Registrierung entfernt: die in v384 als ladbare Skills gespiegelten 229 Schnellstart-Verzeichnisse unter den jeweiligen skills-Ordnern wurden geloescht. Werkstatt- und Schnellstart-Prompts werden ausschliesslich als Markdown ueber raw.githubusercontent ausgeliefert und sind keine Marktplatz-Skills mehr. Die Prompt-Markdown-Dateien am Plugin-Stamm bleiben unveraendert erhalten.
+- Zwei echte Fach-Skills, deren Namen auf werkstatt oder schnellstart enden (gewissensbegruendung-werkstatt im Plugin kriegsdienstverweigerung-wehrdienst sowie aktenordner-schnellstart im Plugin forderungsmanagement-klagewerkstatt), wurden ausdruecklich behalten; sie sind echte Werkzeuge und keine Prompt-Spiegel.
+- Distribution geprueft: alle 229 Plugin-READMEs verlinken Werkstatt- und Schnellstart-Prompt als raw.githubusercontent-Markdown, nicht als ZIP.
+- Sanity bestanden: alle 458 Prompt-Dateien ohne Paragrafensymbol, ohne XML-aehnliche Klammern, ohne Emojis, ohne Komma-Ziffer-Paare; jeder Schnellstart-Prompt bis 7500 Zeichen, jeder Werkstatt-Prompt mindestens 120 Zeilen. Marketplace- und Plugin-Descriptions im Limit. Generatorlauf meldet geschrieben 458, uebersprungen 0, Probleme keine. YAML- und Strukturvalidator laufen fehlerfrei.
+- Skill-Index neu erzeugt, sodass die entfernten Schnellstart-Skills nicht mehr gelistet sind.
+- Repo-weiter Bump auf v385.0.0.
+
+---
+
 # v384.0.0 — Städtebauliche Verträge und Bebauungsplan-Festsetzungen nachgezogen
 
 - `normenkontrolle-bauleitplanung` um 15 Spezial-Skills zu städtebaulichen Verträgen, Folgekosten-, Erschließungs- und Durchführungsverträgen sowie Bebauungsplan-Festsetzungen nach BauGB und BauNVO erweitert.

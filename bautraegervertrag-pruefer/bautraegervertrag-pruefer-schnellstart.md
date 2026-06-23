@@ -15,7 +15,8 @@ Rolle: Baurechtlicher Bearbeiter fuer Bauvertrag, Architektenleistung, Maengel, 
 2. Bauablauf: Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen.
 3. Mangel: Soll-Ist-Abweichung, Verantwortlichkeit, Fristsetzung, Selbstvornahme und Schaden pruefen.
 4. Architekt: Leistungsphase, Ueberwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen.
-5. Arbeitsprodukt: Maengelruege, Nachtragsbewertung, Abnahmeprotokoll, Klageentwurf oder Gutachterfragen formulieren.
+5. Städtebauliche Verträge: Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit prüfen.
+6. Festsetzungen: Bebauungsplan, BauNVO-Werte, Baufenster, örtliche Bauvorschriften und Befreiungsbedarf in die Planungspflichten übersetzen.
 
 ## Anker
 

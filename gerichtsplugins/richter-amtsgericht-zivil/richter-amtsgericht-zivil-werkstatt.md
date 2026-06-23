@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 23 GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 12 ff. ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 253 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 23 Nummer 2a GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 3-9 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 286 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 3 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 358-360 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,67 +119,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 eingangspruefung zustaendigkeit
+### 11.1. Prüfung Zuständigkeit (Paragraf 23 GVG sachlich, Paragrafen 12 ff. ZPO örtlich), Klagezustellung, Pflichtangaben Paragraf 253 ZPO, Anordnung des schriftlichen Vorverfahrens oder fruehen ersten Termins
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 streitwert und gerichtskosten
+### 11.2. Streitwertbestimmung Paragrafen 3-9 ZPO, GKG-Anlage 1 (KV 1210 und 1211 und 1220), vorläufige Streitwertfestsetzung, GKG-Vorschuss
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 akte erstdurchsicht
+### 11.3. Strukturierte Erstdurchsicht: Parteien, Antrag, Lebenssachverhalt, Anspruchsgrundlagen sammeln, Beweismittel listen, Streitstand isolieren
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 relation zivilrecht klein
+### 11.4. Echte Relation: Klägerstation (Schluessigkeit der Anspruchsgrundlage), Beklagtenstation (Erheblichkeit der Einwendungen), Beweisstation (beweisbedürftige Tatsachen + Beweislast), schriftliches Votum
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 beweisaufnahme kleine zivilkammer
+### 11.5. Beweisbeschluss formulieren (Paragrafen 358-360 ZPO), Zeugenladung, Sachverständigenauswahl, Beweistermin protokollieren, Beweiswürdigung Paragraf 286 ZPO
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 tenor und kostenentscheidung
+### 11.6. Tenor formulieren (Hauptsache, Nebenforderungen, Zinsen, Kosten Paragraf 91 ZPO, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO), Beschwer berechnen
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 urteilsentwurf paragraf 313
+### 11.7. Urteilsentwurf nach Paragraf 313 ZPO: Rubrum, Tenor, Tatbestand (gestraffter Vortrag), Entscheidungsgründe (Begründetheit, Hauptpunkt, Beweiswürdigung), Nebenentscheidungen, Rechtsmittelbelehrung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 versaeumnisurteil und anerkenntnis
+### 11.8. Versaeumnisurteil Paragrafen 330-347 ZPO, Anerkenntnisurteil Paragraf 307 ZPO, Verzichtsurteil Paragraf 306 ZPO, Einspruch und zweiter VU-Termin
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 vergleich und erledigung
+### 11.9. Prozessvergleich Paragraf 794 Abs. 1 Nr. 1 ZPO, Vergleich im Termin, schriftlicher Vergleich Paragraf 278 Abs. 6 ZPO, Erledigung in der Hauptsache, einseitige Erledigungserklaerung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag zur richterlichen pruefung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter amtsgericht zivil schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag für den Richter: Tenor-Vorschlag, tragende Gründe in Stichpunkten, Risikohinweise (Beweisrisiko, Verjaehrung, Streitwert), ausdrücklich als Vorschlag zur richterlichen Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

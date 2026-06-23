@@ -111,307 +111,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. art 14 gg eigentum und denkmalschutz
+### 11.1. Art. 14 GG im Denkmalschutz: die Eintragung in die Denkmalliste und die daraus folgenden Erhaltungs-, Duldungs- und Veränderungsverbote sind Inhalts- und Schrankenbestimmung des Eigentums. Skill erklärt Sozialbindung, Zumutbarkeitsgrenze (Rheinland-Pfalz-Besc.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. art 73 gg laenderzustaendigkeit
+### 11.2. Bundesstaatlicher Rahmen des Denkmalschutzes: Denkmalschutz ist keine konkurrierende Bundesmaterie nach Art. 73 oder 74 GG, sondern nach Art. 70 GG ausschließlich Sache der Länder. Skill ordnet, welche Aspekte trotzdem bundesrechtlich überlagert sind (Eigentu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. baden wuerttemberg spezial sachgesamtheiten gesamtanlagen
+### 11.3. Baden-Wuerttembergische Besonderheit: Sachgesamtheiten und Gesamtanlagen nach DSchG-BW. Skill erlaeutert, wie Doerfer, Stadtquartiere und industrielle Bauensembles als zusammenhaengender Schutzgegenstand behandelt werden, welche Beteiligungs- und Anhoerungsre.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. bauordnungsrechtliche schnittstelle
+### 11.4. Verhaeltnis von Denkmalrecht und Bauordnungsrecht in allen sechzehn Laendern: Baugenehmigung und Erlaubnisverfahren laufen regelmaessig parallel. Skill ordnet die Konzentrationswirkung der Baugenehmigung, das Beteiligungsrecht der Denkmalbehoerde, die Sonderf.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. bayern spezial bodendenkmaeler grabungsgenehmigung
+### 11.5. Bayerische Besonderheit: Bodendenkmaeler nach Art. 1 Abs. 4 BayDSchG mit Grabungsgenehmigung nach Art. 7 BayDSchG. Skill ordnet den Anwendungsbereich (jede Erdbewegung in Verdachtsflaechen genehmigungspflichtig), die Beteiligung des Bayerischen Landesamts fue.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. brandenburg spezial schloesser gutsanlagen restitution
+### 11.6. Brandenburgische Besonderheit: Hoher Bestand an Schloessern und Gutsanlagen, oft mit komplexer Eigentumsgeschichte nach Bodenreform 1945-1949 und Mauerfall 1990. Skill ordnet die typische Mandatslage zwischen Restitutionsfragen nach Vermoegensgesetz, denkmalr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. bussgeld ordnungswidrigkeitsverfahren
+### 11.7. Sanktionsregime im Denkmalrecht: Bussgeldtatbestaende der Landesgesetze gegen unerlaubte Veraenderung, Beseitigung oder Verbringung; Schnittstelle zum Ordnungswidrigkeitenrecht nach OWiG; Strafrechtsschnittstelle nach Paragraf 304 StGB (Sachbeschaedigung) bei.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. denkmaleigenschaft feststellen
+### 11.8. Materielle Prüfung der Denkmaleigenschaft im Sinne der Landesgesetze: Sache von künstlerischem, geschichtlichem, wissenschaftlichem, städtebaulichem, volkskundlichem oder technischem Wert, an deren Erhaltung ein öffentliches Interesse besteht. Skill ordnet di.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. denkmalschutz baden wuerttemberg dschg bw
+### 11.9. Denkmalschutzrecht Baden-Württemberg nach dem Gesetz zum Schutz der Kulturdenkmale (DSchG-BW). Skill bündelt zuständige Behörden (Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart), Verfahrensbesonderheiten und Erlaubnistatbestände.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. denkmalschutz bayern baydschg
+### 11.10. Denkmalschutzrecht Bayern nach dem Bayerischen Denkmalschutzgesetz (BayDSchG). Skill bündelt zuständige Behörden (Bayerisches Landesamt für Denkmalpflege in München, Außenstellen, untere Denkmalschutzbehörden bei den Kreisverwaltungsbehörden), das Konzept der.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. denkmalschutz berlin dschg bln
+### 11.11. Denkmalschutzrecht Berlin nach dem Gesetz zum Schutz von Denkmalen in Berlin (DSchG-Bln). Skill bündelt zuständige Behörden (Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt; Landesdenkmalamt Berlin; Untere Denkmalschutzbehörden in den Bezirksä.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. denkmalschutz berlin spezial stadtmauer und mauerweg
+### 11.12. Berliner Besonderheit: Der ehemalige Grenzverlauf der Berliner Mauer und Reste der Stadtmauer als denkmalwerter Erinnerungsort. Skill erlaeutert die landesrechtliche Einordnung, die Pflege der Mauerresten und Gedenksaeulen, das Verhaeltnis zur Gedenkstaettenf.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. denkmalschutz brandenburg bbgdschg
+### 11.13. Denkmalschutzrecht Brandenburg nach dem Brandenburgischen Denkmalschutzgesetz (BbgDSchG). Skill bündelt zuständige Behörden (Ministerium für Wissenschaft, Forschung und Kultur; Brandenburgisches Landesamt für Denkmalpflege in Zossen-Wünsdorf; Untere Denkmalsc.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. denkmalschutz bremen dschgbrem
+### 11.14. Denkmalschutzrecht Freie Hansestadt Bremen nach dem Bremischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Landesamt für Denkmalpflege Bremen, Stadtamt Bremerhaven als untere Denkmalschutzbehörde im Stadtgebiet Bremerhaven) und die Verfahrensbeson.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. denkmalschutz bremen spezial rathaus und roland welterbe
+### 11.15. Bremer Besonderheit: Bremer Rathaus und Roland am Marktplatz sind seit 2004 UNESCO-Welterbe. Skill erlaeutert die Pufferzone, die ICOMOS-Begutachtung, das Verhaeltnis zur Bremischen Bauordnung und die Verfahrenspraxis bei Bauvorhaben in der Pufferzone (Sichta.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. denkmalschutz hamburg dschgha
+### 11.16. Denkmalschutzrecht Freie und Hansestadt Hamburg nach dem Hamburgischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Behörde für Kultur und Medien; Denkmalschutzamt; Bezirksämter als untere Denkmalschutzbehörden) und die Reform der konstitutiven Ein.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. denkmalschutz hessen hdschg
+### 11.17. Denkmalschutzrecht Hessen nach dem Hessischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Hessisches Ministerium für Wissenschaft und Kunst; Landesamt für Denkmalpflege Hessen in Wiesbaden; Untere Denkmalschutzbehörden bei den Landkreisen und krei.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. denkmalschutz mecklenburg vorpommern dschg m v
+### 11.18. Denkmalschutzrecht Mecklenburg-Vorpommern nach dem Denkmalschutzgesetz Mecklenburg-Vorpommern. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft, Kultur, Bundes- und Europaangelegenheiten; Landesamt für Kultur und Denkmalpflege in Schwerin; Unte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. denkmalschutz niedersachsen ndschg
+### 11.19. Denkmalschutzrecht Niedersachsen nach dem Niedersächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft und Kultur; Niedersächsisches Landesamt für Denkmalpflege in Hannover; Untere Denkmalschutzbehörden bei den Landkr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. denkmalschutz nordrhein westfalen dschg nrw
+### 11.20. Denkmalschutzrecht Nordrhein-Westfalen nach dem Denkmalschutzgesetz Nordrhein-Westfalen. Skill bündelt zuständige Behörden (Ministerium für Heimat, Kommunales, Bau und Digitalisierung; LVR-Amt für Denkmalpflege im Rheinland und LWL-Denkmalpflege Westfalen-Lip.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. denkmalschutz rheinland pfalz dschpflg
+### 11.21. Denkmalschutzrecht Rheinland-Pfalz nach dem Denkmalschutz- und -pflegegesetz Rheinland-Pfalz. Skill bündelt zuständige Behörden (Ministerium des Innern und für Sport; Generaldirektion Kulturelles Erbe Rheinland-Pfalz; Untere Denkmalbehörden bei den Landkreise.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. denkmalschutz saarland sdschg
+### 11.22. Denkmalschutzrecht Saarland nach dem Saarländischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Ministerium für Bildung und Kultur; Landesdenkmalamt Saarland; Untere Denkmalschutzbehörden bei den Landkreisen) und die spezifische Industriekultur (V.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. denkmalschutz saarland spezial voelklinger huette welterbe
+### 11.23. Saarlaendische Besonderheit: Voelklinger Huette seit 1994 UNESCO-Welterbe als bedeutendstes Industrie-Welterbe der Eisen- und Stahlproduktion. Skill ordnet die Schutzkonzeption (vollumfaengliche Erhaltung der industriellen Anlagen), die Foerderprogramme des B.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. denkmalschutz sachsen anhalt dschg lsa
+### 11.24. Denkmalschutzrecht Sachsen-Anhalt nach dem Denkmalschutzgesetz des Landes Sachsen-Anhalt. Skill bündelt zuständige Behörden (Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt; Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt in Halle; Un.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. denkmalschutz sachsen sachsdschg
+### 11.25. Denkmalschutzrecht Sachsen nach dem Sächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Sächsisches Staatsministerium für Regionalentwicklung; Landesamt für Denkmalpflege Sachsen in Dresden; Untere Denkmalschutzbehörden bei den Landkreisen und.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. denkmalschutz schleswig holstein dschg sh
+### 11.26. Denkmalschutzrecht Schleswig-Holstein nach dem Denkmalschutzgesetz Schleswig-Holstein. Skill bündelt zuständige Behörden (Ministerium für Allgemeine und Berufliche Bildung, Wissenschaft, Forschung und Kultur; Landesamt für Denkmalpflege Schleswig-Holstein in.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. denkmalschutz thueringen thuerdschg
+### 11.27. Denkmalschutzrecht Thüringen nach dem Thüringer Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Thüringer Staatskanzlei; Thüringisches Landesamt für Denkmalpflege und Archäologie in Erfurt; Untere Denkmalschutzbehörden bei den Landkreisen und kreisfre.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. denkmalschutzrecht schnellstart
+### 11.28. Einstiegsskill für das Denkmalschutzrecht-Plugin. Sortiert das Mandat, klärt Belegenheit des Objekts und damit das anwendbare Landesgesetz, ermittelt Rolle (Eigentümer, Erwerber, Behörde, Nachbar, Förderantragsteller), Fristen und gewünschtes Arbeitsprodukt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. einstieg routing
+### 11.29. Verfahren zur Eintragung eines Objekts in die Denkmalliste. Skill ordnet die typischen Verfahrensschritte (Anhörung, sachverständige Stellungnahme, Eintragungsverfügung, Bekanntgabe), erläutert konstitutive und nachrichtliche Eintragung und liefert eine Verte.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. eintragungsverfahren allgemein
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. enteignung uebernahme und entschaedigung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. erlaubnis pflichtige massnahmen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. erstgespraech mandatsannahme
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. foerderung und steuerliche abschreibung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. grundbegriffe und rechtsquellen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. hamburg spezial speicherstadt kontorhausviertel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. hessen spezial limes bergpark wilhelmshoehe
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. kaltstart triage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. mecklenburg vorpommern spezial backsteingotik stralsund wismar
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. niedersachsen spezial wattenmeer fagus werk
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. nordrhein westfalen spezial zollverein industriekultur
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. quellen livecheck
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. rechtsprechungsanker denkmalrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. rheinland pfalz spezial mittelrheintal schum staetten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. sachsen anhalt spezial bauhaus quedlinburg luther
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. sachsen spezial montanregion erzgebirge muskauer park
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. schleswig holstein spezial luebeck haithabu wattenmeer
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. thueringen spezial wartburg klassisches weimar juedisches erfurt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. unesco welterbe und icomos
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. verfahrensgrundsaetze vwvfg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. widerspruch und klagewege
+### 11.30. Eigentumseingriff im Denkmalrecht: Enteignung nach Art. 14 Abs. 3 GG mit Entschädigung, Übernahmeanspruch der Eigentümerin bei wirtschaftlicher Unzumutbarkeit, Ausgleichszahlungen bei ausgleichspflichtiger Inhaltsbestimmung. Skill ordnet die drei Wege und zei.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

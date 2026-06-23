@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - BGB Paragraf 1671 und Paragraf 1684: elterliche Sorge und Umgang.
 - FamFG Paragraf 38: Beschlussform und Begruendung.
 - VersAusglG Paragraf 1 und Paragraf 10: Grundsatz und interne Teilung.
+- Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 122-124 FamFG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 137 FamFG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 76 FamFG Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 76 FamFG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 23b GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 111 FamFG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 1601 ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,67 +119,61 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 zustaendigkeit und zuteilung familiensache
+### 11.1. Prüfung Zuständigkeit Paragraf 23a Abs. 1 Nr. 1 GVG i.V.m. Paragraf 23b GVG, örtliche Zuständigkeit Paragrafen 122-124 FamFG, Geschaeftsverteilung; Verbund Paragraf 137 FamFG bei Scheidung; Verfahrenskostenhilfe Paragraf 76 FamFG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 ehesache scheidung paragraf 1565
+### 11.2. Scheidungsverfahren Paragrafen 1564 ff. BGB i.V.m. Paragrafen 121 ff. FamFG: Trennungsjahr Paragraf 1566, Zerruettung Paragraf 1565, Versorgungsausgleich Paragraf 1587, Folgesachen Paragraf 137 FamFG (Unterhalt, Sorgerecht, Zugewinn, Hausrat, Ehewohnung)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 versorgungsausgleich vorbereiten
+### 11.3. Versorgungsausgleich nach VersAusglG: Auskuenfte der Versorgungstraeger einholen, Ehezeit feststellen Paragraf 3 VersAusglG, Anrechte ausgleichen Paragrafen 9-17 VersAusglG, Geringfuegigkeit Paragraf 18, Beschlussentwurf
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 kindschaftssache elterliche sorge
+### 11.4. Sorgerechtsverfahren Paragrafen 1626 ff. BGB i.V.m. Paragrafen 151 ff. FamFG: Kindeswohlprüfung (Bindungs-, Foerder-, Kontinuitaetsprinzip, Kindeswille), Anhörung des Kindes Paragraf 159 FamFG, Verfahrensbeistand Paragraf 158, Eilanordnung Paragraf 49 FamFG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 umgangsrecht paragraf 1684 bgb
+### 11.5. Umgangsverfahren Paragraf 1684 BGB i.V.m. Paragrafen 156 ff. FamFG: Wohl des Kindes, begleiteter Umgang, Umgangspflegschaft Paragraf 1684 Abs. 3, Vermittlungsverfahren Paragraf 165 FamFG, Eilanordnung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 kindesunterhalt duesseldorfer tabelle
+### 11.6. Kindesunterhalt Paragrafen 1601 ff. BGB: Bedürftigkeit, Leistungsfähigkeit (Selbstbehalt nach Leitlinien), Duesseldorfer Tabelle als Hilfsmittel, Mangelfall, Unterhaltstitel Paragraf 1612a (dynamischer Titel)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 ehegattenunterhalt trennung und nachehe
+### 11.7. Trennungsunterhalt Paragraf 1361 BGB und nachehelicher Unterhalt Paragrafen 1569 ff. BGB: Anspruchsgrundlagen (Betreuungs-, Alters-, Krankheits-, Aufstockungsunterhalt), Befristung und Begrenzung Paragraf 1578b, Verwirkung Paragraf 1579
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 gewaltschutz und eilanordnung
+### 11.8. Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kontakt), Wohnungszuweisung Paragraf 2, Eilbeschluss Paragraf 214 FamFG, sofortige Wirksamkeit Paragraf 209 FamFG, Strafbewehrung Paragraf 4 GewSchG
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 beschluss familiensache paragraf 38 famfg
+### 11.9. Beschluss in Familiensache Paragraf 38 FamFG: Tenor, Sachverhalt (knapp), Gründe, Nebenentscheidungen FamGKG-Wert und Verteilung Paragrafen 80 ff. FamFG, Rechtsmittelbelehrung Beschwerde Paragrafen 58 ff. FamFG, Rechtsbeschwerde Paragraf 70
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 entscheidungsvorschlag familienrichter
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.11. richter familiengericht schnellstart
+### 11.10. Strukturierter Entscheidungsvorschlag für den Familienrichter: Tenor-Skizze (Scheidungsausspruch, Folgesachen, Sorge/Umgang/Unterhalt), Kindeswohlerwaegungen, Risikohinweise (insbesondere bei Eilanordnungen), ausdrücklich zur richterlichen Prüfung markiert
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

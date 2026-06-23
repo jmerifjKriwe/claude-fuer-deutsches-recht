@@ -64,6 +64,9 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 339 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 307 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 74 HGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +114,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. abmahnung pruefen datenbankrecht
+### 11.1. Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (Paragraf 87a Abs. 2 UrhG), Verletzungstatbestand (Paragraf 87b UrhG), Vollständigkeitscheck der Unterlassungserklärung, Verjährung, Vertragsstrafe-Angemessenheit (Paragra.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. agb auskunft rechnungslegung
+### 11.2. Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: Paragraf 307 BGB-Inhaltskontrolle für Nutzungsverbote, abrufen-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüb.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. agrar logistik cyberincident
+### 11.3. Datenbankrecht für Agrar- und Sensordaten: Paragrafen 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und Datens.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. api nutzung rate limits und vertragsbruch
+### 11.4. Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu Paragrafen 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-N.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. auskunft rechnungslegung schadensschaetzung
+### 11.5. Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach Paragrafen 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. b2b kundendaten datenbank insolvenz als
+### 11.6. Analysiert Datenbankherstellerrecht (Paragrafen 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie Datenschutz-Grundverordnung-Pflichten bei.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. backup export und vendor lock
+### 11.7. Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: Paragraf 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strateg.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. beweissicherung durch testabrufener
+### 11.8. Rechtssichere Beweissicherung durch Testabrufener bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testabrufeners zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu Paragraf.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. cease and abmahnung pruefen datenbankvergleich
+### 11.9. Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach Paragraf 97a UrhG: Anforderungen an wirksame Abmahnung (Verletzungshandlung, Fristsetzung, Unterlassungsforderung, Schadensersatz), Kostenerstattung und Missbrauchsprüfung. Erstellt Abmahnschreiben fü.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. data act bei backup export
+### 11.10. Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu Paragrafen 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. datenbank als kreditsicherheit due diligence
+### 11.11. Bewertet Datenbankrechte (Paragrafen 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Siche.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. datenbank in insolvenz asset deal und rechtekette
+### 11.12. Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (Paragrafen 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und Datenschutz-Grundverordnung-Pflichten bei.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. datenbankherstellerrecht gegen ex mitarbeiter
+### 11.13. Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: Paragraf 87b UrhG bei Datenexport, GeschGehG Paragraf 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (Paragraf 74 HGB), Herausgabe- und Unterlassungsansprüch.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. datenbankherstellerrecht wesentliche investition
+### 11.14. Analysiert das sui-generis-Datenbankherstellerrecht nach Paragrafen 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionspr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. datenbanklizenz entwurf nutzungsumfang und abrufen
+### 11.15. Entwurf und Prüfung von Datenbanklizenzen nach Paragrafen 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), abrufen-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wir.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. datenbankrecht abschlussmemo
+### 11.16. Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach Paragrafen 87a-87e UrhG und Paragraf 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-5.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. datenbankrecht app store und app daten
+### 11.17. Datenbankrecht für App Stores und App-Datenbanken: Paragrafen 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und abrufenr, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store un.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. datenbankrecht bei finanzmarktdaten
+### 11.18. Datenbankrecht für Finanzmarktdaten: Paragrafen 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. datenbankrecht bei saas und cloudmigration
+### 11.19. Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (Paragraf 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 2.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. datenbankrecht im logistik tracking
+### 11.20. Datenbankrecht für Logistik-Tracking-Datenbanken: Paragrafen 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und Datenschutz-Grundverordnung-Anforderung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. datenbankrecht im verlag
+### 11.21. Datenbankrecht für Verlage: Paragrafen 87a-87e UrhG für Volltextdatenbanken und digitale Verlagsarchive, Verhältnis zu Verlegerbeteiligungsrecht (Paragraf 87k UrhG neu), TDM-Opt-out für Verlagswerke (Paragraf 44b Abs. 3 UrhG), Datenbanklizenzen für Aggregator.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. datenbankrecht informationsfreiheit
+### 11.22. Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankherstellerinnen nach Paragraf 87a UrhG, Verhältnis zu Paragraf 5 UrhG (amtliche Werke), IWG-Weiterverwendungspflichten, Open-Data-RL 2019/1024 und Datenschutz-Grundverordnung-Anforderu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. datenbankrecht schnellstart
+### 11.23. Beratung bei Cyberangriffen und Datenbankexfiltration: Prüfung nach Paragrafen 87a-87e UrhG (Herstellerrecht), Paragraf 202a StGB (Datenzugang), Datenschutz-Grundverordnung Art. 33-34 (Meldepflicht), NIS2-RL 2022/2555, KRITIS-Dachgesetz. Mandant erlitt Ransom.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. datenbankrecht und cyberincident
+### 11.24. Analysiert das Verhältnis von Datenbankherstellerrecht (Paragrafen 87a-87e UrhG) und Datenschutz-Grundverordnung bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 Datenschutz-Grundverordnung) vs. Datenbankschutz, Ano.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. datenbankrecht und datenschutz personenbezogene datensaet
+### 11.25. Analysiert das Verhältnis zwischen Datenbankherstellerrecht (Paragrafen 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (Paragra.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. datenbankrecht und geschaeftsgeheimnis
+### 11.26. Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (Paragraf 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Ge.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. datenbankrecht und informationsfreiheit
+### 11.27. Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: Paragrafen 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (Paragrafen 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze so.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. datenbankrecht und machine learning features
+### 11.28. Text-und-Data-Mining-Schranken im Datenbankrecht: Paragrafen 44b und 60d UrhG als Schranken gegenüber Paragraf 87b UrhG (Paragraf 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderun.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. datenbankrecht und text and data mining schranken
+### 11.29. Datenbankrecht im Urhebervertragsrecht: Paragrafen 31-44 UrhG für Datenbankwerke (Paragraf 4 Abs. 2 UrhG) — Einräumung und Rückruf von Nutzungsrechten, angemessene Vergütung (Paragraf 32 UrhG), Bestseller-Klausel (Paragraf 32a UrhG) und Verlagsrecht. Abgrenzu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. datenbankrecht und urhebervertragsrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. datenbankrecht werk herstellerrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. datenbankrechte bei schul und hochschuldaten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. datenbankvergleich und bereinigungsplan
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. datenbankwerk schoepferische
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. datenqualitaet haftung und gewaehrleistung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. db 001 kaltstart datenbankrecht werk oder herstellerrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. db 002 datenbankwerk schoepferische auswahl oder anordnung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. db 003 datenbankherstellerrecht wesentliche investition
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. db 004 wesentlicher teil qualitativ quantitativ bestimmen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. db 005 unwesentliche teile wiederholte systematische entnahme
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. db 006 abrufen website datenbank und robots txt
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. db 007 api nutzung rate limits und vertragsbruch
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. db 008 ki training mit datenbankbestand
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. db 009 datenbanklizenz entwurf nutzungsumfang und abrufen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. db 010 open data portal und nutzungsbedingungen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. db 011 datenbankrecht und geschaeftsgeheimnis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. db 012 datenbankrecht datenschutz personenbezogen daten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. db 013 sportdaten live daten fixtures und ergebnislisten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. db 014 immobiliendaten portal und lead datenbank
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. db 015 produktdaten pim datenkatalog hersteller
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. db 016 preisvergleich abrufener und plattformvertrag
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. db 017 b2b kundendaten crm export durch mitarbeiter
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. db 018 datenbank in insolvenz asset deal und rechtekette
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. db 019 datenbank als kreditsicherheit due diligence
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. db 020 oeffentliche register handelsregister grundbuch
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. db 021 wissenschaftsdaten forschungsdatenbank
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. db 022 kartendaten geodaten und luftbilder
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. db 023 ticketingdaten veranstaltungsdaten und kalender
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. db 024 stellenanzeigen jobportal und abrufen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. db 025 rezeptdaten gesundheitsdaten und sozialdaten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. db 026 datenbankrecht im e commerce marktplatz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. db 027 verletzung doku hashlog screenshot abrufen protokoll
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. db 028 einstweilige verfuegung datenbankrecht dringlichkeit
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. db 029 auskunft rechnungslegung schadensschaetzung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. db 030 lizenzanalogie und unterlassungsvertrag
+### 11.30. 'Einstiegs-Skill für Mandantenfälle im Datenbankrecht: Weichenstellung zwischen Datenbankwerk (Paragraf 4 Abs. 2 UrhG) und sui-generis-Herstellerrecht (Paragrafen 87a-87e UrhG / RL 96/9/EG). Erhebt Sachverhalt, klärt Schutzrichtung, benennt EuGH-Leitentscheid.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

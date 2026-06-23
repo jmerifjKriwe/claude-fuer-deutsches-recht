@@ -64,6 +64,9 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragraf 80 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 80 Abs. 5 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 123 Abs. 1 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +114,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. aktenzugang geschaeftsgeheimnisse schwaerzung
+### 11.1. zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. anhoerung auskunftsbeschluss digital services
+### 11.2. zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. beschwerde verbraucher unternehmen verband
+### 11.3. zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. bundesnetzagentur verfahren schnellstart
+### 11.4. Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. digital services algorithmen
+### 11.5. Digital Services / Außergerichtliche Streitbeilegungsstelle DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. digital services aussergerichtliche streitbeilegungsstelle dsa
+### 11.6. Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. digital services dark patterns dsa schnittstelle
+### 11.7. Digital Services / Datenzugang Forscher DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. digital services datenzugang forscher dsa
+### 11.8. Digital Services / Digital Services Coordinator DDG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. digital services digital services coordinator ddg
+### 11.9. Digital Services / DSA Beschwerde Plattform: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. digital services dsa beschwerde plattform
+### 11.10. Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. digital services melde und abhilfeverfahren notice and action
+### 11.11. Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. digital services nationale koordinierung dsa behoerden
+### 11.12. Digital Services / Online-Werbung Transparenz DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. digital services online werbung transparenz dsa
+### 11.13. Digital Services / Trusted Flagger Anerkennung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. digital services trusted flagger anerkennung
+### 11.14. Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. digital services vlop vlose koordination eu kommission
+### 11.15. Verfahren / Eilrechtsschutz Paragraf 80 VwGO: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis im BNetzA-Ver.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. eilrechtsschutz vwgo festlegungsverfahren
+### 11.16. zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. eilverfahren verwaltungsgericht strategie
+### 11.17. Eisenbahn / Anreizsetzung Schiene: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. eisenbahn anreizsetzung schiene
+### 11.18. Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. eisenbahn baumassnahmen und sperrpausen
+### 11.19. Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. eisenbahn beschwerde evu gegen infrastrukturbetreiber
+### 11.20. Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065 im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. eisenbahn digital services trusted flagger
+### 11.21. Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. eisenbahn eisenbahnregulierung eregg
+### 11.22. Eisenbahn / Entgeltregulierung Schiene: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. eisenbahn entgeltregulierung schiene
+### 11.23. Eisenbahn / Kapazitätskonflikt Fahrplan: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. eisenbahn kapazitaetskonflikt fahrplan
+### 11.24. Eisenbahn / Netznutzungsbedingungen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. eisenbahn netznutzungsbedingungen
+### 11.25. Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. eisenbahn regulierungsvereinbarung db netz infrago
+### 11.26. Eisenbahn / Serviceeinrichtungen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. eisenbahn serviceeinrichtungen
+### 11.27. Eisenbahn / Stationszugang: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. eisenbahn stationszugang
+### 11.28. Eisenbahn / Stilllegung Infrastruktur Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. eisenbahn stilllegung infrastruktur schnittstelle
+### 11.29. Eisenbahn / Trassenzugang: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. eisenbahn trassenzugang
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. energie anreizregulierung erloesobergrenze
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. energie bbplg leitungsvorhaben bilanzkreis
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. energie bilanzkreis gas
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. energie bilanzkreis strom
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. energie eeg netzanschluss einspeisemanagement
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. energie energieverbraucher beschwerde
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. energie fernwaerme schnittstelle soweit bnetza nicht zustaendig
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. energie grosshandelsdaten transparenz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. energie grosshandelsdaten transparenz rechtsmittel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. energie grundversorgung ersatzversorgung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. energie kapazitaetsvergabe gas kwkg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. energie kwkg zuschlaege
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. energie ladesaeulen elektromobilitaet
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. energie ladesaeulen elektromobilitaet rechtsmittel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. energie lieferantenwechsel energie
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. energie messstellenbetrieb msbg smart meter
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. energie messstellenbetrieb smart meter fristen bescheid
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. energie nabeg planfeststellung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. energie netzanschluss gas
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. energie netzanschluss strom
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. energie netzentgelte gas strom offshore
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. energie netzentgelte strom
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. energie offshore netzanbindung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. energie redispatch 2 0
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. energie regelenergie
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. energie regulierungsakte anreizregulierung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. energie regulierungsakte anreizregulierung erloesobergrenze fris
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. energie regulierungsakte anreizregulierung erloesobergrenze rech
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. energie regulierungsakte anreizregulierung erloesobergrenze stel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. energie regulierungsakte bbplg leitungsvorhaben fristen und besc
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. energie regulierungsakte bbplg leitungsvorhaben rechtsmittel che
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. energie regulierungsakte bbplg leitungsvorhaben stellungnahme en
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. energie regulierungsakte bbplg leitungsvorhaben unterlagenanford
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. energie regulierungsakte bilanzkreis gas rechtsmittel check
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. energie regulierungsakte bilanzkreis gas stellungnahme entwurf
+### 11.30. Energie / Anreizregulierung Erlösobergrenze: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT im BNetzA-Verfahre.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

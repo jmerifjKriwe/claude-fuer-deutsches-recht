@@ -111,391 +111,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 074 offshore schiff arrest vorbereiten
+### 11.1. Offshore-Schiff: Gläubiger sichert Anspruch an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender durch dinglichen Arrest (ZPO Paragrafen 916-945); Registervermerk (SchRegO Paragraf 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. auslandsflagge local insolvenz reederei
+### 11.2. Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel für Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG Paragrafen 1-10 (Deutsche Flagge); ISM-Code.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. bergung und wrack
+### 11.3. Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB Paragrafen 574-583 (Bergung); WSG Paragrafen 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalku.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. bermuda struktur seeschiff
+### 11.4. Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB Paragrafen 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG Paragrafen 7-14); BFH-Rechtsprechung; ISM-Cod.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. binnenschiff arrest wrackpflicht
+### 11.5. Binnenschiff: Gläubiger sichert Anspruch an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff durch dinglichen Arrest (ZPO Paragrafen 916-945); Registervermerk (SchRegO Paragraf 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Underta.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. binnenschiff closing planen
+### 11.6. Binnenschiff: Closing eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG Paragraf 2); Hypothekenloesung (SchRG Paragraf 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. binnenschiff hypothek bestellen
+### 11.7. Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG Paragrafen 1-133; SchRG Paragrafen 1-75 für eingetragene Binnenschi.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. binnenschiff kaufvertrag scopen
+### 11.8. Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. binnenschiff klagepfad risiko
+### 11.9. Binnenschiff: Gläubiger oder Reeder waehlt Klagepfad bei Streit um Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Zwangsversteigerung (ZPO Paragrafen 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klag.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. binnenschiff local counsel instruieren
+### 11.10. Binnenschiff: Ausländischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. binnenschiff register pruefen
+### 11.11. Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prüft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG Paragrafen 1-133; SchRG Paragrafen 1-75 für eingetragene Binnensch.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. binnenschiff risiko memo schreiben
+### 11.12. Binnenschiff: Gesamtrisikobewertung für Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. Bi.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. binnenschiff versicherung melden
+### 11.13. Binnenschiff: Schadensereignis an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG Paragrafen 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. binnenschiff wrackpflicht pruefen
+### 11.14. Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG Paragrafen 1-12 für gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordinati.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. charterparty arrest vorbereiten
+### 11.15. Charterparty: Gläubiger sichert Anspruch an Gechartertes Seeschiff unter Charterparty durch dinglichen Arrest (ZPO Paragrafen 916-945); Registervermerk (SchRegO Paragraf 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als A.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. charterparty closing planen
+### 11.16. Charterparty: Closing eines Gechartertes Seeschiff unter Charterparty-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG Paragraf 2); Hypothekenloesung (SchRG Paragraf 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. charterparty einordnen fracht
+### 11.17. Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB Paragrafen 527-569. Prüft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-R.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. charterparty hypothek bestellen
+### 11.18. Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer bestellt Schiffshypothek als Sicherheit für Finanzierung eines Gechartertes Seeschiff unter Charterparty. HGB Paragrafen 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. charterparty kaufvertrag scopen
+### 11.19. Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer scopet Kaufvertrag für Gechartertes Seeschiff unter Charterparty: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus. HGB.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. charterparty klagepfad waehlen
+### 11.20. Charterparty: Gläubiger oder Reeder waehlt Klagepfad bei Streit um Gechartertes Seeschiff unter Charterparty: Zwangsversteigerung (ZPO Paragrafen 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Anal.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. charterparty local closing planen
+### 11.21. Charterparty: Ausländischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Gechartertes Seeschiff unter Charterparty im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prior.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. charterparty register hypothek bestellen
+### 11.22. Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer prüft Seeschiffsregister bleibt beim Reeder; kein Charter-Register auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB Paragrafen 527-569 Reise- und Zeitfrachtvertra.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. charterparty versicherung melden
+### 11.23. Charterparty: Schadensereignis an Gechartertes Seeschiff unter Charterparty melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG Paragrafen 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Me.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. charterparty wrackpflicht pruefen
+### 11.24. Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG Paragrafen 1-12 für gesunkenes Gechartertes Seeschiff unter Charterparty. Versicherungspflicht ab 300 BRZ; Behördenkoordination.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. containerschiff arrest vorbereiten
+### 11.25. Containerschiff: Gläubiger sichert Anspruch an Containerlinienfrachtschiff durch dinglichen Arrest (ZPO Paragrafen 916-945); Registervermerk (SchRegO Paragraf 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. containerschiff closing planen
+### 11.26. Containerschiff: Closing eines Containerlinienfrachtschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG Paragraf 2); Hypothekenloesung (SchRG Paragraf 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. containerschiff hypothek bestellen
+### 11.27. Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bestellt Schiffshypothek als Sicherheit für Finanzierung eines Containerlinienfrachtschiff. HGB Paragrafen 481-526 Stueckgutfracht; SchRG Paragrafen 8-75; ISPS-Code; SOLAS Kap. X.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. containerschiff kaufvertrag scopen
+### 11.28. Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus. HGB Paragra.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. containerschiff klagepfad waehlen
+### 11.29. Containerschiff: Gläubiger oder Reeder waehlt Klagepfad bei Streit um Containerlinienfrachtschiff: Zwangsversteigerung (ZPO Paragrafen 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erl.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. containerschiff local closing planen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. containerschiff register hypothek
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. containerschiff risiko memo schreiben
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. containerschiff versicherung melden
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. containerschiff wrackpflicht pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. dokumenten cockpit schiff
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. fracht und konnossement
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. hafenrecht und liegegeld
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. havarie und kollision
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. insolvenz der reederei
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. itlos hamburg und unclos
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. kaltstart schifffahrtsmandat
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. kaltstart triage
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. konnossement arrest vorbereiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. konnossement closing planen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. konnossement hypothek bestellen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. konnossement kaufvertrag scopen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. konnossement klagepfad waehlen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. konnossement local counsel instruieren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. konnossement register pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. konnossement risiko memo schreiben
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. konnossement versicherung local counsel
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. konnossement wrackpflicht pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. kreuzfahrtschiff arrest vorbereiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. kreuzfahrtschiff closing planen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. kreuzfahrtschiff hypothek bestellen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. kreuzfahrtschiff kaufvertrag scopen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. kreuzfahrtschiff klagepfad waehlen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. kreuzfahrtschiff local counsel instrui
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. kreuzfahrtschiff register pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. kreuzfahrtschiff risiko
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. kreuzfahrtschiff versicherung melden
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. kreuzfahrtschiff wrackpflicht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. offshore schiff arrest vorbereiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. offshore schiff binnenschiff
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. offshore schiff klagepfad waehlen
+### 11.30. Containerschiff: Ausländischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Containerlinienfrachtschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenlist.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

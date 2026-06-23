@@ -111,199 +111,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. datenschutz dsgvo im lizenzvertrag
+### 11.1. Datenschutz-Grundverordnung im Lizenzvertrag: Auftragsverarbeitung Art. 28 Datenschutz-Grundverordnung; Kundendaten als Lizenz-Inhalt; Drittlands-Uebermittlungen Art. 44 ff. Datenschutz-Grundverordnung; SCCs Schrems II Folgen; Joint Controllership Art. 26 Dat.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. einstieg routing
+### 11.2. Anwalts-Dashboard fuer den Lizenzvertragsersteller: Sofort-Triage (IP-Typ, Parteien, Sprache, Rechtswahl), Risiko-Ampel, Anschluss-Skill-Router, Norm-Radar, Leitentscheidungs-Anker; maximal eine Rueckfrage.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. escrow quellcode verwahrer vereinbarung
+### 11.3. Source-Code-Escrow-Vereinbarung: drei-Parteien-Vertrag Lizenzgeber - Lizenznehmer - Escrow-Agent; Hinterlegungsumfang; Release-Trigger (Insolvenz, Wartungsausfall); Aktualisierungspflicht; bekannte Escrow-Anbieter; insolvenzfeste Gestaltung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. exportkontrolle dual use eu 2021 821
+### 11.4. Exportkontrolle bei Lizenzvertraegen: VO (EU) 2021/821 (Dual-Use); AWG / AWV; Embargo-/Sanktions-Listen; Technologie-Transfer als genehmigungspflichtige Ausfuhr; Cloud-Lizenzen mit Cross-Border-Datenzugriff.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. insolvenz fortbestand paragraf 103 inso lizenz
+### 11.5. Insolvenzfestigkeit von Lizenzen $ 103 InsO: Wahlrecht des Verwalters, BGH-Linie zur Lizenz-Behandlung bei Lizenzgeber-Insolvenz; Sicherungslizenz; Escrow als praktische Loesung; Vertragsklauseln zur Vermeidung der Wahl.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. ip identifikation und bestandsaufnahme
+### 11.6. IP-Identifikation und Bestandsaufnahme fuer Lizenzvertraege: Schutzrechtsregister-Auszug, Klassifikation nach Typ (Urheber Patent Marke Design Gebrauchsmuster Geschäftsgeheimnis), Belastungen, Erfindervergutung, Lizenzhistorie, IP-Inventar als Anlage A.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. kartellrecht tt gvo eu 316 2014
+### 11.7. Kartellrecht im Lizenzvertrag: TT-GVO VO (EU) 316/2014 Technologietransfer-Gruppenfreistellung; Marktanteilsschwellen 20 / 30 Prozent; Kernbeschraenkungen Art. 4; nicht-freigestellte Beschraenkungen Art. 5; Schranken bei vertikalen Vertraegen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. klausel exklusivitaet sole non exclusive
+### 11.8. Exklusivitaetsklauseln: ausschliessliche Lizenz (mit / ohne Selbstnutzung Lizenzgeber), Sole License, einfache Lizenz, Most-Favoured-Customer-Klauseln; kartellrechtliche Schranken TT-GVO.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. klausel haftung gewaehrleistung indemnification
+### 11.9. Haftungs- und Gewaehrleistungsklauseln im Lizenzvertrag: Inhaberschaftsgarantie, Patent-Marketability, IP-Infringement-Indemnification, Haftungshoechstgrenzen, Ausschluesse fuer Vorsatz und grobe Fahrlaessigkeit, Drittansprueche.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. klausel lizenzgegenstand und anlage ip liste
+### 11.10. Klausel Lizenzgegenstand mit Anlage A (IP-Liste): pro IP-Typ Identifikation, Schutzrechtsregister-Nummern, Schutzgebiete, Lebensdauer, Belastungen; mit Praezisierungstechniken (Patente per Anspruch, Marken per Nizza-Klasse, Software per Repository-Hash).
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. klausel lizenzumfang territorium zeit feld
+### 11.11. Lizenzumfang-Klausel: territorial (Schutzgebiete), zeitlich (Laufzeit, Beendigung), Anwendungsfeld (Field of Use). Mit Beispielklauseln fuer enge und weite Fassungen, Zweckuebertragungstheorie $ 31 V UrhG.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. klausel mindestlizenzen meldungen abrufen
+### 11.12. Mindestlizenzen, Reporting, abrufen-Recht: Berichtspflichten quartalsweise, jaehrliche Prüfer-abrufen, Strafzinsen bei Verzug, Beschraenkung abrufen-Frequenz. Mit Mustertext und Eskalationsstufen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. klausel rechtswahl gerichtsstand schiedsklausel
+### 11.13. Rechtswahl-, Gerichtsstands- und Schiedsklauseln im Lizenzvertrag: Rom-I-VO Art. 4, deutsches Recht, Schweizer Recht, English Law, NY Law; ICC, DIS, LCIA, Stockholm Schiedsklauseln; Mediation-Vorschaltung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. klausel unterlizenzen sublicensing
+### 11.14. Sublizenz-Klauseln $ 35 UrhG: Zustimmung des Lizenzgebers, Konzern-Sublizenzen ohne Zustimmung, Sub-Royalty-Beteiligung, Kettendurchgriff, Haftungskette bei Sub-Lizenznehmer-Versagen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. klausel verbesserungen grant back
+### 11.15. Grant-Back-Klauseln fuer Verbesserungen und Weiterentwicklungen: Pflichtmeldung; nicht-ausschliessliches vs. ausschliessliches Grant-Back; Field-of-Use-Trennung; kartellrechtliche Grenzen TT-GVO Art. 5.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. klausel verguetung pauschale royalty tiered
+### 11.16. Verguetungsmodelle: Pauschale (Lump Sum), Running Royalty (Stueck / Umsatz / Gewinn), Tiered Royalties (sinkende Raten mit steigendem Umsatz), Mindestlizenzgebuehren, Front Loaded Payments. Mit Rechen-Beispielen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. klausel vertragsdauer kuendigung rueckwirkung
+### 11.17. Vertragsdauer-Klauseln: feste Laufzeit, unbefristet mit Kuendigung, Verlaengerungsautomatik (Roll-over), ordentliche und ausserordentliche Kuendigung, Folgen Beendigung (Rueckgabe, Vertraulichkeit überhang, Lizenz-Nachwirkung).
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. klausel vertraulichkeit und nda interimsphase
+### 11.18. Vertraulichkeitsklausel im Lizenzvertrag sowie NDA fuer Interimsphase vor Vertragsschluss: Definition vertraulicher Informationen, Ausnahmen (oeffentlich, schon bekannt), Dauer (5 Jahre nach Vertragsende), Beweislast, Rueckgabepflicht, vertragsstrafen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. lizenz gebrauchsmuster gebrmg
+### 11.19. Gebrauchsmusterlizenzen nach GebrMG: kleine Schwester des Patents, ohne Prüfverfahren; Schutzdauer 10 Jahre; eintragungsbeduerftiges Recht; Erfindungshoehe geringer als Patent; Zweigutachten-Strategie (parallel zu Patent).
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. lizenz geschaeftsgeheimnis knowhow geschgehg
+### 11.20. Lizenz von Geschäftsgeheimnissen und Know-how nach GeschGehG: $$ 1-12 GeschGehG; Schutzmassnahmen $ 2 Nr. 1b; Reverse Engineering $ 3; Sphaeren-Trennung; Know-how-Lizenz mit Vertraulichkeitsklauseln und Sanktionsregelungen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. lizenz geschmacksmuster design designg
+### 11.21. Designlizenzen nach DesignG (frueher GeschmacksmusterG): $ 31 DesignG Uebertragung und Lizenz; Eintragung DPMA/EUIPO; Schutzdauer max 25 Jahre; EU-Gemeinschaftsgeschmacksmuster GGV 6/2002; nicht eingetragenes Gemeinschaftsgeschmacksmuster (3 Jahre Schutz).
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. lizenz marke markeng
+### 11.22. Markenrechtslizenzen nach MarkenG $ 30: Qualitaetskontrolle, Bezeichnungspflicht, Eintragungspflicht im DPMA-Register $ 30 III, Erloeschen nicht-genutzter Marken $ 26, EU-Marken EUIPO. Mit Klauselbausteinen Qualitaetskontrolle.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. lizenz patent patg
+### 11.23. Patentlizenzen nach PatG und EPUe: $$ 9 und 15 PatG Lizenz; Erfinderbenennung $ 63 PatG; ArbnErfG Arbeitnehmererfindergesetz; Zwangslizenz $ 24 PatG; Patent-Pool und FRAND-Lizenz; TT-GVO als Kartellfreistellung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. lizenz urheberrecht und software urhg
+### 11.24. Urheberrechts- und Software-Lizenzen nach UrhG: $ 31 ff. UrhG einfache und ausschliessliche Nutzungsrechte, $ 32 angemessene Verguetung, $ 32a Bestseller-Klausel, $ 69a-g UrhG Computerprogramme, $ 137l UrhG unbekannte Nutzungsarten. Mit Klauselbausteinen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. lizenzvertragsersteller schnellstart
+### 11.25. Mandatsannahme fuer Lizenzvertragsersteller: Konfliktcheck (mehrseitige Vertretung im IP-Verkehr ist Standardrisiko), Mandantenbasisdaten, Ziel- und Eilfristanalyse, Vorvertragspruefung (NDA, LOI, MOU), Dokumenten-Intake-Liste.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. mandat intake und konfliktpruefung
+### 11.26. Output: vollstaendiger Lizenzvertragsentwurf in deutscher Sprache. Praeambel; 19 Paragraphen; Anlagen A-E; Unterschriftenseite. Aus den Klausel-Bausteinen zusammengestellt; modular je nach IP-Typ und Konstellation.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. output vertrag deutsch fertigentwurf
+### 11.27. Output: vollstaendiger Lizenzvertrag in englischer Sprache (Licence Agreement). Standard-Klauseln in English Law / German-Law-Variante; Royalty / Sublicensing / Indemnification / Governing Law / Arbitration. Bilingual-faehig.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. output vertrag englisch fertigentwurf
+### 11.28. Output: zweisprachiger Lizenzvertrag mit Massgeb-Sprache. Side-by-side DE/EN; Massgeb-Klausel bei Divergenz; sprachliche Sorgfalt; Glossar; Vorteile und Risiken bilingualer Gestaltung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. output zweisprachig bilingual deutsch englisch
+### 11.29. Rollenmatrix fuer Lizenzvertraege: Lizenzgeber, Lizenznehmer, Sicherheitengeber, Sicherheitennehmer, Verwahrer (Source-Code-Escrow), Konzernlizenzen, Cross-License. Mit Klärungs-Checkliste pro Rolle.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. parteienrolle klaeren lizenzgeber nehmer sicherheiten verwahrer
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. sicherungslizenz pfandrecht an immaterialguetern
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. steuern quellensteuer und dba lizenz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. transaktionsstruktur visualisieren ascii
+### 11.30. Sicherungslizenz und Pfandrecht an Immaterialguetern: Verpfaendung von Patenten/Marken nach $$ 1273 ff. BGB analog; Sicherungsabtretung; aufschiebend bedingte Lizenz; Verwertung im Sicherungsfall; Eintragungsfaehigkeit DPMA.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

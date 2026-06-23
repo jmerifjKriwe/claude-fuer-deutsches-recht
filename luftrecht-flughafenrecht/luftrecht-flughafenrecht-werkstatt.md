@@ -64,6 +64,9 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragrafen 864-871 LuftFzgG Paragrafen 22-28 Zwangsversteigerung Arrestantrag ZPO Paragraf 917 Cape-Town-Remedies Art. 8 und InsO Paragraf 89 Vollstreckungsspe.: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 64 AG Braunschweig LuftFzgG und ICAO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 808 Mobiliarpfaendung ZPO Paragrafen 828 ff. Forderungspfaendung InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +114,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. acc3 dashboard bauen
+### 11.1. ACC3-Carrier braucht Compliance-Dashboard: Designierungsstatus Validierungsgueltigkeit RA3/KC3-Datenbank Sicherheitsfindings. Skill strukturiert Datenquellen EU-Datenbanken EU-DVO 2015/1998 und liefert befuellbares Compliance-Dashboard im Luftrecht Flughafenr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. acc3 genehmigung sicherheitsauflage
+### 11.2. ACC3-Carrier prüft Designierungsstatus und ob alle erforderlichen Genehmigungen für Drittland-Fracht-Betrieb vorliegen. Prüft EU-DVO 2015/1998 EU-VO 300/2008 Validierungsgueltigkeit und LuftVG-Betriebsgenehmigung und liefert Genehmigungsstatus-Vermerk im Luft.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. acc3 insolvenzrisiko markieren
+### 11.3. ACC3-Carrier zeigt Insolvenzzeichen. Prüft InsO Paragrafen 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel für Gläubiger und Geschäftspartner des ACC3-Carriers im Luftrecht Flughafenrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. acc3 local counsel briefen
+### 11.4. Deutsches Kanzleiteam muss ausländischen Anwalt für ACC3-Mandat briefen: Designierungsverlust Sicherheitsauflage oder Carrier-Insolvenz. Skill erstellt englisches Briefing-Memo mit EU-Sicherheitsrecht und konkreten Fragen im Luftrecht Flughafenrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. acc3 mandantenmemo slot register
+### 11.5. Anwalt schreibt Mandantenmemo für ACC3-Carrier zu Designierungsverlust Sicherheitsauflage Insolvenznaehe oder Validierungsfehler. Skill strukturiert Memo mit Sachverhalt EU-Sicherheitsrecht Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. acc3 pfaendung planen
+### 11.6. Gläubiger will Frachtflugzeuge eines ACC3-Carriers pfaenden. Prüft ZPO Paragrafen 864-871 LuftFzgG Cape-Town-Remedies und EU-Luftsicherheitsstatus bei Vollstreckung und liefert Pfaendungsplan für ACC3-Frachtflotte im Luftrecht Flughafenrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. acc3 pfandrecht vorbereiten
+### 11.7. ACC3-Carrier will Flugzeuge für Drittland-Frachtbetrieb finanzieren; Pfandrecht und Cape-Town-Eintrag nötig. Prüft Cape-Town-Convention LuftFzgG EU-VO 300/2008 Betriebsvoraussetzungen und liefert kombinierte Sicherungs- und Compliance-Strategie im Luftrecht F.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. acc3 register auswerten
+### 11.8. Mandant will ACC3-Designierungsstatus und Validierungsstand eines Carriers auswerten. Prüft EU-DVO 2015/1998 EU-Datenbank für ACC3-designierte Carrier RA3/KC3-Status und Validierungsgueltigkeit und liefert Compliance-Status-Bericht im Luftrecht Flughafenrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. acc3 sicherheitsauflage bewerten
+### 11.9. ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-Inspektion. Prüft EU-DVO 2015/1998 Findings-Kategorien EU-VO 300/2008 LuftSiG Paragraf 9 Verhältnismäßigkeit und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan für ACC3-Betrieb im.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. acc3 zustaendigkeit pruefen
+### 11.10. ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU bringt muss Designierung und Validierung nachweisen. Prüft EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG Paragraf 9 und EU-Validierungs-Verfahren und liefert Zuständigkeits-Vermerk für ACC3-Designier.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. aircraft arrest airline finanzielle
+### 11.11. Mandant will Flugzeug im Ausland arrestieren oder ausländischer Gläubiger arrestiert in Deutschland. Prüft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Str.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. airline dashboard bauen
+### 11.12. Kanzlei oder Mandant braucht operatives Airline-Dashboard für laufendes Mandat: Genehmigungsstatus Flotte Slots Sicherheitsauflagen Insolvenzrisiko. Skill strukturiert Datenquellen LBA EU-VO 1008/2008 Art. 9 Fluko ICAO-Register und liefert befuellbares Dashbo.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. airline finanzielle leistungsfaehigkei
+### 11.13. LBA prüft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Art. 5 oder Mandant bewertet Insolvenzrisiko einer Fluggesellschaft. Prüft Nachweispflichten Eigenkapital Versicherung Businessplan LBA-Auflagenpraxis und Fruehwarnindikatoren und liefert Leistung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. airline genehmigung pruefen
+### 11.14. Airline-Genehmigungsstand ist unklar: Betriebsgenehmigung AOC Streckengenehmigung oder Sonderflugerlaubnis fehlt oder laeuft ab. Prüft EU-VO 1008/2008 LuftVG Paragraf 20 EASA EU-VO 965/2012 Part-OPS und Bilateralabkommen und liefert Genehmigungsstatus-Vermerk.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. airline insolvenzrisiko markieren
+### 11.15. Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquiditaet schlechte Ratings Zahlungsrueckstaende. Prüft EU-VO 1008/2008 Art. 9 Fruehwarnindikatoren InsO Paragrafen 15a 17-19 Antragspflicht und Haftungsrisiken Geschäftsführer und li.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. airline local dashboard bauen
+### 11.16. Deutsches Kanzleiteam muss ausländischen Anwalt für Airline-Mandat briefen: Arrest Insolvenz Cape-Town oder Betriebsgenehmigung. Skill erstellt strukturiertes englisches Briefing-Memo mit Sachverhalt deutschem Rechtsrahmen Cape-Town-Status IDERA und konkreten.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. airline mandantenmemo schreiben
+### 11.17. Anwalt schreibt Mandantenmemo für Airline zu komplexem Luftrechtsfall: Genehmigungsrisiko Sicherheitsauflage Slot-Verlust oder Insolvenznaehe. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung und liefert fer.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. airline pfaendung planen
+### 11.18. Gläubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfaendung ab. Prüft ZPO Paragrafen 864-871 LuftFzgG Paragrafen 22-28 Zwangsversteigerung Arrestantrag ZPO Paragraf 917 Cape-Town-Remedies Art. 8 und InsO Paragraf 89 Vollstreckungssper.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. airline pfandrecht pfaendung planen
+### 11.19. Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prüft LuftFzgG Paragrafen 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellu.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. airline register auswerten
+### 11.20. Mandant will Luftfahrzeugrolle Pfandrechtsregister und Cape-Town-Register einer Airline auswerten. Skill fuehrt strukturierte Registerabfrage LBA LuftVG Paragraf 64 AG Braunschweig LuftFzgG und ICAO-Register durch und liefert Registerauszugs-Auswertungs-Beric.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. airline sicherheitsauflage bewerten
+### 11.21. Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prüft LuftSiG Paragrafen 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhältnismäßigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. airline zustaendigkeit pruefen
+### 11.22. Airline-Mandat: unklar welche Behörde zuständig ist LBA EU-Behörde Landesbehoerde oder ausländische Luftfahrtbehoerde. Prüft EU-VO 1008/2008 Art. 4 Aufsichtsstaat LuftVG Paragrafen 29-31 EASA und bilaterale Abkommen und liefert Zuständigkeits-Vermerk mit korr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. aviation dashboard
+### 11.23. Mandant braucht Echtzeit-Lageueberblick ueber eine Airline: Betriebsgenehmigung AOC Flotte Slots Sicherheitsstatus Insolvenzrisiko. Skill erstellt Dashboard-Matrix aus LBA-Register EU-VO 1008/2008 Art. 9 Indikatoren FluglaermG-Zonen und Cape-Town-Register und.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. betriebsgenehmigung airline
+### 11.24. Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll geaendert oder widerrufen werden. Prüft EU-VO 1008/2008 Art. 3-9 Genehmigungsvoraussetzungen AOC Hauptniederlassung EU-Eigentumskontrolle und liefert Antragsunterlagen-Checkliste.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. bodenabfertigung dashboard bauen
+### 11.25. Flughafen oder Bodenabfertigungsunternehmen braucht Dashboard: Zulassungsstatus Entgelt-Genehmigungen LuftSiG-Findings Personalzuverlässigkeit Finanzkennzahlen. Skill strukturiert Datenquellen BADV LuftSiG und liefert befuellbares Dashboard-Template im Luftre.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. bodenabfertigung genehmigung pruefen
+### 11.26. Bodenabfertigungsdienstleister braucht Zulassung nach BADV oder Genehmigung des Flughafenbetreibers. Skill prüft BADV EU-RL 96/67 EG Zulassungsvoraussetzungen LuftSiG-Anforderungen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf im Luftrecht Flugha.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. bodenabfertigung insolvenzrisiko local
+### 11.27. Bodenabfertigungsunternehmen zeigt Insolvenzzeichen. Prüft InsO Paragrafen 15a 17-19 Auswirkungen auf Flughafenvertrag BADV-Zulassung und Airline-Vertretung und liefert Risikoampel für Flughafenbetreiber Gläubiger und Airlines im Luftrecht Flughafenrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. bodenabfertigung local counsel briefen
+### 11.28. Deutsches Kanzleiteam muss ausländischen Anwalt für Bodenabfertigungs-Mandat briefen: BADV-Zulassung Entgelt-Streit oder Insolvenz einer Handling-Firma. Skill erstellt englisches Briefing-Memo im Luftrecht Flughafenrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. bodenabfertigung pfaendung planen
+### 11.29. Gläubiger will Bodenabfertigungs-Equipment oder Entgelt-Forderungen pfaenden. Prüft ZPO Paragraf 808 Mobiliarpfaendung ZPO Paragrafen 828 ff. Forderungspfaendung InsO-Vollstreckungssperre und liefert Pfaendungsplan im Luftrecht Flughafenrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. bodenabfertigung pfandrecht vorbereite
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. bodenabfertigung pruefe luftvg
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. bodenabfertigung register pfandrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. bodenabfertigung sicherheitsauflage be
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. drohne dashboard bauen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. drohne genehmigung pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. drohne insolvenzrisiko markieren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. drohne local dashboard bauen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. drohne mandantenmemo schreiben
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. drohne pfaendung planen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. drohne pfandrecht pfaendung planen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. drohne register auswerten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. drohne sicherheitsauflage bewerten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. drohne zustaendigkeit pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. drohnen uas betrieb
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. ersatzteillager dashboard bauen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. ersatzteillager drohne luftfracht acc3
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. ersatzteillager genehmigung pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. ersatzteillager insolvenzrisiko local
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. ersatzteillager local counsel briefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. ersatzteillager mandantenmemo schreibe
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. ersatzteillager pfaendung planen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. ersatzteillager pfandrecht vorbereiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. ersatzteillager register pfandrecht
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. ersatzteillager sicherheitsauflage bew
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. flughafen dashboard mandantenmemo
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. flughafen genehmigung pruefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. flughafen insolvenzrisiko markieren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. flughafen local counsel briefen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. flughafen mandantenmemo schreiben
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. flughafen pfaendung genehmigung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. flughafen pfandrecht vorbereiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. flughafen planfeststellung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. flughafen register auswerten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. flughafen sicherheitsauflage bewerten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. flughafen zustaendigkeit pruefen
+### 11.30. Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment als Sicherheit bestellen. Skill prüft BGB Paragrafen 1204 ff. Mobiliarpfandrecht BADV-Zulassung als Wertfaktor und liefert Sicherungsstruktur-Vermerk im Luftrecht Flughafenrecht.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

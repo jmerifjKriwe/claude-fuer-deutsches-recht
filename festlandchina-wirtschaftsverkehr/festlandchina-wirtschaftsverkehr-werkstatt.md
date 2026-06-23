@@ -64,6 +64,8 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - ZPO Paragraf 138: Erklaerungslast und Wahrheitspflicht im Zivilprozess.
 - ZPO Paragraf 286: freie Beweiswuerdigung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+- Paragrafen 76/93 AktG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 823 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,391 +113,181 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. abschlussmemo china deal
+### 11.1. Abschluss-Memo China-Deal: Checkliste für finale Dokumentation vor Signing/Closing, AWV-Meldung, BAFA-Genehmigungen, FDI-Screening-Clearance, IP-Registrierung, Datenschutz-Compliance (PIPL/Datenschutz-Grundverordnung), LkSG-Risikoanalyse abgeschlossen, Notari.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. anti bribery and gifts
+### 11.2. Anti-Korruption und Geschenke im China-Geschäft: FCPA (US) bei US-Nexus, UK Bribery Act, Paragraf 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. anti coercion instrument eu
+### 11.3. EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrele.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. arbitration hk siac ciamac
+### 11.4. Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. asset protection and cash repatriation
+### 11.5. Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steue.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. automotive supply chain
+### 11.6. Automobilzuliefererkette China: Einzelteile und Module aus VR China unter EU-Anti-Dumping-Watch (E-Fahrzeuge), LkSG-Risikoanalyse Tier-1 bis Tier-n, XUAR-Bezüge (Aluminium, Baumwolle, Polysilizium), Dual-Use-Prüfung Elektronik-ECU, EU-Batterie-VO 2023/1542 Su.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. awg awv investitionspruefung
+### 11.7. Investitionsprüfung nach AWG Paragrafen 55 ff. und AWV Paragrafen 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgrupp.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. battery ev solar supply chain
+### 11.8. Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaration, Recycling-Quoten, Solar-Anti-Dumping-Maßnahmen EU, XUAR-Bezug Polysilizium, Critical Raw Materials Act Lithium/Kobalt, LkSG-Risikoanalys.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. board paper china risk
+### 11.9. Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekt.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. capital controls and payments
+### 11.10. Kapitalverkehrskontrollen und Zahlungsverkehr VR China: SAFE-Devisenverwaltungsregeln, grenzüberschreitende Zahlungen in CNY, CIPS-System vs. SWIFT, Trade-Financing, L/C bei China-Handel, Zahlungsverzug-Risiken, Bankkorrespondenz-Probleme bei US-Sanktionen. O.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. ce kennzeichnung und produktsicherheit china import compliance
+### 11.11. CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung Paragraf 823 BGB und ProdHaftG, Rückrufmana.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. china counterfeit and parallel trade fair
+### 11.12. Produktpiraterie und Grauimporte aus/über China: Grenzbeschlagnahme EU (EU-VO 608/2013), CNIPA-Enforcement, chinesische Zollregistrierung IP-Rechte, Parallelimporte (Erschöpfung EU vs. CN), Abmahnverfahren DE, Zoll-Alarm-System COPIS, Strafverfolgung Produktp.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. china csddd readiness whistleblower channel
+### 11.13. EU CSDDD-Readiness für China-Lieferketten: EU-RL 2024/1760 Anforderungen, Anwendungsbereich und Fristen, Sorgfaltspflichten gegenüber eigenen Tätigkeiten und Geschäftspartnern in CN, Umwelt- und Menschenrechtsindikatoren, Zivilrechtliche Haftung Art. 29 CSDDD.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. china customs tariff origin preferential not
+### 11.14. Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehung.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. china de risking nicht strategie
+### 11.15. Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrp.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. china dual use bafa us ear export control
+### 11.16. BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit Paragrafen 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgen.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. china electronics and semiconductors medical
+### 11.17. Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen US.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. china employee data cloud and erp wechat
+### 11.18. Arbeitnehmerdatenschutz in China-Betrieben: PIPL Paragrafen 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentr.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. china environmental permits factory workplace safety union and
+### 11.19. Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhäl.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. china export control law touchpoints
+### 11.20. Chinesisches Exportkontrollgesetz (ECL VR China 2020) und Dual-Use-Kontrollen: Exportkontrollliste CN, End-User-Verwaltung, Genehmigungspflichten für Technologieexporte Richtung Drittstaaten, Retaliation-Risiko nach Anti-Sanktions-Gesetz CN, Berührung mit EU-.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. china fdi screening deutschland chinesische investoren critical
+### 11.21. FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen Paragrafen 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestän.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. china importeur eu compliance exporteur deutschland nach
+### 11.22. EU-Compliance-Pflichten für Importeure von Waren aus VR China: CE-Konformität, Produktsicherheits-VO (EU) 2023/988, Marktüberwachungs-VO (EU) 2019/1020, Zollursprungsregeln, Anti-Dumping/Antisubventionszölle, LkSG Paragraf 2 Abs. 7 mittelbare Zulieferer, Forc.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. china incident response media and public
+### 11.23. Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommun.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. china investment committee memo exit plan
+### 11.24. Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzi.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. china sanctions and restricted anti coercion instrument trade
+### 11.25. Sanktionen und Restricted-Party-Screening im China-Geschäft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, B.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. china software source code data localization and cybersecurity
+### 11.26. Software, Source Code und SaaS im China-Geschäft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exp.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. china strategie bundesregierung umsetzen
+### 11.27. Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV Paragrafen 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten un.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. china toy and consumer ip strategy before
+### 11.28. Spielzeug und Konsumgüter aus China: EU-Spielzeugrichtlinie 2009/48/EG, GPSR 2023/988, Chemikalienanforderungen (REACH, RoHS), RAPEX-Meldepflichten, Produkthaftung ProdHaftG, CE-Selbsterklärung vs. Zertifizierung, Anti-Dumping Konsumgüter. Output: Import-Comp.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.29. chinesische investoren in deutschland
+### 11.29. Rechtliche Besonderheiten bei chinesischen Direktinvestitionen in Deutschland: AWV-Anmeldepflicht, Sektorenprüfung, staatliche Beteiligung des Investors (SASAC-Unternehmen), Transparenzanforderungen, politische-rechtliche Risiken, Auflagenkataloge BMWK, Paral.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.30. chn 001 kaltstart china geschaeft sortieren
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.31. chn 002 de risking nicht decoupling
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.32. chn 003 china strategie bundesregierung umsetzen
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.33. chn 004 eu china trade risk dashboard
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.34. chn 005 handelsbilanz und abhaengigkeiten
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.35. chn 006 lieferantenmapping tier 1 bis tier n
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.36. chn 007 single source risk
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.37. chn 008 dual sourcing und china plus one
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.38. chn 009 fabrikbetrieb in china
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.39. chn 010 importeur eu compliance
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.40. chn 011 exporteur deutschland nach china
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.41. chn 012 investor entry options
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.42. chn 013 wfoe joint venture repraesentanz
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.43. chn 014 m and a in china
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.44. chn 015 fdi screening deutschland eu
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.45. chn 016 chinesische investoren in deutschland
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.46. chn 017 critical infrastructure risk
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.47. chn 018 awg awv investitionspruefung
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.48. chn 019 dual use bafa check
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.49. chn 020 us ear china touchpoints
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.50. chn 021 china export control law touchpoints
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.51. chn 022 rare earths and critical raw materials
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.52. chn 023 sanctions and restricted party screening
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.53. chn 024 anti coercion instrument eu
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.54. chn 025 trade defence anti dumping
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.55. chn 026 countervailing duty risk
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.56. chn 027 customs tariff origin china
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.57. chn 028 preferential origin not usually
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.58. chn 029 incoterms china shipment
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.59. chn 030 freight forwarder and customs broker
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.60. chn 031 product safety and ce import
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.61. chn 032 market surveillance eu import
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.62. chn 033 battery ev solar supply chain
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.63. chn 034 machinery import and factory equipment
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.64. chn 035 electronics and semiconductors
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.65. chn 036 medical device china supply
+### 11.30. Festlandchina Wirtschaftsverkehr: Kaltstart China Geschaeft Sortieren. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 

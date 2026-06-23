@@ -64,6 +64,14 @@ Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fu
 - StPO Paragraf 261: freie richterliche Beweiswuerdigung.
 - StPO Paragraf 267: Urteilsgruende im Strafurteil.
 - StGB Paragraf 46: Strafzumessung.
+- Paragraf 152 Abs. 2 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 160 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 142 GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 160 Abs. 2 StPO. StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 160 Abs. 2 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 142 und 143 GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragrafen 161 und 163 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
+- Paragraf 152 GVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker pruefen.
 
 ## 5. Leitentscheidungen
 
@@ -111,175 +119,169 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 
 ## 11. Materienbezogene Arbeitsfelder
 
-### 11.1. 01 akte erstdurchsicht und anfangsverdacht
+### 11.1. Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, zureichende tatsaechliche Anhaltspunkte (Paragraf 152 Abs. 2 StPO), Beschuldigtenstatus, Verjaehrung, erste Ermittlungsrichtung nach Paragraf 160 StPO
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.2. 02 zustaendigkeit sta und amtsanwaltschaft
+### 11.2. Sachliche und oertliche Zustaendigkeit (Paragrafen 142 und 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.3. 03 ermittlungsfuehrung und ermittlungsanweisung
+### 11.3. Sachleitungsbefugnis der Staatsanwaltschaft (Paragrafen 161 und 163 StPO), Ermittlungsanweisungen an Polizei und Ermittlungspersonen (Paragraf 152 GVG), Ermittlungsplan, Beweisthemen, Aktenfuehrung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.4. 04 durchsuchung und beschlagnahme antrag
+### 11.4. Antrag auf richterliche Anordnung der Durchsuchung (Paragrafen 102 bis 105 StPO) und Beschlagnahme (Paragrafen 94 bis 98 StPO), Verhaeltnismaessigkeit, Gefahr im Verzug, Richtervorbehalt
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.5. 05 haftbefehlsantrag und untersuchungshaft
+### 11.5. Antrag auf Erlass eines Haftbefehls (Paragrafen 112 und 112a und 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.6. 06 vorlaeufige festnahme und eilkompetenz
+### 11.6. Vorlaeufige Festnahme (Paragraf 127 StPO), staatsanwaltschaftliche Eilanordnungskompetenz bei Gefahr im Verzug, Vorfuehrung vor den Richter (Paragraf 128 StPO), Fristen des Paragraf 128 Abs. 1 StPO
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.7. 07 telekommunikationsueberwachung und verdeckte massnahmen
+### 11.7. Antrag auf Telekommunikationsueberwachung (Paragraf 100a StPO), Online-Durchsuchung (Paragraf 100b StPO), Verkehrsdaten (Paragraf 100g StPO), Katalogtat, Subsidiaritaet, Richtervorbehalt, Kernbereichsschutz
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.8. 08 beschuldigtenvernehmung und belehrung
+### 11.8. Vernehmung des Beschuldigten (Paragrafen 133 und 136 und 163a StPO), Belehrung ueber Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.9. 09 sachverstaendige und koerperliche untersuchung
+### 11.9. Auswahl und Auftrag an Sachverstaendige (Paragrafen 73 bis 83 StPO), koerperliche Untersuchung und Blutprobe (Paragraf 81a StPO), DNA-Identifizierung (Paragraf 81e StPO), Gutachtenfragen, Verwertung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.10. 10 einstellung mangels tatverdacht paragraf 170
+### 11.10. Einstellung des Verfahrens mangels hinreichenden Tatverdachts (Paragraf 170 Abs. 2 StPO), Abschlussverfuegung, Bescheid an Anzeigeerstatter und Beschuldigten, Negativ-Prognose, Wiederaufnahme
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.11. 11 einstellung aus opportunitaet paragraf 153 und 153a
+### 11.11. Einstellung wegen Geringfuegigkeit (Paragraf 153 StPO) und gegen Auflagen und Weisungen (Paragraf 153a StPO), Zustimmung des Gerichts, geringe Schuld, oeffentliches Interesse, Auflagenkatalog
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.12. 12 teileinstellung paragraf 154 und 154a
+### 11.12. Beschraenkung der Verfolgung nach Paragraf 154 StPO (unwesentliche Nebentat) und Paragraf 154a StPO (Beschraenkung auf Tatteile), prozessoekonomische Konzentration, Wiederaufnahmevorbehalt
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.13. 13 strafbefehlsantrag paragraf 407
+### 11.13. Antrag auf Erlass eines Strafbefehls (Paragrafen 407 bis 408a StPO), zulaessige Rechtsfolgen (Paragraf 407 Abs. 2), Tatkonkretisierung, hinreichender Tatverdacht ohne Hauptverhandlung, Einspruch (Paragraf 410)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.14. 14 anklageschrift paragraf 200
+### 11.14. Abfassung der Anklageschrift (Paragraf 200 StPO), Anklagesatz mit Umgrenzungs- und Informationsfunktion, wesentliches Ergebnis der Ermittlungen, Beweismittelverzeichnis, Antrag auf Eroeffnung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.15. 15 antrag beschleunigtes verfahren paragraf 417
+### 11.15. Antrag im beschleunigten Verfahren (Paragrafen 417 bis 420 StPO), Eignung wegen einfachen Sachverhalts oder klarer Beweislage, Rechtsfolgenbegrenzung (Paragraf 419 StPO), muendlicher oder schriftlicher Antrag
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.16. 16 sicherungsverfahren und massregeln
+### 11.16. Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Massregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63 und 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.17. 17 einziehung und vermoegensabschoepfung
+### 11.17. Einziehung von Taterträgen (Paragrafen 73 bis 76b StGB), Vermoegensarrest (Paragraf 111e StPO), selbststaendige Einziehung (Paragraf 76a StGB), Wertersatz, Sicherung im Ermittlungsverfahren
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.18. 18 jugendsache und diversion paragraf 45 jgg
+### 11.18. Jugendstaatsanwaltschaftliche Bearbeitung, Diversion (Paragraf 45 JGG), Absehen von der Verfolgung, erzieherische Massnahmen, Heranwachsende (Paragraf 105 JGG), Anklage zur Jugendkammer oder zum Jugendrichter
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.19. 19 sitzungsdienst und fragerecht hauptverhandlung
+### 11.19. Sitzungsvertretung der Staatsanwaltschaft (Paragraf 226 StPO), Fragerecht (Paragraf 240 StPO), Beweisantraege und Erklaerungen (Paragraf 257 StPO), Reaktion auf Antraege der Verteidigung, Vorhalt und Beweisaufnahme
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.20. 20 plaedoyer und schlussvortrag paragraf 258
+### 11.20. Schlussvortrag der Staatsanwaltschaft (Paragraf 258 StPO), Wuerdigung des Beweisergebnisses, rechtliche Bewertung, konkreter Antrag zu Schuld- und Rechtsfolgenausspruch, Strafzumessungsantrag (Paragraf 46 StGB)
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.21. 21 rechtsmittel der staatsanwaltschaft
+### 11.21. Rechtsmittel der Staatsanwaltschaft: Berufung (Paragrafen 312 ff. StPO), Revision (Paragrafen 333 ff. StPO), Beschwerde (Paragrafen 304 ff. StPO), zugunsten und zuungunsten des Angeklagten (Paragraf 296 Abs. 2 StPO), Fristen und Begruendung
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.22. 22 strafvollstreckung paragraf 451
+### 11.22. Strafvollstreckung durch die Staatsanwaltschaft als Vollstreckungsbehoerde (Paragrafen 449 ff. StPO, Paragraf 451 StPO), Vollstreckungsplan, Ladung zum Strafantritt, Vollstreckungsaufschub (Paragraf 456 StPO), StVollstrO
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.23. 23 klageerzwingung und beschwerdebescheid paragraf 172
+### 11.23. Bescheid auf Beschwerde des Anzeigeerstatters (Paragraf 171 StPO), Vorschaltbeschwerde und Klageerzwingungsverfahren (Paragraf 172 StPO), Begruendungsanforderungen, Vorlage an Generalstaatsanwaltschaft
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.24. 24 abschlussverfuegung und entscheidungsvorschlag
+### 11.24. Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Massregel, Verfuegungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.25. 25 adhaesionsverfahren paragraf 403
+### 11.25. Adhaesionsantrag des Verletzten im Strafverfahren (Paragrafen 403 bis 406c StPO), Pruefung der Zulaessigkeit und Eignung zur Mitverhandlung, Abtrennung nach Paragraf 406 Abs. 1 Satz 6 StPO, Schnittstelle zum Opferschutz und zur Verfahrensoekonomie
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.26. 26 opferschutz nebenklage und verletztenrechte
+### 11.26. Opferschutzpflichten der Staatsanwaltschaft (Paragrafen 406d bis 406l StPO), Anschluss als Nebenklaeger (Paragrafen 395 bis 402 StPO), opferschutzrechtliche Belehrung, psychosoziale Prozessbegleitung (Paragraf 406g StPO), Akteneinsicht des Verletzten (Paragra.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.27. 27 wiederaufnahme zuungunsten paragraf 362
+### 11.27. Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten oder Freigesprochenen (Paragraf 362 StPO), Pruefungsschema der Wiederaufnahmegruende, formale Anforderungen (Paragraf 366 StPO), Verfahren nach Paragrafen 367 bis 373a StPO
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
 Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
 
-### 11.28. 28 internationale rechtshilfe und eu haftbefehl
-
-Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
-
-Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.
-
-### 11.29. staatsanwaltschaft amtsanwaltschaft schnellstart
+### 11.28. Internationale Rechtshilfe in Strafsachen: Europaeischer Haftbefehl (Paragrafen 78 bis 83i IRG), Rechtshilfeersuchen (Paragrafen 59 ff. IRG), Europaeische Ermittlungsanordnung (Paragrafen 91a ff. IRG); Pruefschema fuer Ausstellung und Bewilligung, doppelte St.
 
 Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.
 
