@@ -1,5 +1,4 @@
 # Betreuungsrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Skills für **ehrenamtliche Familienbetreuerinnen und Familienbetreuer**, berufliche
 Betreuerinnen und Betreuer, Vereinsbetreuer, Betreuungsbehörden und anwaltliche
 Begleitung nach dem Betreuungsorganisationsgesetz (BtOG) und den §§ 1814 ff. BGB.
@@ -91,22 +91,22 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der... |
 | `anschluss-routing` | Anschluss-Routing für Betreuungsrecht: wählt den nächsten Spezial-Skill nach Engpass (Beschwerde 1 Monat § 63 FamFG, Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht), dokumentiert Router-Entscheidung mit Begründung. |
 | `aufgabenkreise-festlegen` | Aufgabenkreise einer Betreuung festlegen: Vermögensvorsorge, Gesundheitsvorsorge, Aufenthaltsbestimmung, Postangelegenheiten, Wohnungsangelegenheiten. Empfehlung: nur erforderliche Kreise (Erforderlichkeitsgrundsatz § 1814 BGB). |
-| `bericht-betreuer-betreuerpflichten` | Bericht: Mandantenkommunikation und Entscheidungsvorlage im Betreuungsrecht. |
+| `bericht-betreuer-betreuerpflichten` | Bericht: Mandantenkommunikation und Entscheidungsvorlage im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bericht-mandantenkommunikation` | Bericht: Mandantenkommunikation und Entscheidungsvorlage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sankt... |
-| `betreuer-als-erbe` | Prüfungslinie für betreuer als erbe im Betreuungsrecht. |
+| `betreuer-als-erbe` | Prüfungslinie für betreuer als erbe im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `betreuer-registrierung` | Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der Betreuerregistrierungsverordnung. Behandelt S... |
 | `betreuer-registrierung-betreuung` | Betreuer Als Erbe: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Betreuungsrecht. |
-| `betreuer-zahlen-schwellen-und-berechnung` | Betreuer: Zahlen, Schwellenwerte und Berechnung im Betreuungsrecht. |
+| `betreuer-zahlen-schwellen-und-berechnung` | Betreuer: Zahlen, Schwellenwerte und Berechnung im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `betreuer-zahlen-schwellenwerte-berechnung` | Betreuer: Zahlen, Schwellenwerte und Berechnung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder... |
 | `betreuerpflichten-alltag` | Betreuerpflichten: Formular, Portal und Einreichungslogik: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sank... |
-| `betreuerpflichten-formular-portal-und-einreichung` | Betreuerpflichten: Formular, Portal und Einreichungslogik im Betreuungsrecht. |
+| `betreuerpflichten-formular-portal-und-einreichung` | Betreuerpflichten: Formular, Portal und Einreichungslogik im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `betreuerpflichten-genehmigung-bericht` | Betreuerpflichten, Genehmigung und Berichtswesen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `betreuerpflichten-genehmigung-betreuung` | Betreuerpflichten, Genehmigung und Berichtswesen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Betreuungsrecht. |
 | `betreuung-anwaltskosten-rvg` | Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten. |
@@ -118,19 +118,18 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `betreuung-grenzueberschreitend-betreuungsantrag` | Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Prüfraster für im Ausland lebende Betroffene im Betreuungsrecht. |
 | `betreuung-im-strafverfahren` | Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht. |
 | `betreuung-interessen` | Betreuung: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion... |
-| `betreuung-mehrparteien-konflikt-und-interessen` | Betreuung: Mehrparteienkonflikt und Interessenmatrix im Betreuungsrecht. |
+| `betreuung-mehrparteien-konflikt-und-interessen` | Betreuung: Mehrparteienkonflikt und Interessenmatrix im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `betreuung-strafverfahren-kalender-reminder` | Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht im Betreuungsrecht. |
 | `betreuungsantrag-erstellen` | Betreuungsantrag § 1814 BGB: Antragsteller, Betroffener, Aufgabenkreise, vorhandene Vorsorgevollmacht, gewuenschte Person als Betreuer, Begruendung Erforderlichkeit. Output: Antragsschriftsatz an Betreuungsgericht. |
 | `betreuungsgericht-kommunikation-angehoerige` | Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst... |
 | `betreuungsgericht-kommunikation-fuer-angehoerige` | Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst... |
-| `betreuungsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Betreuungsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `betreuungsrechtliche-erstpruefung-und-mandatsziel` | Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Betreuungsrecht. |
 | `betreuungsverein-behoerde-btr-aufgabenkreise` | Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation im Be... |
 | `betreuungsverein-behoerde-hilfe-holen` | Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation. |
 | `bgb` | BGB: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfa... |
-| `bgb-btog-demenz` | BGB: Verhandlung, Vergleich und Eskalation im Betreuungsrecht. |
+| `bgb-btog-demenz` | BGB: Verhandlung, Vergleich und Eskalation im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `btog-schriftsatz-brief-memo-bausteine` | Btog: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Ve... |
-| `btog-schriftsatz-brief-und-memo-bausteine` | Btog: Schriftsatz-, Brief- und Memo-Bausteine im Betreuungsrecht. |
+| `btog-schriftsatz-brief-und-memo-bausteine` | Btog: Schriftsatz-, Brief- und Memo-Bausteine im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `btr-aufgabenkreise-formulierung` | Aufgabenkreise praezise formulieren: Vermögenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Wohnungsangelegenheiten, Vertretung gegenueber Behörden, Postangelegenheiten. Prüfraster für Mass und Mindestmass nach Reform 2023. |
 | `btr-betreuer-gegen-vorsorgevollmacht` | Spezialfall Konflikt Berufsbetreuer gegen Bevollmaechtigten aus Vorsorgevollmacht: Vorrang Vorsorgevollmacht § 1814 Abs. 3 BGB, Prüfung Eignung Bevollmaechtigter, Kontrollbetreuung, Widerruf Vollmacht. Prüfraster und Beispielsfall. |
 | `btr-erstantrag-und-eilantrag` | Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten. |
@@ -138,7 +137,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `btr-zwangsmedikation-genehmigung-spezial` | Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach Reform: enge Voraussetzungen, Erforderlichkeit, weniger eingreifende Mittel, gerichtliche Anhörung Betroffener, Verfahrenspflegerbestellung. Prüfraster und Mustertexte. |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich betreuungsrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `demenz-internationaler-bezug-schnittstellen` | Demenz: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder... |
-| `demenz-internationaler-bezug-und-schnittstellen` | Demenz: Internationaler Bezug und Schnittstellen im Betreuungsrecht. |
+| `demenz-internationaler-bezug-und-schnittstellen` | Demenz: Internationaler Bezug und Schnittstellen im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Betreuungsrecht: sortiert Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht, prüft Datum, Absender, Frist und Beweiswert (Ärztliches Gutachten, Persönliche Anhörung Betroffener); markiert Lücken; berü... |
 | `dokumentenscan-aktenablage-und-belegmappe` | Scan- und Ablagefür Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste. |
 | `ehegattenvertretung-1358-bgb` | Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten. |
@@ -146,7 +145,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `ehrenamtlicher-betreuer-erster-monat` | Ehrenamtlicher Betreuer: erster Monat: Führe nicht berufliche Betreuer Schritt für Schritt durch die ersten vier Wochen nach Bestellung. Er arbeitet beruhigend, praktisch und gerichtstauglich: Was muss sofort passieren, was darf warten,... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Betreuungsrecht: ordnet Rolle (Betroffener, Betreuer, Familie/Angehörige), markiert Frist (Beschwerde 1 Monat § 63 FamFG), wählt Norm (§§ 1814 ff. BGB, FamFG §§ 271 ff., § 1827 BGB Patientenverfügung) und... |
 | `erbe-compliance-dokumentation-aktenvermerk` | Erbe: Compliance-Dokumentation und Aktenvermerk: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder... |
-| `erbe-genehmigung-red-genehmigungspflichten` | Erbe: Compliance-Dokumentation und Aktenvermerk im Betreuungsrecht. |
+| `erbe-genehmigung-red-genehmigungspflichten` | Erbe: Compliance-Dokumentation und Aktenvermerk im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `familienbetreuer-alltagscockpit` | Alltags-Cockpit für Familienbetreuer: macht aus Post, Pflege, Bank, Arztterminen, Heimkontakt, Behörden und Gericht einen handhabbaren Wochenplan mit Aufgabenliste, Verantwortlichen, Ampel, Gesprächsnotizen und dokumentierten Entscheidun... |
 | `familienbetreuer-arzt-bankkonto` | Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz im Betreuungsrecht. |
 | `familienbetreuer-arzt-heim-pflegekasse` | Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz. |
@@ -170,7 +169,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `freiheitsentziehende-massnahmen-1831` | Freiheitsentziehende Maßnahmen § 1831 BGB: Fixierung, geschlossene Unterbringung, sedierende Medikation. Voraussetzungen Genehmigung Betreuungsgericht, regelmäßige Prüfung. EuGH-/EGMR-Vorgaben. |
 | `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich betreuungsrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `genehmigung-fehlerkatalog` | Genehmigung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `genehmigung-red-team-und-qualitaetskontrolle` | Genehmigung: Red-Team und Qualitätskontrolle im Betreuungsrecht. |
+| `genehmigung-red-team-und-qualitaetskontrolle` | Genehmigung: Red-Team und Qualitätskontrolle im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `genehmigungen-gerichtskontakt` | Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlun... |
 | `genehmigungspflicht-jahresbericht` | Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösu... |
 | `genehmigungspflicht-pruefung` | 'Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflös... |
@@ -186,7 +185,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `kontoanalyse-risikoampel-und-gegenargumente` | Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien im Betreuungsrecht. |
 | `kontodaten-vertragsverdacht-pruefung` | Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: ungewöhnliche Zahlungen, verdächtige Dauerverträge, Fernwartung, Telefonbetrug, riskante Anlagen, Angehörigendruck und Auslandsüberweisungen zum Nachteil der... |
 | `livecheck-fristennotiz-naechster-schritt` | Livecheck: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `livecheck-fristennotiz-und-naechster-schritt` | Livecheck: Fristennotiz und nächster Schritt im Betreuungsrecht. |
+| `livecheck-fristennotiz-und-naechster-schritt` | Livecheck: Fristennotiz und nächster Schritt im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mandantenkommunikation` | Mandantenkommunikation im Bereich betreuungsrecht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `output-waehlen` | Output-Wahl für Betreuungsrecht: stimmt Adressat (Betroffener, Betreuer, Familie/Angehörige), Frist (Beschwerde 1 Monat § 63 FamFG) und Form auf den Zweck ab — typische Outputs: Betreuungsantrag, Beschwerde, Mandantenbrief Betroffener/An... |
 | `quellen-livecheck` | Quellen-Live-Check für Betreuungsrecht: prüft Normen (§§ 1814 ff. BGB, FamFG §§ 271 ff., § 1827 BGB Patientenverfügung) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Betreuungsgericht (AG) und Quellenhygiene nac... |
@@ -198,7 +197,7 @@ Automatisch generierte Komplett-Liste aller 117 Skills in diesem Plugin. Beschre
 | `spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit` | Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `ueberforderung-verhinderung-und-abgabe` | Überforderungsschutz für ehrenamtliche Betreuer: erkennt Haftungs-, Zeit-, Familien- und Gesundheitsgrenzen, plant Verhinderungsbetreuung, bittet um Entlastung, Aufgabenbegrenzung, Mitbetreuer oder Betreuerwechsel und formuliert sachlich... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Betreuungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht), nennt pro Lücke Beweisthema, Beschaffungsweg (Betreuungsgericht (AG))... |
-| `verdachtsvertraege-behoerden-gericht-und-registerweg` | Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg im Betreuungsrecht. |
+| `verdachtsvertraege-behoerden-gericht-und-registerweg` | Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `verdachtsvertraege-pruefung` | Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sank... |
 | `vermoegensverzeichnis-kontodaten` | Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Betreuungsrecht. |
 | `vermoegensverzeichnis-pruefung` | Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreuer muss bei Aufgabenkreis Vermögenssorge nach § 1835 BGB ein Vermögensverzeichnis aufnehmen oder ein bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. Berüc... |

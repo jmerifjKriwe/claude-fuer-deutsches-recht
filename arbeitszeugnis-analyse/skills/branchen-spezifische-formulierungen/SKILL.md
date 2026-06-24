@@ -1,13 +1,13 @@
 ---
 name: branchen-spezifische-formulierungen
-description: "Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur praezisen Noteneinordnung. Anwendungsfall Zeugnis enthaelt Formulierungen die nur im Kontext einer bestimmten Branche verstaendlich sind. Branchen Vertrieb (Umsatz Zielerreichung) Recht (Mandatsführung Kanzlei) IT (Projektverantwortung Technologie) Pflege (Patientenkontakt Empathie) und weitere. Normen § 109 GewO § 241 Abs. 2 BGB Wohlwollenspflicht. Output Ampelzuordnung branchenspezifischer Formulierungen mit Notentendenzen und Alternativformulierungen. Abgrenzung zu geheimcode-katalog (allgemeine Geheimcodes) und leistungsbeurteilung-analyse."
+description: "Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur präzisen Noteneinordnung. Anwendungsfall Zeugnis enthält Formulierungen die nur im Kontext einer bestimmten Branche verständlich sind. Branchen Vertrieb (Umsatz Zielerreichung) Recht (Mandatsführung Kanzlei) IT (Projektverantwortung Technologie) Pflege (Patientenkontakt Empathie) und weitere. Normen Paragraf 109 GewO Paragraf 241 Abs. 2 BGB Wohlwollenspflicht. Output Ampelzuordnung branchenspezifischer Formulierungen mit Notentendenzen und Alternativformulierungen. Abgrenzung zu geheimcode-katalog (allgemeine Geheimcodes) und leistungsbeurteilung-analyse."
 ---
 
 # Branchenspezifische Formulierungen
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -36,7 +36,7 @@ description: "Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 109 GewO** — Wohlwollend formuliertes qualifiziertes Zeugnis; tatsächliche Tätigkeit und Anforderungsprofil prägen den Maßstab
+- **Paragraf 109 GewO** — Wohlwollend formuliertes qualifiziertes Zeugnis; tatsächliche Tätigkeit und Anforderungsprofil prägen den Maßstab
 
 ## Aktuelle Rechtsprechung
 

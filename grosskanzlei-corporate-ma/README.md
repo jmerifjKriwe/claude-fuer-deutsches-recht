@@ -1,5 +1,4 @@
 # Big-Law-Großkanzlei-Corporate/M&A-Plugin
-Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschliessen und dokumentieren.
 Technischer Plugin-Name: `grosskanzlei-corporate-ma`.
 
 Dies ist das freistehende Großkanzlei-Corporate/M&A-Plugin für den gesamten Transaktionslebenszyklus: Intake, Aktenanlage, Konflikt-/GwG-/Sanktionscheck, Datenraum, Due Diligence, Tabellenreview, Liquiditätsvorschau, Insolvenzreife, Q&A, SPA/APA, Disclosure Schedules, Signing, Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, Umwandlungssteuerrecht, KG/GmbH & Co. KG, StaRUG, Insolvenzplan, Distressed M&A, Board Paper, PMI, Deal-PMO, Billing, XRechnung/ZUGFeRD-Vorbereitung, GoBD-Protokoll und Closing Bible.
@@ -135,7 +135,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 272 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 271 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -270,7 +270,6 @@ Automatisch generierte Komplett-Liste aller 272 Skills in diesem Plugin. Beschre
 | `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa` | Strukturierung von Tax Warranty und Tax Indemnity im SPA für Transaktionen mit Sanierungsgewinn-Risiko nach § 3a EStG: Adressiert die Vert... |
 | `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess` | Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess: Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträg... |
 | `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft` | Verbindliche Auskunft nach § 89 AO im Sanierungskontext: Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sac... |
-| `grosskanzlei-corporate-ma-schnellstart` | 'Kompakter Arbeitsmodus für Big-Law-Großkanzlei-Corporate/M&A-Plugin. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `grosskanzlei-ma-aktenanlage` | Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt.... |
 | `grosskanzlei-ma-erechnung-gobd` | Freistehender Billing- GoBD- und E-Rechnungsfür M&A-Mandate: Anwendungsfall Kanzlei muss für M&A-Mandat GoBD-konforme Rechnung XRechnung-XML und ZUGFeRD-Prüfpaket erstellen. § 3a RVG Stundenhonorar, GoBD Aufbewahrung, ZUGFeRD XRechnung S... |
 | `grosskanzlei-ma-fristen-cp-kalender` | Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung muessen in einem Kalender zusammengeführt werden. SPA Closing Conditions, §§ 35 ff... |
@@ -341,8 +340,8 @@ Automatisch generierte Komplett-Liste aller 272 Skills in diesem Plugin. Beschre
 | `rechtsabteilung-locked-box-leakage-aus-konzerncashpool` | Rechtsabteilungs-Fachmodul für Locked Box Leakage aus Konzerncashpool: Leakage wird aus Zahlungsflüssen, Cashpool, Management Fees und Related-Party-Deals herausgezogen: Rechtsabteilungs-Fachmodul für Locked Box Leakage aus Konzerncashpo... |
 | `rechtsabteilung-mac-klausel-bei-signing-closing-bruch` | Rechtsabteilungs-Fachmodul für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate: Rechtsabteilungs-Fachmodul für MAC-Klausel bei Signing-Closing-Bruch: Ein... |
 | `rechtsabteilung-mac-klausel-signing-closing` | Rechtsabteilungs-Fachmodul für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-warranty-and-indemnity-versicherung-im-claimfall` | Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt: Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung i... |
-| `rechtsabteilung-warranty-indemnity` | Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlung... |
+| `rechtsabteilung-warranty-and-indemnity-versicherung-im-claimfall` | Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt: Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung... |
+| `rechtsabteilung-warranty-indemnity` | Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlu... |
 | `rechtsprechungsrecherche` | Corporate und M&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz: Corporate und M&A Rechtsprechung... |
 | `redline-comparison` | Redline Comparison Automation für M&A-Dokumente: vergleicht Markups, extrahiert Key Issues, erkennt stille Änderungen und baut Antwortvorschlaege. |
 | `redline-comparison-automation` | Redline Comparison Automation für M&A-Dokumente: vergleicht Markups, extrahiert Key Issues, erkennt stille Änderungen und baut Antwortvorschlaege: Redline Comparison Automation für M&A-Dokumente: vergleicht Markups, extrahiert Key Issues... |

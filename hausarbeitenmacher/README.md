@@ -1,5 +1,4 @@
 # hausarbeitenmacher — Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Freistehendes Plugin für Studenten der Rechtswissenschaft, das durch das Erstellen einer **Hausarbeit oder Seminararbeit lernfördernd** hindurchführt. Es liefert **keine fertigen Lösungen**, sondern stellt Fragen, gibt Strukturen, Methoden-Hinweise und Zitierweise — Du subsumierst selbst.
 
 ## Installation
@@ -240,24 +240,24 @@ Eine Arbeit, die die Lehrkraft beeindruckt, **gerade weil Du gegen sie argumenti
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `adressaten-formular-portal-und-einreichung` | Adressaten: Formular, Portal und Einreichungslogik im Hausarbeitenmacher. |
+| `adressaten-formular-portal-und-einreichung` | Adressaten: Formular, Portal und Einreichungslogik im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anschluss-routing` | Anschluss-Routing für Jura-Hausarbeiten: wählt den nächsten Spezial-Skill nach Engpass (Hausarbeits-Abgabefrist, Sachverhalt, Literaturverzeichnis, Gliederung), dokumentiert Router-Entscheidung mit Begründung. |
 | `aufgabenstellung-erfassen-fachgebiet` | Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird gepr... |
-| `ausfluegen-didaktisches-durch` | Ausfluegen: Compliance-Dokumentation und Aktenvermerk im Hausarbeitenmacher. |
+| `ausfluegen-didaktisches-durch` | Ausfluegen: Compliance-Dokumentation und Aktenvermerk im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bearbeitungsplan-erstellen` | Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Prüfungsordnu... |
 | `behutsame-frech-haeufige-fehler` | Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur... |
-| `didaktisches-erstpruefung-und-mandatsziel` | Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Hausarbeitenmacher. |
+| `didaktisches-erstpruefung-und-mandatsziel` | Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Jura-Hausarbeiten: sortiert Sachverhalt, Literaturverzeichnis, Gliederung, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `durch-schriftsatz-brief-und-memo-bausteine` | Schriftsatz-, Brief- und Memo-Bausteine fuer Hausarbeiten. Aufbauschemata, Standardformulierungen, Zitierregeln und Stilstufen fuer wissenschaftliche und praxisnahe Texte. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Jura-Hausarbeiten: ordnet Rolle (Studentenr, Korrektor), markiert Frist (Hausarbeits-Abgabefrist), wählt Norm (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) und Zuständigkeit (Universitäre Prüfungsämter), lei... |
 | `europarecht-anwendbarkeit-hausarbeiten` | Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Cha... |
-| `europarecht-interessen-fertigen-sonderfall` | Europarecht: Mehrparteienkonflikt und Interessenmatrix im Hausarbeitenmacher. |
+| `europarecht-interessen-fertigen-sonderfall` | Europarecht: Mehrparteienkonflikt und Interessenmatrix im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `fachgebiet-routing-zivil-oeffentlich-straf` | Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgeb... |
-| `fertigen-sonderfall-und-edge-case` | Fertigen: Sonderfall und Edge-Case-Prüfung im Hausarbeitenmacher. |
+| `fertigen-sonderfall-und-edge-case` | Fertigen: Sonderfall und Edge-Case-Prüfung im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `fuehrt-risikoampel-und-gegenargumente` | Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien im Hausarbeitenmacher. |
 | `gliederung-mit-tiefenstruktur` | Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 B... |
 | `gutachtenstil-vs-haus-fussnotenstil` | Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. P... |
@@ -269,10 +269,9 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `hausarbeit-quellenrecherche-rspr-literatur` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Hausarbeitenmacher. |
 | `hausarbeit-start` | Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Doku... |
 | `hausarbeit-workflow-start` | Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüfungslinie: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach… im Hausarbeitenmacher. |
-| `hausarbeiten-fristen-form-und-zustaendigkeit` | Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Hausarbeitenmacher. |
-| `hausarbeitenmacher-schnellstart` | 'Kompakter Arbeitsmodus für hausarbeitenmacher — Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis m... |
+| `hausarbeiten-fristen-form-und-zustaendigkeit` | Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `juristische-liefert-beweislast-rechtstheorie` | Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage im Hausarbeitenmacher. |
-| `liefert-beweislast-und-darlegungslast` | Liefert: Beweislast, Darlegungslast und Substantiierung im Hausarbeitenmacher. |
+| `liefert-beweislast-und-darlegungslast` | Liefert: Beweislast, Darlegungslast und Substantiierung im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `meinungsstreit-darstellen` | Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog Argument-Zuordnung Ste... |
 | `methodenlehre-auslegung-oeffentliches` | Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Ar... |
 | `oeffentliches-quellenkarte` | Oeffentliches Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
@@ -281,18 +280,18 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `professor-erkennen-und-strategie` | Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Leh... |
 | `quellen-livecheck` | Quellen-Live-Check für Jura-Hausarbeiten: prüft Normen (BGB AT/BT, StGB AT/BT, GG, ZPO/StPO/VwGO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Universitäre Prüfungsämter und Quellenhygiene nach references/quell... |
 | `quellenrecherche-rechtsprechung-literatur` | Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards.... |
-| `rechtstheorie-internationaler-bezug-und-schnittstellen` | Rechtstheorie: Internationaler Bezug und Schnittstellen im Hausarbeitenmacher. |
+| `rechtstheorie-internationaler-bezug-und-schnittstellen` | Rechtstheorie: Internationaler Bezug und Schnittstellen im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `rechtstheorie-rechtsphilosophie-seminararbeit` | Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordn... |
 | `schleimerei-seminararbeiten-sokratisch` | Schleimerei: Mandantenkommunikation und Entscheidungsvorlage im Hausarbeitenmacher. |
 | `selbstkontrolle-vor-abgabe` | Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen. Prüfraster Inhalt-Checkl... |
 | `seminararbeit-modus` | Student schreibt Seminararbeit mit persönlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissens... |
 | `seminararbeiten-dokumentenmatrix-und-lueckenliste` | Seminararbeiten: Dokumentenmatrix, Lückenliste und Nachforderung im Hausarbeitenmacher. |
-| `sokratisch-behoerden-gericht-und-registerweg` | Sokratisch: Behörden-, Gerichts- oder Registerweg im Hausarbeitenmacher. |
+| `sokratisch-behoerden-gericht-und-registerweg` | Sokratisch: Behörden-, Gerichts- oder Registerweg im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `spezial-durch-schriftsatz-brief-und-memo-bausteine` | Durch: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `spezial-oeffentliches-livequellen-und-rechtsprechungscheck` | Oeffentliches: Livequellen- und Rechtsprechungscheck. |
 | `spezial-strategie-red-team-und-qualitaetskontrolle` | Strategie: Red-Team und Qualitätskontrolle. |
 | `strafrecht-tatbestand-rechtswidrigkeit-schuld` | Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Rücktritt § 24 StGB K... |
-| `strafrecht-zivilrecht-rechtswidrigkeit` | Strafrecht: Zahlen, Schwellenwerte und Berechnung im Hausarbeitenmacher. |
+| `strafrecht-zivilrecht-rechtswidrigkeit` | Strafrecht: Zahlen, Schwellenwerte und Berechnung im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `strategie-fehlerkatalog` | Strategie Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `subsumtion-schritt-verfassungsrecht` | Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfrast... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Jura-Hausarbeiten: trennt fehlende Tatsachen von fehlenden Belegen (Sachverhalt, Literaturverzeichnis, Gliederung), nennt pro Lücke Beweisthema, Beschaffungsweg (Universitäre Prüfungsämter), Frist und Er... |
@@ -303,6 +302,6 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zitierweise-jura-fundstellen` | Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student... |
 | `zivilrecht-anspruchsgrundlagen-pruefung` | Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung: Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag... |
-| `zivilrecht-verhandlung-vergleich-und-eskalation` | Zivilrecht: Verhandlung, Vergleich und Eskalation im Hausarbeitenmacher. |
+| `zivilrecht-verhandlung-vergleich-und-eskalation` | Zivilrecht: Verhandlung, Vergleich und Eskalation im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

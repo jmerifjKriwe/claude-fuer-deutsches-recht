@@ -1,5 +1,4 @@
 # Fachanwalt Vergaberecht
-Wenn du das hier oeffnest, willst du eine Vergabeentscheidung ruegen und das Nachpruefungsverfahren fristgerecht fuehren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du eine Vergabeentscheidung ruegen und das Nachpruefungsverfahren fristgerecht führen.
 Plugin Fachanwalt für Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A EU-Vergabe-RL Nachprüfungsverfahren Vergabekammer OLG-Vergabesenat. Es führt nicht nur zur abstrakten Rechtsprüfung, sondern auch zu vorgerichtlicher Abhilfe, Rüge, Nachprüfungsantrag, Sachverhaltsvortrag vor der Vergabekammer, Akteneinsicht, Zurückversetzung, Neuwertung, Änderung der Vergabeunterlagen, Vergleich und sofortiger Beschwerde. Schnittstellen fachanwalt-bau-architektenrecht.
 
 ## Installation in der Plugin-Umgebung
@@ -48,7 +48,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 120 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -84,7 +84,6 @@ Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschre
 | `fachanwalt-vergaberecht-ruege-vor-zuschlag` | Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Prüfraster:... |
 | `fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb` | Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs. 3 GWB ausarbeiten: Bieter will Ruege inhaltlich stark begründen. Normen: § 160 Abs. 3 GWB (Ruege als Zulassigkeitsvoraussetzung), §§ 97 ff. GWB. Prüfraster: Konkrete Vergabestoerung, N... |
 | `fachanwalt-vergaberecht-schadensersatz-181-gwb` | Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schaden... |
-| `fachanwalt-vergaberecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Vergaberecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `fachanwalt-vergaberecht-sektorenvergabe-sektvo` | Sektorenvergabe nach SektVO durchfuehren und angreifen: Sektorenauftraggeber Wasser/Energie/Verkehr/Post oder Bieter will SektVO-konformes Verfahren oder Ruege. Normen: §§ 100-104 GWB (Sektorenauftraggeber), SektVO, RL 2014/25/EU. Pruefr... |
 | `fachanwalt-vergaberecht-uvgo-unterschwellenvergabe` | Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen. Normen: UVgO (Bund seit 2017, Laender ueberwiegend), § 55 BHO, LHO der Laender, Primaerrechtsschutz vo... |
 | `fachanwalt-vergaberecht-vergabesperre-korruption-selbstreinigung` | Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden; Auftraggeber will sperren. Normen: §§ 123-126 GWB (zwingende und fakultative Ausschlussgruende), § 125... |
@@ -154,7 +153,7 @@ Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschre
 | `vergabekammer-verhandlung-vergleich-und-eskalation` | Mündliche Verhandlung und Erörterung vor der Vergabekammer vorbereiten: Sachverhaltslinie, Fragen der Kammer, Akteneinsicht, Geschäftsgeheimnisse, Vergleichskorridor, Abhilfeentscheidung, Zurückversetzung, Neuwertung und OLG-Eskalation. |
 | `vergaberecht-anti-korruption-paragraf-123-gwb` | Vergaberecht Anti Korruption § 123 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `vergaberecht-tatbestand-beweis-und-belege` | Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `vergaberechtliche-pruefung-anwaltlich-vollpruefung` | Vollpruefung fuer die vollstaendige anwaltliche vergaberechtliche Pruefung einer Auftragsvergabe aus Bieter- oder Auftraggebersicht: Anwendungsbereich GWB/VgV/SektVO/KonzVgV/VOB-A/UVgO, Schwellenwerte, Verfahrensart, Bekanntmachung TED/eFo... |
+| `vergaberechtliche-pruefung-anwaltlich-vollpruefung` | Vollprüfung einer öffentlichen Auftragsvergabe aus Bieter- oder Auftraggebersicht: GWB, VgV, SektVO, KonzVgV, VOB-A, UVgO, Schwellenwert, Verfahrensart, Eignung, Zuschlag, Rüge, Nachprüfung, Eilrechtsschutz, De-facto-Vergabe, Schadensers... |
 | `vergaberueg-paragraf-160-gwb` | Vergaberueg § 160 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `vergabesenat-quellenkarte` | Vergabesenat Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `vergabesperre-korruption-selbstreinigung` | Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden: Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will... |

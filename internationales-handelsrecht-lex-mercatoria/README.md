@@ -1,5 +1,4 @@
 # Internationales Handelsrecht und Lex Mercatoria
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Internationaler Handel als Vertrags- und Risikomaschine: anwendbares Recht, Lieferbedingungen, Zahlung, Transport, Sanktionen und Streitbeilegung von Anfang an zusammen denken.
 
 Dieses Plugin führt durch **Internationales Handelsrecht und Lex Mercatoria** und erzeugt je nach Bedarf Memos, Quellenmatrizen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
@@ -48,7 +48,7 @@ Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Li
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 193 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 192 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -189,7 +189,6 @@ Automatisch generierte Komplett-Liste aller 193 Skills in diesem Plugin. Beschre
 | `insolvency-of-foreign-retention-and-setoff` | Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmu... |
 | `inspection-certificate-late-delivery-liquidated` | Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisur... |
 | `interim-measures-recognition-new-york-mediation` | Internationales Handelsrecht: Einstweilige Maßnahmen in der internationalen Schiedsgerichtsbarkeit. UNCITRAL Model Law Art. 17-17J, Schiedsgericht vs. staatlicher Rechtsschutz, Asset Freezing Orders, Mareva Injunctions und Anti-Suit Inju... |
-| `internationales-handelsrecht-lex-mercatoria-schnellstart` | 'Kompakter Arbeitsmodus für Internationales Handelsrecht und Lex Mercatoria. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `ip-license-supply-confidentiality-and-trade` | Internationales Handelsrecht: IP-Lizenzen in der Lieferkette. Patentzwangslizenz, Markenlizenz, Know-how-Lizenz, Reichweite von Sublizenzrechten, Exhaustion-Doktrin (EUIPO) und IP-Klauseln in Supply-Chain-Verträgen im Internationales Han... |
 | `joint-venture-trade-manufacturing-agreement-oem` | Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollf... |
 | `kaltstart-internationaler-handelsfall` | Internationales Handelsrecht: Einstieg in grenzüberschreitende Handelsfälle. CISG Art. 1-13 Anwendungsbereich, Incoterms 2020 Risikoübergang, ICC-Schiedsklausel und Rom I-Rechtswahl als Erstdiagnose-Rahmen für internationale Kaufverträge. |

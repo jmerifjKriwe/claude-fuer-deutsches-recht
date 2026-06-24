@@ -1,13 +1,13 @@
 ---
 name: azubi-zeugnis-analyse
-description: "Analyse von Ausbildungszeugnissen nach § 16 BBiG bei Zeugnisstreit oder Berichtigungsverlangen. Anwendungsfall Auszubildender hat Ausbildungszeugnis erhalten das er für schlecht haelt. Normen § 16 BBiG Zeugnispflicht § 109 GewO analog. Prüfraster Lernfortschritt Berufsschulleistungen praktische Ausbildungsaufgaben Verhalten im Betrieb Ampelzuordnung branchenspezifische Formulierungen. Output Ampeltabelle mit Notentendenzen Begründungen und Verbesserungsvorschlaegen. Abgrenzung zu leistungsbeurteilung-analyse und schlussformel-bewertung (Arbeitszeugnisse Erwachsener)."
+description: "Analyse von Ausbildungszeugnissen nach Paragraf 16 BBiG bei Zeugnisstreit oder Berichtigungsverlangen. Anwendungsfall Auszubildender hat Ausbildungszeugnis erhalten das er für schlecht hält. Normen Paragraf 16 BBiG Zeugnispflicht Paragraf 109 GewO analog. Prüfraster Lernfortschritt Berufsschulleistungen praktische Ausbildungsaufgaben Verhalten im Betrieb Ampelzuordnung branchenspezifische Formulierungen. Output Ampeltabelle mit Notentendenzen Begründungen und Verbesserungsvorschlaegen. Abgrenzung zu leistungsbeurteilung-analyse und schlussformel-bewertung (Arbeitszeugnisse Erwachsener)."
 ---
 
 # Ausbildungszeugnis-Analyse (Azubi-Zeugnis)
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -38,8 +38,8 @@ description: "Analyse von Ausbildungszeugnissen nach § 16 BBiG bei Zeugnisstrei
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 16 BBiG** — Anspruch des Auszubildenden auf qualifiziertes Zeugnis nach Beendigung der Ausbildung
-- **§ 13 BBiG** — Pflichten des Auszubildenden; Pflichtverletzungen dürfen nur bei tragfähiger Tatsachengrundlage in die Beurteilung einfließen
+- **Paragraf 16 BBiG** — Anspruch des Auszubildenden auf qualifiziertes Zeugnis nach Beendigung der Ausbildung
+- **Paragraf 13 BBiG** — Pflichten des Auszubildenden; Pflichtverletzungen dürfen nur bei tragfähiger Tatsachengrundlage in die Beurteilung einfließen
 - Allgemeine Zeugnisgrundsätze zu Wahrheit, Klarheit und Wohlwollen sind bei Ausbildungszeugnissen entsprechend zu berücksichtigen
 
 ## Aktuelle Rechtsprechung
@@ -48,9 +48,9 @@ description: "Analyse von Ausbildungszeugnissen nach § 16 BBiG bei Zeugnisstrei
 
 ## Triage — vor der Azubi-Analyse
 
-1. Abschlusszeugnis oder Zwischenzeugnis (§ 16 Abs. 2 BBiG)?
+1. Abschlusszeugnis oder Zwischenzeugnis (Paragraf 16 Abs. 2 BBiG)?
 2. Duales Ausbildungsverhältnis? → Berufsschulbewertung vorhanden?
-3. Ausbildung abgebrochen? → Nur Anspruch auf einfaches Zeugnis nach § 16 Abs. 1 BBiG
+3. Ausbildung abgebrochen? → Nur Anspruch auf einfaches Zeugnis nach Paragraf 16 Abs. 1 BBiG
 4. Beendigungsgrund: Bestehen der Prüfung oder Kündigung/Aufhebung?
 
 

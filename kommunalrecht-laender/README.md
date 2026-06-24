@@ -1,5 +1,4 @@
 # Kommunalrecht der Länder
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist die Werkbank für kommunale Selbstverwaltung: Rat, Bürgermeister, Landkreis, Satzung, Gebühren, Haushalt, Bürgerbegehren, Kommunalaufsicht, kommunale Unternehmen und Landesrecht.
 
 ## Start
@@ -46,7 +46,7 @@ Beginne mit `kommunalrecht-laender-allgemein`. Das Plugin fragt zuerst nach Roll
 
 ## Quellenhygiene
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
+Siehe [`description`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
 
 ## Lizenz
 
@@ -56,7 +56,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 177 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 176 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -162,7 +162,6 @@ Automatisch generierte Komplett-Liste aller 177 Skills in diesem Plugin. Beschre
 | `kommunalrecht-hamburg-routen` | Kommunalrecht der Länder: Kommunalrecht Hamburg routen. Kommunalrecht Hamburg routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. |
 | `kommunalrecht-hessen-routen` | Kommunalrecht der Länder: Kommunalrecht Hessen routen. Kommunalrecht Hessen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. |
 | `kommunalrecht-in-einfacher-sprache` | Kommunalrecht der Länder: Kommunalrecht in einfacher Sprache. Kommunalrecht in einfacher Sprache im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. |
-| `kommunalrecht-laender-schnellstart` | 'Kompakter Arbeitsmodus für Kommunalrecht der Länder. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `kommunalrecht-mecklenburg-niedersachsen` | Kommunalrecht der Länder: Kommunalrecht Mecklenburg-Vorpommern routen. Kommunalrecht Mecklenburg-Vorpommern routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten... |
 | `kommunalrecht-niedersachsen-routen` | Kommunalrecht der Länder: Kommunalrecht Niedersachsen routen. Kommunalrecht Niedersachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. |
 | `kommunalrecht-nordrhein-westfalen-rout` | Kommunalrecht der Länder: Kommunalrecht Nordrhein-Westfalen routen. Kommunalrecht Nordrhein-Westfalen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kom... |

@@ -7,7 +7,7 @@ description: "Erstellt die standardisierte Ampel-Ausgabetabelle für analysierte
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -46,8 +46,8 @@ description: "Erstellt die standardisierte Ampel-Ausgabetabelle für analysierte
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 109 GewO** — Anspruch auf qualifiziertes Zeugnis; Wohlwollensgebot und Wahrheitspflicht
-- **§ 109 Abs. 2 GewO** — Zeugnis muss klar und verständlich formuliert sein; Codierungen, die Fortkommen erschweren, verstoßen gegen Wohlwollensgebot
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes Zeugnis; Wohlwollensgebot und Wahrheitspflicht
+- **Paragraf 109 Abs. 2 GewO** — Zeugnis muss klar und verständlich formuliert sein; Codierungen, die Fortkommen erschweren, verstoßen gegen Wohlwollensgebot
 
 ## Aktuelle Rechtsprechung
 
@@ -63,16 +63,16 @@ description: "Erstellt die standardisierte Ampel-Ausgabetabelle für analysierte
 
 ### Kuratierte Normen-Bibliothek
 
-- § 16 BBiG
-- § 46 ArbGG
-- § 1 KSchG
-- § 7 KSchG
-- § 102 BetrVG
-- § 2 NachwG
-- § 42 GKG
-- § 29 VwVfG
-- § 11 ArbGG
-- § 13 BBiG
+- Paragraf 16 BBiG
+- Paragraf 46 ArbGG
+- Paragraf 1 KSchG
+- Paragraf 7 KSchG
+- Paragraf 102 BetrVG
+- Paragraf 2 NachwG
+- Paragraf 42 GKG
+- Paragraf 29 VwVfG
+- Paragraf 11 ArbGG
+- Paragraf 13 BBiG
 
 ### Leitentscheidungen
 

@@ -1,5 +1,4 @@
 # Urheberrecht DE EU
-Wenn du das hier oeffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
 Dieses Plugin ist der tiefe Urheberrechtsprüfer für deutsches und europäisches Urheberrecht. Es führt durch Werkhöhe, Schöpfungshöhe, Musikwerke, Songtexte, Tonaufnahmen, Sampling, KI-Output, KI-Training, Software, Datenbanken, Leistungsschutzrechte, Lizenzketten, Schranken, Plattformprozesse, Abmahnungen, einstweilige Verfügung und urheberrechtliche Vertragsgestaltung.
 
 Der Einstieg ist bewusst praktisch: erst Rolle, Ziel, Material, Frist und Beweisstand; dann die passende Prüfroute. Das Plugin soll keine Rechtsmythen reproduzieren, sondern sauber zwischen Idee, Stil, Technik, Ausdruck, Aufnahme, Leistungsschutz und Vertrag unterscheiden.
@@ -134,7 +134,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -192,7 +192,6 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `soundaufnahme-tontraeger-titel-slogan` | Prüft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte bei Master, Stem, Sample, Remix, Re-Recording und Streaming im Urheberrecht De Eu. |
 | `titel-slogan-kurzform` | Prüft kurze Formulierungen zwischen Urheberrecht, Werktitelrecht, Marke, UWG und Gemeingut im Urheberrecht De Eu. |
 | `urheberpersoenlichkeitsrecht` | Prüft Namensnennung, Erstveröffentlichung, Entstellung, Bearbeitung, Integrität und Konflikte bei KI-Remix oder Label-Edit im Urheberrecht De Eu. |
-| `urheberrecht-de-eu-schnellstart` | 'Kompakter Arbeitsmodus für Urheberrecht DE EU. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `urheberrechtliche-compliance` | Baut Prozesse für Rechteclearing, Stock, Software, KI, Social Media, Schulung, Freigabe und Audit im Urheberrecht De Eu. |
 | `urheberstrafrecht` | Prüft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen im Urheberrecht De Eu. |
 | `urhebervertragsrecht-verguetung` | Prüft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken im Urheberrecht De Eu. |

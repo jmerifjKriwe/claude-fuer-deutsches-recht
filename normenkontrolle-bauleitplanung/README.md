@@ -1,5 +1,4 @@
 # Normenkontrolle Bauleitplanung — § 47 VwGO
-Wenn du das hier oeffnest, willst du einen Bebauungsplan oder staedtebaulichen Vertrag auf Festsetzungen und Fehler pruefen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen Bebauungsplan oder staedtebaulichen Vertrag auf Festsetzungen und Fehler prüfen.
 Freistehendes Plugin für die Prüfung und gerichtliche Anfechtung von **Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften** im Normenkontrollverfahren nach § 47 VwGO vor dem **Bayerischen Verwaltungsgerichtshof (BayVGH)** und anderen Oberverwaltungsgerichten.
 
 ## Installation
@@ -126,36 +126,36 @@ Das Plugin ist freistehend nutzbar und benötigt keine anderen Plugins des Marke
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `abwaegung-formular-portal` | Abwaegung: Formular, Portal und Einreichungslogik: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion ode... |
-| `abwaegung-formular-portal-und-einreichung` | Abwaegung: Formular, Portal und Einreichungslogik. |
+| `abwaegung-formular-portal-und-einreichung` | Abwaegung: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `abwaegungsgebot-1-abs-7-baugb` | Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vier Abwaegungsfehler-Stufen Abwaegungsausfall Abwaegungsdefizit Abwaegungsfehleinschaetzung Abwaegungsdisproportionali... |
 | `allgemeine-satzungsnormenkontrolle-47-vwgo` | Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.; Normanker: VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommuna... |
-| `anfechtung-antragsbefugnis-red-team-korrektur` | Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `anfechtung-antragsbefugnis-red-team-korrektur` | Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anfechtung-tatbestandsmerkmale` | Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sa... |
 | `anpassungsgebot-flaechennutzungsplan` | Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Prüfraster: Entwicklungssaussage des FNP bezogen auf Plangebiet Konflikt FNP-Darstellung... |
 | `anschluss-routing` | Anschluss-Routing für Normenkontrolle Bauleitplanung: wählt den nächsten Spezial-Skill nach Engpass (§ 47 II VwGO 1 Jahr ab Bekanntmachung, Bebauungsplan, Begründung, Abwägungsmaterial), dokumentiert Router-Entscheidung mit Begründung. |
 | `antragsbefugnis-eigentuemer-nachbar` | Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Prüfraster: Möglichkeitstheorie als Maßstab Eigentuemer im Plangebiet imm... |
 | `antragsbefugnis-fehlerkatalog` | Antragsbefugnis Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `antragsbefugnis-red-team-und-qualitaetskontrolle` | Antragsbefugnis: Red-Team und Qualitätskontrolle. |
-| `antragstellervertretung-zahlen-schwellen-und-berechnung` | Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung. |
+| `antragsbefugnis-red-team-und-qualitaetskontrolle` | Antragsbefugnis: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `antragstellervertretung-zahlen-schwellen-und-berechnung` | Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `artenschutz-naturschutz-aufstellungsbeschluss` | Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Maßnahmen Eingrif... |
 | `artenschutz-naturschutz-planung` | Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Maßnahmen Eingrif... |
 | `aufstellungsbeschluss-bekanntmachung` | Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Prüfraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs. 1 Beschluss als Sa... |
 | `aufstellungsbeschluss-mandantenentscheidun-02` | Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle,... |
-| `aufstellungsbeschluss-mandantenentscheidung` | Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage. |
+| `aufstellungsbeschluss-mandantenentscheidung` | Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bauleitplanung-interessen` | Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sank... |
-| `bauleitplanung-mehrparteien-konflikt-und-interessen` | Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix. |
+| `bauleitplanung-mehrparteien-konflikt-und-interessen` | Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bauvorschriften-behoerden` | Bauvorschriften: Behörden-, Gerichts- oder Registerweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktio... |
-| `bauvorschriften-behoerden-gericht-und-registerweg` | Bauvorschriften: Behörden-, Gerichts- oder Registerweg. |
-| `bayvgh-bekanntmachung-beweislast-eilantrag` | Bayvgh: Verhandlung, Vergleich und Eskalation. |
+| `bauvorschriften-behoerden-gericht-und-registerweg` | Bauvorschriften: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `bayvgh-bekanntmachung-beweislast-eilantrag` | Bayvgh: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bayvgh-verhandlung-vergleich` | Bayvgh: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Ve... |
-| `bebauungsplaenen-kommunalabgaben` | Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `bebauungsplaenen-kommunalabgaben` | Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bekanntmachung-beweislast-darlegungslast` | Bekanntmachung: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung,... |
-| `bekanntmachung-beweislast-und-darlegungslast` | Bekanntmachung: Beweislast, Darlegungslast und Substantiierung. |
+| `bekanntmachung-beweislast-und-darlegungslast` | Bekanntmachung: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `benutzungssatzung-kommunale-einrichtung` | Benutzungssatzungen kommunaler Einrichtungen: Markthalle, Friedhof, Kita, Bibliothek, Sportanlage, Hausrecht und Grundrechte.; Normanker: VwGO § 47; Kommunalordnungen; Grundrechte; Gebührenrecht; macht § 47 VwGO als allgemeines Satzungs-... |
 | `beteiligung-frueh-buergerversammlung` | Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behördenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1 Monat Behördenbeteil... |
 | `beteiligung-frueh-foermlich` | Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behördenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1 Monat Behördenbeteil... |
@@ -169,8 +169,16 @@ Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschre
 | `einstweilige-anordnung-47-abs-6-vwgo` | Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Maßstab Eilbedürftigkeit Baugenehmigung be... |
 | `einstweilige-anordnung-erforderlichkeit-abs` | Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Maßstab Eilbedürftigkeit Baugenehmigung be... |
 | `erforderlichkeit-1-abs-3-baugb` | Prüfungslinie für erforderlichkeit 1 abs 3 baugb im Normenkontrolle Bauleitplanung. |
-| `festsetzungskatalog-9-baugb-baunvo` | Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog BauNVO. Prüfraster: Festsetzungen außerhalb des Katalogs unwirksam BauNVO Art und Mass bauliche Nutzung GRZ GFZ Voll... |
-| `flaechennutzungsplaenen-normenkontrolle` | Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `festsetzungen-baunutzungsverordnung-art-mass` | Prueft Art und Mass der baulichen Nutzung nach BauNVO: Gebietstyp, Feinsteuerung, GRZ, GFZ, Hoehe, Vollgeschosse, Ausnahmen, Ausschluesse und Abwaegung. |
+| `festsetzungen-bebauungsplan-9-baugb-grundlagen` | Prueft Festsetzungen eines Bebauungsplans nach BauGB Paragraf 9: Rechtsgrundlage, Bestimmtheit, Erforderlichkeit, Abwaegung, Planzeichnung, Textfestsetzung und Planerhaltung. |
+| `festsetzungen-bestimmtheit-und-erforderlichkeit` | Prueft Bestimmtheit und Erforderlichkeit von Bebauungsplan-Festsetzungen nach BauGB Paragraf 1 Absatz 3, Paragraf 1 Absatz 7 und Paragraf 9. |
+| `festsetzungen-innenentwicklung-13a-13b-baugb` | Prueft Bebauungsplaene der Innenentwicklung nach BauGB Paragraf 13a und Anschlussfragen zu Paragraf 13b: Anwendungsbereich, Flaechenbezug, Umweltpruefung und Fehlerfolge. |
+| `festsetzungen-konflikt-mit-staedtebauvertrag` | Prueft Konflikte zwischen Bebauungsplan-Festsetzungen und städtebaulichem Vertrag: Normbindung, Vertragsbindung, Durchfuehrung, Abwaegung und Rechtsschutz. |
+| `festsetzungen-oertliche-bauvorschriften-lbo` | Prueft oertliche Bauvorschriften im Bebauungsplan nach BauGB Paragraf 9 Absatz 4 und Landesbauordnung: Gestaltung, Dach, Einfriedung, Stellplatz und Kompetenzgrenze. |
+| `festsetzungen-ueberbaubare-flaeche-bauweise` | Prueft Bauweise, Baulinien, Baugrenzen und ueberbaubare Grundstuecksflaechen nach BauNVO Paragrafen 22 und 23 mit Nachbarbezug und Bestimmtheitskontrolle. |
+| `festsetzungen-verkehrs-und-gruenflaechen` | Prueft Verkehrsflächen, Gruenflächen, Gemeinbedarfsflächen und Versorgungsflächen im Bebauungsplan nach BauGB Paragraf 9 mit Erschliessung, Widmung und Abwaegung. |
+| `festsetzungskatalog-9-baugb-baunvo` | Prueft den Festsetzungskatalog des BauGB Paragraf 9 und der BauNVO: Art und Mass der Nutzung, Bauweise, ueberbaubare Flaechen, Verkehrs-, Gruen- und Versorgungsflaechen, Hinweise, Kennzeichnungen und Katalogueberschreitungen. |
+| `flaechennutzungsplaenen-normenkontrolle` | Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich normenkontrolle-bauleitplanung: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `immissionsschutz-laerm-bauleitplanung` | Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsat... |
 | `immissionsschutz-laerm-mandat-erstgespraech` | Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsat... |
@@ -189,30 +197,36 @@ Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschre
 | `normenkontrollantrag-normenkontrolle` | Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erf... |
 | `normenkontrollantrag-schriftsatz` | Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erf... |
 | `normenkontrolle-antragstellervertretung-47vwgo` | Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung,... |
-| `normenkontrolle-bauleitplanung-schnellstart` | 'Kompakter Arbeitsmodus für Normenkontrolle Bauleitplanung — Paragraf 47 VwGO. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `normenkontrolle-bebauungsplan-angriffspunkte` | Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, S... |
-| `normenkontrolle-compliance-dokumentation-und-akte` | Normenkontrolle: Compliance-Dokumentation und Aktenvermerk. |
+| `normenkontrolle-compliance-dokumentation-und-akte` | Normenkontrolle: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `normenkontrolle-fnp-inzidentkontrolle` | Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle... |
 | `normenkontrolle-oder-inzidentkontrolle` | Normenkontrolle oder Inzidentkontrolle: wann § 47 VwGO, wann Anfechtung/Verpflichtung/Feststellung gegen Einzelakt.; Normanker: VwGO §§ 42 und 43 und 47; Rechtsschutzbedürfnis; Bestandskraft; macht § 47 VwGO als allgemeines Satzungs- und... |
 | `normenkontrolle-satzungsnormenkontrolle` | Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.; Normanker: VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommuna... |
 | `normenkontrolle-satzungsnormenkontrolle-47-vwgo` | Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.; Normanker: VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommuna... |
 | `oertlichen-risikoampel` | Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung... |
-| `oertlichen-risikoampel-und-gegenargumente` | Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `oertlichen-risikoampel-und-gegenargumente` | Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `output-waehlen` | Output-Wahl für Normenkontrolle Bauleitplanung: stimmt Adressat (Antragsteller (Anwohner/Nachbargemeinde), Gemeinde, OVG), Frist (§ 47 II VwGO 1 Jahr ab Bekanntmachung) und Form auf den Zweck ab — typische Outputs: Normenkontrollantrag,... |
 | `planerhaltung-214-215-baugb` | Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Unwirksamkeit führen oder durch Planerhaltung geheilt werden. §§ 214 215 BauGB Planerhaltung und Ruegefrist. Prüfraster: § 214 Abs. 1 bis 3 beachtliche Fehler § 215 BauGB Rue... |
 | `planerhaltung-abwaegung` | Planerhaltung, Abwägung und Antragsbefugnis: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Normenkontrolle Bauleitplanung. |
 | `planerhaltung-abwaegung-antragsbefugnis` | Planerhaltung, Abwägung und Antragsbefugnis: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `planerhaltung-internationaler` | Planerhaltung: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sankti... |
-| `planerhaltung-internationaler-bezug-und-schnittstellen` | Planerhaltung: Internationaler Bezug und Schnittstellen. |
+| `planerhaltung-internationaler-bezug-und-schnittstellen` | Planerhaltung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `polizeiverordnung-gefahrenabwehrsatzung` | Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz.; Normanker: VwGO § 47; Polizei-/Ordnungsrecht der Länder; Art. 2 und 8 und 12 und 14 GG; macht § 47... |
 | `polizeiverordnung-und-gefahrenabwehrsatzung` | Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz.; Normanker: VwGO § 47; Polizei-/Ordnungsrecht der Länder; Art. 2 und 8 und 12 und 14 GG; macht § 47... |
-| `pruefung-erstpruefung-und-mandatsziel` | Prüfung: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `pruefung-erstpruefung-und-mandatsziel` | Prüfung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `quellen-livecheck` | Quellen-Live-Check für Normenkontrolle Bauleitplanung: prüft Normen (BauGB §§ 1/2/10, § 47 VwGO Normenkontrolle) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt OVG/VGH und Quellenhygiene nach references/quellenhy... |
 | `rechtsfolge-unwirksamkeit-und-bekanntmachung` | Rechtsfolge der Unwirksamkeit: Allgemeinverbindlichkeit, Veröffentlichung, Folgebescheide, Rückabwicklung und Vertrauensschutz.; Normanker: VwGO § 47 Abs. 5; Landesrecht; VwVfG/Spezialrecht; macht § 47 VwGO als allgemeines Satzungs- und... |
 | `red-team-satzung-jenseits-baugb` | Red-Team Satzung jenseits BauGB: Ermächtigungsgrundlage, Zuständigkeit, Verfahren, Bekanntmachung, Bestimmtheit, Gleichheit, Verhältnismäßigkeit.; Normanker: VwGO § 47; Kommunalrecht; Art. 3 und 12 und 14 GG; macht § 47 VwGO als allgemei... |
 | `redteam-qualitygate` | Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand |
 | `spezial-mandatsperspektive-livequellen-und-rechtsprechungscheck` | Mandatsperspektive: Livequellen- und Rechtsprechungscheck. |
 | `spezial-pruefung-erstpruefung-und-mandatsziel` | Pruefung: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `staedtebaulicher-vertrag-angemessenheit-kausalitaet` | Prueft Kausalitaet und Angemessenheit städtebaulicher Vertragsleistungen nach BauGB Paragraf 11 Absatz 2 mit Kostenlogik, Gegenleistungsbezug und Ueberforderungsschutz. |
+| `staedtebaulicher-vertrag-durchfuehrungsvertrag-12-baugb` | Prueft Durchführungsverträge zum vorhabenbezogenen Bebauungsplan nach BauGB Paragraf 12: Vorhaben, Erschließung, Frist, Kosten, Durchführungsfähigkeit und Planbindung. |
+| `staedtebaulicher-vertrag-erschliessungsvertrag-124-baugb` | Prueft Erschließungsverträge nach BauGB Paragraf 124: Dritter, Erschließungsanlage, Kostenuebernahme, Spezialitaet gegenueber BauGB Paragraf 11 und Umgehungsrisiko. |
+| `staedtebaulicher-vertrag-folgekostenvertrag` | Prueft Folgekostenverträge nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 3: Bedarf, Gesamtkonzept, Kausalitaet, Angemessenheit, Umlagegrenzen und Rueckzahlungsrisiko. |
+| `staedtebaulicher-vertrag-formfehler-und-nichtigkeit` | Prueft Schriftform, notarielle Beurkundung, Kopplungsverbot, Teilnichtigkeit und Rueckabwicklung städtebaulicher Verträge nach BauGB, VwVfG und BGB-Grundsaetzen. |
+| `staedtebaulicher-vertrag-grundlagen-11-baugb` | Prueft städtebauliche Verträge nach BauGB Paragraf 11: Vertragsgegenstand, Beteiligte, Kopplungsverbot, Kausalitaet, Angemessenheit, Schriftform, Rueckabwicklung und Normenkontroll-Schnittstelle. |
+| `staedtebaulicher-vertrag-rechtsschutz-und-streit` | Prueft Rechtsschutz bei Streit ueber städtebauliche Verträge: Verwaltungsrechtsweg, Leistungsklage, Rueckforderung, Normenkontrollbezug, Eilbedarf und Vergleichsstrategie. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Normenkontrolle Bauleitplanung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitspl... |
 | `statthaftigkeit-47-vwgo` | Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung zulässig ist. § 47 Abs. 1 VwGO Statthaftigkeit Normenkontrolle. Prüfraster: Antragsgegenstand Bebauungsplan § 10 BauGB vorhabenbezogener B-Plan § 12 BauGB § 13a-B-Plan ör... |
 | `stellplatzsatzung-bay-bauordnung` | Mandant wendet sich gegen Stellplatzsatzung einer Gemeinde oder deren Anwendung bei Bauantrag. Art. 47 BayBO § 9 Abs. 1 Nr. 4 BauGB Art. 81 BayBO Stellplatzsatzung. Prüfraster: Reduzierung Stellplatzschluessel durch örtliche Bauvorschrif... |
@@ -222,23 +236,8 @@ Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschre
 | `veraenderungssperre-zurueckstellung-14-15-baugb` | Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus... |
 | `vorhabenbezogener-bebauungsplan-12-baugb` | Prüfungslinie für vorhabenbezogener bebauungsplan 12 baugb im Normenkontrolle Bauleitplanung. |
 | `vwgo-schriftsatz-brief-memo` | VwGO: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Ve... |
-| `vwgo-statthaftigkeit-stellplatzsatzung-bay` | VwGO: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `vwgo-statthaftigkeit-stellplatzsatzung-bay` | VwGO: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
-| `staedtebaulicher-vertrag-grundlagen-11-baugb` | Prueft städtebauliche Verträge nach BauGB Paragraf 11: Vertragsgegenstand, Beteiligte, Kopplungsverbot, Kausalitaet, Angemessenheit, Schriftform, Rueckabwicklung und Normenkontroll-Schnittstelle. |
-| `staedtebaulicher-vertrag-folgekostenvertrag` | Prueft Folgekostenverträge nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 3: Bedarf, Gesamtkonzept, Kausalitaet, Angemessenheit, Umlagegrenzen und Rueckzahlungsrisiko. |
-| `staedtebaulicher-vertrag-erschliessungsvertrag-124-baugb` | Prueft Erschließungsverträge nach BauGB Paragraf 124: Dritter, Erschließungsanlage, Kostenuebernahme, Spezialitaet gegenueber BauGB Paragraf 11 und Umgehungsrisiko. |
-| `staedtebaulicher-vertrag-durchfuehrungsvertrag-12-baugb` | Prueft Durchführungsverträge zum vorhabenbezogenen Bebauungsplan nach BauGB Paragraf 12: Vorhaben, Erschließung, Frist, Kosten, Durchführungsfähigkeit und Planbindung. |
-| `staedtebaulicher-vertrag-angemessenheit-kausalitaet` | Prueft Kausalitaet und Angemessenheit städtebaulicher Vertragsleistungen nach BauGB Paragraf 11 Absatz 2 mit Kostenlogik, Gegenleistungsbezug und Ueberforderungsschutz. |
-| `staedtebaulicher-vertrag-formfehler-und-nichtigkeit` | Prueft Schriftform, notarielle Beurkundung, Kopplungsverbot, Teilnichtigkeit und Rueckabwicklung städtebaulicher Verträge nach BauGB, VwVfG und BGB-Grundsaetzen. |
-| `staedtebaulicher-vertrag-rechtsschutz-und-streit` | Prueft Rechtsschutz bei Streit ueber städtebauliche Verträge: Verwaltungsrechtsweg, Leistungsklage, Rueckforderung, Normenkontrollbezug, Eilbedarf und Vergleichsstrategie. |
-| `festsetzungen-bebauungsplan-9-baugb-grundlagen` | Prueft Festsetzungen eines Bebauungsplans nach BauGB Paragraf 9: Rechtsgrundlage, Bestimmtheit, Erforderlichkeit, Abwaegung, Planzeichnung, Textfestsetzung und Planerhaltung. |
-| `festsetzungen-baunutzungsverordnung-art-mass` | Prueft Art und Mass der baulichen Nutzung nach BauNVO: Gebietstyp, Feinsteuerung, GRZ, GFZ, Hoehe, Vollgeschosse, Ausnahmen, Ausschluesse und Abwaegung. |
-| `festsetzungen-ueberbaubare-flaeche-bauweise` | Prueft Bauweise, Baulinien, Baugrenzen und ueberbaubare Grundstuecksflaechen nach BauNVO Paragrafen 22 und 23 mit Nachbarbezug und Bestimmtheitskontrolle. |
-| `festsetzungen-verkehrs-und-gruenflaechen` | Prueft Verkehrsflächen, Gruenflächen, Gemeinbedarfsflächen und Versorgungsflächen im Bebauungsplan nach BauGB Paragraf 9 mit Erschliessung, Widmung und Abwaegung. |
-| `festsetzungen-innenentwicklung-13a-13b-baugb` | Prueft Bebauungsplaene der Innenentwicklung nach BauGB Paragraf 13a und Anschlussfragen zu Paragraf 13b: Anwendungsbereich, Flaechenbezug, Umweltpruefung und Fehlerfolge. |
-| `festsetzungen-oertliche-bauvorschriften-lbo` | Prueft oertliche Bauvorschriften im Bebauungsplan nach BauGB Paragraf 9 Absatz 4 und Landesbauordnung: Gestaltung, Dach, Einfriedung, Stellplatz und Kompetenzgrenze. |
-| `festsetzungen-bestimmtheit-und-erforderlichkeit` | Prueft Bestimmtheit und Erforderlichkeit von Bebauungsplan-Festsetzungen nach BauGB Paragraf 1 Absatz 3, Paragraf 1 Absatz 7 und Paragraf 9. |
-| `festsetzungen-konflikt-mit-staedtebauvertrag` | Prueft Konflikte zwischen Bebauungsplan-Festsetzungen und städtebaulichem Vertrag: Normbindung, Vertragsbindung, Durchfuehrung, Abwaegung und Rechtsschutz. |
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

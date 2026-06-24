@@ -1,5 +1,4 @@
 # Öffentliches Wirtschaftsrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin prüft, wann Staat, Kommune und Private wirtschaftlich zusammenarbeiten dürfen: Organisationsform, Vergabe, Beihilfe, ÖPP, kommunale Wirtschaft, Daseinsvorsorge, Privatisierung und Kontrolle.
 
 ## Start
@@ -46,7 +46,7 @@ Beginne mit `oeffentliches-wirtschaftsrecht-allgemein`. Das Plugin fragt zuerst 
 
 ## Quellenhygiene
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
+Siehe [`description`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
 
 ## Lizenz
 
@@ -56,7 +56,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 120 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 119 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -112,7 +112,6 @@ Automatisch generierte Komplett-Liste aller 120 Skills in diesem Plugin. Beschre
 | `messegesellschaft-vertrag-scopen` | Messegesellschaft: Vertrag scopen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `messegesellschaft-wirtschaftlichkeit-r` | Messegesellschaft: Wirtschaftlichkeit rechnen im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `oeffentliches-wirtschaftspro` | Kaltstart für öffentliche Wirtschaftsprojekte: ÖPP, Konzession, Inhouse, Beihilfe, Vergabe, kommunale Unternehmen, Haushaltsrecht und Risikoallokation in eine Entscheidungsvorlage bringen. |
-| `oeffentliches-wirtschaftsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Öffentliches Wirtschaftsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `oepp-struktur-pruefen` | Öffentliches Wirtschaftsrecht: ÖPP-Struktur prüfen. ÖPP-Struktur prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht. |
 | `oew-001-kaltstart-oeffentliches-wirtschaftspro` | Öffentliches Wirtschaftsrecht: Kaltstart öffentliches Wirtschaftsprojekt. Kaltstart öffentliches Wirtschaftsprojekt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearb... |
 | `oew-003-oepp-struktur-pruefen` | Öffentliches Wirtschaftsrecht: ÖPP-Struktur prüfen. ÖPP-Struktur prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |

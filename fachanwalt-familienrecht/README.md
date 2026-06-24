@@ -1,5 +1,4 @@
 # Fachanwalt Familienrecht
-Wenn du das hier oeffnest, willst du Versorgungsausgleich, Zugewinn und Unterhalt sauber durchrechnen und beantragen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,17 +21,18 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du Versorgungsausgleich, Zugewinn und Unterhalt sauber durchrechnen und beantragen.
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
 Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
-Zustaendigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
+Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
 Norm-Radar, Leitentscheidungs-Anker und genau eine Rueckfrage - bei
 klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
 
-Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
-| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
-| Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
+Konvention: [`.claude-plugin/plugin.json`](../references/anwalts-dashboard-konvention.md)
+| Quellen-Anker: [`skills/`](../references/leitentscheidungen-anker.md)
+| Quellenhygiene: [`assets/`](../references/quellenhygiene.md).
 
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -100,10 +100,9 @@ Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschre
 | `fachanwalt-familienrecht-orientierung` | Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund Paragraf 137 FamFG), Paragrafen 23a und 23b GVG (Familiengericht)... |
 | `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` | Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswechsel folgen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-familienrecht-scheidungsantrag-stellen` | Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-familienrecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Familienrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
-| `fachanwalt-familienrecht-unterhaltsberechnung` | Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen. Normen: Paragrafen 1601 ff. BGB (Kindesunterhalt), Paragraf 1361 BGB (Trennungsunterhalt), Paragrafen 1569... |
-| `fachanwalt-familienrecht-versorgungsausgleich` | Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), Paragrafen 1 und 10 VersAusglG (Hin- und Herrechnung), Paragraf 17 VersAusglG (externe Teilung), Paragraf 18 VersAus... |
-| `fachanwalt-familienrecht-zugewinnausgleich-berechnen` | Zugewinnausgleich nach Paragrafen 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermögen. Normen: Paragraf 1373 BGB (Zugewinn), Paragraf 1374 BGB (Anfangsvermögen inkl. Privilegierungen Abs. 2... |
+| `fachanwalt-familienrecht-unterhaltsberechnung` | Berechnet Kindes-, Trennungs- und nachehelichen Unterhalt mit bereinigtem Einkommen, Bedarf, Leistungsfähigkeit, Selbstbehalt, Mangelfall, Auskunftsstufe, Tabellenbezug und konkretem Antrag. |
+| `fachanwalt-familienrecht-versorgungsausgleich` | Bereitet den Versorgungsausgleich im Scheidungsverbund vor: Ehezeit, Versorgungsträgerauskünfte, interne und externe Teilung, Ausgleichswert, Geringfügigkeit, Härte, Vereinbarung und Beschlussvorschlag. |
+| `fachanwalt-familienrecht-zugewinnausgleich-berechnen` | Berechnet Zugewinnausgleich mit Anfangsvermögen, privilegiertem Erwerb, Endvermögen, illoyaler Vermögensminderung, Auskunft, Stufenklage, Stichtagen, Belegen und beziffertem Antrag. |
 | `famfg-quellenkarte` | Famfg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `familiengericht-verhandlung-vergleich-und-eskalation` | Familienrechtlicher Skill zu Familiengericht: Verhandlung, Vergleich und Eskalation im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumente... |
 | `familienrecht-tatbestand-beweis-und-belege` | Familienrechtlicher Skill zu Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegena... |
@@ -192,14 +191,15 @@ Automatisch generierte Komplett-Liste aller 157 Skills in diesem Plugin. Beschre
 | `unterhalt-internationaler-bezug-und-schnittstellen` | Familienrechtlicher Skill zu Unterhalt: Internationaler Bezug und Schnittstellen im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten,... |
 | `unterhalt-selbstaendige-einkommensaufklaerung` | Familienrechtlicher Skill zu Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt. |
 | `unterhaltsberechnung` | Familienrechtlicher Skill zu Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt. |
-| `unterhaltsberechnung-vollpruefung` | Vollpruefung fuer die vollstaendige Unterhaltsberechnung im deutschen Familienrecht. Deckt alle Unterhaltsarten in einem Skill ab: Kindesunterhalt nach Duesseldorfer Tabelle (Altersstufen, Einkommensgruppen, Mindestunterhalt 1612a, Kinderg... |
-| `unterhaltsberechnung-kompaktpruefung` | Kompaktpruefung fuer die Unterhaltsberechnung im deutschen Familienrecht. Kompaktversion fuer die schnelle fachliche Erstberechnung: Kindesunterhalt nach Duesseldorfer Tabe... |
+| `unterhaltsberechnung-kompaktpruefung` | Kompaktprüfung für Unterhaltsberechnung im Familienrecht: Kindesunterhalt, Trennungsunterhalt und nachehelicher Unterhalt mit bereinigtem Nettoeinkommen, Düsseldorfer Tabelle, Kindergeld, Mangelfall, Rangfolge, Selbstbehalt und verifizie... |
+| `unterhaltsberechnung-vollpruefung` | Vollprüfung für Unterhaltsberechnung im deutschen Familienrecht: Kindesunterhalt, Trennungsunterhalt und nachehelicher Unterhalt mit Einkommensbereinigung, Rangfolge, Selbstbehalt, Auskunft, Stufenklage, Verzug, Tabellenverifikation und... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Familienrecht: trennt fehlende Tatsachen von fehlenden Belegen (Heiratsurkunde, Scheidungsantrag, Vermögensauseinandersetzung), nennt pro Lücke Beweisthema, Beschaffungsweg (Familiengericht (A... |
 | `unternehmerversorgung-gesellschafter-geschaeftsfuehrer` | Familienrechtlicher Skill zu Unternehmerversorgung Gesellschafter-Geschäftsführer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt. |
+| `v392-fachanwaltsblick-fachanwalt-familienrecht` | Fachanwaltsblick für Familienrecht: Mandantengespräch, typische Fallkonstellationen, FAO-geprägte Themenbreite, Belegbedarf, Schriftsatzstruktur und taktischer nächster Schritt werden zusammengeführt. |
 | `va-bei-lebenspartnerschaft` | Familienrechtlicher Skill zu VA bei Lebenspartnerschaft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt. |
 | `va-im-internationalen-scheidungsfall` | Familienrechtlicher Skill zu VA im internationalen Scheidungsfall: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt. |
 | `va-und-insolvenz-eines-versorgungstraegers` | Familienrechtlicher Skill zu VA und Insolvenz eines Versorgungsträgers: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt. |
-| `vaterschaftsanfechtung-frist-paragraf-1600b-bgb-bverfg` | Vaterschaftsanfechtung Frist Paragraf 1600b BGB mit BVerfG 1 BvR 2007/10. |
+| `vaterschaftsanfechtung-frist-paragraf-1600b-bgb-bverfg` | Vaterschaftsanfechtung Frist Paragraf 1600b BGB mit BVerfG 1 BvR 2007/10. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `verbundabtrennung-versorgungsausgleich` | Familienrechtlicher Skill zu Verbundabtrennung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und Arbeitsprodukt. |
 | `vereinbarung-ueber-versorgungsausgleich-6-ff-versausglg` | Familienrechtlicher Skill zu Vereinbarung über Versorgungsausgleich Paragrafen 6 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen: ordnet Anspruch, Auskunft, Belege, Fristen, Rechenweg, Risiko und... |
 | `vergleichsverhandlung-strategie` | Familienrechtlicher Skill zu Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Pr... |

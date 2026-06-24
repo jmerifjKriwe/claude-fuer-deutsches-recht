@@ -1,5 +1,4 @@
 # Lobbyregister Bundestag
-Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,9 +21,10 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
-Superplugin für Meldungen, Registrierung, Aktualisierung, oeffentliche API-Abfragen und laufende Compliance im Lobbyregister für die Interessenvertretung gegenueber dem Deutschen Bundestag und der Bundesregierung. Es fuehrt Nutzer von der Frage "Muss ich ueberhaupt?" bis zur prueffaehigen Registrierungsmappe, zum Portal-Eingabeplan, zu Quartals-Uploads, Jahresaktualisierung, Verhaltenskodex, Open-Data-Monitoring und Meldung moeglicher Verstoesse.
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschliessen und dokumentieren.
+Superplugin für Meldungen, Registrierung, Aktualisierung, oeffentliche API-Abfragen und laufende Compliance im Lobbyregister für die Interessenvertretung gegenüber dem Deutschen Bundestag und der Bundesregierung. Es führt Nutzer von der Frage "Muss ich überhaupt?" bis zur prueffaehigen Registrierungsmappe, zum Portal-Eingabeplan, zu Quartals-Uploads, Jahresaktualisierung, Verhaltenskodex, Open-Data-Monitoring und Meldung moeglicher Verstoesse.
 
-Dieses Plugin ist **vollstaendig freistehend**. Es erwartet keine anderen Plugins, keine Portal-API und keine Kanzleisoftware. Wenn kein Zugang zum Lobbyregisterportal, DMS, CRM, Public-Affairs-Tool oder Finanzsystem vorhanden ist, arbeitet es mit manuellen Uploads oder einem ausdruecklich markierten Simulationsmodus.
+Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugins, keine Portal-API und keine Kanzleisoftware. Wenn kein Zugang zum Lobbyregisterportal, DMS, CRM, Public-Affairs-Tool oder Finanzsystem vorhanden ist, arbeitet es mit manuellen Uploads oder einem ausdruecklich markierten Simulationsmodus.
 
 ## Schnellstart
 
@@ -50,7 +50,7 @@ Dieses Plugin ist **vollstaendig freistehend**. Es erwartet keine anderen Plugin
 - `vertretungsberechtigte-personen` - Vertretungsberechtigte Personen
 - `betraute-personen` - Betraute Personen
 - `drehtuer-angaben` - Drehtuer-Angaben
-- `taetigkeitsbeschreibung` - Taetigkeitsbeschreibung
+- `taetigkeitsbeschreibung` - Tätigkeitsbeschreibung
 - `interessen-und-vorhabenbereiche` - Interessen- und Vorhabenbereiche
 - `regelungsvorhaben-erfassen` - Regelungsvorhaben erfassen
 - `stellungnahmen-gutachten-upload` - Stellungnahmen und Gutachten Upload
@@ -67,15 +67,15 @@ Dieses Plugin ist **vollstaendig freistehend**. Es erwartet keine anderen Plugin
 - `datenschutz-nichtoeffentliche-angaben` - Datenschutz und nicht oeffentliche Angaben
 - `portal-account-rollen` - Portal-Account und Rollen
 - `erstregistrierung-ausfuellen` - Erstregistrierung ausfuellen
-- `bestaetigungsdokument-freigabe` - Bestaetigungsdokument und Freigabe
+- `bestaetigungsdokument-freigabe` - Bestätigungsdokument und Freigabe
 - `registereintrag-finalcheck` - Registereintrag Finalcheck
 - `aktualisierung-unverzueglich` - Unverzuegliche Aktualisierung
-- `geschaeftsjahresaktualisierung` - Geschaeftsjahresaktualisierung
+- `geschaeftsjahresaktualisierung` - Geschäftsjahresaktualisierung
 - `fristen-und-quartalsmonitor` - Fristen- und Quartalsmonitor
 - `verhaltenskodex-integritaet` - Verhaltenskodex und Integritaet
 - `erstkontakt-offenlegung` - Erstkontakt Offenlegung
 - `visitenkarte-und-nachweise` - Visitenkarte und Nachweise
-- `hausausweis-und-anhoerung` - Hausausweis und Anhoerung
+- `hausausweis-und-anhoerung` - Hausausweis und Anhörung
 - `registerfuehrende-stelle-kontakt` - Registerfuehrende Stelle Kontakt
 - `verstoesse-melden` - Verstoesse melden
 - `bussgeld-und-pruefverfahren` - Bussgeld und Pruefverfahren
@@ -94,7 +94,7 @@ Dieses Plugin ist **vollstaendig freistehend**. Es erwartet keine anderen Plugin
 - `assets/templates/regelungsvorhaben-matrix.md` - Regelungsvorhaben, Stellungnahmen und Uploadfristen
 - `assets/templates/auftraggeber-und-unterauftrag.md` - Auftraggeber, Unterauftrag und eingesetzte Personen
 - `assets/templates/finanzdaten-check.md` - Finanzaufwendungen, Zuwendungen, Schenkungen und Abschluss
-- `assets/templates/aktualisierungskalender.md` - Fristen, Quartale und Geschaeftsjahresupdate
+- `assets/templates/aktualisierungskalender.md` - Fristen, Quartale und Geschäftsjahresupdate
 - `assets/templates/verhaltenskodex-kontaktkarte.md` - Offenlegung und Kodex-Check für Kontakte
 - `assets/templates/qualitaetsgate.md` - Finaler Freigabe- und Risiko-Check
 - `assets/templates/auslandsrechtstraeger-zweigniederlassung-check.md` - Spezialcheck auslaendischer Rechtstraeger mit deutscher Zweigniederlassung
@@ -107,22 +107,22 @@ Dieses Plugin ist **vollstaendig freistehend**. Es erwartet keine anderen Plugin
 
 ## Offizielle Startquellen
 
-- [Lobbyregister FAQ für Interessenvertreter](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572)
-- [Lobbyregister A-Z](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/lobbyregister-a-z-863568)
-- [Handbuch zur Eintragung Version 2.0](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch)
-- [LobbyRG bei gesetze-im-internet](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html)
-- [Verhaltenskodex Anlage 6 BTGO](https://www.gesetze-im-internet.de/btgo2025anl_6/BJNR0FA0I0025BJNE000100000.html)
-- [Sanktionen bei Verstoessen](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/sanktionen-bei-verstoessen-1014438)
-- [Inhalte der Interessenvertretung](https://www.lobbyregister.bundestag.de/inhalte-der-interessenvertretung?lang=de)
-- [Registerfuehrende Stelle](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/registerfuehrende-stelle-rfs--863578)
-- [Open Data/API](https://www.lobbyregister.bundestag.de/informationen-und-hilfe/open-data-1049716)
-- [API V2 YAML](https://api.lobbyregister.bundestag.de/rest/v2/R2.21-de.yaml)
-- [API V2 Swagger UI](https://api.lobbyregister.bundestag.de/rest/v2/swagger-ui/)
-- [JSON-Schema Registereintrag](https://www.lobbyregister.bundestag.de/json-schemas/current/Lobbyregister-Registereintrag-schema.json)
+- [Lobbyregister FAQ für Interessenvertreter]()
+- [Lobbyregister A-Z]()
+- [Handbuch zur Eintragung Version 2.0]()
+- [LobbyRG bei gesetze-im-internet]()
+- [Verhaltenskodex Anlage 6 BTGO]()
+- [Sanktionen bei Verstoessen]()
+- [Inhalte der Interessenvertretung]()
+- [Registerfuehrende Stelle]()
+- [Open Data/API]()
+- [API V2 YAML]()
+- [API V2 Swagger UI]()
+- [JSON-Schema Registereintrag]()
 
 ## Open Data und API V2
 
-Das Plugin nutzt die offizielle API als **lesende Kontrollschicht**: Suche nach Organisationen, Abfrage veroeffentlichter Registereintraege, Versionen, Statistikdaten, Dublettenpruefung, Export-Diff und Monitoring. Registrierung, Aktualisierung, Bestaetigung, Stellungnahmen-Upload und sonstige Portalhandlungen bleiben Portalaktionen und dürfen nicht als API-Einreichung ausgegeben werden.
+Das Plugin nutzt die offizielle API als **lesende Kontrollschicht**: Suche nach Organisationen, Abfrage veroeffentlichter Registereintraege, Versionen, Statistikdaten, Dublettenpruefung, Export-Diff und Monitoring. Registrierung, Aktualisierung, Bestätigung, Stellungnahmen-Upload und sonstige Portalhandlungen bleiben Portalaktionen und dürfen nicht als API-Einreichung ausgegeben werden.
 
 Technische Arbeitsregel:
 
@@ -136,10 +136,10 @@ Details stehen in [references/open-data-api-v2.md](references/open-data-api-v2.m
 ## Freistehende Leitplanken
 
 - Keine Aussage "nicht registrierungspflichtig" ohne dokumentierte Prüfung von Interessenvertretung, Adressat, Schwelle und Ausnahme.
-- Keine Registrierung oder Aktualisierung ohne Verantwortliche, Freigabe und Bestaetigungsdokument.
+- Keine Registrierung oder Aktualisierung ohne Verantwortliche, Freigabe und Bestätigungsdokument.
 - Keine Behauptung einer API-Einreichung ohne offizielle Dokumentation. Die bekannte API V2 ist für oeffentliche Registerdaten als lesender Zugriff zu behandeln.
 - Keine Regelungsvorhaben- oder Stellungnahme-Bewertung ohne Datum der Kontaktaufnahme und Quartals-/Updatefrist.
-- Keine Finanzangaben ohne Geschaeftsjahr, Berechnungsmethode, Belege und Plausibilitaetscheck.
+- Keine Finanzangaben ohne Geschäftsjahr, Berechnungsmethode, Belege und Plausibilitätscheck.
 - Keine Kontaktaufnahme ohne Offenlegung von Identitaet, Anliegen und gegebenenfalls Auftraggeber.
 - Keine Meldung moeglicher Verstoesse ohne konkrete Registernummer, Sachverhalt, Belege und Unsicherheiten.
 - Keine echten Mandats-, Lobbying- oder Personaldaten in ungepruefte Cloud- oder KI-Umgebungen.
@@ -159,7 +159,7 @@ Fristenkalender und Offenlegungsbausteinen fuer Erstkontakte.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -196,7 +196,6 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `jahresabschluss-rechenschaftsbericht-konzern` | Prüft Bereitstellung von Jahresabschluss oder Rechenschaftsbericht, Umgang mit noch nicht aufgestellten Unterlagen und Nachreichpflicht. Output Abschluss-Uploadplan im Lobbyregister Bundestag. |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Lobbyregister Bundestag-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei... |
 | `konzern-netzwerk-plattform` | Strukturiert Lobbyregisterfragen bei Konzernen, Verbaenden, losen Netzwerken, Plattformen und sonstigen kollektiven Tätigkeiten. Output Eintragungseinheiten-Map im Lobbyregister Bundestag. |
-| `lobbyregister-bundestag-schnellstart` | 'Kompakter Arbeitsmodus für Lobbyregister Bundestag. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `lobbyregister-hauptfinanzierungsquellen-angaben` | Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix im Lobbyregister Bundestag. |
 | `lobbyregister-kommandocenter` | Master-Routing für Lobbyregister-Mandate: Pflichtcheck, Registrierung, Aktualisierung, Verhaltenskodex, Meldung, Sanktion, Unterlagen und naechster Skill. Normen LobbyRG §§ 1 bis 7. Output Mandatskarte, Routing und Qualitaetsgate im Lobb... |
 | `mitgliedschaften-mitgliederzahl-nicht` | Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte im Lobbyregister Bundestag. |

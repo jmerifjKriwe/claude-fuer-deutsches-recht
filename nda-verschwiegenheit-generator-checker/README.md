@@ -1,5 +1,4 @@
 # NDA-Generator und Verschwiegenheitsvereinbarungs-Checker
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist der allgemeine Verschwiegenheitsvereinbarungs-Generator und Checker. Es hilft beim Entwerfen, Prüfen, Verhandeln und Durchsetzen von NDAs, ohne Catch-all-Klauseln, Hinweisgeberschutz, Geschäftsgeheimnisschutz, Datenräume oder internationale Begriffe durcheinanderzuwerfen.
 
 ## Startworkflow
@@ -48,7 +48,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -118,7 +118,6 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `nda-und-escrow` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Escrow; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `nda-und-freedom-to-operate` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Freedom To Operate; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `nda-und-public-disclosure` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Public Disclosure; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
-| `nda-verschwiegenheit-generator-checker-schnellstart` | 'Kompakter Arbeitsmodus für NDA-Generator und Verschwiegenheitsvereinbarungs-Checker. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `need-to-know-empfaengerkreis` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Need To Know Empfaengerkreis; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `no-representation-no-warranty` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: No Representation No Warranty; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `oeffentliche-hand-und-vergabeverfahren` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oeffentliche Hand Und Vergabeverfahren; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator... |

@@ -1,5 +1,4 @@
 # Bauträgervertrag-Prüfer
-Wenn du das hier oeffnest, willst du Werklohn, Maengel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -15,13 +14,14 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`bautraegervertrag-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertrag-pruefer.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md" download><code>bautraegervertrag-pruefer-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md" download><code>bautraegervertrag-pruefer-schnellstart.md</code></a> |
+| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md" download><code>bauträgervertrag-pruefer-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md" download><code>bauträgervertrag-pruefer-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | [`testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip) (Bauträgervertrag Birkenpfuhl — Verbraucherprüfung Quendel / Übelacker-Strohmeyer) |
 
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du Werklohn, Mängel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
 Eigenes Plugin für die verbraucherseitige Prüfung deutscher Bauträgerverträge über Wohnungen, Häuser, Tiefgaragenstellplätze und Sondernutzungsrechte. Das Plugin arbeitet aus Sicht der Käuferin oder des Käufers: Es soll einen Notarentwurf, eine beurkundete Urkunde oder eine chaotische Mandatsakte so auswerten, dass MaBV-Zahlungen, Sicherheiten, AGB-Klauseln, Baubeschreibung, Abnahme, Teilungserklärung, Eigentumssicherung und Verhandlungsstrategie nicht nebeneinander liegen bleiben, sondern in ein belastbares Mandatsprodukt münden.
 
 Der Kern ist aus dem langen Bauträgervertrag-Prüfer-Skill übernommen und fachlich verdichtet. Der ursprüngliche One-Shot-Gedanke bleibt erhalten: Wenn ein Vertrag oder Aktenordner vorliegt, startet die Prüfung aus dem Dokument heraus, bildet zuerst einen Fall-Fingerabdruck und stellt nur solche Rückfragen, ohne die die Bewertung objektiv falsch würde. Daneben sind die Arbeitsabschnitte als eigene Skills vorhanden, damit Plugin-Umgebung/Cowork gezielt den passenden Teil laden kann.
@@ -61,7 +61,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -69,7 +69,6 @@ Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Beschrei
 | `agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung` | AGB-Klauselkontrolle im Bauträgervertrag: prüft § 307 BGB, § 308 Nr. 4 BGB, § 309 Nr. 1, Nr. 2 lit. a, Nr. 8, Nr. 12 und Nr. 15 BGB, Tatsachenbestätigung, Beweislast, Änderungsrechte und Zahlungssicherheit. |
 | `baubeschreibung-bausoll-und-wohnflaeche` | Baubeschreibung und Bausoll im Bauträgervertrag: prüft § 650j, § 650k Abs. 2/3, § 650n BGB, Art. 249 EGBGB, beurkundete Anlagen, Wohnfläche, Prospekt/Showroom, DIN-Verweise und anerkannte Regeln der Technik. |
 | `baugruppen-gbr-beurkundung-mopeg-und-mabv-abgrenzung` | Prüft Baugruppen-GbR als Alternative zum Bauträgervertrag: § 311b BGB, §§ 705 ff. BGB nach MoPeG, WEG-Teilung, Beurkundungspflicht, Heilung, Bruchteilseigentum, Haftung, Nachschüsse und fehlende MaBV-Sicherung. |
-| `bautraegervertrag-pruefer-schnellstart` | 'Kompakter Arbeitsmodus für Bauträgervertrag-Prüfer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt` | Bauzeit- und Verzugsprüfung beim Bauträgervertrag: verbindlicher Termin, Bezugsfertigkeit, vollständige Fertigstellung, bauablaufbezogene Darlegung, Pandemie/Lieferketten/Wetter, § 313 BGB, Vertragsstrafe und Schadensersatz. |
 | `beurkundung-verbraucherfrist-notar-und-bezugsurkunden` | Beurkundungs- und Notarprüfung beim Bauträgervertrag: § 311b BGB, § 17 BeurkG, § 13a BeurkG, Zwei-Wochen-Frist, Bezugsurkunden, Baubeschreibung, Pläne, Reservierung, Vorausleistung und notarielle Amtspflichten. |
 | `din-anerkannte-regeln-technik-und-standardwechsel` | Prüft technische Standards im Bauträgervertrag: DIN-Normen, anerkannte Regeln der Technik, Stand der Technik, Stand von Wissenschaft und Technik, Stichtag Abnahme, Standardwechsel, Sowieso-Kosten und Bedenkenhinweis. |

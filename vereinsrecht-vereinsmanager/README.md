@@ -1,5 +1,4 @@
 # Vereinsrecht und Vereinsmanager
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Arbeitsplugin für Vereinsvorstände, Schriftführer, Kassenwarte, Gründergruppen und Mitglieder: vom Kegelclub bis zum großen gemeinnützigen Träger, vom nicht eingetragenen Verein bis zum e. V. und zum seltenen wirtschaftlichen Verein.
 
 ## Arbeitsidee
@@ -45,7 +45,7 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -99,7 +99,6 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `verein-redteam-qualitygate` | Letzte Prüfung von Satzung, Einladung, Protokoll, Beschluss, Registeranmeldung oder Finanzamtsschreiben. |
 | `verein-und-politik` | Warnt bei politischer Betätigung, Gemeinnützigkeit, Neutralität, Veranstaltungen und Parteispendennähe im Vereinsrecht Vereinsmanager. |
 | `verein-und-social-media` | Regelt Impressum, Bildrechte, Datenschutz, Adminrechte, Krisenpost und Löschung im Vereinsrecht Vereinsmanager. |
-| `vereinsrecht-vereinsmanager-schnellstart` | 'Kompakter Arbeitsmodus für Vereinsrecht und Vereinsmanager. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `vereinsvermoegen-konto-versicherung-verein` | Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse, Inventar, Zuschüssen und Vermögensbindung im Vereinsrecht Vereinsmanager. |
 | `versicherung-verein` | Ordnet Vereinshaftpflicht, Veranstalterhaftpflicht, D&O, Unfallversicherung, Kfz und Vermögensschaden im Vereinsrecht Vereinsmanager. |
 | `vorstand-rollen` | Klärt BGB-Vorstand, erweiterter Vorstand, Geschäftsführung, Ressorts, Vertretungsmacht und Innen-/Außenverhältnis im Vereinsrecht Vereinsmanager. |

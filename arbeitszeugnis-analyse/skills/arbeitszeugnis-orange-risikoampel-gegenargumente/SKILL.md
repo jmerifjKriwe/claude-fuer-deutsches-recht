@@ -7,7 +7,7 @@ description: "Orange: Risikoampel, Gegenargumente und Verteidigungslinien im Arb
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -26,7 +26,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **Orange-Phänomene identifizieren:** Stille (fehlende Aussage zu wesentlichen Tätigkeitsmerkmalen), Schaufenster-Drift (positive Auftaktphrase ohne inhaltliche Substanz), abgeschwächte Steigerungsadverbien ("im Wesentlichen", "weitgehend"), fehlende Schlussformel (Dank/Bedauern/Zukunftswünsche).
-3. **Gegenargumente Arbeitgeberseite prüfen:** § 109 GewO Pflicht zu Wahrheit + Wohlwollen; BAG ständige Rechtsprechung: Wohlwollensgebot tritt nur dort zurück, wo der Wahrheitsgehalt es zwingend erfordert. Arbeitgeber muss Verfehlungen darlegen und beweisen, die schlechtere Bewertung tragen.
+3. **Gegenargumente Arbeitgeberseite prüfen:** Paragraf 109 GewO Pflicht zu Wahrheit + Wohlwollen; BAG ständige Rechtsprechung: Wohlwollensgebot tritt nur dort zurück, wo der Wahrheitsgehalt es zwingend erfordert. Arbeitgeber muss Verfehlungen darlegen und beweisen, die schlechtere Bewertung tragen.
 4. **Risikoampel:** Orange wenn 2 oder mehr Schwachstellen kumulieren ohne klares Notenwort (Note unklar zwischen 3 und 4); Rot bei expliziten Negativcodes (z.B. "bemüht", "kennt seine Pflichten"); Grün bei klarer Notenformel und vollständiger Schlussformel.
 5. **Verteidigungslinien Arbeitnehmer:** Mit Beurteilungen aus Mitarbeitergesprächen, E-Mail-Lob, Bonusabrechnungen und Beförderungen gegenargumentieren. Vergleich vor Klage: Notenkompromiss "gut" statt "sehr gut" oft besser als ungewisser Prozess.
 

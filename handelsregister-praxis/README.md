@@ -1,5 +1,4 @@
 # Handelsregister Praxis
-Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschliessen und dokumentieren.
 Ein Registergerichts-Cockpit für Gesellschaftsrechtler, Notariate, Kanzleien und Rechtsabteilungen. Es ordnet, was eingetragen werden soll, welche Urkunden nötig sind, wer beim Registergericht entscheidet, wie man Beanstandungen beantwortet und wann Beschwerde oder Eilrechtsschutz Sinn ergeben.
 
 ## Wofür dieses Plugin da ist
@@ -40,11 +40,11 @@ Starte mit dem allgemeinen Skill `handelsregister-allgemeiner-kaltstart`. Lade d
 
 ## Amtliche Startquellen
 
-- [HGB §§ 8 ff., § 15](https://www.gesetze-im-internet.de/hgb/)
-- [FamFG Registersachen und Beschwerde](https://www.gesetze-im-internet.de/famfg/)
-- [GmbHG Anmeldung, Gesellschafterliste, Kapitalmaßnahmen](https://www.gesetze-im-internet.de/gmbhg/)
-- [Registerportal der Länder](https://www.handelsregister.de/)
-- [Unternehmensregister](https://www.unternehmensregister.de/)
+- [HGB §§ 8 ff., § 15]()
+- [FamFG Registersachen und Beschwerde]()
+- [GmbHG Anmeldung, Gesellschafterliste, Kapitalmaßnahmen]()
+- [Registerportal der Länder]()
+- [Unternehmensregister]()
 
 ## Typische Ergebnisse
 
@@ -59,7 +59,7 @@ Starte mit dem allgemeinen Skill `handelsregister-allgemeiner-kaltstart`. Lade d
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 77 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -88,7 +88,6 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `gmbh-kapitalherabsetzung-und-schutzjahr` | Prüft Gläubigerschutz, Sperrjahr, Bekanntmachungen, Versicherung und registerfeste Unterlagen im Handelsregister Praxis. |
 | `gmbh-liquidation-und-loeschung` | Führt durch Auflösung, Liquidatoren, Sperrjahr, Schlussbilanz, Löschung, Nachtragsliquidation und Registerkommunikation im Handelsregister Praxis. |
 | `gmbh-satzungsaenderung-handelsvollmacht-nicht` | Prüft Beschlussmehrheit, notarielle Beurkundung, vollständige Neufassung, Gegenstand, Firma, Sitz, Kapital und Anmeldung im Handelsregister Praxis. |
-| `handelsregister-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Handelsregister Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `handelsvollmacht-nicht-eintragungsfaehig` | Erklärt, was nicht ins Register gehört und wie interne Vollmachten dennoch sicher dokumentiert werden im Handelsregister Praxis. |
 | `hgb-publizitaet-paragraph-15` | Prüft negative und positive Publizität, Bekanntmachung, Gutgläubigkeit, Dritte und Risiko falscher Registerlage. |
 | `insolvenzvermerk-registereintrag` | Prüft Eintragung von Eröffnung, Eigenverwaltung, Aufhebung, Insolvenzplan, Freigabe und Wirkungen für Vertretung im Handelsregister Praxis. |

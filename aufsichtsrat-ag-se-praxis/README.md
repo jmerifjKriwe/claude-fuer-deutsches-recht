@@ -1,5 +1,4 @@
 # AG/SE-Aufsichtsrat Praxis
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist der ruhige, präzise Copilot für Aufsichtsräte: Es fragt nach Rolle, Gesellschaftstyp, Vorlage, Entscheidungslage und Haftungsrisiko und macht daraus eine belastbare Überwachungs-, Beschluss- und Dokumentationsakte.
 
 ## Startworkflow
@@ -47,7 +47,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -55,7 +55,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `ad-hoc-und-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: Ad Hoc Und Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `ag-se-boersennotiert-router` | AG/SE-Aufsichtsrat Praxis: AG SE Boersennotiert Router; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `aufsichtsrat-abschlussbericht-playbook` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Abschlussbericht Playbook; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
-| `aufsichtsrat-ag-se-praxis-schnellstart` | 'Kompakter Arbeitsmodus für AG/SE-Aufsichtsrat Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `aufsichtsrat-arbeitnehmervertreter` | AG/SE-Aufsichtsrat Praxis: Arbeitnehmervertreter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `aufsichtsrat-bank-kwg-fit-proper` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Bank KWG Fit Proper; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `aufsichtsrat-esg-und-lieferkette` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat ESG Und Lieferkette; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |

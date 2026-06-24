@@ -1,5 +1,4 @@
 # Franchiserecht Praxis
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Franchise lebt vom Spannungsfeld aus einheitlichem System und selbstständigen Unternehmern. Dieses Plugin prüft Aufklärung, Vertrag, Handbuch, Marken, Kontrolle, Kartellrecht und operative Eskalation.
 
 ## Arbeitsweise
@@ -53,7 +53,7 @@ Der Arbeitsmodus ist jeweils gleich: erst Akte und Beweis sichern, dann Normen u
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 123 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -131,7 +131,6 @@ Automatisch generierte Komplett-Liste aller 123 Skills in diesem Plugin. Beschre
 | `franchisegeber-franchisenehmer` | Franchiserecht-Erstkontakt: Systemakte anlegen, Perspektive Franchisegeber oder Franchisenehmer klären, Unterlagen sichern und ersten Handlungsplan aufstellen. Normbasis BGB allgemeiner Teil sowie HGB; Kartell- und Markenrecht im Blick. |
 | `franchisegeber-handbuch-compliance-dashboard` | Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und... |
 | `franchisenehmer-exit-qualitaetsgate` | Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkauf... |
-| `franchiserecht-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Franchiserecht Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `franchisevertrag-agb-redline` | Franchisevertrag auf AGB-Konformität prüfen: Einbeziehung nach §§ 305 ff. BGB, Inhaltskontrolle von Systemhandbuchvorbehalten, Bezugsbindungen und Vertragsstrafen. Redline erstellen und unwirksame Klauseln markieren. Perspektive Franchis... |
 | `gebietsschutz-geheimnisschutz` | Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit... |
 | `gebietsschutz-standortanalyse-und-kannibalisierung` | Gebietsschutz im Franchiserecht prüfen: exklusiver vs. relativer Gebietsschutz, Kannibalisierung durch Nachbar-Franchisees und Online-Direktvertrieb. Kartellrechtliche Grenzen der Gebietsabschottung nach Vertikal-GVO EU 2022/720 und § 1... |

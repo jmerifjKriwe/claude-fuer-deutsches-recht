@@ -1,5 +1,4 @@
 # Fachanwalt Transport Speditionsrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin Fachanwalt für Transport- und Speditionsrecht. Orientierung HGB §§ 407 ff. Frachtvertrag §§ 425 ff. Haftung §§ 453 ff. Speditionsvertrag CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp.
 
 ## Installation in der Plugin-Umgebung
@@ -47,7 +47,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 77 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -69,7 +69,6 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `fachanwalt-transport-speditionsrecht-ladungsschaden` | Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Prüfraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Ou... |
 | `fachanwalt-transport-speditionsrecht-lieferverzug` | Lieferverzug im Gueterverkehr prüfen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen. Normen: §§ 423 425 HGB, Art. 19 23 CMR. Prüfraster: Ablieferungsfrist, Verspaetungsschaden, Haftungsgrenze dreifacher Frachtpreis, Verjaebrung. Ou... |
 | `fachanwalt-transport-speditionsrecht-orientierung` | Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 407 ff. HGB, CMR, ADSP. Prüfraster: Vertragsart Fracht vs. Spedition, national vs. international, Schadenstyp. Output: Skillaus... |
-| `fachanwalt-transport-speditionsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Transport Speditionsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `fachanwalt-transport-tio-schiedsgericht-adsp-klauseln` | TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Prüfraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselprüfung ADSP. Abgren... |
 | `frachtfuehrerhaftung-fristennotiz-und-naechster-schritt` | Frachtfuehrerhaftung: Fristennotiz und nächster Schritt: Frachtfuehrerhaftung: Fristennotiz und nächster Schritt. |
 | `frachtfuehrerhaftung-paragraf-425-hgb` | Frachtfuehrerhaftung § 425 HGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
@@ -91,7 +90,7 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `orientierung-mandat-fachanwaltschaft` | Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen: Normen: §§ 407 ff. HGB, CMR, ADSP. Prüfraster: Vertragsart... |
 | `output-waehlen` | Output-Wahl für Fachanwalt Transport- und Speditionsrecht: stimmt Adressat (Absender, Frachtführer, Empfänger), Frist (CMR Klage 1 Jahr / 3 Jahre Vorsatz) und Form auf den Zweck ab — typische Outputs: Schadensklage, Sicherungsvertrag, Fr... |
 | `paketdienst-haftung-paragraf-449-hgb` | Paketdienst Haftung § 449 HGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `pruefen-abschlussprodukt-und-uebergabe` | Prüfen: Abschlussprodukt und Übergabe: Prüfen: Abschlussprodukt und Übergabe. |
+| `pruefen-abschlussprodukt-und-uebergabe` | Prüfen: Abschlussprodukt und Übergabe: Prüfen: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `quellen-livecheck` | Quellen-Live-Check für Fachanwalt Transport- und Speditionsrecht: prüft Normen (HGB §§ 407 ff. Frachtrecht, CMR (Straße), Montrealer Übk. (Luft)) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Handelsgericht und... |
 | `regeln-mehrparteien-konflikt-und-interessen` | Regeln: Mehrparteienkonflikt und Interessenmatrix: Regeln: Mehrparteienkonflikt und Interessenmatrix. |
 | `reklamationsschreiben-cmr-hgb` | Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten: Normen: § 438 HGB, Art. 30 CMR. Prüfraster: Reklamationsfrist sieben Tage, schr... |

@@ -1,13 +1,13 @@
 ---
 name: zeugnis-problem-sortieren
-description: "Allgemeiner Startskill für Arbeitszeugnisse, wenn der Nutzer nur ein komisches Gefuehl, ein PDF, einen Screenshot oder eine unsortierte Frage hat. Klaert Problem, Zeugnisart, Ziel, Frist, Kontext, Belege und naechsten Arbeitsweg."
+description: "Allgemeiner Startskill für Arbeitszeugnisse, wenn der Nutzer nur ein komisches Gefuehl, ein PDF, einen Screenshot oder eine unsortierte Frage hat. Klaert Problem, Zeugnisart, Ziel, Frist, Kontext, Belege und nächsten Arbeitsweg."
 ---
 
 # Zeugnisproblem Sortieren
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -20,14 +20,14 @@ description: "Allgemeiner Startskill für Arbeitszeugnisse, wenn der Nutzer nur 
 
 ## Zeugnis-spezifische Ersttriage (vor jeder Detailprüfung)
 
-- **Anspruchsgrundlage:** § 109 GewO (qualifiziertes wohlwollendes Zeugnis), für Arbeiter zusätzlich § 630 BGB.
+- **Anspruchsgrundlage:** Paragraf 109 GewO (qualifiziertes wohlwollendes Zeugnis), für Arbeiter zusätzlich Paragraf 630 BGB.
 - **Notenstufen-Matrix nach BAG ständiger Rechtsprechung:**
  - Note 1: "stets zur vollsten Zufriedenheit"
  - Note 2: "stets zur vollen Zufriedenheit"
  - Note 3: "zur vollen Zufriedenheit" (ohne "stets")
  - Note 4: "zur Zufriedenheit" / "war stets bemüht"
  - Note 5: "im Wesentlichen / im Großen und Ganzen zur Zufriedenheit"
-- **Wahrheit und Wohlwollen:** § 109 Abs. 2 GewO (kein Geheimcode, keine Doppeldeutigkeit). Beweislast: bis Note 3 trägt **Arbeitnehmer** die Beweislast für bessere Note; ab Note 4 (befriedigend) trägt **Arbeitgeber** die Beweislast für die schlechtere Beurteilung (BAG ständige Rechtsprechung).
+- **Wahrheit und Wohlwollen:** Paragraf 109 Abs. 2 GewO (kein Geheimcode, keine Doppeldeutigkeit). Beweislast: bis Note 3 trägt **Arbeitnehmer** die Beweislast für bessere Note; ab Note 4 (befriedigend) trägt **Arbeitgeber** die Beweislast für die schlechtere Beurteilung (BAG ständige Rechtsprechung).
 - **Geheimcode-Warnsignale:** "bemüht", "im Wesentlichen", fehlende Steigerungen, falsche Reihenfolge ("Kollegen und Vorgesetzte" statt "Vorgesetzten, Kollegen"), kühle Schlussformel ohne Bedauern/Dank/Erfolgswünsche, Auslassung relevanter Aufgabenbereiche.
 - **Fristen:** Verfall des Zeugnisanspruchs nach Verwirkung (ca. 10 Monate nach Beendigung, abhängig vom Einzelfall) und ggf. tarifvertragliche Ausschlussfristen.
 
@@ -51,5 +51,5 @@ Bei Note 3 versus Note 2 trägt der Arbeitnehmer die Beweislast. Wer auf "stets 
 
 ## Qualitaetsgate
 
-Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der naechste Schritt eindeutig?
+Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der nächste Schritt eindeutig?
 

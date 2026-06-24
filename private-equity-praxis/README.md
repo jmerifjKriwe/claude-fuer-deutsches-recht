@@ -1,5 +1,4 @@
 # Private Equity Praxis
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist ein Praxis-Cockpit für deutsche Anwälte, Kanzleiteams, Investoren, Family Offices, Beteiligungsgesellschaften, Rechtsabteilungen und Gründer, die Private Equity, Private Credit oder Distressed-Investments in Deutschland sauber strukturieren, prüfen oder erklären müssen.
 
 Es ist ausdrücklich anfängerfreundlich, aber nicht weichgespült: Der Einstieg sortiert Rolle, Deal-Phase, Fonds-/Direktinvestment, regulatorische Schwellen, Fristen, Unterlagen, Zahlenmodell und gewünschten Output. Danach routet das Plugin in konkrete Spezial-Skills für Fondsaufsicht, KAGB/AIF/ELTIF, Due Diligence, SPA, Management Participation, Finanzierung, Schuldschein, LMA-Facility, NPL-Kauf, Portfolio-Management, Exit und Krise.
@@ -45,7 +45,7 @@ Am besten mit `allgemein` oder `pe-001-kaltstart-deal-und-investor-routing` begi
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -125,7 +125,6 @@ Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Beschre
 | `post-closing-covenant-breach` | Prüft Pflichtverletzungen nach Closing, Ordinary Course, Non-Compete, Transitional Services und Cooperation im Private Equity Praxis. |
 | `preferred-equity-hybrid-finance` | Prüft Preferred Equity, Mezzanine, Wandeldarlehen, Gesellschafterdarlehen und Rangrücktritt im Private Equity Praxis. |
 | `private-credit-direct-lending` | Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility und Covenant-Paket im Private Equity Praxis. |
-| `private-equity-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Private Equity Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `public-to-private-pe` | Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad im Private Equity Praxis. |
 | `qualitygate-pe-no-hallucinations` | Prüft alle PE-Outputs auf erfundene Marktstandards, falsche Normen, fehlende Quellen, Zahlenbrüche und Rollenkonflikte. |
 | `real-estate-npl-pe` | Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz im Private Equity Praxis. |

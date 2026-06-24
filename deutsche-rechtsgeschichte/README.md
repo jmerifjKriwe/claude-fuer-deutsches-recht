@@ -1,5 +1,4 @@
 # Deutsche Rechtsgeschichte
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Rechtsgeschichte als Werkzeug, nicht als Museum: Quellen lesen, Epochen trennen, Kontinuitäten prüfen und Gegenwartsargumente sauber historisieren.
 
 Dieses Plugin führt durch **Deutsche Rechtsgeschichte** und erzeugt je nach Bedarf Memos, Quellenmatrizen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
@@ -53,7 +53,7 @@ Ergänzt sind Spezialskills zu juristischer Erinnerungskultur, personellen Konti
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 206 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 205 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -71,7 +71,6 @@ Automatisch generierte Komplett-Liste aller 206 Skills in diesem Plugin. Beschre
 | `ddr-recht-und-sozialistische-gesetzlichkeit` | Deutsche Rechtsgeschichte: DDR-Recht und sozialistische Gesetzlichkeit. DDR-Verfassung 1949/68/74, ZGB 1975, AGO, StPO-DDR und Charakteristika des sozialistischen Rechtssystems im Deutsche Rechtsgeschichte. |
 | `ddr-unrechtsstaat-schweigespirale` | Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht im Deutsche Rechtsgeschichte. |
 | `deliktsrecht-und-gefaehrdungshaftung` | Deutsche Rechtsgeschichte: Deliktsrecht und Gefaehrdungshaftung. BGB §§ 823-853, Haftpflichtgesetz 1871, Gefaehrdungshaftung im Industriezeitalter und Produkthaftungsgesetz 1989 im Deutsche Rechtsgeschichte. |
-| `deutsche-rechtsgeschichte-schnellstart` | 'Kompakter Arbeitsmodus für Deutsche Rechtsgeschichte. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `drg-001-kaltstart-epochenkarte` | Deutsche Rechtsgeschichte: Kaltstart Epochenkarte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `drg-002-quellenkritik-archiv-und-edition` | Deutsche Rechtsgeschichte: Quellenkritik Archiv Und Edition. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `drg-005-kanonisches-recht-und-ehe` | Deutsche Rechtsgeschichte: Kanonisches Recht Und Ehe. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |

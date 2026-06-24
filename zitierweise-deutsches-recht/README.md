@@ -1,5 +1,4 @@
 # Zitierweise deutsches Recht (v4.1)
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Fokus: belastbare, überprüfbare Quellen statt schöner, aber nicht verifizierbarer Fundstellen.
 
 ## Was ist neu in v4.1
@@ -60,43 +60,43 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `aktenzeichen-schriftsatz-brief-und-memo-bausteine` | Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `aktenzeichen-schriftsatz-brief-und-memo-bausteine` | Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anschluss-routing` | Anschluss-Routing für Zitierweise deutsches Recht: wählt den nächsten Spezial-Skill nach Engpass (keine harten Fristen, Entscheidung, Kommentar, Aufsatz), dokumentiert Router-Entscheidung mit Begründung. |
 | `aufsatz-interessen` | Aufsatz: Mehrparteienkonflikt und Interessenmatrix im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellu... |
-| `aufsatz-interessen-beckrs-blindzitate` | Aufsatz: Mehrparteienkonflikt und Interessenmatrix. |
-| `beckrs-zahlen-schwellen-und-berechnung` | Beckrs: Zahlen, Schwellenwerte und Berechnung. |
-| `blindzitate-internationaler-bezug-und-schnittstellen` | Blindzitate: Internationaler Bezug und Schnittstellen. |
+| `aufsatz-interessen-beckrs-blindzitate` | Aufsatz: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `beckrs-zahlen-schwellen-und-berechnung` | Beckrs: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `blindzitate-internationaler-bezug-und-schnittstellen` | Blindzitate: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich zitierweise-deutsches-recht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `datum-entscheidungsform-spezial-gericht` | Datum: Behörden-, Gerichts- oder Registerweg. |
+| `datum-entscheidungsform-spezial-gericht` | Datum: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Zitierweise deutsches Recht: sortiert Entscheidung, Kommentar, Aufsatz, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Zitierweise deutsches Recht: ordnet Rolle (Autor, Korrektor, Mandant), markiert Frist (keine harten Fristen), wählt Norm (Standardzitierregeln (Gericht, Datum, Az, Fundstelle, Rn)) und Zuständigkeit (zust... |
-| `entscheidungsform-risikoampel-und-gegenargumente` | Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `entscheidungsform-risikoampel-und-gegenargumente` | Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich zitierweise-deutsches-recht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `gericht-dokumentenmatrix-und-lueckenliste` | Gericht: Dokumentenmatrix, Lückenliste und Nachforderung. |
-| `hauszitierweise-juristische-kommentar` | Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `juristische-erstpruefung-und-mandatsziel` | Juristische: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `gericht-dokumentenmatrix-und-lueckenliste` | Gericht: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `hauszitierweise-juristische-kommentar` | Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `juristische-erstpruefung-und-mandatsziel` | Juristische: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Zitierweise Deutsches Recht-Plugin. Setzt v4.1 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Fragt Ziel, Quell... |
-| `kommentar-compliance-dokumentation-und-akte` | Kommentar: Compliance-Dokumentation und Aktenvermerk. |
-| `literatur-live-beweislast-lizenziertem` | Literatur: Formular, Portal und Einreichungslogik. |
+| `kommentar-compliance-dokumentation-und-akte` | Kommentar: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `literatur-live-beweislast-lizenziertem` | Literatur: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `live-beweislast-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustel... |
-| `live-beweislast-und-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung. |
-| `lizenziertem-mandantenkommunikation-entscheidungsvorlage` | Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage. |
+| `live-beweislast-und-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `lizenziertem-mandantenkommunikation-entscheidungsvorlage` | Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mandantenkommunikation` | Mandantenkommunikation im Bereich zitierweise-deutsches-recht: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `nutzerquelle-fehlerkatalog` | Nutzerquelle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `output-waehlen` | Output-Wahl für Zitierweise deutsches Recht: stimmt Adressat (Autor, Korrektor, Mandant), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Zitiernachweis, Quellenverzeichnis, Korrektur falsch zitierter Stellen. |
 | `paywallfreie-rechtsprechungsbelege` | Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Zitierweise. |
 | `quelle-quellenkarte` | Quelle Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `quellen-livecheck` | Quellen-Live-Check für Zitierweise deutsches Recht: prüft Normen (Standardzitierregeln (Gericht, Datum, Az, Fundstelle, Rn)) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt zuständige Stelle und Quellenhygiene nac... |
-| `rechtsprechung-zit-rechtsprechungszitierung` | Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `rechtsprechung-zit-rechtsprechungszitierung` | Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `redteam-qualitygate` | Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand |
 | `spezial-nutzerquelle-red-team-und-qualitaetskontrolle` | Nutzerquelle: Red-Team und Qualitätskontrolle. |
 | `spezial-quelle-livequellen-und-rechtsprechungscheck` | Quelle: Livequellen- und Rechtsprechungscheck. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Zitierweise deutsches Recht: trennt fehlende Tatsachen von fehlenden Belegen (Entscheidung, Kommentar, Aufsatz), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis. |
-| `verifizierbarer-zugriff-sonderfall-zit` | Verifizierbarer: Verhandlung, Vergleich und Eskalation. |
+| `verifizierbarer-zugriff-sonderfall-zit` | Verifizierbarer: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zit-gesetzeszitierung-bauleiter` | Bauleiter Gesetzeszitierung in Schriftsatz und Memo: Norm, Absatz, Satz, Halbsatz, Nummer, Buchstabe. Prüfraster für einheitliche Schreibweise. |
@@ -135,10 +135,9 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `zitierweise-blindzitate-internationaler-bezug-schnittstellen` | Blindzitate: Internationaler Bezug und Schnittstellen im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zuste... |
 | `zitierweise-datum-behoerden-gerichts-registerweg` | Datum: Behörden-, Gerichts- oder Registerweg im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Sc... |
 | `zitierweise-de-recht-start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Zitierweise Deutsches Recht-Plugin. Setzt v4.1 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Fragt Ziel, Quell... |
-| `zitierweise-deutsches-recht-schnellstart` | 'Kompakter Arbeitsmodus für Zitierweise deutsches Recht (v4.1). Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `zitierweise-entscheidungsform-gericht-datum-az` | Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. We... |
 | `zitierweise-fristennotiz-naechster-schritt` | Zitierweise: Fristennotiz und nächster Schritt im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung,... |
-| `zitierweise-fristennotiz-und-naechster-schritt` | Zitierweise: Fristennotiz und nächster Schritt. |
+| `zitierweise-fristennotiz-und-naechster-schritt` | Zitierweise: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `zitierweise-hauszitierweise-tatbestandsmerkmale-beweisfragen` | Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche F... |
 | `zitierweise-juristische-erstpruefung-rollenklaerung-mandatsziel` | Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zus... |
 | `zitierweise-kommentar-compliance-dokumentation-aktenvermerk` | Kommentar: Compliance-Dokumentation und Aktenvermerk im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustel... |
@@ -147,6 +146,6 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `zitierweise-rechtsprechung-fristen-form-zustaendigkeit-rechtsweg` | Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist,... |
 | `zitierweise-verifizierbarer-verhandlung-vergleich-eskalation` | Verifizierbarer: Verhandlung, Vergleich und Eskalation im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zust... |
 | `zugriff-sonderfall-edge-case` | Zugriff: Sonderfall und Edge-Case-Prüfung im Zitierweise im deutschen Recht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwe... |
-| `zugriff-sonderfall-und-edge-case` | Zugriff: Sonderfall und Edge-Case-Prüfung. |
+| `zugriff-sonderfall-und-edge-case` | Zugriff: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

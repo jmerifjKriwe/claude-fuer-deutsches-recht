@@ -1,5 +1,4 @@
 # Fluggastrechte
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Fluggastrechte selber geltend machen — VO (EG) Nr. 261/2004 plus EuGH-Rspr. Tickets erfassen Annullierung vs Verspätung prüfen außergewöhnliche Umstände Distanz und Ausgleich Forderungsschreiben Mahnung Klage Amtsgericht. Vollmacht Familie. Katalog Airline-Standardausreden.
 
 ## Installation in der Plugin-Umgebung
@@ -60,7 +60,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 88 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -69,27 +69,27 @@ Automatisch generierte Komplett-Liste aller 88 Skills in diesem Plugin. Beschrei
 | `airline-standardausreden-annullierung` | Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik, Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorherige... |
 | `airline-standardausreden-pruefen` | Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik, Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorherige... |
 | `anlagen-bauen` | Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Mahnung Klage) die Belege Buchungsbestätigung Boardingpass Annullierungsbestätigung E-Mail-Ve... |
-| `annullierung-oder-verspaetung-einordnen` | Prüfungslinie für annullierung oder verspaetung einordnen im Fluggastrechte. |
+| `annullierung-oder-verspaetung-einordnen` | Prüfungslinie für annullierung oder verspaetung einordnen im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `annullierung-schriftsatz-brief-memo-bausteine` | Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle,... |
-| `annullierung-schriftsatz-brief-und-memo-bausteine` | Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Fluggastrechte. |
+| `annullierung-schriftsatz-brief-und-memo-bausteine` | Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im Fluggastrechte-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument... |
 | `anschluss-routing` | Anschluss-Routing für Fluggastrechte VO 261/2004: wählt den nächsten Spezial-Skill nach Engpass (Verjährung 3 Jahre § 195 BGB, Buchungsbestätigung, Boardingpass, Verspätungsbestätigung), dokumentiert Router-Entscheidung mit Begründung. |
-| `anschlussflug-und-reiseplan` | Prüfungslinie für anschlussflug und reiseplan im Fluggastrechte. |
+| `anschlussflug-und-reiseplan` | Prüfungslinie für anschlussflug und reiseplan im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `ausgleich-internationaler-bezug-schnittstellen` | Ausgleich: Internationaler Bezug und Schnittstellen im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Z... |
-| `ausgleich-internationaler-bezug-und-schnittstellen` | Ausgleich: Internationaler Bezug und Schnittstellen im Fluggastrechte. |
+| `ausgleich-internationaler-bezug-und-schnittstellen` | Ausgleich: Internationaler Bezug und Schnittstellen im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `ausnahmen-aussergewoehnliche-umstaende` | Ausnahmen Aussergewoehnliche Umstaende Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Fluggastrechte. |
 | `ausnahmen-aussergewoehnliche-umstaende-02` | Prüfungslinie für ausnahmen aussergewoehnliche umstaende prüfen im Fluggastrechte. |
-| `aussergewoehnliche-distanz-interessen` | Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung im Fluggastrechte. |
+| `aussergewoehnliche-distanz-interessen` | Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `aussergewoehnliche-umstaende` | Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwe... |
 | `aussergewoehnliche-umstaende-strikt` | Streng auszulegende aussergewoehnliche Umstaende Art. 5 Abs. 3 VO 261: Wetter, Streik nicht eigener Mitarbeiter, gerichtlich verfuegte Flugverbote, Wildschlag in Triebwerk. Keine aussergewoehnlichen Umstaende: technische Defekte (EuGH Wa... |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich fluggastrechte: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `distanz-interessen` | Distanz: Mehrparteienkonflikt und Interessenmatrix im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Za... |
-| `distanz-mehrparteien-konflikt-und-interessen` | Distanz: Mehrparteienkonflikt und Interessenmatrix im Fluggastrechte. |
+| `distanz-mehrparteien-konflikt-und-interessen` | Distanz: Mehrparteienkonflikt und Interessenmatrix im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `distanz-und-ausgleich-berechnen` | Berechnet die Ausgleichszahlung nach Art. 7 VO 261/2004. Distanzbestimmung nach Grosskreisrechnung zwischen Abflug- und Zielflughafen. Drei Stufen 250 EUR bis 1500 km / 400 EUR mehr als 1500 km innergemeinschaftlich oder 1500 bis 3500 km... |
 | `dokumente-intake` | Dokumentenintake für Fluggastrechte VO 261/2004: sortiert Buchungsbestätigung, Boardingpass, Verspätungsbestätigung, prüft Datum, Absender, Frist und Beweiswert (Boardingpass, Verspätungsdokumentation Flightradar/LBA); markiert Lücken; b... |
 | `einfuehrung-vo-261` | Einfuehrung VO (EG) 261/2004: Anwendungsbereich (Abflug aus EU, Ankunft in EU mit EU-Carrier), Annullierung, Verspaetung ab 3 Stunden (EuGH-Sturgeon), Nichtbefoerderung. Ausgleichsstufen 250 Euro / 400 Euro / 600 Euro. Betreuungsleistung... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Fluggastrechte VO 261/2004: ordnet Rolle (Fluggast, Fluggesellschaft, Reisevermittler), markiert Frist (Verjährung 3 Jahre § 195 BGB), wählt Norm (VO (EG) 261/2004, Montrealer Übereinkommen, BGB §§ 631 ff... |
-| `erfassen-behoerden-gericht-und-registerweg` | Erfassen: Behörden-, Gerichts- oder Registerweg im Fluggastrechte. |
+| `erfassen-behoerden-gericht-und-registerweg` | Erfassen: Behörden-, Gerichts- oder Registerweg im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `erfassen-behoerden-gerichts-registerweg` | Erfassen: Behörden-, Gerichts- oder Registerweg im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlu... |
 | `erstpruefung-rollenklaerung-mandatsziel` | Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schw... |
 | `flug-anschlussflug-codeshare-anspruch` | Spezialfall Anschlussflug und Codeshare: einheitliche Buchung, ausfuehrendes Luftfahrtunternehmen, Drittland-Strecken nach EuGH wegfin. Prüfraster für Klagezuständigkeit im Fluggastrechte. |
@@ -99,28 +99,27 @@ Automatisch generierte Komplett-Liste aller 88 Skills in diesem Plugin. Beschrei
 | `flug-massenklage-einfuehrung-vo` | Spezialfall Massenklage und Prozessfinanzierung in Fluggastrechten: Abtretung, Inkasso-Modelle, RDG-Grenzen, Anti-Claim-Klausel. Prüfraster für Verbraucher und Legal-Tech im Fluggastrechte. |
 | `flug-massenklage-prozessfinanzierung-spezial` | Spezialfall Massenklage und Prozessfinanzierung in Fluggastrechten: Abtretung, Inkasso-Modelle, RDG-Grenzen, Anti-Claim-Klausel. Prüfraster für Verbraucher und Legal-Tech. |
 | `fluggastrechte-anlagen-bauen` | BeA-faehiges Anlagenkonvolut fuer Fluggastrechte-Mandate: Buchung, Boardingpass, Fluginformation, Airline-Korrespondenz, Ersatzbelege und Vollmacht in K-Anlagen ordnen, stempeln und als PDF-Paket zum Forderungsschreiben oder zur Klage vo... |
-| `fluggastrechte-schnellstart` | 'Kompakter Arbeitsmodus für Fluggastrechte. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `forderungsschreiben-airline` | Forderungsschreiben: Formular, Portal und Einreichungslogik im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Sch... |
-| `forderungsschreiben-erste-stufe` | Prüfungslinie für forderungsschreiben erste stufe im Fluggastrechte. |
-| `forderungsschreiben-formular-portal-und-einreichung` | Forderungsschreiben: Formular, Portal und Einreichungslogik im Fluggastrechte. |
-| `forderungsschreiben-klage` | Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel im Fluggastrechte. |
+| `forderungsschreiben-erste-stufe` | Prüfungslinie für forderungsschreiben erste stufe im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `forderungsschreiben-formular-portal-und-einreichung` | Forderungsschreiben: Formular, Portal und Einreichungslogik im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `forderungsschreiben-klage` | Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `forderungsschreiben-mahnung` | Zweite Stufe nach Ablauf der Frist aus dem ersten Forderungsschreiben oder nach erfolgloser Reaktion der Airline. Setzt Nachfrist (typisch zehn Tage) bezieht sich auf die erste Forderung weist Verzugszinsen aus und droht konkret SOEP-Sch... |
 | `forderungsschreiben-mahnung-klage-amtsgericht` | Zweite Stufe nach Ablauf der Frist aus dem ersten Forderungsschreiben oder nach erfolgloser Reaktion der Airline. Setzt Nachfrist (typisch zehn Tage) bezieht sich auf die erste Forderung weist Verzugszinsen aus und droht konkret SOEP-Sch... |
 | `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich fluggastrechte: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `geltend-fristen-form-und-zustaendigkeit` | Geltend: Fristen, Form, Zuständigkeit und Rechtsweg im Fluggastrechte. |
+| `geltend-fristen-form-und-zustaendigkeit` | Geltend: Fristen, Form, Zuständigkeit und Rechtsweg im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `geltend-fristen-form-zustaendigkeit-rechtsweg` | Geltend: Fristen, Form, Zuständigkeit und Rechtsweg im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Z... |
 | `kaltstart-abschlussprodukt-und-uebergabe` | Kaltstart: Einstieg und Routing; Abschlussprodukt und Übergabe: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad |
 | `kaltstart-interview` | Kaltstart-Interview für das Fluggastrechte-Plugin. Klaert Anwendungsrolle (eigener Fluggastrechte-Anspruch / Vertretung Familie / Mitreisende). Erfasst Buchungsstammdaten Vertragspartner (Airline IATA-Code) und Reiseplan-Konvention. Schr... |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Fluggastrechte-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument... |
 | `klage` | Klage: Mandantenkommunikation und Entscheidungsvorlage im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle... |
-| `klage-amtsgericht-fluggast` | Prüfungslinie für klage amtsgericht fluggast im Fluggastrechte. |
-| `klage-mandantenkommunikation-entscheidungsvorlage` | Klage: Mandantenkommunikation und Entscheidungsvorlage im Fluggastrechte. |
+| `klage-amtsgericht-fluggast` | Prüfungslinie für klage amtsgericht fluggast im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `klage-mandantenkommunikation-entscheidungsvorlage` | Klage: Mandantenkommunikation und Entscheidungsvorlage im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `live-sonderfall-edge-case` | Live: Sonderfall und Edge-Case-Prüfung im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sankt... |
-| `live-sonderfall-machen-mahnung-red-team-korrektur` | Live: Sonderfall und Edge-Case-Prüfung im Fluggastrechte. |
+| `live-sonderfall-machen-mahnung-red-team-korrektur` | Live: Sonderfall und Edge-Case-Prüfung im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `machen-dokumentenmatrix-lueckenliste` | Machen: Dokumentenmatrix, Lückenliste und Nachforderung im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwell... |
-| `machen-dokumentenmatrix-und-lueckenliste` | Machen: Dokumentenmatrix, Lückenliste und Nachforderung im Fluggastrechte. |
+| `machen-dokumentenmatrix-und-lueckenliste` | Machen: Dokumentenmatrix, Lückenliste und Nachforderung im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mahnung-fehlerkatalog` | Mahnung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `mahnung-red-team-und-qualitaetskontrolle` | Mahnung: Red-Team und Qualitätskontrolle im Fluggastrechte. |
+| `mahnung-red-team-und-qualitaetskontrolle` | Mahnung: Red-Team und Qualitätskontrolle im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mandantenkommunikation` | Mandantenkommunikation im Bereich fluggastrechte: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `output-waehlen` | Output-Wahl für Fluggastrechte VO 261/2004: stimmt Adressat (Fluggast, Fluggesellschaft, Reisevermittler), Frist (Verjährung 3 Jahre § 195 BGB) und Form auf den Zweck ab — typische Outputs: Ausgleichszahlungs-Forderung, Klage AG, Schlich... |
 | `pauschalreise-statt-flug-pruefen` | Pauschalreise gegen Flug-Einzelbuchung: Reiseveranstalterhaftung nach §§ 651a ff. BGB, Pauschalreise-RL EU 2015 2302. Minderung, Schadensersatz, Ruecktritt. Verhältnis zur VO 261 (kumulativ moeglich, Anrechnung nach BGH). Prüfraster ob P... |
@@ -132,17 +131,17 @@ Automatisch generierte Komplett-Liste aller 88 Skills in diesem Plugin. Beschrei
 | `rechtsweg-und-gerichtsstand-fluggast` | Rechtsweg und Gerichtsstand bei Flugverspaetung und Annullierung: Wohnsitz oder Flughafen Klägerwahl nach EuGH Rehder. Amtsgericht bei bis 5000 Euro Streitwert. Zustaendige Schlichtungsstellen soep. Internationale Fragen Montrealer Ueber... |
 | `redteam-qualitygate` | Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand |
 | `selber-tatbestandsmerkmale-beweisfragen-beleglage` | Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwell... |
-| `selber-tickets-umstaende` | Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Fluggastrechte. |
+| `selber-tickets-umstaende` | Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `spezial-pruefen-livequellen-und-rechtsprechungscheck` | Pruefen: Livequellen- und Rechtsprechungscheck. |
 | `ticket-und-fluginformationen-erfassen` | Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestätigungen Boardingpaesse PDF-Scans Foto-Belegen. Extrahiert Buchungscode (PNR) Flugnummer Datum Abflughafen Zielflughafen geplante Abflugzeit geplante Ankunftszeit Tarifklasse P... |
 | `tickets-risikoampel-gegenargumente` | Tickets: Risikoampel, Gegenargumente und Verteidigungslinien im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Sc... |
-| `tickets-risikoampel-und-gegenargumente` | Tickets: Risikoampel, Gegenargumente und Verteidigungslinien im Fluggastrechte. |
+| `tickets-risikoampel-und-gegenargumente` | Tickets: Risikoampel, Gegenargumente und Verteidigungslinien im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `umstaende-compliance-dokumentation-aktenvermerk` | Umstaende: Compliance-Dokumentation und Aktenvermerk im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle,... |
-| `umstaende-compliance-dokumentation-und-akte` | Umstaende: Compliance-Dokumentation und Aktenvermerk im Fluggastrechte. |
+| `umstaende-compliance-dokumentation-und-akte` | Umstaende: Compliance-Dokumentation und Aktenvermerk im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fluggastrechte VO 261/2004: trennt fehlende Tatsachen von fehlenden Belegen (Buchungsbestätigung, Boardingpass, Verspätungsbestätigung), nennt pro Lücke Beweisthema, Beschaffungsweg (LBA), Frist und Ersa... |
-| `verifikation-fristennotiz-abtretung-an` | Verifikation: Fristennotiz und nächster Schritt im Fluggastrechte. |
+| `verifikation-fristennotiz-abtretung-an` | Verifikation: Fristennotiz und nächster Schritt im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `verifikation-fristennotiz-naechster-schritt` | Verifikation: Fristennotiz und nächster Schritt im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlu... |
-| `verspaetung-ticket-fluginformationen` | Verspaetung: Verhandlung, Vergleich und Eskalation im Fluggastrechte. |
+| `verspaetung-ticket-fluginformationen` | Verspaetung: Verhandlung, Vergleich und Eskalation im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `verspaetung-verhandlung-vergleich-eskalation` | Verspaetung: Verhandlung, Vergleich und Eskalation im Fluggastrechte: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Za... |
 | `vollmacht-familienmitglieder` | Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde) damit der Hauptansprechpartner deren Fluggastrechtsanspruch im Schriftverkehr und im gerichtlichen Verfahren mitvertreten kann. Pro Person eigene Vollmacht mit Inhalt Bezug... |
 | `vorverlegung-flug-rechtsprechung` | Vorverlegung des Fluges um mehr als 1 Stunde gilt als Annullierung nach EuGH C-188/20 Azurair. Prüfraster und Berechnungsbeispiel, wann Ausgleichsanspruch entsteht. Abgrenzung zur Umbuchung ohne Ausgleichsanspruch. Schriftsatzbausteine. |

@@ -1,5 +1,4 @@
 # Insolvenzverwaltung - IV-Cockpit
-Wenn du das hier oeffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt waehlen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt wählen.
 Technischer Plugin-Name: `insolvenzverwaltung`.
 
 Großes freistehendes Plugin für die Insolvenzverwaltung aus Sicht des Insolvenzverwalters, vorläufigen Insolvenzverwalters und Sachwalters. Abgebildet sind Regelverfahren, Eröffnungsverfahren, Schutzschirm, Eigenverwaltung, Masseeinsammlung, Massemehrung, Insolvenzanfechtung, Zahlungsklagen nach § 15b InsO, Forderungsanmeldungsprüfung, Tabelle, Anzeige der Masseunzulänglichkeit, Betriebsfortführung, Insolvenzplan, StaRUG-Restrukturierungsplan, Vergleichsrechnung, Berichte, Schlussrechnung und Verteilung.
@@ -34,10 +34,10 @@ Das ausgefuellte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures
 
 | Format | Direkt-Download |
 | --- | --- |
-| **Word (DOCX, Times New Roman, 12 pt)** | [`asset-purchase-agreement-chaincortex-voracis.docx`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/insolvenz-asset-deal-chaincortex-ai-berlin/docx/asset-purchase-agreement-chaincortex-voracis.docx) |
-| **PDF (Times Roman, A4)** | [`asset-purchase-agreement-chaincortex-voracis.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/insolvenz-asset-deal-chaincortex-ai-berlin/pdfs/asset-purchase-agreement-chaincortex-voracis.pdf) |
-| Markdown-Volltext (zum Lesen auf GitHub) | [`09_asset-purchase-agreement-text.md`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
-| Gesamte Testakte als ZIP (34 Dateien, 7 Formate) | [`testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
+| **Word (DOCX, Times New Roman, 12 pt)** | [`insolvenzverwaltung.zip`]() |
+| **PDF (Times Roman, A4)** | [`Starte das Insolvenzverwaltungs-Kommandocenter für diese neue IV-Akte.`]() |
+| Markdown-Volltext (zum Lesen auf GitHub) | [`.claude-plugin/plugin.json`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
+| Gesamte Testakte als ZIP (34 Dateien, 7 Formate) | [`skills/`]() |
 
 Das Template umfasst 11 Paragraphen (Praeambel, Vertragsgegenstand mit DSGVO- und $ 613a-Bausteinen, Kaufpreis [400.000 EUR], Vollzugsvoraussetzungen, eIDAS-2.0-Signatur-Klausel, Haftung mit $ 60 InsO-Ausschluss, LkSG-Klarstellung, HinSchG-Compliance-Klausel, Schlussbestimmungen) plus sechs Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste und Kaufpreis erforderlich; Live-Verifikation der Rspr.-Anker (Bonprix-EuGH, BGH IX. Zivilsenat).
 
@@ -170,7 +170,7 @@ Die Planwerkstatt aus dem freien Plugin ist inhaltlich vollständig auch in dies
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -185,7 +185,6 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `forderungsanmeldung-pruefung` | Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. §§ 174 175 176 InsO §§ 38 39 InsO Rang. Prüfraster: Schriftform Beleg Grund Betrag Rang Absonderungsrechte vorsaetzlich unerlaubte Handlu... |
 | `idw-iv` | Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Untern... |
 | `insolvenzverwalter-fristen-form-und-zustaendigkeit` | Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse... |
-| `insolvenzverwaltung-schnellstart` | 'Kompakter Arbeitsmodus für Insolvenzverwaltung - IV-Cockpit. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `insolvenzverwaltungs-erstpruefung-und-mandatsziel` | Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbrems... |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Insolvenzverwaltung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dok... |
 | `kommandocenter` | Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle Sicherungsmassnahmen... |

@@ -1,5 +1,4 @@
 # BGB AT Prüfer
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,13 +21,14 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Großes Prüfplugin zum BGB Allgemeiner Teil. Es führt durch Vertragsschluss, Willenserklärungen, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung. Der Formteil ist mit qES, beA, § 130e ZPO und § 46h ArbGG verschaltet. Neu verschaltet sind digitale Elemente, Updatehinweise, App-/Portalzugang, Reparaturverlangen und Right-to-Repair-Fragen als allgemeinzivilrechtlicher Router in BGB-BT, AGB-Recht und Produktrecht. Ziel ist ein schöner, schneller und trotzdem präziser Workflow für Klausur, Ausbildung, Kanzleivermerk und Mandatsarbeit.
 
 Experimentelles Werkzeug. Keine Rechtsberatung, keine Gewähr. Gesetzestext und Rechtsprechung müssen im konkreten Fall geprüft werden. Literatur- oder Kommentarstellen dürfen nur genutzt werden, wenn sie vom Nutzer bereitgestellt wurden oder über eine lizenzierte Quelle live verifiziert sind.
 
 ## Schnellstart
 
-/plugin install bgb-at-pruefer@claude-fuer-deutsches-recht
+/plugin install bgb-at-pruefer@claude-für-deutsches-recht
 
 Starte mit dem Skill [Kaltstart-Triage](./skills/kaltstart-triage/SKILL.md). Der Einstieg fragt den Fall in einer kompakten Reihenfolge ab, baut eine Themenkarte und schlägt danach die passenden Spezial-Skills vor.
 
@@ -73,7 +73,7 @@ Nutze für die Auswahl die automatisch gepflegte Übersicht unten. Die Skills si
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 96 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 95 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -100,7 +100,6 @@ Automatisch generierte Komplett-Liste aller 96 Skills in diesem Plugin. Beschrei
 | `bgb-at-form-und-prozessform` | Trennt Schriftform, elektronische Form, Textform, qES, beA-Versand, prozessuale Formfiktionen und Zugangsnachweis in BGB-AT-Faellen. |
 | `bgb-at-minderjaehrige-fehlsubsumtion` | Findet typische Fehler bei §§ 104-113 BGB: rechtlich vorteilhaft, Taschengeld, Genehmigung, einseitige Geschaefte und Erwerbsgeschaeft. |
 | `bgb-at-output-gutachten-memo-schriftsatz` | Erstellt aus BGB-AT-Prüfungen wahlweise Gutachten, Klausurlösung, Mandatsmemo, Schriftsatzbaustein, Fristenvermerk, Anspruchsmatrix oder Rückfragenbrief. |
-| `bgb-at-pruefer-schnellstart` | 'Kompakter Arbeitsmodus für BGB AT Prüfer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `bgb-at-rechtsschein-redteam` | Prueft Duldungs- und Anscheinsvollmacht gegen vorschnelle Behauptungen: Zurechnung, Wiederholung, Vertrauen, Gutglaeubigkeit und Missbrauch. |
 | `bgb-at-training-fallvarianten` | Erzeugt und variiert BGB-AT-Trainingsfälle mit anonymen, fiktiven Personen, Lernzielen, Lösungsskizze, Abwandlungen und typischen Fehlern für Ausbildung und Kanzleitraining. |
 | `cic-vorvertragliche-pflichten-schnittstelle` | Klausurfall zu culpa in contrahendo nach §§ 280 Abs. 1 und 311 Abs. 2 BGB: Aufnahme von Vertragsverhandlungen, vorvertragliche Aufklärungs- und Schutzpflichten, Verschulden bei Vertragsschluss und Schadensersatz bei Abbruch oder Täuschung. |
@@ -113,7 +112,7 @@ Automatisch generierte Komplett-Liste aller 96 Skills in diesem Plugin. Beschrei
 | `einwilligung-genehmigung-paragraphen-107` | Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex... |
 | `einwilligung-genehmigung-paragraphen-107-bis-109` | Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex... |
 | `elektronische-bea-elektronischer-zugang` | Elektronische Form Bea Qes Formfiktion: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im BGB AT. |
-| `elektronische-form-bea-qes-formfiktion` | Prüfungslinie für elektronische form bea qes formfiktion im BGB AT. |
+| `elektronische-form-bea-qes-formfiktion` | Prüfungslinie für elektronische form bea qes formfiktion im BGB AT. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `elektronischer-zugang-und-plattformen` | Prüft elektronischen Zugang von Willenserklärungen nach § 130 BGB: E-Mail-Postfach, Plattform-Postfächer, automatisierte Systeme, Zeitpunkt der Kenntnisnahmemöglichkeit und Empfangsbereitschaft im B2B- und B2C-Bereich. |
 | `ergaenzende-vertragsauslegung` | Klausurfall zur ergänzenden Vertragsauslegung nach §§ 133 und 157 BGB: planwidrige Regelungslücke feststellen, hypothetischen Parteiwillen ermitteln, Abgrenzung zu dispositiven Gesetzesnormen und Grenze der Auslegung zur richterlichen Re... |
 | `erklaerungsbewusstsein-potentielles` | Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für... |

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Arbeitszeugnis-Analyse: ordnet Rolle (Mandant/Arbeitnehmer, Arbeitgeber/HR, Vorgesetzte), markiert Frist (BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung), wählt Norm (§ 109 GewO Wohlwollensgrundsatz, § 109 II GewO Wahrheits-/Klarheitspflicht, BGB §§ 241 II, 280 I Nebenpflicht) und Zuständigkeit (Arbeitsgericht), leitet zum passenden Spezial-Skill."
+description: "Einstieg, Triage und Routing für Arbeitszeugnis-Analyse: ordnet Rolle (Mandant/Arbeitnehmer, Arbeitgeber/HR, Vorgesetzte), markiert Frist (BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung), wählt Norm (Paragraf 109 GewO Wohlwollensgrundsatz, Paragraf 109 II GewO Wahrheits-/Klarheitspflicht, BGB Paragrafen 241 II, 280 I Nebenpflicht) und Zuständigkeit (Arbeitsgericht), leitet zum passenden Spezial-Skill."
 ---
 
 # Einstieg und Routing
@@ -58,7 +58,7 @@ Dieser Einstieg routet **Arbeitszeugnis Analyse** vom ersten Sachverhalt zu Roll
 
 ## Sofortstart und Rueckfrage-Disziplin
 
-**Der haeufigste Fall ist der einfachste: jemand fuegt ein Zeugnis ein - sonst nichts.** Dann gilt:
+**Der häufigste Fall ist der einfachste: jemand fuegt ein Zeugnis ein - sonst nichts.** Dann gilt:
 
 1. **Sofort loslegen.** Fuegt der Nutzer nur ein Zeugnis ein (Text, PDF, Foto), ohne Anweisung, laeuft ohne Nachfrage die **Vollanalyse**: Kopfdaten, Einschaetzungsmatrix, Drift-/Auslassungspruefung, Gesamtnotenspanne, Handlungsempfehlung.
 2. **Fehlende Angaben sind kein Blocker.** Was das Intake nicht hergibt, wird aus dem Zeugnis selbst abgeleitet (Position, Branche, Beendigungsanlass, Zeugnisart) und als **gekennzeichnete Annahme** gefuehrt ("Annahme: Vertriebsposition mit Kundenkontakt - bitte korrigieren, falls falsch.").

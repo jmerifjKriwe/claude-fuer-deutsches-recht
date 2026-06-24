@@ -1,5 +1,4 @@
 # Rentenprüfer
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 ## Wofür dieses Plugin da ist
 
 Der Rentenprüfer ist der ruhige, genaue Begleiter für Menschen, Kanzleien, Sozialverbände, Personalabteilungen und Versorgungswerksmitglieder, wenn aus verstreuten Erwerbsbiografien eine belastbare Altersversorgung werden muss. Er sortiert Versicherungsverläufe, Renteninformationen, Nachversicherungen, Auslandszeiten, Versorgungswerksfragen, Lücken, Bescheide, Widersprüche und Sozialgerichtswege.
@@ -56,7 +56,7 @@ Er arbeitet zweigleisig: verständlich genug für Laien, aber präzise genug fü
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -102,7 +102,6 @@ Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschrei
 | `rentencheck-fuenf-jahre-vorher` | Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn im Rentenpruefer. |
 | `renteninformation-rentenauskunft` | Renteninformation und Rentenauskunft verständlich auswerten: Prognose, Versicherungsverlauf, Wartezeiten, Abschläge, Grundannahmen und Unsicherheiten im Rentenpruefer. |
 | `rentenluecken-matrix` | Rentenlücken-Matrix für ganze Erwerbsbiografien: Monatsraster, Belegstatus, Trägerzuständigkeit, Priorität und Erledigung im Rentenpruefer. |
-| `rentenpruefer-schnellstart` | 'Kompakter Arbeitsmodus für Rentenprüfer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `russland-sibirien-scheidung` | Russische oder sibirische Zeiten: vertragsloser Drittstaat, FRG-/Spätaussiedler-Schnittstelle, Beweisnot, ausländische Renten und Grenzen deutscher Anerkennung im Rentenpruefer. |
 | `scheidung-versorgungsausgleich-folgen` | Scheidung und Versorgungsausgleich: Rentenanrechte, interne/externe Teilung, Anpassung wegen Tod oder Unterhalt und Bescheidprüfung im Rentenpruefer. |
 | `serbien-zeiten-tod-ausland` | Serbische Versicherungszeiten: Sozialversicherungsabkommen, getrennte Leistungsfeststellung, Verbindungsstellen, Nachweise und Übersetzungsfragen im Rentenpruefer. |

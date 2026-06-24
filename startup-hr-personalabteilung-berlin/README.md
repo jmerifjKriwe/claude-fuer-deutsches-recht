@@ -1,5 +1,4 @@
 # Start-up-HR-Personalabteilung Berlin
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Personalabteilungs-Plugin für ein typisches Berliner Start-up mit ungefähr 100 Beschäftigten. Es ist für die Person gedacht, die im Alltag HR, Office, Payroll-Koordination, Mitarbeiterkommunikation, Vorfallmanagement und Geschäftsführungs-Briefings gleichzeitig stemmen muss.
 
 Das Plugin ist bewusst praktisch: Arbeitsverträge, Onboarding, DATEV-/Lohnbüro-Übergaben, Personalakten, Probezeiten, Fehlzeiten, Betriebsfeiern, AGG-Beschwerden, Drogen-/Alkoholverdacht, Betriebsrat, Workation, Benefits, Gehaltsläufe und Offboarding. Es soll HR nicht ersetzen, sondern HR schneller, ruhiger und rechtlich sauberer machen.
@@ -78,7 +78,7 @@ Chef- oder Founder-Briefings sollen deshalb nicht einfach Rohlisten mit Diagnose
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -185,7 +185,6 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 | `slack-teams-kommunikationsregeln` | Berliner Start-up-HR: Slack/Teams-Regeln: Arbeitszeit, respektvolle Kommunikation, Screenshots, personenbezogene Daten, Betriebsrat und Discovery-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittste... |
 | `spesen-reisekosten-stammdaten-qualitaetscheck` | Berliner Start-up-HR: Spesen- und Reisekostenpolicy: Belege, Freigaben, steuerliche Plausibilität, Workation, Bahncard, Hotel und Bewirtung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Bri... |
 | `stammdaten-qualitaetscheck` | Berliner Start-up-HR: Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnit... |
-| `startup-hr-personalabteilung-berlin-schnellstart` | 'Kompakter Arbeitsmodus für Start-up-HR-Personalabteilung Berlin. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `teilzeit-brueckenteilzeit` | Berliner Start-up-HR: Teilzeit und Brückenteilzeit: Anspruch, Antrag, betriebliche Gründe, Rückkehr, Dokumentation und Teamplanung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und... |
 | `ueberstunden-kompensation-urlaubskalender` | Berliner Start-up-HR: Überstunden: Anordnung, Duldung, Erfassung, Vergütung, Freizeitausgleich und Führungskräftekommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und näc... |
 | `urlaubskalender-und-burlg` | Berliner Start-up-HR: Urlaubsverwaltung nach BUrlG: Antrag, Genehmigung, Resturlaub, Verfallhinweis, Übertragung und Teamkonflikte. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und... |

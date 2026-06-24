@@ -1,5 +1,4 @@
 # Produkthaftung und Produktrecht (Plugin `produktrecht`)
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Rechtliche Abläufe für Produktteams, Hersteller, Händler und Kanzleien: Produktsicherheit, Produkthaftung, Produktbeobachtung, Rückruf, Marktüberwachung, Software-/OTA-Updates, Right to Repair und Launch-Review. Der Ordner heißt weiter `produktrecht`, damit bestehende Links stabil bleiben; inhaltlich ist das Plugin jetzt ausdrücklich auch ein Produkthaftungs- und Produktlebenszyklus-Plugin.
 
 Es trennt sauber zwischen Produktsicherheit/Behördenpflichten, verschuldensunabhängiger Produkthaftung, deliktischer Produzentenhaftung, vertraglicher Gewährleistung, digitalem Kaufrecht und künftigen Reparaturpflichten. Gerade bei vernetzten Waren wird nicht mehr gefragt “Hardware oder App?”, sondern: Welche Funktion hängt an Firmware, Cloud, Konto, Sensorik, Update oder Reparaturzugang?
@@ -157,16 +157,16 @@ Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-re
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `anpassen` | Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut auszuführen. Risikokalibrierung, Eskalationskontakte, Launch-Review-Framework, Werbeaussagen-Haltung oder Mandate-Workspa... |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im Produktrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-U... |
-| `belegmatrix-mandantenkommunikation-entscheidungsvorlage` | Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage im Produktrecht. |
-| `bewertungen-red-team-impressumspflicht` | Bewertungen: Behörden-, Gerichts- oder Registerweg im Produktrecht. |
+| `belegmatrix-mandantenkommunikation-entscheidungsvorlage` | Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `bewertungen-red-team-impressumspflicht` | Bewertungen: Behörden-, Gerichts- oder Registerweg im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `ce-kennzeichnung-routenplan` | CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Medizinprodukte, Spielzeug, PSA), Konformitaetsbewertungsverfahren wie Modul A bis H, technische Dokumentation, EU-Konf... |
-| `chronologie-red-team-und-qualitaetskontrolle` | Chronologie: Red-Team und Qualitätskontrolle im Produktrecht. |
+| `chronologie-red-team-und-qualitaetskontrolle` | Chronologie: Red-Team und Qualitätskontrolle im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Produktrecht (ProdSG/CE): sortiert Konformitätserklärung, Technisches Dossier, Risikobewertung, prüft Datum, Absender, Frist und Beweiswert (Testberichte, CE-Zertifikate); markiert Lücken; berücksichtigt Mandatsgehei... |
 | `dual-use-produktrecht` | Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Prüfraster... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Produktrecht (ProdSG/CE): ordnet Rolle (Hersteller, Importeur, Händler), markiert Frist (RAPEX-Meldung unverzüglich), wählt Norm (ProdSG, GPSR EU 2023/988, ProdHaftG) und Zuständigkeit (Marktüberwachung L... |
@@ -178,47 +178,46 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `ist-ki-act-marktueberwachung-kommunikation` | Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt ist das ein Problem, kurze Frage, können wir X machen, brauche ich rechtliche Prüfung für, Plausi... |
 | `kaltstart-interview` | Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfassen. Verbindet Launch-Tracker liest vergangene Reviews lernt Risikokalibrierung. Normen ProdSG MarktueberwG CE-Kennze... |
 | `ki-act-produktintegration` | KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Prüfraster für Produktverantwortliche, ab welchen KI-Bausteinen welche P... |
-| `launch-livecheck-machinery` | Launch: Tatbestandsmerkmale, Beweisfragen und Beleglage im Produktrecht. |
+| `launch-livecheck-machinery` | Launch: Tatbestandsmerkmale, Beweisfragen und Beleglage im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `launch-pruefung` | Produktmanager oder Rechtsabteilung will vor dem Launch prüfen, ob das Produkt oder Feature produktrechtlich freigegeben werden kann. Vollständige rechtliche Freigabeprüfung gegen konfiguriertes Prüfrahmenwerk und Risikokalibrierung. Nor... |
-| `livecheck-formular-portal-und-einreichung` | Livecheck: Formular, Portal und Einreichungslogik im Produktrecht. |
-| `machinery-compliance-dokumentation-und-akte` | Machinery: Compliance-Dokumentation und Aktenvermerk im Produktrecht. |
+| `livecheck-formular-portal-und-einreichung` | Livecheck: Formular, Portal und Einreichungslogik im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `machinery-compliance-dokumentation-und-akte` | Machinery: Compliance-Dokumentation und Aktenvermerk im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mandat-arbeitsbereich` | Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder den mandatsb... |
 | `marktueberwachung-kommunikation` | Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Länder, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirku... |
 | `nachhaltigkeitsklage-werbeaussagen` | Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie Empowering-Consumers-Richtlinie EU 2024 825: konkrete Anforderungen an Klimaneutralitaets-Claims, Recyclingangaben, Kompensationsangaben. Substanziierungspflicht, Lebenszyklus-Daten... |
 | `output-waehlen` | Output-Wahl für Produktrecht (ProdSG/CE): stimmt Adressat (Hersteller, Importeur, Händler), Frist (RAPEX-Meldung unverzüglich) und Form auf den Zweck ab — typische Outputs: Konformitätsdossier, Rückrufaktion, Mängelfeststellung. |
-| `pangv-prodr-produktbeobachtung` | Pangv: Risikoampel, Gegenargumente und Verteidigungslinien im Produktrecht. |
+| `pangv-prodr-produktbeobachtung` | Pangv: Risikoampel, Gegenargumente und Verteidigungslinien im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `preisangaben` | Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Ra... |
 | `prodr-gpsr-cra-fitness-spezial` | Spezialfall GPSR und CRA Fitness-Check digitale Produkte: Sicherheitsanforderungen, Konformitaetsbewertung, Marktueberwachung. Prüfraster für Hersteller IoT und Software im Produktrecht. |
 | `prodr-machinery-produktrueckruf` | Spezialfall Maschinenverordnung VO 2023 / 1230 Machinery Regulation: KI in Maschinen, Wesentliche Änderung, Modernisierung Bestandsmaschinen. Prüfraster für Hersteller im Produktrecht. |
 | `prodr-produkthaftung-bauleiter` | Bauleiter Produkthaftung ProdHaftG und § 823 BGB Produktsicherheit: Fehlerbegriff, Hersteller-, Quasi-Hersteller- und Importeurshaftung. Prüfraster für Schadensregulierung im Produktrecht. |
 | `prodr-produktrueckruf-leitfaden` | Leitfaden Produktrueckruf: Pflicht zur Sicherheitsmassnahme nach ProdSG / GPSR, Meldung an Marktueberwachungsbehoerde, Kommunikation. Prüfraster für Hersteller im Produktrecht. |
-| `prodr-zahlen-schwellen-und-berechnung` | Prodr: Zahlen, Schwellenwerte und Berechnung im Produktrecht. |
+| `prodr-zahlen-schwellen-und-berechnung` | Prodr: Zahlen, Schwellenwerte und Berechnung im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `produktbeobachtung-feldueberwachung` | Produktbeobachtung und Feldueberwachung nach § 4 ProdSG und GPSR: aktive Beobachtung des Marktes nach Inverkehrbringen, Reklamationen, Schadensmeldungen, Reparaturdaten, Social-Media-Monitoring. Ableitung von Maßnahmen (Information, Modi... |
 | `produktbeobachtung-software-produktrecht` | Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung im Produktrecht. |
-| `produktbeobachtung-verhandlung-vergleich-und-eskalation` | Produktbeobachtung: Verhandlung, Vergleich und Eskalation im Produktrecht. |
+| `produktbeobachtung-verhandlung-vergleich-und-eskalation` | Produktbeobachtung: Verhandlung, Vergleich und Eskalation im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `produkthaftung-digital-software-pld-2024-2853` | Prüft die neue EU-Produkthaftungsrichtlinie 2024/2853 für Software, KI-Systeme, digitale Fertigungsdateien, relevante digitale Dienste, Updates, Beweiserleichterungen und erweiterte Anspruchsgegner im Produktrecht. |
 | `produkthaftung-grundlagen-produktsicherheit` | Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/285... |
 | `produkthaftung-produktsicherheit-gpsr-korrektur` | Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung im Produktrecht. |
 | `produkthaftung-reparatur-update-und-lifecycle` | Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates im Produktrecht. |
-| `produktlaunch-beweislast-rechtscheck` | Produktlaunch: Beweislast, Darlegungslast und Substantiierung im Produktrecht. |
+| `produktlaunch-beweislast-rechtscheck` | Produktlaunch: Beweislast, Darlegungslast und Substantiierung im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `produktlaunch-rechtscheck` | Produktlaunch-Rechtscheck von Impressum bis Marktüberwachung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Produktrecht. |
 | `produktmandat-workspace-kontexttrennung` | Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder den mandatsb... |
 | `produktnutzung-und-claimcheck` | Produktnutzung, Werbeclaim und Sicherheitsversprechen prüfen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Produktrecht. |
-| `produktrecht-schnellstart` | 'Kompakter Arbeitsmodus für Produkthaftung und Produktrecht (Plugin produktrecht). Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
-| `produktrechtliche-erstpruefung-und-mandatsziel` | Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Produktrecht. |
-| `produktrechtliche-rechtscheck` | Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine im Produktrecht. |
+| `produktrechtliche-erstpruefung-und-mandatsziel` | Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `produktrechtliche-rechtscheck` | Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `quellen-livecheck` | Quellen-Live-Check für Produktrecht (ProdSG/CE): prüft Normen (ProdSG, GPSR EU 2023/988, ProdHaftG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Marktüberwachung Länder und Quellenhygiene nach references/quelle... |
 | `rechtsabteilung-cybersecurity-digitale` | Rechtsabteilungs-Fachmodul für Cybersecurity als Produktsicherheitsmerkmal: Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produ... |
 | `rechtsabteilung-digitale-elemente-im-kaufrecht` | Rechtsabteilungs-Fachmodul für Digitale Elemente im Kaufrecht: Updatepflicht, Mangel, Interoperabilität und Informationspflichten werden getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produktrecht. |
 | `rechtsabteilung-produkthaftungsrichtlinie-ce` | Rechtsabteilungs-Fachmodul für Neue Produkthaftungsrichtlinie und Softwareprodukt: Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsop... |
 | `rechtsabteilung-right-to-repair-im-geraetevertrieb` | Rechtsabteilungs-Fachmodul für Right to Repair im Gerätevertrieb: Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Produktrecht. |
 | `rechtsabteilung-rueckrufmanagement-repair-by` | Rechtsabteilungs-Fachmodul für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption... |
-| `rechtscheck-sonderfall-und-edge-case` | Rechtscheck: Sonderfall und Edge-Case-Prüfung im Produktrecht. |
+| `rechtscheck-sonderfall-und-edge-case` | Rechtscheck: Sonderfall und Edge-Case-Prüfung im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `rechtsquellen` | Rechtsquellen: Quellenprüfung; Internationaler Bezug und Schnittstellen: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `regulation-interessen-werbeaussagen` | Regulation: Mehrparteienkonflikt und Interessenmatrix im Produktrecht. |
+| `regulation-interessen-werbeaussagen` | Regulation: Mehrparteienkonflikt und Interessenmatrix im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `repair-by-design-software-locks-ersatzteile` | Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen im Produktrecht. |
 | `reparaturpflicht-hersteller-nach-gewaehrleistung` | Prüft, wann Hersteller auch außerhalb der kaufrechtlichen Gewährleistung Reparatur anbieten müssen oder sollten, einschließlich Kosten, angemessener Frist, Ersatzgerät, Reparaturformular und Produktgruppen mit EU-Reparierbarkeitsanforder... |
-| `review-prodr-produkthaftung-digital` | Review: Fristen, Form, Zuständigkeit und Rechtsweg im Produktrecht. |
+| `review-prodr-produkthaftung-digital` | Review: Fristen, Form, Zuständigkeit und Rechtsweg im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `right-to-rueckruf-strategie` | Prüft das EU-Recht auf Reparatur nach Richtlinie (EU) 2024/1799, Umsetzungsstand, Hersteller-/Repairerpflichten, Reparaturformular, Reparaturplattform, Ersatzteile und Grenzen software- oder hardwareseitiger Reparaturhindernisse im Produ... |
 | `rueckruf-strategie-konzern` | Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behörde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung.... |
 | `software-quellenkarte` | Software Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |

@@ -9,21 +9,21 @@ description: "Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung im A
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 611a Abs. 1 BGB` — Arbeitsvertrag und Weisungsbindung.
-- `§ 241 Abs. 2 BGB` — Rücksichtnahmepflichten.
-- `§ 626 Abs. 1 BGB` — fristlose Kuendigung.
-- `§ 1 Abs. 2 KSchG` — soziale Rechtfertigung.
-- `§ 4 Satz 1 KSchG` — Klagefrist.
-- `§ 7 KSchG` — Fiktionswirkung.
-- `§ 102 Abs. 1 BetrVG` — Betriebsratsanhoerung.
-- `§ 2 Abs. 1 NachwG` — Nachweis wesentlicher Arbeitsbedingungen.
-- `§ 46 Abs. 2 ArbGG` — ZPO-Anwendung im arbeitsgerichtlichen Verfahren.
+- `Paragraf 611a Abs. 1 BGB` — Arbeitsvertrag und Weisungsbindung.
+- `Paragraf 241 Abs. 2 BGB` — Rücksichtnahmepflichten.
+- `Paragraf 626 Abs. 1 BGB` — fristlose Kuendigung.
+- `Paragraf 1 Abs. 2 KSchG` — soziale Rechtfertigung.
+- `Paragraf 4 Satz 1 KSchG` — Klagefrist.
+- `Paragraf 7 KSchG` — Fiktionswirkung.
+- `Paragraf 102 Abs. 1 BetrVG` — Betriebsratsanhoerung.
+- `Paragraf 2 Abs. 1 NachwG` — Nachweis wesentlicher Arbeitsbedingungen.
+- `Paragraf 46 Abs. 2 ArbGG` — ZPO-Anwendung im arbeitsgerichtlichen Verfahren.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -96,16 +96,16 @@ Bei Note 3 trägt Arbeitnehmer die Beweislast für bessere Note (BAG ständige R
 
 ### Kuratierte Normen-Bibliothek
 
-- § 16 BBiG
-- § 46 ArbGG
-- § 1 KSchG
-- § 7 KSchG
-- § 102 BetrVG
-- § 2 NachwG
-- § 42 GKG
-- § 29 VwVfG
-- § 11 ArbGG
-- § 13 BBiG
+- Paragraf 16 BBiG
+- Paragraf 46 ArbGG
+- Paragraf 1 KSchG
+- Paragraf 7 KSchG
+- Paragraf 102 BetrVG
+- Paragraf 2 NachwG
+- Paragraf 42 GKG
+- Paragraf 29 VwVfG
+- Paragraf 11 ArbGG
+- Paragraf 13 BBiG
 
 ### Leitentscheidungen
 

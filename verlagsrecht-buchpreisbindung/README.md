@@ -1,5 +1,4 @@
 # Verlagsrecht und Buchpreisbindung
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin trennt Urheberrecht, Verlagsvertragsrecht, Preisbindung, Vertrieb und redaktionelle Realität. Es ist für Fachverlage, Belletristik, E-Books, Loseblatt, Plattformen und Buchhandel gedacht.
 
 ## Arbeitsweise
@@ -47,7 +47,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -147,7 +147,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `verlagsgesetz-kuendigung` | Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen... |
 | `verlagsinsolvenz-rechte-rueckfall-und-lagerbestand` | Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten an Autoren, Lagerbestandsverwertung, InsO §§ 103–119, UrhG §§ 41–42 und praktische Schritte für betroffene Autoren im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlä... |
 | `verlagsmandat-werk-vertrag-vertrieb` | Verlagsrecht: Kaltstart-Analyse eines Verlagsmandats — Werk, Vertragstyp, Vertriebskanal und Preisstruktur systematisch erfassen, rechtlich einordnen und handlungsfähig machen. |
-| `verlagsrecht-buchpreisbindung-schnellstart` | 'Kompakter Arbeitsmodus für Verlagsrecht und Buchpreisbindung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `verlagsvertrag-redaktionsvertrag` | Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägig... |
 | `verlegerrecht-historisch-und-heutige-grenzen` | Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschutzrecht des Presseverlegers (§ 87f UrhG), BGH-Verlegeranteil-Entscheidung und Grenzen des Verlegerschutzes im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen... |
 | `vg-wort-meldung-beteiligung-und-ausschuettung` | VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen, Wahrnehmungsvertrag, VGG §§ 27 ff. — Fristen, Verteilungsplan und Praxis im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, B... |

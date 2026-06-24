@@ -7,7 +7,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -37,7 +37,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 |---|---|---|
 | "zeigte sich Mitarbeitern und Kunden gegenueber verstaendnisvoll" | Sexuelle Annaeherung oder Belaestigung | Rot |
 | "war ehrlich und korrekt" (ohne Kontext) | Diebstahlsverdacht | Rot |
-| "erledigte die ihm uebertragenen Geldgeschaefte zuverlaessig" | Eigentumsdelikt im Hintergrund | Rot |
+| "erledigte die ihm übertragenen Geldgeschaefte zuverlaessig" | Eigentumsdelikt im Hintergrund | Rot |
 | "achtete auf eine korrekte Abrechnung" (bei Nichtkassenposition) | Unregelmaessigkeiten beim Vorgaenger | Rot |
 
 ### Konflikte und schwierige Persoenlichkeit
@@ -55,7 +55,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 | Formulierung | Bedeutung | Ampel |
 |---|---|---|
-| "identifizierte sich mit den von ihm uebernommenen Aufgaben" | Identifikation mit dem Unternehmen fehlt | Rot |
+| "identifizierte sich mit den von ihm übernommenen Aufgaben" | Identifikation mit dem Unternehmen fehlt | Rot |
 | "achtete auf die Vertraulichkeit dienstlicher Angelegenheiten" (auffaellig betont) | Verstoss gegen Verschwiegenheit | Rot |
 | "war im Rahmen seiner Faehigkeiten loyal" | Eingeschraenkte Loyalitaet | Rot |
 | "nahm an Veranstaltungen teil" (statt: war engagiert) | Distanz | Orange |
@@ -96,13 +96,13 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 ## Beispiele
 
-**Beispiel 1 – Alkohol-Code:** Buchhalter erhaelt ein Zeugnis mit dem Satz "trug stets zur Verbesserung des Betriebsklimas bei". Position erfordert diesen Hinweis nicht, der Satz steht isoliert. → Codewort für Trinkproblem, Rot, berichtigungsfaehig.
+**Beispiel 1 – Alkohol-Code:** Buchhalter erhält ein Zeugnis mit dem Satz "trug stets zur Verbesserung des Betriebsklimas bei". Position erfordert diesen Hinweis nicht, der Satz steht isoliert. → Codewort für Trinkproblem, Rot, berichtigungsfaehig.
 
 **Beispiel 2 – Diebstahls-Code bei Kassiererin:** "Sie war ehrlich und korrekt und achtete auf eine sorgfaeltige Abrechnung." → Bei Kassenposition ist die Ehrlichkeit eine Selbstverstaendlichkeit, ihre explizite Hervorhebung signalisiert Probleme im Hintergrund. Rot, berichtigungsfaehig.
 
 **Beispiel 3 – Konflikt-Code:** "Herr Klein pflegte einen direkten und offenen Kommunikationsstil und brachte sich engagiert in Diskussionen ein." → Doppelcode, signalisiert schwieriges Sozialverhalten. Rot, berichtigungsfaehig.
 
-**Beispiel 4 – Loyalitaets-Auslassung:** Zeugnis einer Geschäftsführerin enthaelt zu allen anderen Sozialaspekten Aussagen, aber kein Wort zur Loyalitaet gegenueber dem Unternehmen. → Auslassungs-Code, signalisiert Loyalitaetsproblem. Rot, berichtigungsfaehig.
+**Beispiel 4 – Loyalitaets-Auslassung:** Zeugnis einer Geschäftsführerin enthält zu allen anderen Sozialaspekten Aussagen, aber kein Wort zur Loyalitaet gegenueber dem Unternehmen. → Auslassungs-Code, signalisiert Loyalitaetsproblem. Rot, berichtigungsfaehig.
 
 **Beispiel 5 – Mitlaeufer-Code:** "Frau Bauer fuegte sich gut in die Hierarchie ein und akzeptierte Entscheidungen ihrer Vorgesetzten." → Doppelcode für Passivitaet ohne Eigeninitiative. Orange.
 
@@ -110,8 +110,8 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
-- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
 
 ## Aktuelle Rechtsprechung
 

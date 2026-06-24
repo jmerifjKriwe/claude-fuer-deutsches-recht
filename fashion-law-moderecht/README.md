@@ -1,5 +1,4 @@
 # fashion-law-moderecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin behandelt Mode nicht als hübschen Sonderfall, sondern als verdichteten Rechtslebenszyklus: Entwurf, Rechtekette, Produktion, Lieferkette, Label, Launch, Vertrieb, Plattform, Influencer, Nachhaltigkeit, Krise, Kopie und Exit. Es ist für Kanzlei, Inhouse Legal, Founder, Kreativteam und Retail gebaut.
 
 ## Arbeitsmodus
@@ -56,7 +56,7 @@ Der Einstieg ist bewusst niedrigschwellig: Uploads, Bilder, Verträge oder bloß
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -69,7 +69,6 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `e-commerce-employment-creatives` | E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB im Fashion Law Moderecht. |
 | `employment-creatives-fashion` | Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung im Fashion Law Moderecht. |
 | `espr-digitaler-week-event` | ESPR und Digital Product Passport für Mode strategisch vorbereiten: Nachhaltigkeitsdaten, Reparierbarkeit, Haltbarkeit, Materialdaten, Delegated Acts und IT-Datenmodell im Fashion Law Moderecht. |
-| `fashion-law-moderecht-schnellstart` | 'Kompakter Arbeitsmodus für fashion-law-moderecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `fashion-week-event` | Fashion Week, Runway und Eventrecht prüfen: Location, Musik, Models, Sponsoren, Presse, Gästeliste, Sicherheit, Streaming und Bildrechte im Fashion Law Moderecht. |
 | `forced-labour-foto-video` | Zwangsarbeits-, Import- und Sanktionsrisiken in der Fashion-Lieferkette prüfen: Herkunft, Baumwolle, Audits, Zoll, Nachweise und Krisenkommunikation im Fashion Law Moderecht. |
 | `foto-video-campaign-rights` | Foto-, Video- und Kampagnenrechte prüfen: Fotograf, Agentur, Stylist, Location, Musik, Requisiten, Buyout, Credits und Archivnutzung im Fashion Law Moderecht. |

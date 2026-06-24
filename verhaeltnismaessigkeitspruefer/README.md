@@ -1,5 +1,4 @@
 # Verhältnismäßigkeitsprüfer
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -15,13 +14,14 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`verhaeltnismaessigkeitspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-werkstatt.md" download><code>verhaeltnismaessigkeitspruefer-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-schnellstart.md" download><code>verhaeltnismaessigkeitspruefer-schnellstart.md</code></a> |
+| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-werkstatt.md" download><code>verhältnismäßigkeitspruefer-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-schnellstart.md" download><code>verhältnismäßigkeitspruefer-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | [`testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) (Initiative Lausitzer Lebensraum e.V. ./. Polizeipraesidium Cottbus (Polizeiverfuegung Anti-Kohle-Versammlung Forst Lausitz)) |
 
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin für die juristisch tiefe Anwendung der vierstufigen Schranken-Schranke
 (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) auf
 Grundrechtseingriffe nach deutschem Verfassungsrecht. Mit Vor-Trias (Schutzbereich, Eingriff, Schranke), absoluten Grenzen (Menschenwürde, Wesensgehalt, Existenzminimum), Bestimmtheit und Wesentlichkeitstheorie, BVerfG-Leitentscheidungen, rechtsvergleichenden Skills zu Südafrika Section 36, Kanada Oakes-Test, EGMR/EMRK, EuGH/Charta, US-Tiers-of-Scrutiny sowie 12 europäischen Rechtsordnungen (Frankreich, Italien, Spanien, Niederlande, Belgien, Österreich, Luxemburg, Dänemark, Polen, Tschechien, Griechenland, Irland) sowie Workflow-Werkzeugen.
@@ -139,7 +139,7 @@ Quelle auffindbar ist; keine BeckRS-/juris-Blindzitate.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -220,7 +220,6 @@ Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschrei
 | `usa-tiers-of-scrutiny` | Tiers of scrutiny des US Supreme Court als Prüfungsmuster fuer Eingriffe in Grundrechte und Gleichheitsfragen mit strict scrutiny intermediate scrutiny und rational basis review. Mit Korematsu Grutter Adarand Craig v Boren Romer und Hinw... |
 | `verhaeltnismaessigkeit-einstieg` | Einstieg in den Verhältnismäßigkeitspruefer mit Plugin-Karte, Methodik-UEberblick und Empfehlungen welcher Skill bei welchem Fall zu starten ist. Erklaert die vier Stufen kurz und verweist auf vertiefende Skills. |
 | `verhaeltnismaessigkeit-mittelbare-diskriminierung` | Mittelbare Diskriminierung nach Paragraph 3 Abs. 2 AGG und der EuGH-Linie seit Bilka. Erfasst neutrale Vorschriften oder Kriterien die Traegerinnen eines geschuetzten Merkmals in besonderer Weise benachteiligen koennen. Rechtfertigung nu... |
-| `verhaeltnismaessigkeitspruefer-schnellstart` | 'Kompakter Arbeitsmodus für Verhältnismäßigkeitsprüfer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `versammlungsfreiheit-brokdorf-auflagen-verbot` | Art. 8 GG bei Demonstrationsauflagen, Verboten, Aufloesungen und Eilrechtsschutz: Brokdorf-Linie, konkrete Gefahrenprognose, Kooperationsgebot, Auflage-vor-Verbot und verhältnismäßige Versammlungssteuerung. |
 | `vierstufige-schranken-schranke` | Die vier Stufen der Verhältnismäßigkeitspruefung legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit als Schranken-Schranke. Mit Prüfungsschema, dogmatischer Verortung und Hinweisen welche Stufe in welcher Fallgruppe das Nade... |
 | `volkszaehlung-bverfge-65-1` | Volkszaehlungs-Urteil BVerfGE Band 65 Seite 1 vom 15.12.1983 als Begruendung des Rechts auf informationelle Selbstbestimmung. Mit Eingriffsbegriff Verarbeitungskontext und der Aussage es gibt kein belangloses Datum mehr. |

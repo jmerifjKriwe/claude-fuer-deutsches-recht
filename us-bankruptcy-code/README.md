@@ -1,5 +1,4 @@
 # US Bankruptcy Code
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist der große deutsche Arbeitskompass zum U.S. Bankruptcy Code, also Title 11 des United States Code. Es deckt Chapter 7, 9, 11, 12, 13 und 15, Automatic Stay, Claims, DIP Financing, Cash Collateral, 363 Sales, Executory Contracts, Preferences, Fraudulent Transfers, Subchapter V, Plan Confirmation, Cramdown, Chapter 15 und distressed transactions ab.
 
 Es ist für deutsche Kanzleien, Rechtsabteilungen, Kreditgeber, Käufer, Lizenznehmer, Investoren und Gläubiger gedacht, die mit einem US-Bankruptcy-Fall umgehen müssen und schnell eine geordnete Arbeitsakte für US-Counsel brauchen.
@@ -165,7 +165,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -263,7 +263,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `title11-map-chapters` | Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen im US Bankruptcy Code. |
 | `trustee-us-trustee-roles` | Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions im US Bankruptcy Code. |
 | `turnover-542` | Prüft turnover of estate property, records, account funds, collateral and foreign holder issues im US Bankruptcy Code. |
-| `us-bankruptcy-code-schnellstart` | 'Kompakter Arbeitsmodus für US Bankruptcy Code. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `use-sale-utilities-valuation-enterprise-venue` | Prüft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections im US Bankruptcy Code. |
 | `utilities-366` | Prüft utility service, adequate assurance, deposits, objections and first-day relief im US Bankruptcy Code. |
 | `valuation-enterprise` | Prüft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer im US Bankruptcy Code. |

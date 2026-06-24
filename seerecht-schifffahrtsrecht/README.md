@@ -1,5 +1,4 @@
 # See- und Schifffahrtsrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin verbindet deutsches Seehandels- und Registerrecht mit internationaler Schifffahrtspraxis: Schiffbau, Verkauf, Finanzierung, Schiffshypothek, Arrest, Wrack/Bergung, Charter, Kollision, Insolvenz und ITLOS/UNCLOS.
 
 ## Start
@@ -46,7 +46,7 @@ Beginne mit `seerecht-schifffahrtsrecht-allgemein`. Das Plugin fragt zuerst nach
 
 ## Quellenhygiene
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
+Siehe [`description`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
 
 ## Lizenz
 
@@ -56,7 +56,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 239 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 238 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -275,7 +275,6 @@ Automatisch generierte Komplett-Liste aller 239 Skills in diesem Plugin. Beschre
 | `see-118-charterparty-closing-planen` | See- und Schifffahrtsrecht: Charterparty: Closing planen. Closing planen für Charterparty im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `see-119-charterparty-klagepfad-waehlen` | See- und Schifffahrtsrecht: Charterparty: Klagepfad wählen. Klagepfad wählen für Charterparty im Rahmen von See- und Schifffahrtsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `seearbeitsrecht-schnittstelle` | Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder MLC-Beschwerde. SeeArbG §§ 1-130 (Seearbeitsgesetz); MLC 2006 Titel 1-4; STCW-Uebereinkommen; Besatzungsstaerke (BSH Safe-Manning); Ruhezeiten-Verstoss; Kran... |
-| `seerecht-schifffahrtsrecht-schnellstart` | 'Kompakter Arbeitsmodus für See- und Schifffahrtsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `seeschiff-oder-binnenschiff` | Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend für Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister)... |
 | `umwelt-marpol-itlos-hamburg-dokumenten` | Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Fals... |
 | `versicherung-p-i-hull` | Mandant prüft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel... |

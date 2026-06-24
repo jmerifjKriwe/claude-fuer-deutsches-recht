@@ -1,5 +1,4 @@
 # Außenwirtschaft, Sanktionen, Zoll und CBAM
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Freistehendes Außenwirtschafts-, Sanktions-, Zoll- und CBAM-Plugin für international tätige Unternehmen, Einzelpersonen, Verbände, Import-/Exportabteilungen, Zollteams, Compliance, Geschäftsleitung und anwaltliche Krisenmandate.
 
 Dieses Plugin ist **vollständig freistehend**. Es verweist nicht auf andere Plugins und bringt eigene Skills, Vorlagen, Leitplanken, Vorschau und Testakte mit. Wenn keine Schnittstelle zu ERP, Zollsoftware, Screening-Tool, CBAM-Register, ELAN-K2, Bundesbank-Portal oder Kanzleisystem besteht, arbeitet es mit manuellen Uploads oder einem ausdrücklich gekennzeichneten Simulationsmodus.
@@ -84,14 +84,14 @@ Dieses Plugin ist **vollständig freistehend**. Es verweist nicht auf andere Plu
 
 ## Offizielle Startquellen
 
-- [BAFA Exportkontrolle](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Allgemeine_Einfuehrung/allgemeine_einfuehrung.html)
-- [BAFA Embargos und Namenslistenhinweise](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Embargos/embargos.html)
-- [EU Sanctions Map und konsolidierte Finanzsanktionsliste](https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/overview-sanctions-and-related-resources_en)
-- [EU TARIC](https://taxation-customs.ec.europa.eu/customs/common-customs-tariff-cct/tariff-classification-goods/eu-customs-tariff-taric_de)
-- [EU CBAM](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
-- [Deutsche Bundesbank AWV-Zahlungsmeldungen](https://www.bundesbank.de/de/service/meldewesen/aussenwirtschaft-formular-center/zahlungsmeldungen)
-- [EU Trade Defence Antidumping](https://policy.trade.ec.europa.eu/enforcement-and-protection/trade-defence/anti-dumping-measures_en)
-- [Zoll Verbrauchsteuererhebung](https://www.zoll.de/DE/Der-Zoll/Aufgaben-des-Zolls/Einnahmen-fuer-Deutschland-und-Europa/Verbrauchsteuererhebung/verbrauchsteuererhebung.html)
+- [BAFA Exportkontrolle]()
+- [BAFA Embargos und Namenslistenhinweise]()
+- [EU Sanctions Map und konsolidierte Finanzsanktionsliste]()
+- [EU TARIC]()
+- [EU CBAM]()
+- [Deutsche Bundesbank AWV-Zahlungsmeldungen]()
+- [EU Trade Defence Antidumping]()
+- [Zoll Verbrauchsteuererhebung]()
 
 ## Freistehende Leitplanken
 
@@ -106,7 +106,7 @@ Dieses Plugin ist **vollständig freistehend**. Es verweist nicht auf andere Plu
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 125 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -212,7 +212,6 @@ Automatisch generierte Komplett-Liste aller 125 Skills in diesem Plugin. Beschre
 | `aussenwirtschaft-vzta-antrag-qualitaetsgate` | Vertiefter Skill fuer VZTA Antrag Qualitaetsgate. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht. |
 | `aussenwirtschaft-warennummer-hs-cn-taric-einreihung` | Wareneinreihung nach Harmonisiertem System (HS) Kombinierter Nomenklatur (KN) und TARIC: Anwendung der Allgemeinen Vorschriften (AV 1-6) ErlBem und Einreihungsverordnungen. Typische Problemfelder wie Sets Teile Zubehoer Konfektionierung... |
 | `aussenwirtschaft-wto-handelspolitik` | WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung für Unternehmen bei EU-Maßnahmen u... |
-| `aussenwirtschaft-zoll-sanktionen-schnellstart` | 'Kompakter Arbeitsmodus für Außenwirtschaft, Sanktionen, Zoll und CBAM. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `aussenwirtschaft-zoll-straf-bussgeld-selbstkorrektur` | Vertiefter Skill fuer Zoll Straf Bussgeld Selbstkorrektur. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht. |
 | `aussenwirtschaft-zolllager-freilager` | Vertiefter Skill fuer Zolllager Freilager. Fuehrt durch Intake, Rechtsrahmen, Beleglage, Risikoampel, Dokumentation, Freigabe und naechste Schritte im Aussenwirtschafts-, Zoll- und Sanktionsrecht. |
 | `aussenwirtschaft-zollpruefung-aussenpruefung` | Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Prüfungsankuendigung Prüferempfang Dokumentenvorlage und Nacherhebungsrisiko. Unterschied Zollaußenpruefung und BAFA-Prüfung. Typische Prüfungsschwerpunkte Zollwert P... |

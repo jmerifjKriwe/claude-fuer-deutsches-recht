@@ -1,5 +1,4 @@
 # Umweltrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Vollständiger Umweltrechts-Assistent für Anlagenbetreiber, Verbände, Investoren, Kommunen und öffentliche Hand: Emissionshandel, Immissionsschutz, Abfall, Wasser, Boden, Naturschutz, Umweltinformation, Verfahren, Sanktionen und Transaktionen.
 
 Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugins, keine externen Agenten und keine besonderen Repo-Dateien außerhalb seines eigenen Ordners. Wenn ein Anschluss an Register, Behördenportale, E-Mail, beA, Datenraum, Bank, GIS, Tabellen oder Kanzleisoftware fehlt, arbeitet es mit manuellen Uploads oder mit einem gekennzeichneten Simulationsmodus.
@@ -80,51 +80,50 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abfall-anlagen-bimschg` | Abfall: Dokumentenmatrix, Lückenliste und Nachforderung im Umweltrecht. |
+| `abfall-anlagen-bimschg` | Abfall: Dokumentenmatrix, Lückenliste und Nachforderung im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `abfall-circular-economy` | Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Prüfraster Abfalleigen... |
-| `anlagen-abschlussprodukt-und-uebergabe` | Anlagen: Abschlussprodukt und Übergabe im Umweltrecht. |
+| `anlagen-abschlussprodukt-und-uebergabe` | Anlagen: Abschlussprodukt und Übergabe im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anschluss-routing` | Anschluss-Routing für Umweltrecht: wählt den nächsten Spezial-Skill nach Engpass (Klagefrist UVPG, UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände), dokumentiert Router-Entscheidung mit Begründung. |
-| `bimschg-tatbestand-beweis-und-belege` | Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Umweltrecht. |
-| `boden-csddd-csrd-sonderfall` | Boden: Behörden-, Gerichts- oder Registerweg im Umweltrecht. |
+| `bimschg-tatbestand-beweis-und-belege` | Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `boden-csddd-csrd-sonderfall` | Boden: Behörden-, Gerichts- oder Registerweg im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bussgeld-emissionshandel-tehg-uwr` | Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbesta... |
 | `bussgeld-quellenkarte` | Bussgeld Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `compliance-schulung` | Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Prüfraster Schulungspflichten Dokumentationspf... |
-| `csddd-mandantenkommunikation-entscheidungsvorlage` | Csddd: Mandantenkommunikation und Entscheidungsvorlage im Umweltrecht. |
-| `csrd-sonderfall-und-edge-case` | Csrd: Sonderfall und Edge-Case-Prüfung im Umweltrecht. |
-| `diligence-greenwashing-beweislast-klimaklagen` | Diligence: Compliance-Dokumentation und Aktenvermerk im Umweltrecht. |
+| `csddd-mandantenkommunikation-entscheidungsvorlage` | Csddd: Mandantenkommunikation und Entscheidungsvorlage im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `csrd-sonderfall-und-edge-case` | Csrd: Sonderfall und Edge-Case-Prüfung im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `diligence-greenwashing-beweislast-klimaklagen` | Diligence: Compliance-Dokumentation und Aktenvermerk im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Umweltrecht: sortiert UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände, prüft Datum, Absender, Frist und Beweiswert (Immissionsmessungen, Bodengutachten); markiert Lücken; berücksichtigt Mandatsgeheim... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Umweltrecht: ordnet Rolle (Vorhabenträger, Behörde, Umweltverband), markiert Frist (Klagefrist UVPG), wählt Norm (BImSchG, BNatSchG, WHG, BBodSchG, UVPG) und Zuständigkeit (Umweltbehörden Länder), leitet... |
 | `emissionshandel-tehg` | Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Prüfraster Zuteilungs-Berechnung Monito... |
 | `esg-greenwashing-klimaklagen-verbandsklage` | Esg Greenwashing Csrd: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Umweltrecht. |
-| `greenwashing-beweislast-und-darlegungslast` | Greenwashing: Beweislast, Darlegungslast und Substantiierung im Umweltrecht. |
+| `greenwashing-beweislast-und-darlegungslast` | Greenwashing: Beweislast, Darlegungslast und Substantiierung im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `immissionsschutz-bimschg` | Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmi... |
-| `klimaklagen-mehrparteien-konflikt-und-interessen` | Klimaklagen: Mehrparteienkonflikt und Interessenmatrix im Umweltrecht. |
+| `klimaklagen-mehrparteien-konflikt-und-interessen` | Klimaklagen: Mehrparteienkonflikt und Interessenmatrix im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `klimaklagen-verbandsklage-umwrg` | Klimaklagen Verbandsklage Umwrg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Umweltrecht. |
 | `kommandocenter` | Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Rou... |
-| `lieferkettensorgfalt-lksg-red-naturschutz` | Lieferkettensorgfalt: Formular, Portal und Einreichungslogik im Umweltrecht. |
+| `lieferkettensorgfalt-lksg-red-naturschutz` | Lieferkettensorgfalt: Formular, Portal und Einreichungslogik im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `lksg-csddd-lieferkettensorgfalt` | Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Prüfraster Anwendung... |
-| `lksg-red-team-und-qualitaetskontrolle` | Lksg: Red-Team und Qualitätskontrolle im Umweltrecht. |
+| `lksg-red-team-und-qualitaetskontrolle` | Lksg: Red-Team und Qualitätskontrolle im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mandantenkommunikation-redteam-qualitygate-stoerfall` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Umweltrecht. |
 | `naturschutz-artenschutz` | Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artenschutz §§ 44 45 BNatSchG Kompensationspflichten. Normen BNatSchG §§ 13-19 34-36 44-45 FFH-RL 92/43/EWG Vogelschutz-RL.... |
-| `naturschutz-schriftsatz-brief-und-memo-bausteine` | Naturschutz: Schriftsatz-, Brief- und Memo-Bausteine im Umweltrecht. |
+| `naturschutz-schriftsatz-brief-und-memo-bausteine` | Naturschutz: Schriftsatz-, Brief- und Memo-Bausteine im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `output-waehlen` | Output-Wahl für Umweltrecht: stimmt Adressat (Vorhabenträger, Behörde, Umweltverband), Frist (Klagefrist UVPG) und Form auf den Zweck ab — typische Outputs: UVP-Bericht, Verbandsklage, Genehmigungsantrag. |
 | `quellen-livecheck` | Quellen-Live-Check für Umweltrecht: prüft Normen (BImSchG, BNatSchG, WHG, BBodSchG, UVPG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Umweltbehörden Länder und Quellenhygiene nach references/quellenhygiene.md. |
 | `spezial-bussgeld-livequellen-und-rechtsprechungscheck` | Bussgeld: Livequellen- und Rechtsprechungscheck. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Umweltrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Up... |
 | `stoerfall-anlagen-transaktionen-dd` | Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Prüfraster Stoerfallrelevanz-Prüfung Sicherheitsbericht Betreiberpflich... |
-| `stoerfall-fristennotiz-und-naechster-schritt` | Stoerfall: Fristennotiz und nächster Schritt im Umweltrecht. |
-| `tehg-verfahren-umweltrecht` | Tehg: Fristen, Form, Zuständigkeit und Rechtsweg im Umweltrecht. |
+| `stoerfall-fristennotiz-und-naechster-schritt` | Stoerfall: Fristennotiz und nächster Schritt im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `tehg-verfahren-umweltrecht` | Tehg: Fristen, Form, Zuständigkeit und Rechtsweg im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `transaktionen-dd` | M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Prüfraster Red-Flags Closing-Conditions Capex-Risik... |
-| `umwelt-umweltrecht-umwrg` | Umwelt: Zahlen, Schwellenwerte und Berechnung im Umweltrecht. |
+| `umwelt-umweltrecht-umwrg` | Umwelt: Zahlen, Schwellenwerte und Berechnung im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `umweltinformation-uig-ifg` | Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 8 9 10 IFG §§ 1 3 5 6 9 Auskunftsfrist 1 Monat. Prüfraster Antragsrecht Ausnahmen Geheimnisschutz Drittbeteiligung Wi... |
 | `umweltrecht-bussgeld-sanktionen` | Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbest... |
-| `umweltrecht-erstpruefung-und-mandatsziel` | Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel im Umweltrecht. |
-| `umweltrecht-schnellstart` | 'Kompakter Arbeitsmodus für Umweltrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
-| `umwrg-internationaler-bezug-und-schnittstellen` | Umwrg: Internationaler Bezug und Schnittstellen im Umweltrecht. |
+| `umweltrecht-erstpruefung-und-mandatsziel` | Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `umwrg-internationaler-bezug-und-schnittstellen` | Umwrg: Internationaler Bezug und Schnittstellen im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Umweltrecht: trennt fehlende Tatsachen von fehlenden Belegen (UVP-Bericht, Genehmigungsbescheid, Stellungnahmen Umweltverbände), nennt pro Lücke Beweisthema, Beschaffungsweg (Umweltbehörden Länder), Fris... |
 | `uwr-altlasten-pruefung-spezial` | Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Prüfraster und Mustertexte für Bescheid-Anfechtung im Umweltrecht. |
 | `uwr-bimschg-genehmigung-bauleiter` | Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, öffentliche Auslegung, Nebenbestimmungen. Prüfraster für Antragsteller und Einwender im Umweltrecht. |
@@ -135,8 +134,8 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `uwr-immissionsschutz-praxis` | Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige Anlagen, 4. BImSchV, Genehmigungsverfahren, Anhörung, Einwendungen, sofortige Vollziehbarkeit. Prüfraster für Anlagenbetreiber und Anwohner im Umweltrecht. |
 | `uwr-wasserrechtliche-erlaubnis-leitfaden` | Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik: Prüfraster für Industrieanlagen und kommunale Vorhaben. |
 | `verfahren` | Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Ground... |
-| `verfahren-verhandlung-vergleich-und-eskalation` | Verfahren: Verhandlung, Vergleich und Eskalation im Umweltrecht. |
-| `wasser-abfall-circular-umweltrecht-schulung` | Wasser: Risikoampel, Gegenargumente und Verteidigungslinien im Umweltrecht. |
+| `verfahren-verhandlung-vergleich-und-eskalation` | Verfahren: Verhandlung, Vergleich und Eskalation im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `wasser-abfall-circular-umweltrecht-schulung` | Wasser: Risikoampel, Gegenargumente und Verteidigungslinien im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `wasser-bodenschutz-uwr-altlasten-bimschg` | Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortl... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Umweltrecht. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Umweltrecht. |

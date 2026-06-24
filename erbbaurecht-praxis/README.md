@@ -1,5 +1,4 @@
 # Erbbaurecht Praxis
-Wenn du das hier oeffnest, willst du Werklohn, Maengel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du Werklohn, Mängel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
 Ein Spezialplugin für das Recht des Erbbaurechts: vom ersten Vertragsentwurf über Erbbauzins und Heimfall bis zu Finanzierung, Zustimmung, Versteigerung und Erbbaugrundbuch. Es erklärt die Sache auch für Menschen, die sonst nur Eigentum oder Miete kennen.
 
 ## Wofür dieses Plugin da ist
@@ -40,11 +40,11 @@ Starte mit dem allgemeinen Skill `erbbaurecht-allgemeiner-kaltstart`. Lade danac
 
 ## Amtliche Startquellen
 
-- [ErbbauRG](https://www.gesetze-im-internet.de/erbbauv/)
-- [GBO](https://www.gesetze-im-internet.de/gbo/)
-- [GBV](https://www.gesetze-im-internet.de/gbvfg/)
-- [BGB Sachenrecht](https://www.gesetze-im-internet.de/bgb/)
-- [FamFG](https://www.gesetze-im-internet.de/famfg/)
+- [ErbbauRG]()
+- [GBO]()
+- [GBV]()
+- [BGB Sachenrecht]()
+- [FamFG]()
 
 ## Typische Ergebnisse
 
@@ -59,7 +59,7 @@ Starte mit dem allgemeinen Skill `erbbaurecht-allgemeiner-kaltstart`. Lade danac
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -80,7 +80,6 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `erbbaurecht-mandantenbrief` | Erklärt Lage, Risiken und nächste Schritte ohne Fachchinesisch und mit Entscheidungsoptionen im Erbbaurecht Praxis. |
 | `erbbaurecht-notar-und-grundbuchkosten` | Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich im Erbbaurecht Praxis. |
 | `erbbaurecht-photovoltaik-untererbbaurecht` | Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung im Erbbaurecht Praxis. |
-| `erbbaurecht-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Erbbaurecht Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `erbbaurecht-qualitygate-vertrag` | Checkt, ob ein Entwurf investierbar, vollziehbar, finanzierbar und konfliktfest ist. |
 | `erbbaurecht-rangruecktritt-bank` | Prüft Eigentümerzustimmung, Erbbauzinsrang, Finanzierungssicherheit und Heimfallkompensation im Erbbaurecht Praxis. |
 | `erbbaurecht-schieds-und-gerichtsstand` | Prüft Schiedsklausel, Gerichtsstand, Beweisverfahren, Gutachterklausel und Vergleichsmechanik im Erbbaurecht Praxis. |

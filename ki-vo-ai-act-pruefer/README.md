@@ -1,5 +1,4 @@
 # ki-vo-ai-act-pruefer
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Konformitätsbewertung, Konformitäts-Evidence-Pack, Sanktionen und Entscheidungsbaum-Workflow.
 
 **Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.**
@@ -177,7 +177,7 @@ Autor: Klotzkette
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 123 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 122 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -248,7 +248,6 @@ Automatisch generierte Komplett-Liste aller 123 Skills in diesem Plugin. Beschre
 | `ki-im-zivilprozess-rollen-und-grenzen` | KI im Zivilprozess: Einsatz durch Partei, Anwalt, Gericht, Sachverstaendige und Justizverwaltung. Prüft KI-VO, ZPO, Berufsrecht, Beweisrecht, richterliche Verantwortung, rechtliches Gehoer und Grenzen automatisierter Entscheidungsunterst... |
 | `ki-kunst-abgrenzung-konventionelle` | KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen im Ki Vo A... |
 | `ki-kunst-lizenzierung-kennzeichnung` | KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen. |
-| `ki-vo-ai-act-pruefer-schnellstart` | 'Kompakter Arbeitsmodus für ki-vo-ai-act-prüfer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `konformitaetsbescheinigung-evidence-pack` | Druckreifes KI-VO-Konformitätspaket erzeugen: interne Konformitätsbescheinigung, EU-Konformitätserklärung nach Art. 47/Anhang V, Art.-43-Bewertungsnachweis, CE-/EU-DB-/Post-Market-Check, Evidence Index und Lückenliste ohne falsche Besche... |
 | `liegt-ki-system-vor-art-3-nr-1` | Erster Schritt jeder KI-VO-Prüfung: Ist die Software, API, App, Automatisierung oder Modellkette ein KI-System nach Art. 3 Nr. 1 KI-VO? Prüft maschinenbasiertes System, Autonomie, optionale Adaptivitaet, Ziele, Inferenz, Output-Typen und... |
 | `mandatsabbruch-empfehlung-komplexe-faelle` | Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen im EU KI-VO (AI Act): Dieser Skill erkennt Situationen, in denen ein Mechanik-nicht mehr ausreicht und professionelle juristische Beratung zwingend erforderlich ist. Er gibt klare Indi... |
@@ -256,7 +255,7 @@ Automatisch generierte Komplett-Liste aller 123 Skills in diesem Plugin. Beschre
 | `marktaufsicht-behoerdenkommunikation-evidence` | Marktaufsicht und Behördenkommunikation: Evidence Room für KI-VO-Prüfungen, Zuständigkeit, Fristen, Dokumentenpakete, technische Erklaerungen, Betriebsgeheimnisse, Schwärzung, Nachforderung und Eskalationsstrategie. |
 | `marktueberwachung-meldung-vorfaelle-art-72` | Anbieter oder Betreiber hat einen schwerwiegenden Vorfall mit einem Hochrisiko-KI-System und fragt: Was muss gemeldet werden an wen und innerhalb welcher Fristen? Art. 72 bis 79 KI-VO Post-Market-Monitoring und Meldepflichten. Prüfraster... |
 | `mechanik-erstpruefung-rollenklaerung-mandatsziel` | Mechanik: Erstprüfung, Rollenklärung und Mandatsziel im EU KI-VO (AI Act): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwell... |
-| `mechanik-erstpruefung-und-mandatsziel` | Mechanik: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `mechanik-erstpruefung-und-mandatsziel` | Mechanik: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `nicht-hochrisiko-bestaetigt-end-to` | Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbote... |
 | `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` | Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbote... |
 | `notariat-cloud-ki-nebenakte-verschwiegenheit` | Notariat, Cloud und KI: Nebenakte, Entwurfsarbeit, Urkundenbezug, Verschwiegenheit, Verfuegbarkeit, lokale Aktenherrschaft, Auftragsverarbeitung, Datenabfluss und Notfallbetrieb. Prüft, wann KI/Cloud nur Hilfsmittel ist und wann es beruf... |

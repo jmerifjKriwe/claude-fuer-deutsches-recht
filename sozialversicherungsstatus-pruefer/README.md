@@ -1,5 +1,4 @@
 # Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung
-Wenn du das hier oeffnest, willst du einen Deckungsanspruch pruefen und gegen die Ablehnung des Versicherers durchsetzen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen die Ablehnung des Versicherers durchsetzen.
 Großes Praxis-Plugin zur Frage: abhängig beschäftigt, selbständig, scheinselbständig oder selbständig mit besonderer Versicherungspflicht? Schwerpunkt sind § 7 und § 7a SGB IV, DRV-Statusfeststellung, Geschäftsführer, Gesellschafter-Geschäftsführer, Freelancer, Anwälte, Berater, IT-Freelancer, Lehrkräfte, Musikschulen, Plattformarbeit, Betriebsprüfung, Beitragsnachforderung und Widerspruch/Klage.
 
 ## Wofür dieses Plugin da ist
@@ -39,7 +39,7 @@ Das Plugin hilft Unternehmen, Kanzleien, Auftraggebern und arbeitenden Personen,
 
 ## Quellenanker
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell prüfbarer Quelle verwenden.
+Siehe [`description`](./references/QUELLEN.md). BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell prüfbarer Quelle verwenden.
 
 ## Lizenz
 
@@ -50,7 +50,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -135,7 +135,6 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `sanierung-vorhandener-vertraege` | Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis im Sozialversicherungsstatus Prüfer. |
 | `selbststaendige-lehrer-sozialgericht-klage` | Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach § 2 SGB VI unabhängig vom Beschäftigungsstatus im Sozialversicherungsstatus Prüfer. |
 | `sozialgericht-klage` | Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie im Sozialversicherungsstatus Prüfer. |
-| `sozialversicherungsstatus-pruefer-schnellstart` | 'Kompakter Arbeitsmodus für Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `statusbescheid-bestandskraft` | Prüft Statusbescheide, Bindungswirkung, Änderungsbescheide, neue Tätigkeit und Vertrauensschutz im Sozialversicherungsstatus Prüfer. |
 | `statusfeststellung-geschaeftsfuehrer-lehrer-freelancer` | Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern im Sozialversicherungsstatus Prüfer. |
 | `stellungnahme-drv` | Erstellt eine sachliche Stellungnahme im DRV-Statusverfahren mit Tatsachen, Indizien und Belegen im Sozialversicherungsstatus Prüfer. |

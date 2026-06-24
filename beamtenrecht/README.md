@@ -1,5 +1,4 @@
 # Beamtenrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung.
 
 ## Wofür dieses Plugin da ist
@@ -86,7 +86,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 179 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 178 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -105,7 +105,6 @@ Automatisch generierte Komplett-Liste aller 179 Skills in diesem Plugin. Beschre
 | `arbeitszeit-mehrarbeit-und-ruhezeiten` | Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich im Beamtenrecht. |
 | `auslandsdienstbezuege-bbesg` | Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Pos... |
 | `auswahlgespraech-dokumentationspflicht` | Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechs... |
-| `beamtenrecht-schnellstart` | 'Kompakter Arbeitsmodus für Beamtenrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `beamtstg-bbg-beforderung-erprobung-begrenzte` | Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen im Beamtenrecht. |
 | `beforderung-und-erprobung` | Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten im Beamtenrecht. |
 | `begrenzte-dienstfaehigkeit-27-bbg` | Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhältnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei... |
@@ -114,16 +113,16 @@ Automatisch generierte Komplett-Liste aller 179 Skills in diesem Plugin. Beschre
 | `beihilfe-heilbehandlung-ausland` | Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung im Ausland nach BBhV und den Landesbeihilfeverordnungen. Klaert die Konstellationen geplante Behandlung im EU-Ausland Notfallbehandlung Beihilfehoehe und Begrenzung auf d... |
 | `beihilfe-implantatfaehige-hoergeraete` | Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen Hoergeraeten Cochlea-Implantaten elektronischen Sehhilfen orthopaedischen Spezialschuhen und Prothesen. Klaert das Erstattungsmodell unter der BBhV und den... |
 | `beihilfe-und-heilfuersorge` | Beihilfe, Heilfürsorge, Erstattungsbescheid, Fristen und medizinische Notwendigkeit im Beamtenrecht. |
-| `besold-amtsangemessene-alimentation-fuenf-parameter` | Beamtenrecht: Amtsangemessene Alimentation fünf Parameter im Beamtenrecht. |
+| `besold-amtsangemessene-alimentation-fuenf-parameter` | Beamtenrecht: Amtsangemessene Alimentation fünf Parameter im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `besold-auslandszuschlag-auslandseinsatz-und-kaufkraftaus` | Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich im Beamtenrecht. |
-| `besold-beihilfe-pkv-restkosten-und-kostendaempfung` | Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung im Beamtenrecht. |
-| `besold-besoldungsgruppe-eingruppierung` | Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im Beamtenrecht. |
+| `besold-beihilfe-pkv-restkosten-und-kostendaempfung` | Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `besold-besoldungsgruppe-eingruppierung` | Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `besold-bundesbesoldung-grundgehalt-familienzuschlag-zula` | Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen im Beamtenrecht. |
-| `besold-erschwerniszulagen-dienst-zu-unguenstigen-zeiten` | Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten im Beamtenrecht. |
-| `besold-familienzuschlag-kinder` | Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im Beamtenrecht. |
-| `besold-landesbesoldung-foederalismus-und-synopse` | Beamtenrecht: Landesbesoldung Föderalismus und Synopse im Beamtenrecht. |
-| `besold-mehrarbeit-verguetung-freizeitausgleich-beamte` | Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Beamtenrecht. |
-| `besold-musterverfahren-ruhen-verjaehrung-nachzahlung` | Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung im Beamtenrecht. |
+| `besold-erschwerniszulagen-dienst-zu-unguenstigen-zeiten` | Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `besold-familienzuschlag-kinder` | Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `besold-landesbesoldung-foederalismus-und-synopse` | Beamtenrecht: Landesbesoldung Föderalismus und Synopse im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `besold-mehrarbeit-verguetung-freizeitausgleich-beamte` | Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `besold-musterverfahren-ruhen-verjaehrung-nachzahlung` | Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `besold-neu-001-bundesbesoldung-grundgehalt-familienzuschlag` | Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-002-landesbesoldung-foederalismus-und-synopse` | Beamtenrecht: Landesbesoldung Föderalismus und Synopse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-003-besoldungsgruppe-eingruppierung-amt-und-funktion` | Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -137,17 +136,17 @@ Automatisch generierte Komplett-Liste aller 179 Skills in diesem Plugin. Beschre
 | `besold-neu-011-professorenbesoldung-w-besoldung-leistungsbezuege` | Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-012-richterbesoldung-r-besoldung-und-unabhaengigkeit` | Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-013-versorgung-ruhegehalt-ruhegehaltfaehig-dienstzeit` | Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
-| `besold-neu-014-dienstunfall-unfallausgleich-heilverfahren` | Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht. |
+| `besold-neu-014-dienstunfall-unfallausgleich-heilverfahren` | Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `besold-neu-015-beihilfe-pkv-restkosten-und-kostendaempfung` | Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
-| `besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung` | Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Beamtenrecht. |
+| `besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung` | Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `besold-neu-017-musterverfahren-ruhen-verjaehrung-nachzahlung` | Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-018-konkurrentenschutz-eilrechtsschutz` | Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-018-konkurrentenschutz-eilrechtsschutz-ernennungssper` | Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre im Beamtenrecht. |
 | `besold-neu-019-beurteilung-plausi-anlassbeurteilung` | Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-020-befoerderungskaskade-organisationsmissbrauch` | Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team im Beamtenrecht. |
 | `besold-neu-020-befoerderungskaskade-organisationsmissbrauch-red` | Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
-| `besold-professorenbesoldung-w-besoldung-leistungsbezuege` | Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge im Beamtenrecht. |
-| `besold-richterbesoldung-r-besoldung-und-unabhaengigkeit` | Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit im Beamtenrecht. |
+| `besold-professorenbesoldung-w-besoldung-leistungsbezuege` | Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `besold-richterbesoldung-r-besoldung-und-unabhaengigkeit` | Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `besold-stufenfestsetzung-erfahrungszeiten-und-anerkennun` | Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung im Beamtenrecht. |
 | `besold-versorgung-ruhegehalt-ruhegehaltfaehige-dienstzei` | Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit im Beamtenrecht. |
 | `besoldung-besold-beurteilung` | Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung im Beamtenrecht. |

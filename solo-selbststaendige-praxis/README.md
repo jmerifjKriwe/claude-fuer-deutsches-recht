@@ -1,5 +1,4 @@
 # Solo-Selbstständige Praxis
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Ein Alltags-Cockpit für Menschen, die alleine selbstständig arbeiten und trotzdem mit Finanzamt, Kunden, Krankenkasse, DRV, KSK, Datenschutz, Verträgen, Rechnungen, Mahnungen und dem eigenen Kontostand klarkommen müssen.
 
 Das Plugin ist bewusst praktisch: Es fragt zuerst, ob die Person Anfängerin/Anfänger ist, ob es Haupt- oder Nebenerwerb ist, ob Gewerbe oder Freiberuf in Betracht kommt, ob gerade eine Frist läuft und ob ein Dokument vorliegt. Danach erzeugt es keine Wolke aus Ratschlägen, sondern ein konkretes Ergebnis: Mail, Checkliste, Rechnungstext, Vertragsbaustein, Statusmatrix, Fristenlog oder Entscheidungsmemo.
@@ -43,14 +43,14 @@ Starte mit `solo-allgemeiner-kaltstart`. Lade, wenn vorhanden, Behördenbriefe, 
 
 ## Amtliche Startquellen
 
-- [GewO § 14 Gewerbeanzeige](https://www.gesetze-im-internet.de/gewo/__14.html)
-- [ELSTER Fragebogen steuerliche Erfassung Einzelunternehmen](https://www.elster.de/eportal/formulare-leistungen/alleformulare/fseeun)
-- [ELSTER Unternehmensgründung](https://www.portal.elster.de/elsterweb/infoseite/unternehmensgruendung)
-- [UStG § 19 Kleinunternehmerregelung](https://www.gesetze-im-internet.de/ustg_1980/__19.html)
-- [SGB IV § 7 Beschäftigung](https://www.gesetze-im-internet.de/sgb_4/__7.html)
-- [DRV Statusfeststellung](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Arbeitnehmer-und-Selbststaendige/03_Selbststaendige/statusfeststellungsverfahren.html)
-- [Künstlersozialkasse Voraussetzungen](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/voraussetzungen)
-- [Bundesagentur für Arbeit Gründungszuschuss](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/gruendungszuschuss-beantragen)
+- [GewO § 14 Gewerbeanzeige]()
+- [ELSTER Fragebogen steuerliche Erfassung Einzelunternehmen]()
+- [ELSTER Unternehmensgründung]()
+- [UStG § 19 Kleinunternehmerregelung]()
+- [SGB IV § 7 Beschäftigung]()
+- [DRV Statusfeststellung]()
+- [Künstlersozialkasse Voraussetzungen]()
+- [Bundesagentur für Arbeit Gründungszuschuss]()
 
 ## Quellenhygiene
 
@@ -60,7 +60,7 @@ Grenzwerte, Formulare, Fristen und Förderbedingungen ändern sich. Das Plugin s
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 202 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 201 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -232,7 +232,6 @@ Automatisch generierte Komplett-Liste aller 202 Skills in diesem Plugin. Beschre
 | `social-media-werbung` | Solo-Selbstständige: prüft Werbung, Testimonials, Influencer-Hinweise und Irreführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |
 | `software-code-freelancer` | Solo-Selbstständige: regelt Softwareurheberrecht, Open Source, Repos und Abnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |
 | `solo-ki-output-fuer-kunden` | Solo-Selbstständige: prüft Kennzeichnung, Rechte, Fehlerkontrolle und Haftung bei KI-Arbeitsergebnissen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
-| `solo-selbststaendige-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Solo-Selbstständige Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `sozialrechtlicher-bescheid-widerspruch` | Solo-Selbstständige: macht aus Kasse/DRV/KSK-Bescheid eine verständliche Widerspruchsstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |
 | `sprache-uebersetzung-solo-standardvorlagen` | Solo-Selbstständige: setzt klare Sprachregel für Angebot, Vertrag, Rechnung und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |
 | `standardvorlagen` | Solo-Selbstständige: erstellt Vorlagen für Angebot, Auftrag, Rechnung, Mahnung, Projektabschluss; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. |

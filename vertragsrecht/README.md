@@ -1,5 +1,4 @@
 # Vertragsrecht-Plugin
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Arbeitsabläufe für innerbetriebliche Rechtsabteilungen und Kanzleien im deutschen Vertragsrecht: Lieferanten- und Dienstleisterverträge, NDA-/Geheimhaltungsvereinbarungen, SaaS-/MSA-Prüfungen, Vertragsfristen-Tracking, Eskalationssteuerung und mandantengerechte Zusammenfassungen. Das Plugin erlernt den **eigenen Vorgehensleitfaden** der Rechtsabteilung durch ein einmaliges Ersteinrichtungs-Interview – keine Standardlösung von der Stange.
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und abgestuft – keine abschließende Rechtsberatung.** Das Plugin liest die Dokumente, wendet den Vorgehensleitfaden an, identifiziert Abweichungen und erstellt das Prüfvermerk. Ein Rechtsanwalt prüft, verifiziert und entscheidet. Quellen werden nach Herkunft gekennzeichnet, damit der Prüfer weiß, welche Zitate aus einem Recherche-Tool stammen und welche zu prüfen sind. Vertraulichkeitshinweise werden konservativ gesetzt, damit keine unbeabsichtigte Preisgabe erfolgt. Folgenreiche Handlungen – Einreichung, Versand, Unterzeichnung – stehen unter ausdrücklichem Bestätigungsvorbehalt.
@@ -168,7 +168,7 @@ vertragsrecht/
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -177,16 +177,16 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `agb-pruefung` | Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäftsbedingungen (AGB) auf Einbeziehung, Inhaltskontrolle und Transparenzgebot nach §§ 305–310 BGB. Lädt, wenn ein Mandat die Prüfung, Erstellung oder Verteidigung von AGB im B2... |
 | `anpassen` | Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer Profil anpassen, Playbook ändern, Eskalation aktualisieren, Klauselposition ändern oder konfiguriere... |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im Vertragsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-... |
-| `bgb-business-einzelabrufe-sonderfall` | BGB: Dokumentenmatrix, Lückenliste und Nachforderung im Vertragsrecht. |
-| `business-compliance-dokumentation-und-akte` | Business: Compliance-Dokumentation und Aktenvermerk im Vertragsrecht. |
+| `bgb-business-einzelabrufe-sonderfall` | BGB: Dokumentenmatrix, Lückenliste und Nachforderung im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `business-compliance-dokumentation-und-akte` | Business: Compliance-Dokumentation und Aktenvermerk im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Vertragsrecht (BGB-Vertragsrecht): sortiert Vertrag, AGB, Korrespondenz, prüft Datum, Absender, Frist und Beweiswert (Mailverkehr, Verhandlungsprotokolle); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Vertragsrecht (BGB-Vertragsrecht): ordnet Rolle (Vertragsparteien, Drittbegünstigte), markiert Frist (Verjährung 3 Jahre § 195 BGB), wählt Norm (BGB §§ 145 ff., 305 ff., HGB §§ 343 ff.) und Zuständigkeit... |
-| `einzelabrufe-sonderfall-und-edge-case` | Einzelabrufe: Sonderfall und Edge-Case-Prüfung im Vertragsrecht. |
+| `einzelabrufe-sonderfall-und-edge-case` | Einzelabrufe: Sonderfall und Edge-Case-Prüfung im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `eskalations-marker` | Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt wer muss das genehmigen, eskalieren, braucht das GC-Freigabe, Genehmigun... |
 | `eskalations-quellenkarte` | Eskalations Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `fernabsatz-lieferanten-red-team` | Fernabsatz: Formular, Portal und Einreichungslogik im Vertragsrecht. |
+| `fernabsatz-lieferanten-red-team` | Fernabsatz: Formular, Portal und Einreichungslogik im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Vertragsrecht. |
-| `fristennotiz-naechster-vertriebsvertraege` | Anpassen: Fristennotiz und nächster Schritt im Vertragsrecht. |
+| `fristennotiz-naechster-vertriebsvertraege` | Anpassen: Fristennotiz und nächster Schritt im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `kaltstart-interview` | 'Führt das Erstgespräch zur Mandatsaufnahme im Vertragsrecht durch und schreibt das Kanzlei- bzw. Mandatsprofil. Lädt beim ersten Einsatz des Plugins, wenn die Konfigurationsdatei noch Platzhalter enthält oder wenn der Nutzer 'Plugin ein... |
 | `lieferanten-tatbestand-beweis-und-belege` | Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage im Vertragsrecht, insbesondere Mangel bei Gefahrübergang, Wareneingangskontrolle, § 377 HGB und Abgrenzung zur B2C-Beweislastumkehr nach § 477 BGB. |
 | `lieferantenvertrag-pruefung` | Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden... |
@@ -194,43 +194,42 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `nda-durchsetzer` | 'Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich,... |
 | `nda-pruefungsvorschlaege-saas-msa` | Schnelle Triage von eingehenden NDA-/Geheimhaltungsvereinbarungen in GRÜN / GELB / ROT, damit nur die Vereinbarungen anwaltliche Zeit beanspruchen, die sie wirklich brauchen. Geeignet für Vertrieb und BD zur eigenständigen Erstprüfung. W... |
 | `output-waehlen` | Output-Wahl für Vertragsrecht (BGB-Vertragsrecht): stimmt Adressat (Vertragsparteien, Drittbegünstigte), Frist (Verjährung 3 Jahre § 195 BGB) und Form auf den Zweck ab — typische Outputs: Vertragsentwurf, AGB-Check, Klage Erfüllung. |
-| `pruefung-red-team-und-qualitaetskontrolle` | Prüfung: Red-Team und Qualitätskontrolle im Vertragsrecht. |
+| `pruefung-red-team-und-qualitaetskontrolle` | Prüfung: Red-Team und Qualitätskontrolle im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `pruefungsvorschlaege` | Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer Pla... |
 | `quellen-livecheck` | Quellen-Live-Check für Vertragsrecht (BGB-Vertragsrecht): prüft Normen (BGB §§ 145 ff., 305 ff., HGB §§ 343 ff.) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Zivilgerichte und Quellenhygiene nach references/que... |
-| `rahmenvertrag-beweislast-vertragsrecht-vert` | Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung im Vertragsrecht. |
+| `rahmenvertrag-beweislast-vertragsrecht-vert` | Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `rechtsquellen` | Rechtsquellen: Quellenprüfung; Abschlussprodukt und Übergabe: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `renewal-review-routing` | Renewal: Schriftsatz-, Brief- und Memo-Bausteine im Vertragsrecht. |
-| `review-behoerden-gericht-und-registerweg` | Review: Behörden-, Gerichts- oder Registerweg im Vertragsrecht. |
-| `routing-zahlen-schwellen-und-berechnung` | Routing: Zahlen, Schwellenwerte und Berechnung im Vertragsrecht. |
+| `renewal-review-routing` | Renewal: Schriftsatz-, Brief- und Memo-Bausteine im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `review-behoerden-gericht-und-registerweg` | Review: Behörden-, Gerichts- oder Registerweg im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `routing-zahlen-schwellen-und-berechnung` | Routing: Zahlen, Schwellenwerte und Berechnung im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `saas-msa-pruefung` | Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (§§ 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Art. 28 DSGVO), Haftungsbegrenzung und Vertragsstrafe (§ 339 BGB). Wird... |
-| `saas-tracking-vert` | Saas: Risikoampel, Gegenargumente und Verteidigungslinien im Vertragsrecht. |
+| `saas-tracking-vert` | Saas: Risikoampel, Gegenargumente und Verteidigungslinien im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `spezial-eskalations-livequellen-und-rechtsprechungscheck` | Eskalations: Livequellen- und Rechtsprechungscheck. |
 | `spezial-pruefung-red-team-und-qualitaetskontrolle` | Pruefung: Red-Team und Qualitätskontrolle. |
 | `stakeholder-zusammenfassung` | Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer Zusammenfassung für Geschäftsführung, für den... |
-| `tracking-verhandlung-vergleich-und-eskalation` | Tracking: Verhandlung, Vergleich und Eskalation im Vertragsrecht. |
+| `tracking-verhandlung-vergleich-und-eskalation` | Tracking: Verhandlung, Vergleich und Eskalation im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Vertragsrecht (BGB-Vertragsrecht): trennt fehlende Tatsachen von fehlenden Belegen (Vertrag, AGB, Korrespondenz), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgerichte), Frist und Ersatznachweis. |
 | `vert-agb-kontrolle-leistungsstoerungen-leitfaden` | Spezialfall AGB-Kontrolle im B2B-Verkehr §§ 305 ff. BGB: Verwendung gegenueber Unternehmer, Indizwirkung, kaufmaennische Eigenheit. Prüfraster für Standardvertraege im Vertragsrecht. |
 | `vert-leistungsstoerungen-leitfaden` | Leitfaden Leistungsstoerungen §§ 280 ff. BGB: Unmoeglichkeit, Verzug, Schlechtleistung, Pflichtverletzung, Schadensersatz statt der Leistung. Prüfraster für typische Faelle im Vertragsrecht. |
-| `vert-mandantenkommunikation-entscheidungsvorlage` | Vert: Mandantenkommunikation und Entscheidungsvorlage im Vertragsrecht. |
+| `vert-mandantenkommunikation-entscheidungsvorlage` | Vert: Mandantenkommunikation und Entscheidungsvorlage im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `vert-rahmenvertrag-einzelabrufe-spezial` | Spezialfall Rahmenvertrag und Einzelabrufe: Wechselwirkung, Battle of Forms, Hierarchie der Dokumente. Prüfraster für Einkauf und Vertrieb im Vertragsrecht. |
 | `vert-vertragsschluss-vertragspruefung` | Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Prüfraster für typische Streitfaelle im Vertragsrecht. |
 | `vertragsmandat-workspace-kontexttrennung` | Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven Mandat wechseln, Mandate... |
 | `vertragspruefung` | Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertr... |
-| `vertragsrecht-erstpruefung-und-mandatsziel` | Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsrecht. |
-| `vertragsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Vertragsrecht-Plugin. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
+| `vertragsrecht-erstpruefung-und-mandatsziel` | Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `vertragsverlaengerungs-monitor` | 'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt rechtzeitig, bevor Verlängerungs-/Kündigungsfenster schließen. Relevant insbesondere bei § 309 Nr. 9 BGB (automatische Verlängerung). Laden, wenn der Nutzer fragt 'welche Ver... |
 | `vertriebsvertraege-fristen-form-und-zustaendigkeit` | Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg im Vertragsrecht. |
 | `vr-agb-recht-grundzuege` | AGB-Recht Grundzuege §§ 305 ff. BGB: Einbeziehung, Inhaltskontrolle § 307 BGB, Klauselverbote §§ 308 / 309 BGB, B2B mit eingeschraenkter Kontrolle, Drittwirkung. Aktuelle BGH-Linie und Prüfraster im Vertragsrecht. |
 | `vr-einfuehrung-vertragstypen-bgb` | Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschäftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle im Vertragsrecht. |
 | `vr-leistungsstoerungen-widerruf-fernabsatz` | Spezialfall Leistungsstoerungen: Unmoeglichkeit § 275 BGB, Verzug § 286 BGB, Schlechtleistung mit Nacherfuellung § 439 / § 635 BGB. Rechtsfolgen Schadensersatz, Ruecktritt, Minderung. Prüfraster im Vertragsrecht. |
 | `widerruf-fernabsatz` | Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder R... |
-| `widerruf-zusammenfassungen-interessen` | Widerruf: Internationaler Bezug und Schnittstellen im Vertragsrecht. |
+| `widerruf-zusammenfassungen-interessen` | Widerruf: Internationaler Bezug und Schnittstellen im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Vertragsrecht. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Vertragsrecht. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Vertragsrecht. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Vertragsrecht. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
-| `zusammenfassungen-mehrparteien-konflikt-und-interessen` | Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix im Vertragsrecht. |
+| `zusammenfassungen-mehrparteien-konflikt-und-interessen` | Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

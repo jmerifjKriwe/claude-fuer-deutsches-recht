@@ -1,5 +1,4 @@
 # Grundbuchamt Praxis
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Ein Grundbuch-Cockpit für alle, die Auszüge lesen, Urkunden grundbuchtauglich nachweisen, Zwischenverfügungen verstehen und Grundbuchvollzug sauber betreiben müssen. Schwerpunkt ist die praktische Leseführung durch Abteilung I, II und III, damit keine Dienstbarkeit, Vormerkung, Rangstelle oder Briefgrundschuld übersehen wird.
 
 ## Wofür dieses Plugin da ist
@@ -40,11 +40,11 @@ Starte mit dem allgemeinen Skill `grundbuchamt-allgemeiner-kaltstart`. Lade dana
 
 ## Amtliche Startquellen
 
-- [GBO](https://www.gesetze-im-internet.de/gbo/)
-- [GBV](https://www.gesetze-im-internet.de/gbvfg/)
-- [FamFG Aufgebotsverfahren](https://www.gesetze-im-internet.de/famfg/)
-- [BGB Grundstücksrechte](https://www.gesetze-im-internet.de/bgb/)
-- [Justizportal des Bundes und der Länder](https://justiz.de/)
+- [GBO]()
+- [GBV]()
+- [FamFG Aufgebotsverfahren]()
+- [BGB Grundstücksrechte]()
+- [Justizportal des Bundes und der Länder]()
 
 ## Typische Ergebnisse
 
@@ -59,7 +59,7 @@ Starte mit dem allgemeinen Skill `grundbuchamt-allgemeiner-kaltstart`. Lade dana
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -97,7 +97,6 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `grundbuchamt-konkurrierende-antraege-rangkonflikt` | Prüft, was zu tun ist, wenn Vormerkung, Grundschuld, Pfändung, Insolvenz-/ZVG-Vermerk oder Dienstbarkeit konkurrierend eingehen und der Rang wirtschaftlich entscheidend wird im Grundbuchamt Praxis. |
 | `grundbuchamt-maengelmatrix-notariat` | Klassifiziert jedes Hindernis nach Form, Berechtigung, Genehmigung, Rang, Kosten, Steuer und Inhalt im Grundbuchamt Praxis. |
 | `grundbuchamt-nichtigkeitsrisiko-kaufvertrags` | Prüft, ob ein möglicher Form-, Genehmigungs-, Vertretungs- oder Verbotsgesetzmangel den Grundbuchvollzug blockiert und wie Zwischenverfügung, Nachgenehmigung oder Rückabwicklung vorbereitet werden im Grundbuchamt Praxis. |
-| `grundbuchamt-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Grundbuchamt Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `grundbuchamt-teilloesung-rangfreigabe` | Prüft Teilflächen, Freigabeerklärung, Rangwirkung, Bankbrief und Vollzug im Grundbuchamt Praxis. |
 | `grundbuchamt-verwalterzustimmung-weg` | Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung im Grundbuchamt Praxis. |
 | `grundbuchamt-vollstreckungsunterwerfung` | Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung im Grundbuchamt Praxis. |

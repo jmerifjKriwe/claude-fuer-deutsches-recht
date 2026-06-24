@@ -1,5 +1,4 @@
 # Plugin für die studentische Rechtsberatungsstelle
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 *KI-gestützte Unterstützung für universitäre Refugee Law Clinics, studentische Rechtsberatungen und Pro-Bono-Initiativen – mit klaren RDG-Grenzen.*
 
 Ein Plugin für Einrichtungen, in denen Studenten – unter Anleitung zur Anleitung berechtigter Volljuristen – unentgeltliche Rechtsberatung für Menschen leisten, die sich anwaltliche Hilfe nicht leisten können oder keinen Zugang dazu haben: Aufenthalts- und Asylrecht, Sozialrecht (SGB II/XII, SGB IX), Mietrecht, Verbraucherrecht, Familienrecht.
@@ -163,17 +163,17 @@ Alle juristischen Quellen folgen `../references/zitierweise.md`. Beispiele:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `anlaufstellen-beweislast-anleiter-bono` | Anlaufstellen: Beweislast, Darlegungslast und Substantiierung im Rechtsberatungsstelle. |
-| `anleiter-formular-portal-und-einreichung` | Anleiter: Formular, Portal und Einreichungslogik im Rechtsberatungsstelle. |
+| `anleiter-formular-portal-und-einreichung` | Anleiter: Formular, Portal und Einreichungslogik im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anleiter-pruefwarteschlange` | 'Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell 'formelle Prüfwarteschlange' gewählt wurde; an... |
 | `anpassen` | Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezif... |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im Rechtsberatungsstelle-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei D... |
-| `bono-erstpruefung-und-mandatsziel` | Bono: Erstprüfung, Rollenklärung und Mandatsziel im Rechtsberatungsstelle. |
-| `briefe-erstberatung-rdg-konform` | Briefe: Zahlen, Schwellenwerte und Berechnung im Rechtsberatungsstelle. |
+| `bono-erstpruefung-und-mandatsziel` | Bono: Erstprüfung, Rollenklärung und Mandatsziel im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `briefe-erstberatung-rdg-konform` | Briefe: Zahlen, Schwellenwerte und Berechnung im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Rechtsberatungsstelle (RDG): sortiert Beratungshilfeschein, Vermögenserklärung, Bescheide Sozialleistungen, prüft Datum, Absender, Frist und Beweiswert (Einkommensnachweise, Bescheide); markiert Lücken; berücksichtig... |
 | `einarbeitung` | Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittel... |
 | `einfache-sprache-briefe` | Anwalts- und Behördenbriefe in leichte oder einfache Sprache übersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite verstehen. BeratungsHiG kos... |
@@ -196,25 +196,24 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `memo` | Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit RECHERCHE ERFORDERLIC... |
 | `output-waehlen` | Output-Wahl für Rechtsberatungsstelle (RDG): stimmt Adressat (Hilfesuchender, Berater, Amtsgericht), Frist (Beratungshilfe-Antrag vor Tätigkeit) und Form auf den Zweck ab — typische Outputs: Erstberatungsmemo, Beratungshilfeantrag, Weite... |
 | `pro-bono-mandatsuebergabe` | Pro-Bono-Mandatsübergabe mit Fristen und Zuständigkeiten: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Rechtsberatungsstelle. |
-| `pruefwarteschlange-red-rbst-recherche` | Prüfwarteschlange: Red-Team und Qualitätskontrolle im Rechtsberatungsstelle. |
+| `pruefwarteschlange-red-rbst-recherche` | Prüfwarteschlange: Red-Team und Qualitätskontrolle im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `quellen-livecheck` | Quellen-Live-Check für Rechtsberatungsstelle (RDG): prüft Normen (RDG, BeratungshilfeG, Prozesskostenhilfe ZPO §§ 114 ff.) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Amtsgericht und Quellenhygiene nach refere... |
 | `rbs-beratungshilfe-und-pkh-praxis` | Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise im Rechtsberatungsstelle. |
 | `rbs-einfuehrung-rdg-rbst-anlaufstellen` | Rechtsberatungsstelle einfuehrend: typische Beratungsfelder Mietrecht, Sozialrecht, Familienrecht, Arbeitsrecht, Verbraucherrecht. Schutzfunktion für Beratungsberechtigte, Schnittstelle Beratungshilfe BerHG. Entscheidungstabelle im Recht... |
 | `rbs-rdg-grenzen-spezial` | Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Prüfraster und Mandanteninformation im Rechtsberatungs... |
 | `rbst-anlaufstellen-bauleiter` | Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Prüfraster für Mandant und Sozialberatung im Rechtsberatungsstelle. |
 | `rbst-beratungshilfe-prozesskostenhilfe` | Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermoegen, Erfolgsaussicht, Eigenbeitrag. Prüfraster für Mandant und Rechtsanwalt im Rechtsberatungsstelle. |
-| `rbst-mandantenkommunikation-entscheidungsvorlage` | Rbst: Mandantenkommunikation und Entscheidungsvorlage im Rechtsberatungsstelle. |
+| `rbst-mandantenkommunikation-entscheidungsvorlage` | Rbst: Mandantenkommunikation und Entscheidungsvorlage im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `rbst-niedrigschwellige-onlineberatung-spezial` | Spezialfall niedrigschwellige Onlineberatung mit KI-Unterstuetzung: Hinweispflichten, Verbraucherschutz, Datenschutz, Haftung. Prüfraster für Anbieter im Rechtsberatungsstelle. |
 | `rbst-rdg-grenzen-spezial` | Spezialfall RDG-Grenzen für Nichtanwaelte: Verbraucherzentrale, Mietervereine, Inkassodienstleister, Legal-Tech. Prüfraster für Erlaubnispflicht im Rechtsberatungsstelle. |
-| `rdg-fristen-form-und-zustaendigkeit` | RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Rechtsberatungsstelle. |
-| `recherche-mehrparteien-konflikt-und-interessen` | Recherche: Mehrparteienkonflikt und Interessenmatrix im Rechtsberatungsstelle. |
+| `rdg-fristen-form-und-zustaendigkeit` | RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `recherche-mehrparteien-konflikt-und-interessen` | Recherche: Mehrparteienkonflikt und Interessenmatrix im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `recherche-start-rechtsberatungsstelle` | Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Stud... |
-| `rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status` | Übergabe: Schriftsatz-, Brief- und Memo-Bausteine im Rechtsberatungsstelle. |
-| `rechtsberatungsstelle-schnellstart` | 'Kompakter Arbeitsmodus für Plugin für die studentische Rechtsberatungsstelle. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
+| `rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status` | Übergabe: Schriftsatz-, Brief- und Memo-Bausteine im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `rechtsberatungsstellen` | Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk im Rechtsberatungsstelle. |
 | `rechtsberatungsstellen-tatbestand-beweis-und-belege` | Rechtsberatungsstellen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Rechtsberatungsstelle. |
 | `semester-uebergabe` | Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an di... |
-| `semesterende-verhandlung-vergleich-und-eskalation` | Semesterende: Verhandlung, Vergleich und Eskalation im Rechtsberatungsstelle. |
+| `semesterende-verhandlung-vergleich-und-eskalation` | Semesterende: Verhandlung, Vergleich und Eskalation im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `sonderfall-edge-case` | Kaltstart: Sonderfall und Edge-Case-Prüfung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verf... |
 | `spezial-mandantenfreundliche-livequellen-check` | Mandantenfreundliche: Livequellen- und Rechtsprechungscheck. |
 | `spezial-pruefwarteschlange-red-team-und-qualitaetskontrolle` | Pruefwarteschlange: Red-Team und Qualitätskontrolle. |

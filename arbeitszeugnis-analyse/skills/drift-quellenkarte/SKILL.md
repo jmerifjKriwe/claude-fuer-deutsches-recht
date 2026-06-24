@@ -11,9 +11,9 @@ Diese Quellenkarte sichert für **Arbeitszeugnis-Analyse** jede tragende Aussage
 
 ## Tragende Normen (live prüfen)
 
-- **§ 109 GewO Wohlwollensgrundsatz** — amtlichen Stand vor tragender Aussage prüfen
-- **§ 109 II GewO Wahrheits-/Klarheitspflicht** — amtlichen Stand vor tragender Aussage prüfen
-- **BGB §§ 241 II, 280 I Nebenpflicht** — amtlichen Stand vor tragender Aussage prüfen
+- **Paragraf 109 GewO Wohlwollensgrundsatz** — amtlichen Stand vor tragender Aussage prüfen
+- **Paragraf 109 II GewO Wahrheits-/Klarheitspflicht** — amtlichen Stand vor tragender Aussage prüfen
+- **BGB Paragrafen 241 II, 280 I Nebenpflicht** — amtlichen Stand vor tragender Aussage prüfen
 
 ## Zuständige Spruchkörper und Behörden
 
@@ -32,7 +32,7 @@ Diese Quellenkarte sichert für **Arbeitszeugnis-Analyse** jede tragende Aussage
 ## Fristen mit Quellenrelevanz
 
 - BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung
-- Verjährung 3 Jahre § 195 BGB
+- Verjährung 3 Jahre Paragraf 195 BGB
 
 ## Prüfroute
 

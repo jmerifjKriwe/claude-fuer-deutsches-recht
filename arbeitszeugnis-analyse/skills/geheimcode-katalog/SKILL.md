@@ -1,13 +1,13 @@
 ---
 name: geheimcode-katalog
-description: "Zentraler Referenzkatalog aller Standardformulierungen im deutschen Arbeitszeugnis mit Ampelzuordnung. Anwendungsfall Anwalt oder Arbeitnehmer will eine Zeugnisformulierung einordnen und weiss nicht ob sie positiv neutral oder negativ kodiert ist. Normen § 109 GewO Wahrheits- und Wohlwollenspflicht BAG-Rechtsprechung Zeugnissprache. Themen Leistung Verhalten Engagement Belastbarkeit Teamarbeit Führung Schlussformel. Output Ampeltabelle mit Notentendenzen Erläuterungen und Alternativformulierungen für Berichtigungsverlangen. Abgrenzung zu rote-flaggen-katalog orange-flaggen-katalog und gruen-flaggen-katalog (spezialisierte Teilkataloge)."
+description: "Zentraler Referenzkatalog aller Standardformulierungen im deutschen Arbeitszeugnis mit Ampelzuordnung. Anwendungsfall Anwalt oder Arbeitnehmer will eine Zeugnisformulierung einordnen und weiss nicht ob sie positiv neutral oder negativ kodiert ist. Normen Paragraf 109 GewO Wahrheits- und Wohlwollenspflicht BAG-Rechtsprechung Zeugnissprache. Themen Leistung Verhalten Engagement Belastbarkeit Teamarbeit Führung Schlussformel. Output Ampeltabelle mit Notentendenzen Erläuterungen und Alternativformulierungen für Berichtigungsverlangen. Abgrenzung zu rote-flaggen-katalog orange-flaggen-katalog und gruen-flaggen-katalog (spezialisierte Teilkataloge)."
 ---
 
 # Geheimcode-Katalog der Zeugnissprache
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -61,8 +61,8 @@ description: "Zentraler Referenzkatalog aller Standardformulierungen im deutsche
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 109 GewO** — Wohlwollensgebot; auch wahre kodierte Aussagen sind berichtigungspflichtig, wenn sie Fortkommen unnötig erschweren
-- **§ 109 Abs. 2 GewO** — Klarheitspflicht; versteckter Code, der nur Eingeweihten verständlich ist, verletzt Transparenzanforderung
+- **Paragraf 109 GewO** — Wohlwollensgebot; auch wahre kodierte Aussagen sind berichtigungspflichtig, wenn sie Fortkommen unnötig erschweren
+- **Paragraf 109 Abs. 2 GewO** — Klarheitspflicht; versteckter Code, der nur Eingeweihten verständlich ist, verletzt Transparenzanforderung
 
 ## Aktuelle Rechtsprechung
 

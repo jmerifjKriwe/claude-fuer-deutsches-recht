@@ -1,5 +1,4 @@
 # BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin stellt 21 spezialisierte Skills für die strategische Beratung zur betrieblichen Altersversorgung (BAV) in Konzernen bereit. Es spiegelt den Beratungsansatz der Boutique-Großkanzlei **Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**, Königsallee 92, 40212 Düsseldorf (Zweigbüro: Gion-Higashi, Shijō-dōri, Kyoto).
 
 **Namens-Partner:**
@@ -97,21 +97,20 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `altersversorgung-boutique-fristennotiz-psv` | Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `altersversorgung-boutique-fristennotiz-psv` | Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anschluss-routing` | Anschluss-Routing für Betriebliche Altersversorgung im Konzern: wählt den nächsten Spezial-Skill nach Engpass (Anpassungsprüfung alle 3 Jahre § 16 BetrAVG, Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen... |
 | `bav-cta-treuhand-spezial` | Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Prüfraster und Mustertexte für Trust-Setup im Konzern im Bav... |
 | `bav-erstattung-fuenftelregelung` | Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Prüfraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfu... |
 | `bav-grenzueberschreitend-mobil-spezial` | Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Prüfraster und Mustertexte für Mitarbeiter-Pakete im Bav Strategie Konzern. |
 | `bav-konzern-design-workflow` | Konzern-für Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext f... |
 | `bav-pensionsfond-rueckdeckung-spezial` | Spezialfall Pensionsfonds mit Rueckdeckungsversicherung: hybride Konstruktion, Trennung Versorgungstraeger und Versicherer, PSV-Schutz im Insolvenzfall, Anlagenrestriktionen. Prüfraster und Mustertexte für Wechsel Direktzusage zu Pension... |
-| `bav-strategie-konzern-schnellstart` | 'Kompakter Arbeitsmodus für BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- un... |
-| `benefits-mandantenkommunikation-entscheidungsvorlage` | Benefits: Mandantenkommunikation und Entscheidungsvorlage. |
-| `betrieblichen-drei-duesseldorfer-sonderfall` | Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `boutique-fristennotiz-und-naechster-schritt` | Boutique: Fristennotiz und nächster Schritt. |
+| `benefits-mandantenkommunikation-entscheidungsvorlage` | Benefits: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `betrieblichen-drei-duesseldorfer-sonderfall` | Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `boutique-fristennotiz-und-naechster-schritt` | Boutique: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `buyout-ma-country-by-cta-contractual` | Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haft... |
 | `buyouts-quellenkarte` | Buyouts Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `country-by-country-benefits-matrix-konzern` | Länderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Outpu... |
@@ -119,16 +118,16 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `design-start-chronologie` | Einstieg, Schnelltriage und Fallrouting im bAV Strategie Konzern-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei D... |
 | `dokumente-intake` | Dokumentenintake für Betriebliche Altersversorgung im Konzern: sortiert Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen, prüft Datum, Absender, Frist und Beweiswert (Aktuarisches Gutachten, Tarifverträge... |
 | `drei-stufen-expatriate-pensionsplanung` | Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßig... |
-| `drei-zahlen-schwellen-und-berechnung` | Drei: Zahlen, Schwellenwerte und Berechnung. |
-| `duesseldorfer-sonderfall-und-edge-case` | Duesseldorfer: Sonderfall und Edge-Case-Prüfung. |
-| `durchfuehrungswege-fuenf-harmonisierung` | Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `drei-zahlen-schwellen-und-berechnung` | Drei: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `duesseldorfer-sonderfall-und-edge-case` | Duesseldorfer: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `durchfuehrungswege-fuenf-harmonisierung` | Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `einfuehrung-durchfuehrungswege-erstattung` | Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz im Bav St... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Betriebliche Altersversorgung im Konzern: ordnet Rolle (Arbeitgeber/Konzern, Arbeitnehmer, Betriebsrat), markiert Frist (Anpassungsprüfung alle 3 Jahre § 16 BetrAVG), wählt Norm (BetrAVG, § 1 BetrAVG Zusa... |
 | `expatriate-pensionsplanung-und-totalization` | Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenana... |
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Bav Strategie Konzern. |
-| `fuenf-behoerden-gericht-und-registerweg` | Fuenf: Behörden-, Gerichts- oder Registerweg. |
+| `fuenf-behoerden-gericht-und-registerweg` | Fuenf: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `governance-und-anpassungsmechanismen` | Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handb... |
-| `harmonisierung-formular-portal-und-einreichung` | Harmonisierung: Formular, Portal und Einreichungslogik. |
+| `harmonisierung-formular-portal-und-einreichung` | Harmonisierung: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `harmonisierung-migration-historisch` | bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M... |
 | `historisch-gewachsene-altsysteme-due-diligence` | Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-... |
 | `internationale-buyout-datenflows-und-datenschutz` | Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo i... |
@@ -136,25 +135,25 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `internationale-harmonisierung-japan-corporate` | Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Int... |
 | `japan-bav-und-corporate-pension-iorp` | Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output... |
 | `kollektivrechtliche-loesungen-und-sozialplan` | Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarun... |
-| `konzernen-pension-pensionsmodelle` | Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `konzernen-pension-pensionsmodelle` | Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mitbestimmung-betriebsrat-pension-buyout` | Betriebsratsbeteiligung bei bAV-Einführung und -Änderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Prüfraster: Mitbestimmungstatbestaende, Informationspflichten, Einigungsstelle. Output: Beteili... |
 | `output-waehlen` | Output-Wahl für Betriebliche Altersversorgung im Konzern: stimmt Adressat (Arbeitgeber/Konzern, Arbeitnehmer, Betriebsrat), Frist (Anpassungsprüfung alle 3 Jahre § 16 BetrAVG) und Form auf den Zweck ab — typische Outputs: bAV-Strategie-M... |
 | `pension-buyout-strukturierung-und-de-risking` | Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturie... |
-| `pension-verhandlung-vergleich-und-eskalation` | Pension: Verhandlung, Vergleich und Eskalation. |
+| `pension-verhandlung-vergleich-und-eskalation` | Pension: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `pensionsmodelle-fuenf-bav-cta-pensionsfond` | Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: D... |
-| `pensionsmodelle-risikoampel-und-gegenargumente` | Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `pensionsmodelle-risikoampel-und-gegenargumente` | Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `psv-pensionssicherungsverein-und-haftungsketten` | PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. A... |
 | `quellen-livecheck` | Quellen-Live-Check für Betriebliche Altersversorgung im Konzern: prüft Normen (BetrAVG, § 1 BetrAVG Zusage, § 16 BetrAVG Anpassung) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BaFin (PSV) und Quellenhygiene na... |
-| `restrukturierung-beweislast-stil-strategische` | Restrukturierung: Beweislast, Darlegungslast und Substantiierung. |
+| `restrukturierung-beweislast-stil-strategische` | Restrukturierung: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `spezial-buyouts-livequellen-und-rechtsprechungscheck` | Buyouts: Livequellen- und Rechtsprechungscheck. |
 | `spezial-internationale-red-team-und-qualitaetskontrolle` | Internationale: Red-Team und Qualitätskontrolle. |
-| `stil-abschlussprodukt-und-uebergabe` | Stil: Abschlussprodukt und Übergabe. |
-| `strategische-erstpruefung-und-mandatsziel` | Strategische: Erstprüfung, Rollenklärung und Mandatsziel. |
-| `stufen-theorie-interessen-versorgungssystem` | Stufen: Compliance-Dokumentation und Aktenvermerk. |
-| `theorie-mehrparteien-konflikt-und-interessen` | Theorie: Mehrparteienkonflikt und Interessenmatrix. |
+| `stil-abschlussprodukt-und-uebergabe` | Stil: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `strategische-erstpruefung-und-mandatsziel` | Strategische: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `stufen-theorie-interessen-versorgungssystem` | Stufen: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `theorie-mehrparteien-konflikt-und-interessen` | Theorie: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Betriebliche Altersversorgung im Konzern: trennt fehlende Tatsachen von fehlenden Belegen (Versorgungsordnung, Pensionsfonds-Vereinbarung, Gutachten Pensionsverpflichtungen), nennt pro Lücke Beweisthema,... |
 | `versorgungsordnung-und-betriebsvereinbarung-drafting` | Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen: Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Prüfraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Fina... |
-| `versorgungssystem-international-schnittstellen` | Versorgungssystem: Internationaler Bezug und Schnittstellen. |
+| `versorgungssystem-international-schnittstellen` | Versorgungssystem: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Bav Strategie Konzern. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Bav Strategie Konzern. |

@@ -1,5 +1,4 @@
 # Datenschutzrecht-Plugin
-Wenn du das hier oeffnest, willst du einen Datenschutzverstoss bewerten und die richtige Reaktion gegenueber Aufsicht und Betroffenen aufsetzen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen Datenschutzverstoss bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
 Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte: AVV-Prüfung, Betroffenenauskunft, Datenschutz-Folgenabschätzung, Drittlandstransfer-Prüfung, US-Transfer mit DPF/SCC/TIA, Behördenpaket, regulatorische Lückenanalyse und Richtlinien-Monitoring. Vollständig ausgerichtet auf DSGVO, BDSG, TDDDG und KUG. Entwickelt für deutsche und EU-ansässige Verantwortliche und Auftragsverarbeiter.
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und freigabepflichtig, keine abschließende Rechtsauskunft.** Das Plugin übernimmt die Arbeit: es liest Dokumente, wendet Ihr Praxisprofil an, findet Schwachstellen und verfasst Memos. Der Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Herkunft gekennzeichnet (Modellwissen vs. abgerufen). Mandatsgeheimnisschutz (§ 43a Abs. 2 BRAO, § 203 StGB) wird konservativ gehandhabt. Folgenreiche Maßnahmen – Übermittlung an Aufsichtsbehörden, Versand von Betroffenenschreiben, Vertragsunterzeichnung – werden erst nach ausdrücklicher Bestätigung durchgeführt.
@@ -280,7 +280,6 @@ Automatisch generierte Komplett-Liste aller 366 Skills in diesem Plugin. Beschre
 | `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit` | Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris GmbH C-456/22 VX gegen Saale. Sieb... |
 | `datenschutz-schufa-insolvenzdaten-loeschung` | Löschung von SCHUFA-/Auskunfteidaten zur Restschuldbefreiung nach EuGH C-26/22/C-64/22 mit Art. 5 sowie Art. 17 DSGVO und öffentlichen Insolvenzbekanntmachungen. |
 | `datenschutz-scoring-art22-schufa-c63421` | Bonitätsscoring nach EuGH C-634/21: automatisierte Entscheidung, maßgebliches Kriterium für Dritte, Transparenz, Auskunft, Widerspruch und DSFA. |
-| `datenschutzrecht-schnellstart` | 'Kompakter Arbeitsmodus für Datenschutzrecht-Plugin. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `dokumente-intake` | Dokumentenintake für Datenschutzrecht DSGVO/BDSG: sortiert Verarbeitungsverzeichnis, DSFA, AVV, prüft Datum, Absender, Frist und Beweiswert (Log-Dateien, AVV-Verträge); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `dpa-en-controller-controller-tmpl` | English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR: English language Controller-to-Controller data sharing agreement template used be... |
 | `dpa-en-controller-tmpl` | English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR. Used when neither Article 26 nor Article 28 GDPR applies but the parties want a c... |
@@ -571,6 +570,7 @@ Automatisch generierte Komplett-Liste aller 366 Skills in diesem Plugin. Beschre
 | `transfer-quellenkarte` | Transfer Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Datenschutzrecht DSGVO/BDSG: trennt fehlende Tatsachen von fehlenden Belegen (Verarbeitungsverzeichnis, DSFA, AVV), nennt pro Lücke Beweisthema, Beschaffungsweg (BfDI Bund), Frist und Ersatznachweis. |
 | `us-transfer-tia-dokumentation` | US-Drittlandtransfer nach Art. 44 ff. DSGVO dokumentieren: EU-US Data Privacy Framework, DPF-Listing, Schrems I/II-Historie, SCC/BCR-Ausweichpfad, Transfer Impact Assessment, supplementary measures, Behördennachweis und Review-Kalender. |
+| `v392-betroffenenrechte-aufsicht-avv-datenpanne` | Kernworkflow Datenschutzrecht für Auskunft, Löschung, Aufsichtsbehördenbeschwerde, Auftragsverarbeitung und Datenpanne mit Fristen, Belegen, Risikoschwellen und konkreten Arbeitsprodukten. |
 | `verarbeitungsverzeichnis-art30` | Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik im Datenschutzrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellu... |
 | `verarbeitungsverzeichnis-formular-portal-und-einreichung` | Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik: Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik. |
 | `verarbeitungsverzeichnis-vvt-generator` | Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Prüfraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Maßnahmen. Output: vollst... |

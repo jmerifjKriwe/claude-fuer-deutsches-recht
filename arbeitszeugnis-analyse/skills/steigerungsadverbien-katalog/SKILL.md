@@ -1,13 +1,13 @@
 ---
 name: steigerungsadverbien-katalog
-description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnissprache mit Notenwert. Ein Adverb fehlt, eine Note faellt. Trennt echte Steigerer (stets, jederzeit, vollkommen, hoechst) von scheinbaren Steigerern (regelmäßig, ueberwiegend, weitgehend) und Frequenzadverbien (oft, meist, gelegentlich) und ordnet jede Kombination einer Schulnote zu."
+description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnissprache mit Notenwert. Ein Adverb fehlt, eine Note fällt. Trennt echte Steigerer (stets, jederzeit, vollkommen, höchst) von scheinbaren Steigerern (regelmäßig, überwiegend, weitgehend) und Frequenzadverbien (oft, meist, gelegentlich) und ordnet jede Kombination einer Schulnote zu."
 ---
 
 # Steigerungsadverbien-Katalog
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -21,7 +21,7 @@ description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnis
 | jederzeit aeusserst | Maximalformel, Note 1 |
 | vollkommen | Maximalsteigerer, Note 1 |
 | aeusserst | Maximalsteigerer, Note 1 |
-| in hoechstem Masse | Maximalsteigerer, Note 1 |
+| in höchstem Masse | Maximalsteigerer, Note 1 |
 | uneingeschraenkt | Maximalsteigerer, Note 1 |
 | absolut | Maximalsteigerer, Note 1 |
 | in allen Belangen | Bereichssteigerer, Note 1 |
@@ -49,7 +49,7 @@ description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnis
 
 | Adverb | Wirkung |
 |---|---|
-| ueberwiegend | Ausnahmen mitgedacht, Note 3 bis 4 |
+| überwiegend | Ausnahmen mitgedacht, Note 3 bis 4 |
 | weitgehend | Ausnahmen mitgedacht, Note 3 bis 4 |
 | grundsätzlich | Ausnahmen mitgedacht, Note 3 bis 4 |
 
@@ -67,7 +67,7 @@ description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnis
 |---|---|
 | oft | Haeufig, Note 2 bis 3 |
 | meist | Mehrheit, Note 3 |
-| haeufig | Wiederholung, Note 3 |
+| häufig | Wiederholung, Note 3 |
 | gelegentlich | Selten, Note 4 |
 | bisweilen | Selten, Note 4 bis 5 |
 
@@ -88,14 +88,14 @@ description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnis
 
 **Beispiel 4 – Scheinsteigerer:** "Sie nahm regelmaessig erfolgreich an Weiterbildungsseminaren teil" → "regelmaessig" ist Haeufigkeit, kein Qualitaetssteigerer; ohne "stets" oder "mit grossem Erfolg" bleibt die Aussage Note 3.
 
-**Beispiel 5 – Abschwaecher:** "Sein Verhalten war ueberwiegend korrekt" → "ueberwiegend" denkt Ausnahmen mit, "korrekt" ohne Steigerer, Note 4.
+**Beispiel 5 – Abschwaecher:** "Sein Verhalten war überwiegend korrekt" → "überwiegend" denkt Ausnahmen mit, "korrekt" ohne Steigerer, Note 4.
 
-**Beispiel 6 – Auslassung als Signal:** Zeugnis enthaelt zehnmal "stets", einmal aber "Sein Verhalten war einwandfrei" ohne "stets" → punktuelle Drift, Sozialverhalten-Note rutscht von 1 auf 2 bis 3.
+**Beispiel 6 – Auslassung als Signal:** Zeugnis enthält zehnmal "stets", einmal aber "Sein Verhalten war einwandfrei" ohne "stets" → punktuelle Drift, Sozialverhalten-Note rutscht von 1 auf 2 bis 3.
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
-- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
 
 ## Aktuelle Rechtsprechung
 

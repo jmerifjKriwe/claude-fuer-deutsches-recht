@@ -1,5 +1,4 @@
 # Römisch-katholisches Kirchenrecht CIC und Katechismus
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist ein großes, ausdrücklich **papsttreues, lehramtsorientiertes und katholisches** Arbeitswerkzeug für Fragen des römisch-katholischen Kirchenrechts und der katholischen Lehre. Es denkt vom **Codex Iuris Canonici**, vom **Katechismus der Katholischen Kirche**, vom Dienst des Papstes und der Gemeinschaft mit der Kirche her.
 
 Es soll nicht relativieren oder bloß soziologisch kommentieren, sondern klären: Was ist rechtlich im Raum? Was ist lehrmäßig gebunden? Was ist pastoral klug? Welche Stelle ist zuständig? Welche Sprache braucht die Person vor uns? Und wie dokumentiert man das so, dass es in Pfarrei, Ordinariat, Tribunal oder Kurie brauchbar bleibt?
@@ -1928,7 +1928,6 @@ Automatisch generierte Komplett-Liste aller 1877 Skills in diesem Plugin. Beschr
 | `red-team-einer-kirchlichen-antwort` | Red-Team einer kirchlichen Antwort: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `religionsfreiheit-glaubensgehorsam-romische` | Religionsfreiheit und Glaubensgehorsam: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Frist... |
 | `religionsfreiheit-und-glaubensgehorsam` | Religionsfreiheit und Glaubensgehorsam: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `roemisch-katholisches-kirchenrecht-schnellstart` | 'Kompakter Arbeitsmodus für Römisch-katholisches Kirchenrecht CIC und Katechismus. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `romische-kurie-und-dikasterien` | Römische Kurie und Dikasterien: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bele... |
 | `sakramentenempfang-nach-kirchenaustritt` | Sakramentenempfang nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fris... |
 | `sakramentenverweigerung-und-rechte` | Sakramentenverweigerung und Rechte: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,... |
@@ -1947,6 +1946,7 @@ Automatisch generierte Komplett-Liste aller 1877 Skills in diesem Plugin. Beschr
 | `tod-begrabnis-und-begrabnisrecht` | Tod, Begräbnis und Begräbnisrecht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, B... |
 | `tribunal-interview-ohne-suggestion` | Tribunal-Interview ohne Suggestion: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,... |
 | `trinitat-christologie-und-mariologie` | Trinität, Christologie und Mariologie: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Friste... |
+| `v392-lesefreude-roemisch-katholisches-kirchenrecht` | Didaktischer Lesefreude-Skill für Kanonisches Recht: historische Einordnung, Begriffskern, anschauliche Fallvignette, Rezeptionslinie und heutige Grenze werden verständlich zusammengeführt. |
 | `voruntersuchung-nach-can-1717` | Voruntersuchung nach can. 1717: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `voruntersuchung-wallfahrt-pilgerpastoral` | Voruntersuchung nach can. 1717: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Bele... |
 | `wallfahrt-und-pilgerpastoral` | Wallfahrt und Pilgerpastoral: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege... |

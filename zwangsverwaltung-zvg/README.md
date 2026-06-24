@@ -1,5 +1,4 @@
 # ZVG-Zwangsverwaltung - Verwalter-Cockpit
-Wenn du das hier oeffnest, willst du einen Verwaltungsakt anfechten und vorlaeufigen Rechtsschutz erreichen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorlaeufigen Rechtsschutz erreichen.
 Technischer Plugin-Name: `zwangsverwaltung-zvg`.
 
 Großes freistehendes Plugin für Zwangsverwalter nach ZVG und ZwVwV sowie für die Schnittstelle zur Zwangsversteigerung. Abgebildet sind Bestellung, Beschlagnahme, Besitzerlangung, Objektaufnahme, Miet- und Pachtverwaltung, Mieteinzug, Betriebskosten, Versicherungen, öffentliche Lasten, Treuhandkonto, Berichtswesen, Rechnungslegung, Verteilung, Räumungs- und Besitzkonflikte, ZVG-Portal-Recherche, Bieterangebotsbewertung und Teilnahme an Versteigerungsterminen.
@@ -124,23 +124,23 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `aktenanlage-objektcockpit` | Aktenanlage und Objektcockpit für den Zwangsverwalter nach §§ 146 ff. ZVG. Anwendungsfall Zwangsverwaltungsauftrag geht ein und Objekt muss komplett erfasst werden. Normen §§ 146 152 ZVG Bestellung § 154 ZVG Pflichten § 155 ZVG Einnahmen... |
 | `anschluss-routing` | Anschluss-Routing für Zwangsverwaltung ZVG: wählt den nächsten Spezial-Skill nach Engpass (Beschwerde gegen Anordnung, Anordnungsbeschluss, Verwalterbericht, Mietsachen-Akte), dokumentiert Router-Entscheidung mit Begründung. |
-| `berichte-beschlagnahme-mietverwaltung-besitz` | Berichte: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `berichte-beschlagnahme-mietverwaltung-besitz` | Berichte: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `berichtswesen-besitzuebernahme-bestellung` | Berichterstattung an das Vollstreckungsgericht in der Zwangsverwaltung nach §§ 153 154 ZVG. Anwendungsfall Zwangsverwalter muss Besitzerlangungsbericht Sachstandsbericht Monatsbericht oder Entscheidungsvorlage erstellen. Normen § 153 ZVG... |
-| `beschlagnahme-fristen-form-und-zustaendigkeit` | Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `beschlagnahme-fristen-form-und-zustaendigkeit` | Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `beschlagnahme-mietverwaltung-start` | Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Zwangsverwaltung Zvg. |
 | `beschlagnahme-oeffentliche-lasten` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Zwangsverwaltung Zvg. |
-| `besitz-dokumentenmatrix-und-lueckenliste` | Besitz: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `besitz-dokumentenmatrix-und-lueckenliste` | Besitz: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `besitzuebernahme` | Besitzerlangung über das Zwangsverwaltungsobjekt nach § 150 ZVG. Anwendungsfall Zwangsverwalter nimmt erstmals Besitz am Objekt und muss alle Tatsachen dokumentieren. Normen § 150 ZVG Besitzuebernahme § 151 ZVG Rechte und Pflichten § 535... |
 | `bestellung-beschlagnahme` | Prüft Bestellungsbeschluss und Beschlagnahme am Anfang einer Zwangsverwaltung nach §§ 146-149 ZVG. Anwendungsfall Anordnungsbeschluss des Vollstreckungsgerichts liegt vor und Bestellung muss rechtlich geprüft werden. Normen § 146 ZVG Ano... |
 | `betriebskosten-hausgeld-bieterangebot` | Betriebskosten Hausgeld und laufende Objektkosten in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Nebenkosten prüfen WEG-Hausgeld bezahlen und Betriebskostenabrechnung erstellen. Normen § 155 ZVG Ausgaben § 16 WEG Hausgeld B... |
 | `bieterangebot-bewertung` | Bewertet Zwangsversteigerungsobjekte aus Investorensicht für Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benoetigt strukturierte Wertbewertung. Normen § 74a ZVG geringstes Gebot § 81 ZVG Sicherhei... |
-| `bieterangebote-mieten-oeffentliche` | Bieterangebote: Compliance-Dokumentation und Aktenvermerk. |
+| `bieterangebote-mieten-oeffentliche` | Bieterangebote: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Zwangsverwaltung ZVG: sortiert Anordnungsbeschluss, Verwalterbericht, Mietsachen-Akte, prüft Datum, Absender, Frist und Beweiswert (Mieteinnahmen, Reparaturen-Belege); markiert Lücken; berücksichtigt Mandatsgeheimnis... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Zwangsverwaltung ZVG: ordnet Rolle (Gläubiger, Schuldner Eigentümer, Zwangsverwalter), markiert Frist (Beschwerde gegen Anordnung), wählt Norm (ZVG §§ 146 ff., BGB §§ 1135 ff. Pflichten) und Zuständigkeit... |
 | `gate-fehlerkatalog` | Gate Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand |
@@ -151,38 +151,37 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschrei
 | `konten-kassenfuehrung-miet-pachtverwaltung` | Kontenführung und Buchführung des Treuhandkontos in der Zwangsverwaltung. Anwendungsfall Zwangsverwalter muss Einnahmen Ausgaben und Saldo des Treuhandkontos nachweisen. Normen § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten Treuhand. P... |
 | `miet-und-pachtverwaltung` | Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsuebernahme und Zahlungseinzug. Anwendungsfall Zwangsverwalter uebernimmt bestehende Mietverhältnisse und muss diese weiter verwalten. Normen § 152 ZVG Mieteinzug §§... |
 | `mieteinzug-rueckstaende` | Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Anwendungsfall Mieter zahlt nicht und Zwangsverwalter muss Rückstande einziehen oder Klage einleiten. Normen § 152 ZVG Mieteinzugspflicht § 543 BGB fristlose Kündigung § 286 BG... |
-| `mieten-risikoampel-und-gegenargumente` | Mieten: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `mieten-risikoampel-und-gegenargumente` | Mieten: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `oeffentliche-lasten` | Öffentliche Lasten und grundstuecksbezogene Abgaben in der Zwangsverwaltung. Anwendungsfall Grundsteuer Erschließungsgebuhren oder Beitraege werden fällig und Zwangsverwalter muss prüfen ob und in welchem Rang zu zahlen ist. Normen § 10... |
-| `oeffentliche-mandantenkommunikation-entscheidungsvorlage` | Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage. |
+| `oeffentliche-mandantenkommunikation-entscheidungsvorlage` | Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `output-waehlen` | Output-Wahl für Zwangsverwaltung ZVG: stimmt Adressat (Gläubiger, Schuldner Eigentümer, Zwangsverwalter), Frist (Beschwerde gegen Anordnung) und Form auf den Zweck ab — typische Outputs: Anordnungsantrag, Verwalterbericht, Erinnerung geg... |
 | `portal-quellenkarte` | Portal Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `quality-gate` | Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG E... |
-| `quality-recherche-rechnungslegung` | Quality: Formular, Portal und Einreichungslogik. |
+| `quality-recherche-rechnungslegung` | Quality: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `quellen-livecheck` | Quellen-Live-Check für Zwangsverwaltung ZVG: prüft Normen (ZVG §§ 146 ff., BGB §§ 1135 ff. Pflichten) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Amtsgericht Vollstreckungsgericht und Quellenhygiene nach refer... |
 | `raeumung-kuendigung` | Räumung Kündigung und Besitzkonflikte in der Zwangsverwaltung. Anwendungsfall Schuldner weigert sich auszuziehen oder Mieter soll nach Zwangsverwaltungsende kündigt werden. Normen § 150 ZVG Besitzrecht § 543 BGB fristlose Kündigung § 573... |
 | `recherche-quality-gate-raeumung` | Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG... |
-| `recherche-zahlen-schwellen-und-berechnung` | Recherche: Zahlen, Schwellenwerte und Berechnung. |
-| `rechnungslegung-internationaler-bezug-und-schnittstellen` | Rechnungslegung: Internationaler Bezug und Schnittstellen. |
+| `recherche-zahlen-schwellen-und-berechnung` | Recherche: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `rechnungslegung-internationaler-bezug-und-schnittstellen` | Rechnungslegung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `rechnungslegung-simulation-training` | Jahresrechnung und Schlussrechnung des Zwangsverwalters nach § 161 ZVG. Anwendungsfall Rechnungslegungsperiode ist abgelaufen und Jahres- oder Schlussrechnung muss für Gericht erstellt werden. Normen § 161 ZVG Rechnungslegungspflicht § 1... |
 | `simulation-training` | Simulation und Training für Zwangsverwaltung mit einem achtstuendigen Praxistag. Anwendungsfall Verwalter oder Kanzleimitarbeiter will Zwangsverwaltungs-Workflows trainieren oder Plugin demonstrieren. Deckt Mieterpost Objektgefahr Kontoa... |
 | `spezial-gate-red-team-und-qualitaetskontrolle` | Gate: Red-Team und Qualitätskontrolle. |
 | `spezial-portal-livequellen-und-rechtsprechungscheck` | Portal: Livequellen- und Rechtsprechungscheck. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Zwangsverwaltung ZVG-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Do... |
-| `treuhandkonto-versteigerung` | Treuhandkonto: Behörden-, Gerichts- oder Registerweg. |
+| `treuhandkonto-versteigerung` | Treuhandkonto: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Zwangsverwaltung ZVG: trennt fehlende Tatsachen von fehlenden Belegen (Anordnungsbeschluss, Verwalterbericht, Mietsachen-Akte), nennt pro Lücke Beweisthema, Beschaffungsweg (Amtsgericht Vollstreckungsger... |
 | `verkauf-versteigerung-schnittstelle` | Schnittstelle zwischen laufender Zwangsverwaltung und dem Zwangsversteigerungsverfahren. Anwendungsfall Zwangsverwaltung soll aufgehoben werden weil Zwangsversteigerung angeordnet wird oder laeuft. Normen § 153b ZVG Aufhebung der Verwalt... |
 | `versicherungen-gefahren-zvg` | Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Gebaeudeversicherung ist nicht bezahlt oder Schadenfall ist eingetreten. Normen § 154 ZVG Erhaltungspflicht § 823 BGB Verkehrssicherungspflicht VVG Versich... |
-| `versteigerung-tatbestand-beweis-und-belege` | Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `versteigerung-tatbestand-beweis-und-belege` | Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `versteigerungsteilnahme` | Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bieter. Anwendungsfall Mandant will an Versteigerungstermin teilnehmen und benoetigt vollständige Vorbereitung. Normen §§ 87 ff. ZVG Termin § 74a ZVG geringstes... |
-| `versteigerungsteilnahme-mehrparteienkonflikt` | Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix. |
-| `verteilung-zwangsverwaltung-aktenanlage` | Verteilung: Verhandlung, Vergleich und Eskalation. |
+| `versteigerungsteilnahme-mehrparteienkonflikt` | Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `verteilung-zwangsverwaltung-aktenanlage` | Verteilung: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `verteilungsplan-155` | Verteilungsplan nach § 155 ZVG für die Auszahlung von Einnahmen in der Zwangsverwaltung. Anwendungsfall Einnahmen sind angefallen und muessen nach gesetzlicher Rangfolge verteilt werden. Normen § 155 ZVG Verteilung § 10 ZVG Rangklassen §... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Zwangsverwaltung Zvg. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Zwangsverwaltung Zvg. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
-| `zwangsverwaltung-erstpruefung-und-mandatsziel` | Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel. |
-| `zwangsverwaltung-zvg-schnellstart` | 'Kompakter Arbeitsmodus für ZVG-Zwangsverwaltung - Verwalter-Cockpit. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
+| `zwangsverwaltung-erstpruefung-und-mandatsziel` | Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `zwvw-anordnung-zwangsverwaltung` | Bauleiter Anordnung Zwangsverwaltung ZVG: Gläubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Prüfraster für Gläubiger und Eigentuemer im Zwangsverwaltung Zvg. |
 | `zwvw-kostenrechnung-verwalter-spezial` | Spezialfall Kostenrechnung des Zwangsverwalters ZwVwV: Regelverguetung, Mehrverguetung, Auslagen. Prüfraster für Gläubiger und Vollstreckungsgericht im Zwangsverwaltung Zvg. |
 | `zwvw-mietverhaeltnis-bestand-leitfaden` | Leitfaden Bestand der Mietverhaeltnisse in Zwangsverwaltung § 152 ZVG: Eintritt des Verwalters, Mietzahlungen, Kuendigung. Prüfraster für Mieter und Verwalter im Zwangsverwaltung Zvg. |

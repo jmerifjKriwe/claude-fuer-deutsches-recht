@@ -1,5 +1,4 @@
 # Fachanwalt Miet- und Wohnungseigentumsrecht
-Wenn du das hier oeffnest, willst du eine fristlose Kuendigung wegen Zahlungsverzug rechtssicher aussprechen oder abwehren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,17 +21,18 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du eine fristlose Kuendigung wegen Zahlungsverzug rechtssicher aussprechen oder abwehren.
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
 Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
-Zustaendigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
+Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
 Norm-Radar, Leitentscheidungs-Anker und genau eine Rueckfrage - bei
 klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
 
-Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
-| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
-| Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
+Konvention: [`Install from .zip`](../references/anwalts-dashboard-konvention.md)
+| Quellen-Anker: [`.claude-plugin/plugin.json`](../references/leitentscheidungen-anker.md)
+| Quellenhygiene: [`skills/`](../references/quellenhygiene.md).
 
 
 Plugin Fachanwalt für Miet- und Wohnungseigentumsrecht nach FAO § 14e, jetzt als großer Praxis-Kompass mit über 200 Skills: Wohnraummiete, Gewerberaummiete, Betriebskosten, Heizkosten, CO2-Kosten, Kündigung, Räumung, Mängel, Modernisierung, Mietpreisbremse, Kaution, WEG-Beschlüsse, Hausverwaltung, bauliche Veränderungen, GEG/Wärmepumpe, E-Ladung, Photovoltaik, Protokolle, Beweise, Fristen und Schriftsatz-/Beschlussentwürfe. Der Einstiegsskill routet Laien, Berufsanfänger und erfahrene Praktiker in den passenden Workflow.
@@ -107,7 +107,6 @@ Automatisch generierte Komplett-Liste aller 382 Skills in diesem Plugin. Beschre
 | `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung` | Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Prüfras... |
 | `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel` | Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht mietminderung schimmel. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht orientierung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-miet-wohnungseigentumsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Miet- und Wohnungseigentumsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44` | Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` | Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten. § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133 157 BGB. Prüfraster Monatsfrist Anfechtungsgründe ord... |
 | `fao-dokumentenmatrix-und-lueckenliste` | FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt... |
@@ -330,6 +329,7 @@ Automatisch generierte Komplett-Liste aller 382 Skills in diesem Plugin. Beschre
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Miet- und Wohnungseigentumsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Mietvertrag, Nebenkostenabrechnung, WEG-Versammlungsprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg... |
 | `untermiete-paragraf-553-bgb-bgh-viii-zr-249-15` | Untermiete Paragraf 553 BGB BGH Viii Zr 249 15: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `untervermietung-553` | Untervermietung § 553 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, B... |
+| `v392-fachanwaltsblick-fachanwalt-miet-wohnungseigentumsrecht` | Fachanwaltsblick für Miet- und Wohnungseigentumsrecht: Mandantengespräch, typische Fallkonstellationen, FAO-geprägte Themenbreite, Belegbedarf, Schriftsatzstruktur und taktischer nächster Schritt werden zusammengeführt. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverhandl... |
 | `verjaehrung-mietforderungen` | Verjährung Mietforderungen: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbei... |
 | `verkauf-bricht-nicht-miete` | Kauf bricht nicht Miete: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren; mit Normprüfung, Beweisen, Fristen, Risikoam... |

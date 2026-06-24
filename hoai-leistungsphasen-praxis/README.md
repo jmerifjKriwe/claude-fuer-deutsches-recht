@@ -1,5 +1,4 @@
 # HOAI Leistungsphasen Praxis
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Ein großes Arbeitsplugin für die Leistungsphasen der HOAI. Es begleitet Bauherrinnen, Architekten, Ingenieure, Bauleiter, Bauunternehmen, Subunternehmer, Anwälte, Sachverständige und Projektsteuerer durch die Phasen 1 bis 9: von der Grundlagenermittlung über Planung, Genehmigung, Ausführung, Vergabe und Bauüberwachung bis zur Objektbetreuung.
 
 Die HOAI kennt für Gebäude und Innenräume nach § 34 HOAI neun Leistungsphasen. Dieses Plugin bildet deshalb LPH 1 bis LPH 9 ab; eine zehnte Leistungsphase gibt es in diesem Leistungsbild nicht. Für andere Leistungsbilder wie Freianlagen, Ingenieurbauwerke, Verkehrsanlagen, Tragwerksplanung oder technische Ausrüstung muss das Plugin zunächst auf das richtige HOAI-Leistungsbild routen.
@@ -60,12 +60,12 @@ Neben den LPH-Skills gibt es jetzt einen querliegenden Fachfragen-Layer für die
 
 ## Amtliche Startquellen
 
-- [HOAI Gesamtverordnung](https://www.gesetze-im-internet.de/hoai_2013/)
-- [HOAI § 34 Gebäude und Innenräume](https://www.gesetze-im-internet.de/hoai_2013/__34.html)
-- [HOAI Anlage 10 Gebäude und Innenräume](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html)
-- [HOAI § 7 Honorarvereinbarung](https://www.gesetze-im-internet.de/hoai_2013/__7.html)
-- [BGB § 650p Architekten- und Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650p.html)
-- [BGB § 650q](https://www.gesetze-im-internet.de/bgb/__650q.html), [§ 650r](https://www.gesetze-im-internet.de/bgb/__650r.html), [§ 650s](https://www.gesetze-im-internet.de/bgb/__650s.html), [§ 650t](https://www.gesetze-im-internet.de/bgb/__650t.html)
+- [HOAI Gesamtverordnung]()
+- [HOAI § 34 Gebäude und Innenräume]()
+- [HOAI Anlage 10 Gebäude und Innenräume]()
+- [HOAI § 7 Honorarvereinbarung]()
+- [BGB § 650p Architekten- und Ingenieurvertrag]()
+- [BGB § 650q](), [§ 650r](), [§ 650s](), [§ 650t]()
 
 ## Quellenhygiene
 
@@ -75,7 +75,7 @@ Die HOAI ist nicht mehr das alte zwingende Mindestsatzregime für Neuverträge a
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 389 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 388 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -105,7 +105,6 @@ Automatisch generierte Komplett-Liste aller 389 Skills in diesem Plugin. Beschre
 | `gebaeude-innenraeume-hoai-gerichtsfeste` | HOAI-Praxis: prüft speziell Leistungsbild Gebäude und Innenräume nach § 34 HOAI und Anlage 10; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. |
 | `gerichtsfeste-akte` | HOAI-Praxis: macht aus Projektdaten eine Prozessakte mit Belegpfad und Zeugenliste; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. |
 | `gesamtschuld-bgb-650t` | HOAI-Praxis: ordnet Haftung Architekt/Bauunternehmer und Vorrang der Nacherfüllung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. |
-| `hoai-leistungsphasen-praxis-schnellstart` | 'Kompakter Arbeitsmodus für HOAI Leistungsphasen Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `hoai-qualitaetscheck-vor-release` | HOAI-Praxis: prüft, ob ein Plan-/Vergabe-/Baupaket an die nächste Stelle darf; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `hoai-subunternehmer-perspektive` | HOAI-Praxis: prüft, welche Planinformationen Subunternehmer wirklich brauchen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 | `honorar-prozentwert-input-zielcheck` | HOAI LPH 1 Grundlagenermittlung: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewe... |

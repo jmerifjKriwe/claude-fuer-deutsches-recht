@@ -1,5 +1,4 @@
 # Fachanwalt Bau Architektenrecht
-Wenn du das hier oeffnest, willst du Werklohn, Maengel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du Werklohn, Mängel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
 Plugin Fachanwalt für Bau- und Architektenrecht. Orientierung BGB Werkvertragsrecht §§ 650a ff. Bauvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht der Länder. Schnittstellen Vergaberecht und Verwaltungsrecht.
 
 ## Installation in der Plugin-Umgebung
@@ -47,7 +47,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 120 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -56,7 +56,7 @@ Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschre
 | `abnahme-quellenkarte` | Abnahme Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `abnahme-verweigerung` | Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht: Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: w... |
 | `anschluss-routing` | Anschluss-Routing für Fachanwalt Bau- und Architektenrecht: wählt den nächsten Spezial-Skill nach Engpass (Verjährung 5 Jahre § 634a BGB, Bauvertrag, Pläne, Bautagebuch), dokumentiert Router-Entscheidung mit Begründung. |
-| `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` | HOAI-Mindestsatzunterschreitung nach EuGH C-377/17 und BGH VII ZR 174/19. |
+| `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` | HOAI-Mindestsatzunterschreitung nach EuGH C-377/17 und BGH VII ZR 174/19. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `architektenrecht-tatbestand-beweis-und-belege` | Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `bau-abnahme-checkliste-workflow` | Abnahme: technische Abnahme gegen rechtliche Abnahme § 640 BGB, Abnahmevoraussetzungen, Verweigerungsrechte bei wesentlichen Maengeln, fiktive Abnahme § 640 Abs: Abnahme: technische Abnahme gegen rechtliche Abnahme § 640 BGB, Abnahmevora... |
 | `bau-einfuehrung-vertragstypen` | Bau- und Architektenrecht einfuehrend: Bauvertrag § 650a BGB, Verbraucherbauvertrag § 650i BGB, Architektenvertrag § 650p BGB, Ingenieurvertrag, Bautraegervertrag § 650u BGB, VOB Bauvertrag: Bau- und Architektenrecht einfuehrend: Bauvert... |
@@ -128,9 +128,10 @@ Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschre
 | `fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze` | HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen. Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechn... |
 | `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg` | Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse... |
 | `fachanwalt-bau-architektenrecht-orientierung` | Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung... |
-| `fachanwalt-bau-architektenrecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Bau Architektenrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung` | VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen. Normen: §§ 18 Abs. 3 18b VOB/B, §§ 1025 ff. ZPO. Prüfraster: Schiedsgutachter-Auswahl, Bindungswirkung, Fristen, Abgrenzung Schiedsverfahren. Output: Schiedsgu... |
 | `fachanwalt-bau-architektenrecht-werkmangel-pruefen` | Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfriste... |
+| `festsetzungen-bebauungsplan-baugenehmigung-praxis` | Prueft Bebauungsplan-Festsetzungen in der Baugenehmigungspraxis: Planbindung, Befreiung, Abweichung, Nachbarrechte und Bauaufsichtsargumentation. |
+| `festsetzungen-und-architektenhaftung` | Prueft Architektenhaftung bei fehlerhafter Auswertung von Bebauungsplan-Festsetzungen, BauNVO-Werten, Abstandsflächen, Befreiungen und Genehmigungsrisiken. |
 | `hoai-honorar-mindestsaetze` | HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen: Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrec... |
 | `hoai-risikoampel-und-gegenargumente` | Hoai: Risikoampel, Gegenargumente und Verteidigungslinien: Hoai: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `kanzlei-mehrparteien-konflikt-und-interessen` | Kanzlei: Mehrparteienkonflikt und Interessenmatrix: Kanzlei: Mehrparteienkonflikt und Interessenmatrix. |
@@ -150,6 +151,8 @@ Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschre
 | `schriftsatzkern-substantiierung` | Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot: Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Prü... |
 | `schwarzarbeit-werklohnanspruch-bgh-vii-zr-6-13` | Schwarzarbeit Werklohnanspruch BGH Vii Zr 6 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-abnahme-livequellen-und-rechtsprechungscheck` | Abnahme: Livequellen- und Rechtsprechungscheck. |
+| `staedtebauvertrag-haftung-und-rueckabwicklung` | Prueft Haftung und Rueckabwicklung bei unwirksamen städtebaulichen Verträgen: Zahlung, Kostenweitergabe, Projektabbruch, Planbindung und Regress. |
+| `staedtebauvertrag-schnittstelle-bautraegervertrag` | Prueft die Schnittstelle zwischen städtebaulichem Vertrag, Bauträgervertrag, Teilung, Kostenweitergabe, Transparenz und Verbraucherschutz. |
 | `triage-beweislast-und-darlegungslast` | Triage: Beweislast, Darlegungslast und Substantiierung: Triage: Beweislast, Darlegungslast und Substantiierung. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Bau- und Architektenrecht: trennt fehlende Tatsachen von fehlenden Belegen (Bauvertrag, Pläne, Bautagebuch), nennt pro Lücke Beweisthema, Beschaffungsweg (Zivilgericht (LG meist)), Frist und E... |
 | `vergaberecht-zahlen-schwellen-und-berechnung` | Vergaberecht: Zahlen, Schwellenwerte und Berechnung: Vergaberecht: Zahlen, Schwellenwerte und Berechnung. |
@@ -169,8 +172,4 @@ Automatisch generierte Komplett-Liste aller 121 Skills in diesem Plugin. Beschre
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
-| `staedtebauvertrag-schnittstelle-bautraegervertrag` | Prueft die Schnittstelle zwischen städtebaulichem Vertrag, Bauträgervertrag, Teilung, Kostenweitergabe, Transparenz und Verbraucherschutz. |
-| `staedtebauvertrag-haftung-und-rueckabwicklung` | Prueft Haftung und Rueckabwicklung bei unwirksamen städtebaulichen Verträgen: Zahlung, Kostenweitergabe, Projektabbruch, Planbindung und Regress. |
-| `festsetzungen-bebauungsplan-baugenehmigung-praxis` | Prueft Bebauungsplan-Festsetzungen in der Baugenehmigungspraxis: Planbindung, Befreiung, Abweichung, Nachbarrechte und Bauaufsichtsargumentation. |
-| `festsetzungen-und-architektenhaftung` | Prueft Architektenhaftung bei fehlerhafter Auswertung von Bebauungsplan-Festsetzungen, BauNVO-Werten, Abstandsflächen, Befreiungen und Genehmigungsrisiken. |
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -11,11 +11,11 @@ Baue aus der Akte eine verwertbare Zeugnis-Chronologie. Beginne mit Eintritt, Po
 
 ## Normenanker
 
-- GewO § 109 Abs. 1-3: Art des Zeugnisses, Klarheit und elektronische Form.
-- BGB §§ 242, 241 Abs. 2: Treu und Glauben, Rücksichtnahme, Wahrheit/Wohlwollen.
-- BGB §§ 195, 199: Verjährung.
-- ArbGG §§ 2, 46: Zuständigkeit und zivilprozessuale Beweislogik.
-- AGG §§ 1, 7, 15 nur bei diskriminierenden Zeugnisformulierungen oder Benachteiligungskontext.
+- GewO Paragraf 109 Abs. 1-3: Art des Zeugnisses, Klarheit und elektronische Form.
+- BGB Paragrafen 242, 241 Abs. 2: Treu und Glauben, Rücksichtnahme, Wahrheit/Wohlwollen.
+- BGB Paragrafen 195, 199: Verjährung.
+- ArbGG Paragrafen 2, 46: Zuständigkeit und zivilprozessuale Beweislogik.
+- AGG Paragrafen 1, 7, 15 nur bei diskriminierenden Zeugnisformulierungen oder Benachteiligungskontext.
 
 ## Matrix
 

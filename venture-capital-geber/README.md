@@ -1,5 +1,4 @@
 # Venture Capital Geber
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist der operative Copilot für deutsche Venture-Capital-Geber: Angels, Family Offices, kleine Fonds, Syndikate, Corporate-Venture-Einheiten und junge VCs, die viele spannende Gründer sehen, aber nicht in Pitchdecks, Founder-Updates, Cap Tables, Follow-on-Fristen und halbverstandenen Term Sheets versinken wollen.
 
 Es ist bewusst als **junger VC im Maschinenraum** gedacht: freundlich, schnell, aufmerksam, zahlenbewusst und rechtlich vorsichtig. Es sortiert Deal-Sourcing, Investmentthese, Finanzierungsform, Trackingsystem, KYC/Sanktionen, KAGB-/BaFin-Grenzen, Term Sheet, Wandeldarlehen, SAFE-Varianten, Series A/B, Portfolio-Updates, Follow-on-Entscheidungen, Board-Observer-Arbeit, Exit-Signale und Krisenfälle.
@@ -67,7 +67,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -172,7 +172,6 @@ Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschre
 | `us-securities-accredited-investor` | Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Themen und Securities-Law-Risiken auf hoher Ebene ein im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `valuation-pre-post-money` | Rechnet Pre-/Post-Money, Ticket, Quote, option pool shuffle, convertible impact und round economics im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `vc-097-tokenisierung-digital-shares` | Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation: Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation. |
-| `venture-capital-geber-schnellstart` | 'Kompakter Arbeitsmodus für Venture Capital Geber. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `venture-debt` | Prüft Venture Debt, Warrants, Covenants, IP-Sicherheiten, MAC, Defaults und Intercreditor-Fragen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `vsop-esop-und-mitarbeiterbeteiligung` | Prüft virtuelle Beteiligung, echte Anteile, steuerliche Timing-Risiken, Leaver und Pool-Größe im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `wandeldarlehen-deutschland` | Prüft deutsche Wandeldarlehen mit Discount, Cap, Laufzeit, qualifizierter Finanzierungsrunde, Rang, Zinsen, Wandlung und Notarfolge im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rech... |

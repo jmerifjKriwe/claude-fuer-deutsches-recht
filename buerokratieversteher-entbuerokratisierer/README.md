@@ -1,5 +1,4 @@
 # Bürokratieversteher und Entbürokratisierer
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Geführtes Laien-Plugin für Menschen, die vor einem Behördenbrief, Bescheid, Antrag, Formular, Gerichtstermin oder einer Vorladung sitzen und zuerst verstehen müssen: Was ist das, was muss ich tun, was sollte ich besser nicht vorschnell sagen?
 
 ## Arbeitsidee
@@ -45,7 +45,7 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -64,7 +64,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `betreuung-und-vorsorgevollmacht` | Hilft bei Behördenkontakt für Angehörige, Vollmacht, Betreuung, Einwilligungsfähigkeit und Datenschutz im Bürokratie-Entbürokratisierung. |
 | `beweismittel-fotos-screenshots` | Erklärt beweissichere Fotos, Screenshots, Metadaten, Dateinamen, Schwärzung und Anlagenverzeichnis im Bürokratie-Entbürokratisierung. |
 | `buergergeld-jobcenter` | Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe im Bürokratie-Entbürokratisierung. |
-| `buerokratieversteher-entbuerokratisierer-schnellstart` | 'Kompakter Arbeitsmodus für Bürokratieversteher und Entbürokratisierer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `bussgeld-anhoerung` | Erklärt Anhörungsbogen, Betroffener, Aussageverweigerung, Fahrerfrage, Fristen und Einspruch im Bürokratie-Entbürokratisierung. |
 | `chronologie-fuer-behoerde` | Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen im Bürokratie-Entbürokratisierung. |
 | `datenschutz-auskunft-behoerde` | Hilft bei DSGVO-Auskunft, Berichtigung, Löschung, Akteneinsicht und Datenschutzbeschwerde gegen öffentliche Stellen im Bürokratie-Entbürokratisierung. |

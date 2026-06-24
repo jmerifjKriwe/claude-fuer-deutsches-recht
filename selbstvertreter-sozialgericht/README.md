@@ -1,5 +1,4 @@
 # selbstvertreter-sozialgericht
-Wenn du das hier oeffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
 ## Für wen ist das?
 
 Sie sind versichert oder beziehen Sozialleistungen. Sie haben einen Bescheid bekommen und sind nicht einverstanden. Sie haben keinen Anwalt oder können sich keinen leisten. Dieses Plugin hilft Ihnen Schritt für Schritt.
@@ -68,7 +68,7 @@ Bei Unsicherheit: Wenden Sie sich an eine Beratungsstelle (Sozialverband VdK, So
 7. Worauf Sie besonders achten müssen
 8. Typische Fehler
 9. Querverweise
-10. Quellen und Aktualitaet
+10. Quellen und Aktualität
 
 ## Stand
 
@@ -82,7 +82,7 @@ Apache-2.0 OR MIT.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 139 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 138 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -194,7 +194,6 @@ Automatisch generierte Komplett-Liste aller 139 Skills in diesem Plugin. Beschre
 | `saeumnis-im-termin-sozialgericht` | Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger. |
 | `sanity-check-selbstvertretung-sozialgericht` | Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung im Sozialgerichtsverfahren. Prüft Frist, Bescheidkette, richtige Klageart, Eilbedürftigkeit, Belege, medizinische Unterlagen, Antrag, Kostenfreih... |
 | `schwerbehindertenausweis-merkzeichen-pruefen` | Schwerbehindertenausweis und Merkzeichen prüfen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub.... |
-| `selbstvertreter-sozialgericht-schnellstart` | 'Kompakter Arbeitsmodus für selbstvertreter-sozialgericht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `sozialgericht-zustaendigkeit-51-sgg` | Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht. |
 | `sozialleistungen-uebersicht-sgb` | Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger. |
 | `teilstattgabe-vollstattgabe-verstehen` | Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen. |

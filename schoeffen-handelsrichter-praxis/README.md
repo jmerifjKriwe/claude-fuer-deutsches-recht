@@ -1,5 +1,4 @@
 # Schöffen und Handelsrichter Praxis
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere praktische Orientierung.
 
 ## Worum es geht
@@ -57,6 +57,7 @@ Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
+| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (beratungs-votum mit tenor-vorschlag) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
 | `befangenheit-selbstanzeige` | Befangenheit Selbstanzeige (Orientierung): hilft ehrenamtlichen Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Han... |
 | `befangenheit-selbstanzeige-sitzung` | Befangenheit Selbstanzeige (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen H... |
 | `befangenheit-und-selbstanzeige` | Befangenheit und Selbstanzeige: erklärt persönliche Nähe, Vorwissen, Social Media, Branchenkontakt und Neutralität erkennen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungsch... |
@@ -131,7 +132,6 @@ Automatisch generierte Komplett-Liste aller 81 Skills in diesem Plugin. Beschrei
 | `schoeffe-verkehrsstrafrecht-sitzung-vermerk` | Verkehrsstrafrecht für Schöffen (Orientierung): hilft ehrenamtlichen Richtern bei Unfallflucht, Trunkenheit, Gefährdung, Fahrerlaubnis und Fahreignung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Hand... |
 | `schoeffe-wirtschaftsstrafverfahren-orientierung` | Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im... |
 | `schoeffe-wirtschaftsstrafverfahren-sitzung` | Wirtschaftsstrafverfahren für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck... |
-| `schoeffen-handelsrichter-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Schöffen und Handelsrichter Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `schriftsatz-vermerk-und-mustertext` | Schriftsatz, Vermerk und Mustertext: erklärt liefert einen belastbaren ersten Entwurf mit offenen Punkten für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheits... |
 | `sitzungs-terminvorbereitung-strafzumessung` | Sitzungs- und Terminvorbereitung: erklärt bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungschec... |
 | `strafzumessung-fuer-schoeffen` | Strafzumessung für Schöffen: erklärt Schuld, Strafrahmen, Milderungsgründe, Bewährung und Nebenfolgen verstehen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befange... |

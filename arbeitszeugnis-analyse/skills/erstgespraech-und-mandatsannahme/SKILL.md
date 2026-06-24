@@ -1,21 +1,21 @@
 ---
 name: erstgespraech-und-mandatsannahme
-description: "Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhaelt Zeugnis das er für mangelhaft haelt und sucht anwaltliche Hilfe. Normen § 109 GewO Anspruch auf qualifiziertes Zeugnis § 195 BGB Verjährung drei Jahre § 611a BGB Arbeitsvertrag. Prüfraster Zielklaerung fehlende Unterlagen Arbeitsvertrag Änderungen Vorzeugnisse Fristen Vergleichsbereitschaft Verguetungsvereinbarung Beweislast. Output Mandatsannahmeprotokoll mit Unterlagenliste Erstprognose und naechsten Schritten. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
+description: "Mandatsannahme im Zeugnisrecht mit Erstgespräch Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhält Zeugnis das er für mangelhaft hält und sucht anwaltliche Hilfe. Normen Paragraf 109 GewO Anspruch auf qualifiziertes Zeugnis Paragraf 195 BGB Verjährung drei Jahre Paragraf 611a BGB Arbeitsvertrag. Prüfraster Zielklaerung fehlende Unterlagen Arbeitsvertrag Änderungen Vorzeugnisse Fristen Vergleichsbereitschaft Verguetungsvereinbarung Beweislast. Output Mandatsannahmeprotokoll mit Unterlagenliste Erstprognose und nächsten Schritten. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
 ---
 
-# Erstgespraech und Mandatsannahme im Zeugnisrecht
+# Erstgespräch und Mandatsannahme im Zeugnisrecht
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Eingangsbestaetigung
 
-Auf den ersten Kontakt des Mandanten antwortet die Kanzlei zeitnah, in der Regel innerhalb eines Werktages. Die Eingangsbestaetigung enthaelt vier Bausteine: Dank für das uebersandte Zeugnis, kurze Beschreibung des weiteren Vorgehens, Liste der noch benoetigten Unterlagen sowie Hinweis auf die zu klärenden Fristen.
+Auf den ersten Kontakt des Mandanten antwortet die Kanzlei zeitnah, in der Regel innerhalb eines Werktages. Die Eingangsbestaetigung enthält vier Bausteine: Dank für das übersandte Zeugnis, kurze Beschreibung des weiteren Vorgehens, Liste der noch benötigten Unterlagen sowie Hinweis auf die zu klärenden Fristen.
 
-Wichtig ist der Hinweis, dass die Bewertung erst nach Sichtung aller Unterlagen erfolgen kann. Eine vorschnelle Einschaetzung allein anhand des Zeugnistextes ist riskant, weil der Kontext (Aufgabenzuschnitt, Krankheitstage, Abmahnungen, Vergleichszeugnisse) die Bewertung erheblich verschieben kann. Der Mandant erhaelt daher zunaechst nur eine Eingangsbestaetigung, keine Bewertung.
+Wichtig ist der Hinweis, dass die Bewertung erst nach Sichtung aller Unterlagen erfolgen kann. Eine vorschnelle Einschaetzung allein anhand des Zeugnistextes ist riskant, weil der Kontext (Aufgabenzuschnitt, Krankheitstage, Abmahnungen, Vergleichszeugnisse) die Bewertung erheblich verschieben kann. Der Mandant erhält daher zunaechst nur eine Eingangsbestaetigung, keine Bewertung.
 
 ## Anforderungsliste der Unterlagen
 
@@ -36,15 +36,15 @@ Die folgende Liste ist abschliessend strukturiert und sollte vollstaendig angefo
 
 Bei besonderen Konstellationen kommen weitere Unterlagen hinzu: Schwerbehindertenausweis (Sonderkuendigungsschutz), Elternzeit-Bescheinigungen (Sperrzeit-Prüfung), Betriebsratstaetigkeit (Diskriminierungsrisiko), Pflegezeit, Mutterschutz.
 
-## Erstgespraech-Leitfaden
+## Erstgespräch-Leitfaden
 
-Das Erstgespraech ist strukturiert in fuenf Bloecken zu fuehren.
+Das Erstgespräch ist strukturiert in fuenf Bloecken zu fuehren.
 
 Der erste Block ist die Sachverhaltsaufnahme. Eckdaten der Beschäftigung (Beginn, Ende, Position, Vorgesetzte, letzte Aufgabe) werden notiert. Schwerpunkt ist nicht das Zeugnis, sondern das tatsaechliche Leistungs- und Verhaltensbild aus Sicht des Mandanten.
 
 Der zweite Block ist die Zielklaerung. Will der Mandant ein besseres Zeugnis, eine bestimmte Note, eine bestimmte Schlussformel, eine konkrete Taetigkeitsbeschreibung oder die Entfernung bestimmter Passagen. Auch der Zeitdruck wird erfragt: Steht ein Vorstellungsgespraech an, ist Eile geboten.
 
-Der dritte Block ist die Vergleichsbereitschaft. Ist der Mandant bereit, eine Note zwischen seiner Wunschnote und der erhaltenen Note zu akzeptieren. Ist er bereit, auf eine Schlussformel-Wendung zu verzichten, wenn dafür die Notenstufe stimmt. Diese Vorabklaerung erspart später unnoetige Schriftsatzwechsel.
+Der dritte Block ist die Vergleichsbereitschaft. Ist der Mandant bereit, eine Note zwischen seiner Wunschnote und der erhaltenen Note zu akzeptieren. Ist er bereit, auf eine Schlussformel-Wendung zu verzichten, wenn dafür die Notenstufe stimmt. Diese Vorabklaerung erspart später unnötige Schriftsatzwechsel.
 
 Der vierte Block ist die rechtliche Erstinformation. Der Mandant wird über den Anspruch nach Paragraf 109 GewO, die Beweislastregel (Note ab Drei: Arbeitnehmer, oberhalb der Drei: Arbeitgeber), die Verjährung und das Risiko der Verwirkung aufgeklaert. Ohne diese Aufklaerung ist eine wirksame Mandatsbeauftragung nicht möglich.
 
@@ -54,7 +54,7 @@ Der fuenfte Block ist die Vereinbarung. Vergueterung (RVG oder Stundensatz), Kos
 
 Sehr geehrter Herr [Name],
 
-vielen Dank für Ihre Beauftragung und die uebersandten Unterlagen. Wir haben Ihr Arbeitszeugnis vom [Datum] erhalten und werden eine detaillierte Ampelanalyse durchfuehren.
+vielen Dank für Ihre Beauftragung und die übersandten Unterlagen. Wir haben Ihr Arbeitszeugnis vom [Datum] erhalten und werden eine detaillierte Ampelanalyse durchfuehren.
 
 Damit wir die Bewertung rechtssicher vornehmen und die Erfolgsaussichten eines Berichtigungsverlangens beurteilen können, benoetigen wir noch die folgenden Unterlagen:
 
@@ -82,9 +82,9 @@ Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 109 GewO** — Anspruch auf Zeugnis; Grundlage aller Mandate
-- **§§ 195, 199 BGB** — Regelverjährung drei Jahre; Mandant über Verwirkungsrisiko aufklären
-- **§ 242 BGB** — Verwirkung bei jahrelanger Untätigkeit; sofortige Mandatsannahme empfohlen
+- **Paragraf 109 GewO** — Anspruch auf Zeugnis; Grundlage aller Mandate
+- **Paragrafen 195, 199 BGB** — Regelverjährung drei Jahre; Mandant über Verwirkungsrisiko aufklären
+- **Paragraf 242 BGB** — Verwirkung bei jahrelanger Untätigkeit; sofortige Mandatsannahme empfohlen
 
 ## Aktuelle Rechtsprechung
 

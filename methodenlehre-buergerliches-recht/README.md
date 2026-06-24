@@ -1,5 +1,4 @@
 # Methodenlehre bürgerliches Recht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Deutsche juristische Methodenlehre und Falllösung aus anwaltlicher Perspektive. Gutachtenstil mit Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut Systematik Historie Telos ohne starre Rangfolge — pragmatische Gewichtung wie in der BGH-Praxis. Generalklauseln und Rechtsfortbildung als reale Werkzeuge. Anwaltliche Strategie statt richterliche Selbstbindung.
 
 Für konkrete Prüfungen im BGB Allgemeiner Teil kann `bgb-at-pruefer` hinzugeladen werden; dieses Plugin bleibt die methodische Grundierung, der BGB-AT-Prüfer übernimmt dann Vertragsschluss, Zugang, Anfechtung, Stellvertretung, Geschäftsfähigkeit, Form, Fristen und Verjährung.
@@ -116,7 +116,7 @@ Das Plugin umfasst inzwischen eine große, automatisch gelistete Skill-Sammlung.
 
 - **`zitierweise-deutsches-recht`** — Jede Aussage wird nach der Hauszitierweise belegt; BGH-Zitate mit `Az.`-Marker, Pinpoint mit Rn., Hierarchie der Gerichte.
 - **`bgb-at-pruefer`** — Konkrete BGB-AT-Prüfungen (Vertragsschluss, Anfechtung, Stellvertretung, Form, Verjährung) — dieses Plugin bleibt die methodische Grundierung.
-- Alle Rechtsgebiet-Plugins setzen die Methodenlehre dieses Plugins voraus und greifen über relative Pfade auf [`references/methodik-buergerliches-recht.md`](references/methodik-buergerliches-recht.md) zu.
+- Alle Rechtsgebiet-Plugins setzen die Methodenlehre dieses Plugins voraus und greifen über relative Pfade auf [`description`](references/methodik-buergerliches-recht.md) zu.
 
 ## Lizenz
 
@@ -132,7 +132,7 @@ Ergänzt sind Spezialskills zur Methodenehrlichkeit: Gesetzesbindung, Richterrec
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 159 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 158 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -202,7 +202,6 @@ Automatisch generierte Komplett-Liste aller 159 Skills in diesem Plugin. Beschre
 | `methodenlehre-anwaltsperspektive-argument` | Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat. Es zeigt, welche Unterlagen zur rechtlichen Durchsetzung oder Abwehr eines Anspruchs erforderlich sind, welche fehlen... |
 | `methodenlehre-anwenden` | Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch... |
 | `methodenlehre-auslegung-verhandlung-vergleich-eskalation` | Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositio... |
-| `methodenlehre-buergerliches-recht-schnellstart` | 'Kompakter Arbeitsmodus für Methodenlehre bürgerliches Recht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `methodenlehre-erstpruefung-mandatszieldefinition` | Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren. Es zeigt, wie aus dem Mandantenanliegen eine rechtlich präzise Fragestellung entwickelt wird, welche Auslegungsmetho... |
 | `methodenlehre-erstpruefung-und-mandatsziel` | Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren: Es zeigt, wie a... |
 | `methodenlehre-formulare-portale-elektronische-einreichung` | Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht. Es zeigt, wie Formularerfordernisse mit dem materiell... |

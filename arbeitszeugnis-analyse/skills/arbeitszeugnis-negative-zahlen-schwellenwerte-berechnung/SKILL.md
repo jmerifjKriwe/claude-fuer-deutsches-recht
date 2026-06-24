@@ -7,7 +7,7 @@ description: "Negative: Zahlen, Schwellenwerte und Berechnung im Arbeitszeugnisr
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -36,8 +36,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Beweislast prüfen:** § 109 GewO; BAG ständige Rechtsprechung: Note 3 ist Standard, Arbeitnehmer trägt Beweislast für 1-2, Arbeitgeber für 4-6.
-3. **Streitwert berechnen:** in der Praxis ein Bruttomonatsgehalt nach § 42 Abs. 2 GKG analog; Ansprüche auf qualifiziertes Zeugnis und auf Korrektur können kumulieren.
+2. **Beweislast prüfen:** Paragraf 109 GewO; BAG ständige Rechtsprechung: Note 3 ist Standard, Arbeitnehmer trägt Beweislast für 1-2, Arbeitgeber für 4-6.
+3. **Streitwert berechnen:** in der Praxis ein Bruttomonatsgehalt nach Paragraf 42 Abs. 2 GKG analog; Ansprüche auf qualifiziertes Zeugnis und auf Korrektur können kumulieren.
 4. **Risiko bewerten:** Note unter "befriedigend" Pflicht zur Begründung durch Arbeitgeber; Klageaussicht und Vergleichsdruck einschätzen.
-5. **Anschluss bauen:** Aufforderungsschreiben mit Fristsetzung (mindestens 2 Wochen üblich), dann ggf. Klage vor Arbeitsgericht (§§ 46 ff. ArbGG).
+5. **Anschluss bauen:** Aufforderungsschreiben mit Fristsetzung (mindestens 2 Wochen üblich), dann ggf. Klage vor Arbeitsgericht (Paragrafen 46 ff. ArbGG).
 

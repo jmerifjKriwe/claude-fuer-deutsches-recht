@@ -1,5 +1,4 @@
 # Kanzlei Management
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Ein Mega-Plugin für die Leitung einer deutschen mittelständischen Kanzlei aus Sicht des Managing Partners, der Geschäftsführung, eines Management Committees oder einer starken COO-/CFO-Rolle.
 
 Es geht um das ganze schöne, anstrengende Betriebsleben: Partnerkreis, Praxisgruppen, Cashflow, Pricing, Associate-Retention, WIP, UBT, FTE, Utilization, offene Posten, Business Development, Legal Tech, Fristen- und Qualitätsrisiken, Egos, Kultur und die Frage, wie man eine Kanzlei führt, ohne sie in ein Controlling-Museum oder einen Stuhlkreis zu verwandeln.
@@ -63,7 +63,7 @@ Managemententscheidungen bleiben Kanzleientscheidungen. Bei Vergütung und Prici
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -107,7 +107,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `fte-kapazitaetsmodell` | Baut Kapazitätsmodell nach Rollen, Teilzeit, Assistenz und Praxisgruppe. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrecht... |
 | `investment-case-tech` | Bewertet DMS-, KI-, Finance- und Legal-Ops-Investitionen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenh... |
 | `kaltstart-triage` | Executive Cockpit mit Rollen, Zahlen, Menschenrisiken und nächster Entscheidung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und ber... |
-| `kanzlei-management-schnellstart` | 'Kompakter Arbeitsmodus für Kanzlei Management. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `kanzleistrategie-3-jahre` | Realistische Strategie für Markt, Talent, Profit, Investitionen und Fokus. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrec... |
 | `karrierepfad-associate-key-account-knowledge` | Macht Erwartungen, Fachlichkeit, BD und Führung sichtbar. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenh... |
 | `key-account-management` | Baut Relationship Map, Themenpipeline und Cross-Selling-Plan. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quel... |

@@ -1,5 +1,4 @@
 # Berichtspflichten-Erlediger
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Praxisplugin für mittelständische Betriebe, die ihre Berichtspflichten nicht lieben müssen, sie aber elegant, fristgerecht und belegbar erledigen wollen. Es sammelt Pflichten aus Statistik, Steuer, Sozialversicherung, Umwelt, Produktrecht, Lieferkette, Datenschutz, Arbeitsschutz und Aufsicht in einem operativen Workflow.
 
 ## Leitplanke
@@ -47,7 +47,7 @@ Normtexte werden aus amtlichen Quellen geprüft. Rechtsprechung wird nur mit Ger
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -63,7 +63,6 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `bauwirtschaft-soka-behg` | Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation im Berichtspflichten. |
 | `behg-brennstoffemissionen` | Nationaler Brennstoffemissionshandel: Verantwortlicher, Brennstoffmengen, Emissionsbericht, Zertifikate und DEHSt im Berichtspflichten. |
 | `behoerdenkommunikation` | Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis im Berichtspflichten. |
-| `berichtspflichten-erlediger-schnellstart` | 'Kompakter Arbeitsmodus für Berichtspflichten-Erlediger. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `berichtspflichten-register-und-fristenboard` | Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht im Berichtspflichten. |
 | `bundesbank-awv-z4-z5` | Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs- und Forderungsbestände, Schwellen, Fristen und Meldebefreiungen im Berichtspflichten. |
 | `bussgeld-vermeidung-heilung` | Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, Bußgeldabwehr und Governance-Fix im Berichtspflichten. |

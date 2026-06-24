@@ -1,5 +1,4 @@
 # Fachanwalt Internationales Wirtschaftsrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin Fachanwalt für Internationales Wirtschaftsrecht. Orientierung CISG Brüssel Ia Rom I Rom II grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Außenhandel LkSG.
 
 ## Installation in der Plugin-Umgebung
@@ -47,7 +47,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 77 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -74,7 +74,6 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `fachanwalt-internationales-wirtschaftsrecht-orientierung` | Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthand... |
 | `fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit` | Vertragsparteien aus verschiedenen Laendern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4 charakteristische Leist... |
 | `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel` | Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform... |
-| `fachanwalt-internationales-wirtschaftsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Internationales Wirtschaftsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `fachanwalt-iwr-brussels-ia-zustaendigkeit` | Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit... |
 | `fachanwalt-iwr-cisg-anwendbarkeit` | Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kol... |
 | `fachanwalt-iwr-embargo-pruefung-russland` | Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse M... |
@@ -87,7 +86,7 @@ Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschrei
 | `internationales-tatbestand-beweis-und-belege` | Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage: Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `intwr-cisg-pruefraster` | Prüfraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe: Prüfraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragssch... |
 | `intwr-eu-sanktionen-trade-compliance-spezial` | Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot: Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos... |
-| `intwr-red-team-und-qualitaetskontrolle` | Intwr: Red-Team und Qualitätskontrolle: Intwr: Red-Team und Qualitätskontrolle. |
+| `intwr-red-team-und-qualitaetskontrolle` | Intwr: Red-Team und Qualitätskontrolle: Intwr: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `intwr-rom-i-ii-leitfaden` | Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art: 9 Rom I... |
 | `intwr-schiedsklausel-newyork-spezial` | Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung ausländischer Schiedssprueche, ordre public-Vorbehalt: Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wir... |
 | `invest-schutz-bit-icsid-c-284-16` | Invest Schutz Bit Icsid C 284 16: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |

@@ -1,5 +1,4 @@
 # Tabellenreview 3D
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 3D-Tabellenreview als Würfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenprüfung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz Audit-Trail Belegkette.
 
 ## Installation in der Plugin-Umgebung
@@ -66,7 +66,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -74,42 +74,42 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `anschluss-routing` | Anschluss-Routing für Tabellenreview (Excel/CSV): wählt den nächsten Spezial-Skill nach Engpass (keine harten Fristen, Excel-/CSV-Datei, Formelreview, Datenqualitätsbericht), dokumentiert Router-Entscheidung mit Begründung. |
 | `arbeitsblatt-perspektiven-definieren` | Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview definieren: Forderung, Prüfung, Stellung nach §§ 174 ff. InsO. Normen: §§ 174 ff. InsO, ZPO. Prüfraster: Forderungsaufstellung, Prüfungsraster, Gläubigerstellung. Output: Perspekt... |
 | `arbeitsblatt-schriftsatz-brief-memo-bausteine` | Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion... |
-| `arbeitsblatt-schriftsatz-brief-und-memo-bausteine` | Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `arbeitsblatt-schriftsatz-brief-und-memo-bausteine` | Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `audit-trail-protokoll` | Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchführungspflichten. Prüfraster: Zeitstempel, Prüfer-ID, Änderungshistorie, Versionierung. Output: Audit-Trail-Protokoll.... |
 | `belegkette-rueckverfolgung` | Belegkette für Forderungen und Zahlungen zurückverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Prüfraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output: Belegketten-Übersicht. Abgrenzun... |
 | `belegkette-rueckverfolgung-caching-rerun` | Belegkette für Forderungen und Zahlungen zurückverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Prüfraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output: Belegketten-Übersicht. Abgrenzun... |
 | `caching-und-teil-rerun` | Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche erneut ausführen ohne Vollneustart. Normen: technisch. Prüfraster: Cache-Status, verarbeitete Zeilen, Fehlerpunkte. Output: Rerun-Bericht mit gecachten und neu verarbeitet... |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich tabellenreview-3d: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `datenpunkt-dokument-excel-beweislast` | Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `datenpunkt-dokument-excel-beweislast` | Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `datenpunkt-dokumentenmatrix-lueckenliste` | Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sa... |
-| `dokument-behoerden-gericht-und-registerweg` | Dokument: Behörden-, Gerichts- oder Registerweg. |
+| `dokument-behoerden-gericht-und-registerweg` | Dokument: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Tabellenreview (Excel/CSV): sortiert Excel-/CSV-Datei, Formelreview, Datenqualitätsbericht, prüft Datum, Absender, Frist und Beweiswert (Quelldaten, Abstimmungen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 4... |
 | `dokumentstapel-aufnehmen` | Dokumentenstapel für 3D-Tabellenreview einlesen: PDFs, Excel-Dateien, Word-Dokumente aufnehmen. Normen: §§ 174 ff. InsO. Prüfraster: Dateiformat-Kompatibilitaet, Metadaten, Importfehler. Output: Dokumentenstapel-Inventar. Abgrenzung: nic... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Tabellenreview (Excel/CSV): ordnet Rolle (Datenverantwortlicher, Prüfer), markiert Frist (keine harten Fristen), wählt Norm (GoBD, Tax compliance) und Zuständigkeit (Finanzamt), leitet zum passenden Spezi... |
 | `erstpruefung-rollenklaerung` | Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, San... |
 | `excel-beweislast-darlegungslast` | Excel: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion... |
-| `excel-beweislast-und-darlegungslast` | Excel: Beweislast, Darlegungslast und Substantiierung. |
+| `excel-beweislast-und-darlegungslast` | Excel: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `excel-multi-kreuzblatt-konsistenzpruefung-pdf` | 3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. A... |
 | `excel-multi-sheet-export` | 3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. A... |
-| `fristen-und-risikoampel` | Fristen- und Risikoampel. |
+| `fristen-und-risikoampel` | Fristen- und Risikoampel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `gestapelt-compliance-dokumentation` | Gestapelt: Compliance-Dokumentation und Aktenvermerk: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion... |
-| `gestapelt-immobilien-massenpruefung` | Gestapelt: Compliance-Dokumentation und Aktenvermerk. |
+| `gestapelt-immobilien-massenpruefung` | Gestapelt: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `immobilien-formular-portal-einreichungslogik` | Immobilien: Formular, Portal und Einreichungslogik: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion od... |
-| `immobilien-formular-portal-und-einreichung` | Immobilien: Formular, Portal und Einreichungslogik. |
+| `immobilien-formular-portal-und-einreichung` | Immobilien: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `kaltstart-interview` | Kaltstart-Interview für den 3D-Tabellenreview: Fallkategorie, Tabellengrösse, Prüfzweck erfassen. Normen: §§ 174 ff. InsO, HGB. Prüfraster: Zweck, Datenlage, Perspektivenwahl, Exportformat. Output: Konfigurationsdokument für 3D-Review-St... |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Tabellenreview 3d-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokum... |
 | `kreuzblatt-konsistenzpruefung` | Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forderung-Prüfung-Stellung auf Widerspruchsfreiheit. Normen: §§ 174 ff. InsO. Prüfraster: Betragsabweichungen, Statusinkonsistenzen, fehlende Eintraege. Output: Konsistenz-Prüfb... |
 | `mandantenkommunikation` | Mandantenkommunikation im Bereich tabellenreview-3d: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `massenpruefung-interessen` | Massenpruefung: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sank... |
-| `massenpruefung-mehrparteien-konflikt-und-interessen` | Massenpruefung: Mehrparteienkonflikt und Interessenmatrix. |
+| `massenpruefung-mehrparteien-konflikt-und-interessen` | Massenpruefung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mehrblatt-sonderfall-edge-case` | Mehrblatt: Sonderfall und Edge-Case-Prüfung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verf... |
-| `mehrblatt-sonderfall-onboarding-perspektiven` | Mehrblatt: Sonderfall und Edge-Case-Prüfung. |
+| `mehrblatt-sonderfall-onboarding-perspektiven` | Mehrblatt: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `onboarding-mandantenkommunikation` | Onboarding: Mandantenkommunikation und Entscheidungsvorlage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sa... |
-| `onboarding-mandantenkommunikation-entscheidungsvorlage` | Onboarding: Mandantenkommunikation und Entscheidungsvorlage. |
+| `onboarding-mandantenkommunikation-entscheidungsvorlage` | Onboarding: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `output-waehlen` | Output-Wahl für Tabellenreview (Excel/CSV): stimmt Adressat (Datenverantwortlicher, Prüfer), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Pivot-Analyse, Drei-Dimensional-Review (Struktur, Inhalt, Formel), Mä... |
 | `pdf-bericht-erzeugen` | 3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabellen, Risikoampeln. Normen: §§ 174 ff. InsO. Prüfraster: Vollständigkeit Berichtinhalte, Layout, Signaturfeld. Output: PDF-Bericht 3D-Tabellenreview. Abgrenzung: nicht Exc... |
 | `perspektiven-verhandlung-vergleich-eskalation` | Perspektiven: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion o... |
-| `perspektiven-verhandlung-vergleich-und-eskalation` | Perspektiven: Verhandlung, Vergleich und Eskalation. |
+| `perspektiven-verhandlung-vergleich-und-eskalation` | Perspektiven: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `professional-review-sheet` | Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `professional-review-tabellenreview-vendor-red-team-korrektur` | Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Tabellenreview 3d. |
 | `prompt-versionierung` | Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Änderungsprotokoll, aktive Version. Output: Prompt-Versionsprotokoll. Abgrenzung:... |
@@ -120,14 +120,13 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `review-durchfuehren` | 3D-Tabellenreview konkret durchführen: jede Zeile in allen drei Perspektiven prüfen und bewerten. Normen: §§ 174 ff. 176 InsO. Prüfraster: Forderungshoehe, Prüfergebnis je Spalte, Risikoampel, Ausnahmekennzeichnung. Output: Ausgefuellte... |
 | `risikoampel-aggregation` | Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb/gruen je Dimension. Normen: §§ 174 ff. InsO. Prüfraster: Ampellogik, Schwellenwerte, Gesamtrisikoeinschaetzung. Output: Risikoampel-Aggregationsbericht. Abgrenzung: nicht K... |
 | `spaltenprompts-definieren` | Spaltenprompts für die drei Prüfperspektiven des 3D-Tabellenreviews definieren. Normen: §§ 174 ff. InsO. Prüfraster: Prompt-Formulierung je Spalte, Normverankerung, Eindeutigkeit. Output: Spaltenprompts-Dokument. Abgrenzung: nicht Zeilen... |
-| `spaltenprompts-fristen-form-und-zustaendigkeit` | Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `spaltenprompts-fristen-form-und-zustaendigkeit` | Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `spaltenprompts-fristen-form-zustaendigkeit` | Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, San... |
 | `spezial-steuer-livequellen-und-rechtsprechungscheck` | Steuer: Livequellen- und Rechtsprechungscheck. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Tabellenreview 3d-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokum... |
 | `steuer-quellenkarte` | Steuer Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `tabellenreview-3d-schnellstart` | 'Kompakter Arbeitsmodus für Tabellenreview 3D. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `tabellenreview-dokument-behoerden-gerichts-registerweg` | Dokument: Behörden-, Gerichts- oder Registerweg: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen. |
-| `tabellenreview-erstpruefung-und-mandatsziel` | Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `tabellenreview-erstpruefung-und-mandatsziel` | Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `tr3d-bestreitensgruende-leitfaden` | Leitfaden Bestreitensgruende systematisch: dem Grunde, der Hoehe, dem Rang, Verjährung, Aufrechnung. Prüfraster für Tabellenpruefer. |
 | `tr3d-feststellungsklage-tabellenfeststellung` | Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Prüfraster für Gläubiger und Insolvenzverwalter. |
 | `tr3d-feststellungsklage-tabellenfeststellung-spezial` | Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Prüfraster für Gläubiger und Insolvenzverwalter im Tabellenreview 3d. |
@@ -136,23 +135,23 @@ Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschrei
 | `tr3d-pruefkategorien-vorlage-vendor-wuerfel` | Bauleiter Prüfkategorien für Insolvenztabellenreview: Forderungsgrund, Bewertung, Bestreitenshistorie, Verteilungsquote. Prüfraster für drei-dimensionalen Aufbau im Tabellenreview 3d. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Tabellenreview (Excel/CSV): trennt fehlende Tatsachen von fehlenden Belegen (Excel-/CSV-Datei, Formelreview, Datenqualitätsbericht), nennt pro Lücke Beweisthema, Beschaffungsweg (Finanzamt), Frist und Er... |
 | `vendor-fehlerkatalog` | Vendor Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `vendor-red-team-und-qualitaetskontrolle` | Vendor: Red-Team und Qualitätskontrolle. |
+| `vendor-red-team-und-qualitaetskontrolle` | Vendor: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `vertragsstapel-internationaler-bezug` | Vertragsstapel: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sankt... |
-| `vertragsstapel-vorlage-arbeitsvertrag` | Vertragsstapel: Internationaler Bezug und Schnittstellen. |
+| `vertragsstapel-vorlage-arbeitsvertrag` | Vertragsstapel: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `vorlage-arbeitsvertrag-portfolio` | Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen im 3D-Format: Forderung/Prüfung/Stellung. Normen: BGB, KSchG, ArbZG. Prüfraster: Vertragsbedingungen, Klauselgueltigkeit, HR-Compliance. Output: Arbeitsvertrag-Portfolio-Tabelle.... |
 | `vorlage-immobilien-portfolio` | Vorlagetabelle für Portfolio-Review von Immobilienvertraegen im 3D-Format. Normen: §§ 535 ff. BGB, WEG, GrEStG. Prüfraster: Miete, Grundbuch, steuerliche Belastung, Instandhaltung. Output: Immobilien-Portfolio-Tabelle. Abgrenzung: nicht... |
 | `vorlage-ma-arbeitsblatt-perspektiven-audit` | Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, AktG, HGB, InsO. Prüfraster: Vertragsrisiken, Haftungsuebernahme, steuerliche Lasten. Output: Due-Diligence-Tabelle für... |
 | `vorlage-ma-due-diligence` | Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, AktG, HGB, InsO. Prüfraster: Vertragsrisiken, Haftungsuebernahme, steuerliche Lasten. Output: Due-Diligence-Tabelle für... |
 | `vorlage-vendor-onboarding-3d` | Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Vertrag, Compliance, Leistung. Normen: BGB, UWG, GWB. Prüfraster: Vertragskonformität, Compliance-Status, Leistungsindikatoren. Output: Vendor-Onboarding-Prüftabelle. Abgrenz... |
-| `wirtschaft-wuerfel-zeilenprompts` | Wirtschaft: Zahlen, Schwellenwerte und Berechnung. |
+| `wirtschaft-wuerfel-zeilenprompts` | Wirtschaft: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `wirtschaft-zahlen-schwellenwerte-berechnung` | Wirtschaft: Zahlen, Schwellenwerte und Berechnung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion ode... |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `wuerfel-aufbauen` | 3D-Wuerfelstruktur für den Tabellenreview aufbauen: Zeilen, Spalten, Perspektiven verknuepfen. Normen: §§ 174 ff. InsO. Prüfraster: Dimensionen-Vollständigkeit, Verknuepfungslogik, Konfiguration. Output: Wuerfelkonfigurationsdokument. Ab... |
-| `wuerfel-tatbestand-beweis-und-belege` | Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `wuerfel-tatbestand-beweis-und-belege` | Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `wuerfel-tatbestandsmerkmale-beweisfragen` | Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sankt... |
 | `zeilenprompts-definieren` | Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren: Normen: §§ 174 ff. InsO. Prüfraster: Prompt-Formulierung je Zeilentyp, Normverankerung, Eindeutigkeit. Outp... |
 | `zeilenprompts-risikoampel-gegenargumente` | Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahl... |
-| `zeilenprompts-risikoampel-und-gegenargumente` | Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `zeilenprompts-risikoampel-und-gegenargumente` | Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -1,5 +1,4 @@
 # Internal Investigations Praxis
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist für die gefährliche Zone zwischen Compliance-Aufklärung, Arbeitsrecht, Datenschutz, Strafverfahren, Berufsrecht und Mandatsstrategie. Es hilft, eine interne Untersuchung so aufzusetzen, dass sie Erkenntnis bringt, ohne ungewollt einen perfekten Aktenordner für Staatsanwaltschaft, Gegenseite oder US-Discovery zu bauen.
 
 ## Kaltstart
@@ -42,7 +42,7 @@ Keine Rechtsberatung. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und fr
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -76,7 +76,6 @@ Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschre
 | `honeypot-legal` | Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird im Internal Investigations Praxis. |
 | `hr-misconduct` | Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung im Internal Investigations Praxis. |
 | `insurance-press` | Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien im Internal Investigations Praxis. |
-| `internal-investigations-praxis-schnellstart` | 'Kompakter Arbeitsmodus für Internal Investigations Praxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `inv-001-auftrag-scope` | Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie moeglich und so belastbar wie noetig. |
 | `inv-002-honeypot-risiko` | Prueft, ob die Investigation ungewollt einen fertigen Beweisordner fuer Strafverfolger, Behoerden oder Gegner erzeugt. |
 | `inv-003-legal-hold` | Steuert Legal Hold, Datenfreeze, E-Mail, Chat, Geräte, Cloud, Backups und Chain of Custody. |

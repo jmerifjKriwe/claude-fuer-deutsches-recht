@@ -1,5 +1,4 @@
 # Luftrecht und Flughafenrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin deckt ziviles und öffentliches Luftrecht ab: Luftfahrzeug, Flughafen, Betriebsgenehmigung, LBA, Luftsicherheit, Slots, Flugzeugfinanzierung, Registerpfandrechte, Pfändung, Airline-Krise und internationale Bezüge.
 
 ## Start
@@ -46,7 +46,7 @@ Beginne mit `luftrecht-flughafenrecht-allgemein`. Das Plugin fragt zuerst nach R
 
 ## Quellenhygiene
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
+Siehe [`description`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
 
 ## Lizenz
 
@@ -56,7 +56,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 240 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 239 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -273,7 +273,6 @@ Automatisch generierte Komplett-Liste aller 240 Skills in diesem Plugin. Beschre
 | `luftfracht-register-auswerten` | Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahrgut-Deklarationen auswerten. Prüft LuftVG Frachtfuehrer-Zulassung IATA DGR Deklarationspflichten Montreal Convention und liefert Compliance-Status-Bericht im Luftrecht Flu... |
 | `luftfracht-sicherheitsauflage-bewerten` | Luftfrachtfuehrer oder Spediteur erhaelt LuftSiG oder EU-Luftsicherheits-Auflage. Prüft LuftSiG § 9 Sicherheitsprogramm EU-DVO 2015/1998 EU-VO 300/2008 Findings-Kategorien und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Pla... |
 | `luftfracht-zustaendigkeit-pruefen` | Luftfracht-Mandat: unklar welche Behörde zuständig ist LBA EASA Zollbehoerde oder Luftsicherheitsbehoerde. Prüft LuftVG Montreal Convention Art. 18 IATA-Frachtregeln Zollrecht und liefert Zuständigkeits-Vermerk für Luftfracht-Streit oder... |
-| `luftrecht-flughafenrecht-schnellstart` | 'Kompakter Arbeitsmodus für Luftrecht und Flughafenrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `luftsicherheit-luftsig` | Flughafen oder Airline klaert Sicherheitspflichten oder fechtet LuftSiG-Bescheid an. Prüft LuftSiG §§ 1-9 Sicherheitsplan Kontrollpflichten EU-DVO 2015/1998 Sicherheitsprogramm und Rechtsschutz gegen Auflagen und liefert Compliance-Check... |
 | `luftvg-anwendungsbereich` | Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgelände ausländische Airline auf deutschem Flughafen. Prüft §§ 1 und 6 LuftVG Hoheitsgebiet/Luftfahrzeugbegriff Chicagoer Abkommen Art. 1 sowie EASA Basic Regulatio... |
 | `passagierrechte-schnittstelle` | Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prüft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rec... |

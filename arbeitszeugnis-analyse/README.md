@@ -1,5 +1,4 @@
 # Arbeitszeugnis-Analyse (Ampelsystem)
-Wenn du das hier oeffnest, willst du eine Kuendigung rechtssicher angreifen oder aussprechen und die Klagefrist sichern.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -21,6 +20,8 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
+
+Wenn du das hier öffnest, willst du ein deutsches Arbeitszeugnis nach dem Ampelsystem decodieren, die versteckte Gesamtnote bestimmen und entscheiden, ob sich ein Berichtigungsverlangen oder eine Zeugnisklage lohnt.
 
 Dieses Plugin analysiert deutsche Arbeitszeugnisse nach dem Ampelsystem (Rot/Orange/Grün). Es decodiert den Geheimcode der deutschen Zeugnissprache, identifiziert notenrelevante Sätze und klassifiziert sie mit vollständiger Interpretation der versteckten Bewertung.
 
@@ -66,7 +67,7 @@ Die wichtigsten Skills sind alphabetisch geordnet; die vollständige automatisch
 | `/arbeitszeugnis-analyse:negative-codeworte-katalog` | Erweiterter Katalog negativer Codeworte: Alkohol, Krankheit, Diebstahl, Konflikte, Loyalität |
 | `/arbeitszeugnis-analyse:notenrelevante-saetze-identifizieren` | Trennung notenrelevanter Sätze von neutralen Aufgabenbeschreibungen |
 | `/arbeitszeugnis-analyse:orange-flaggen-katalog` | Schwache positive Formulierungen, Note 3, fehlende Steigerungen |
-| `/arbeitszeugnis-analyse:rechtliche-bewertung-bag-rechtsprechung` | § 109 GewO, BAG-Rechtsprechung, Beweislast, Zeugnisklage |
+| `/arbeitszeugnis-analyse:rechtliche-bewertung-bag-rechtsprechung` | Paragraf 109 GewO, BAG-Rechtsprechung, Beweislast, Zeugnisklage |
 | `/arbeitszeugnis-analyse:rote-flaggen-katalog` | Klassische Warnsignale: "bemüht", "im Großen und Ganzen", Note 4-5 |
 | `/arbeitszeugnis-analyse:satzweise-notenmatrix` | Satz-für-Satz-Notenzuweisung von eins bis fünf mit Themenbereich — Datenbasis für Drift |
 | `/arbeitszeugnis-analyse:schlussformel-bewertung` | Bedauern, Dank, Zukunftswünsche — Signalwirkung, Ton und rechtliche Durchsetzbarkeit getrennt |
@@ -115,8 +116,8 @@ Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
 
 ## Rechtsgrundlagen
 
-- **§ 109 GewO** — Zeugnisanspruch: Anspruch auf einfaches oder qualifiziertes Zeugnis, Wahrheitspflicht, Wohlwollensgebot
-- **§ 16 BBiG** — Zeugnisanspruch für Auszubildende
+- **Paragraf 109 GewO** — Zeugnisanspruch: Anspruch auf einfaches oder qualifiziertes Zeugnis, Wahrheitspflicht, Wohlwollensgebot
+- **Paragraf 16 BBiG** — Zeugnisanspruch für Auszubildende
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kein Ersatz für anwaltliche Beratung. Für die gerichtliche Geltendmachung eines Zeugnisberichtigungsanspruchs ist die Beauftragung eines Rechtsanwalts empfohlen.
@@ -125,13 +126,12 @@ Kein Ersatz für anwaltliche Beratung. Für die gerichtliche Geltendmachung eine
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `ampelsystem-tabellenausgabe` | Erstellt die standardisierte Ampel-Ausgabetabelle für analysierte Arbeitszeugnisse. Anwendungsfall Zeugnisanalyse ist abgeschlossen und Ergebnis soll in einheitlicher Tabelle mit Satz Ampel Bewertung Notentendenz und Begründung dargestel... |
 | `arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste` | Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und d... |
-| `arbeitszeugnis-analyse-schnellstart` | 'Kompakter Arbeitsmodus für Arbeitszeugnis-Analyse (Ampelsystem). Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `arbeitszeugnis-codeworte-compliance-dokumentation-aktenvermerk` | Codeworte: Compliance-Dokumentation und Aktenvermerk im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nu... |
 | `arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen` | Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und dir... |
 | `arbeitszeugnis-geheimcodes-schriftsatz-brief-memo-bausteine` | Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nu... |
@@ -141,21 +141,21 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation` | Schaufenster: Verhandlung, Vergleich und Eskalation im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nut... |
 | `arbeitszeugnis-zeugnisanalyse-wortlaut-codes` | Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und d... |
 | `aufforderungsschreiben-arbeitgeber` | Außergerichtliches Berichtigungsverlangen an den Arbeitgeber. Aufbau mit Mandatsanzeige, konkreter Beanstandung pro Streitstelle (Wortlaut alt, Wortlaut neu, Begründung mit BAG-Rechtsprechung und Geheimcode-Hinweis), Fristsetzung, Klagea... |
-| `azubi-zeugnis-analyse` | Analyse von Ausbildungszeugnissen nach § 16 BBiG bei Zeugnisstreit oder Berichtigungsverlangen. Anwendungsfall Auszubildender hat Ausbildungszeugnis erhalten das er für schlecht haelt. Normen § 16 BBiG Zeugnispflicht § 109 GewO analog. P... |
+| `azubi-zeugnis-analyse` | Analyse von Ausbildungszeugnissen nach Paragraf 16 BBiG bei Zeugnisstreit oder Berichtigungsverlangen. Anwendungsfall Auszubildender hat Ausbildungszeugnis erhalten das er für schlecht hält. Normen Paragraf 16 BBiG Zeugnispflicht Paragra... |
 | `bereichs-drift-detektor` | Erkennt das Schaufenster-Pattern in Arbeitszeugnissen: einzelne Spitzensaetze suggerieren Note eins, waehrend benachbarte Saetze zum selben Themenbereich nur Note drei tragen. Tracked Drift pro Themenbereich (Fachkenntnisse, Arbeitsweise... |
-| `branchen-spezifische-formulierungen` | Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur praezisen Noteneinordnung. Anwendungsfall Zeugnis enthaelt Formulierungen die nur im Kontext einer bestimmten Branche verstaendlich sind. Branchen Vertrieb (Umsatz Zieler... |
+| `branchen-spezifische-formulierungen` | Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur präzisen Noteneinordnung. Anwendungsfall Zeugnis enthält Formulierungen die nur im Kontext einer bestimmten Branche verständlich sind. Branchen Vertrieb (Umsatz Zielerrei... |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix für Arbeitszeugnisse: Tätigkeitsverlauf, Leistungs-/Führungsbelege, Entwurfsstände, Schlussformel, Geheimcodes und Arbeitgeberkommunikation gerichtsfest ordnen. |
 | `dokumente-intake` | Dokumentenintake für Arbeitszeugnis-Analyse: sortiert Erstes Zeugnis, Berichtigungszeugnis, Zwischenzeugnis, prüft Datum, Absender, Frist und Beweiswert (Leistungsbeurteilungen, E-Mail-Verkehr HR); markiert Lücken; berücksichtigt Mandats... |
 | `drift-quellenkarte` | Drift Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `einstieg-routing` | Einstieg, Triage und Routing für Arbeitszeugnis-Analyse: ordnet Rolle (Mandant/Arbeitnehmer, Arbeitgeber/HR, Vorgesetzte), markiert Frist (BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung), wählt Norm (§ 109 GewO Wohlwollensgrundsatz, § 1... |
-| `erstgespraech-und-mandatsannahme` | Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhaelt Zeugnis das er für mangelhaft haelt und sucht anwaltliche Hilfe. Normen § 109 GewO Anspruch auf qualifizie... |
+| `einstieg-routing` | Einstieg, Triage und Routing für Arbeitszeugnis-Analyse: ordnet Rolle (Mandant/Arbeitnehmer, Arbeitgeber/HR, Vorgesetzte), markiert Frist (BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung), wählt Norm (Paragraf 109 GewO Wohlwollensgrundsa... |
+| `erstgespraech-und-mandatsannahme` | Mandatsannahme im Zeugnisrecht mit Erstgespräch Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhält Zeugnis das er für mangelhaft hält und sucht anwaltliche Hilfe. Normen Paragraf 109 GewO Anspruch auf qualif... |
 | `erstpruefung-rollenklaerung-mandatsziel` | Analyse: Erstprüfung, Rollenklärung und Mandatsziel im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nut... |
-| `fristen-und-risikoampel` | Fristen- und Risikoampel im Arbeitszeugnisrecht: GewO § 109, BGB §§ 195/199 sowie 241 Abs. 2 und 280; arbeitsvertragliche Ausschlussfristen und ArbGG-Fristen aktenbasiert sortieren, ohne unnötige Rückfragen. |
+| `fristen-und-risikoampel` | Fristen- und Risikoampel im Arbeitszeugnisrecht: GewO Paragraf 109, BGB Paragrafen 195/199 sowie 241 Abs. 2 und 280; arbeitsvertragliche Ausschlussfristen und ArbGG-Fristen aktenbasiert sortieren, ohne unnötige Rückfragen. |
 | `geheimcode-katalog` | Zentraler Referenzkatalog aller Standardformulierungen im deutschen Arbeitszeugnis mit Ampelzuordnung. Anwendungsfall Anwalt oder Arbeitnehmer will eine Zeugnisformulierung einordnen und weiss nicht ob sie positiv neutral oder negativ ko... |
-| `gesamtnoten-aggregation` | Aggregiert Einzelbewertungen aus Leistungs- Verhaltens- und Schlussformel-Analyse zur Gesamtnote. Anwendungsfall alle Einzelsaetze sind analysiert und eine gewichtete Gesamtnote soll bestimmt werden. Normen § 109 GewO Gesamteindruck BAG-... |
+| `gesamtnoten-aggregation` | Aggregiert Einzelbewertungen aus Leistungs- Verhaltens- und Schlussformel-Analyse zur Gesamtnote. Anwendungsfall alle Einzelsaetze sind analysiert und eine gewichtete Gesamtnote soll bestimmt werden. Normen Paragraf 109 GewO Gesamteindru... |
 | `gruen-flaggen-katalog` | Katalog starker positiver Formulierungen im Arbeitszeugnis, die auf Note 1 oder Note 2 hindeuten. Umfasst Superlative, vollständige Zufriedenheitsformeln und alle grünen Ampelsignale mit Notentendenz und Begründung. |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Workflow-Steuerung für das Arbeitszeugnis-Analyse-Plugin. Erkennt Zeugnisart, Ziel, Fristen, Rollen und Streitniveau, schlägt passende Fachmodule aus diesem Plugin vor und führt vom ersten Upload bis zu Mandan... |
-| `klage-strategie-zeugnisberichtigung` | Strategie und Antragsformulierungen für die Zeugnisberichtigungsklage vor dem Arbeitsgericht. Anwendungsfall außergerichtliches Berichtigungsverlangen ist gescheitert und Klage soll eingereicht werden. Normen § 109 GewO Berichtigungsansp... |
+| `klage-strategie-zeugnisberichtigung` | Strategie und Antragsformulierungen für die Zeugnisberichtigungsklage vor dem Arbeitsgericht. Anwendungsfall außergerichtliches Berichtigungsverlangen ist gescheitert und Klage soll eingereicht werden. Normen Paragraf 109 GewO Berichtigu... |
 | `leistungsbeurteilung-analyse` | Analysiert Sätze zur Arbeitsqualität, Arbeitsbereitschaft, Arbeitsweise, Arbeitstempo und Belastbarkeit im Arbeitszeugnis. Decodiert Formulierungen wie 'stets sorgfältig', 'bemüht' oder 'im Wesentlichen' und ordnet sie dem Ampelsystem zu. |
 | `leitende-positionen-zeugnisse` | Analyse von Arbeitszeugnissen für Führungskräfte und leitende Angestellte. Besondere Formulierungen zu Mitarbeiterführung, Personalentwicklung, strategischer Verantwortung und Repräsentation. Fehlende Führungsbausteine als Ampelsignale. |
 | `mandantenbericht-zeugnisanalyse` | Schriftlicher Ergebnisbericht an den Arbeitnehmer nach abgeschlossener Ampelanalyse. Strukturierter Aufbau in Gesamtnote, Befund pro Themenbereich, kritische Geheimcodes und Drift-Stellen, rechtliche Einordnung, Erfolgsaussichten, drei H... |
@@ -164,20 +164,20 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `muster-arbeitszeugnis-note-1` | Vollständiges Musterarbeitszeugnis Note 1 als Referenzdokument für Vergleich und Berichtigung. Anwendungsfall Anwalt oder Mandant will wissen wie ein optimales Zeugnis aussieht. Alle Kernbausteine in grüner Formulierung: Kopfdaten, Aufga... |
 | `negationen-und-auslassungen-erkennen` | Erkennt fehlende Pflichtaussagen im Arbeitszeugnis: Was nicht gesagt wird, ist oft entscheidend. Prüft Checkliste auf fehlende Loyalität, Ehrlichkeit, Pünktlichkeit und andere Standardaussagen und bewertet Auslassungen nach Ampelsystem. |
 | `negative-codeworte-katalog` | Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeutung. Erfasst die thematischen Cluster Alkohol und Suchtmittel, Krankheitshaeufung, Konflikte, Diebstahl und Vertrauensbruch, mangelnde Loyalitaet, schwierige Persoenlichke... |
-| `notenrelevante-saetze-identifizieren` | Identifiziert notenrelevante Saetze im Arbeitszeugnis und trennt sie von neutralen Aufgabenbeschreibungen. Anwendungsfall Zeugnis liegt vor und muss für Ampelanalyse vorbereitet werden. Normen § 109 GewO Inhalte eines qualifizierten Zeug... |
+| `notenrelevante-saetze-identifizieren` | Identifiziert notenrelevante Saetze im Arbeitszeugnis und trennt sie von neutralen Aufgabenbeschreibungen. Anwendungsfall Zeugnis liegt vor und muss für Ampelanalyse vorbereitet werden. Normen Paragraf 109 GewO Inhalte eines qualifiziert... |
 | `orange-flaggen-katalog` | Katalog schwacher positiver Formulierungen im Arbeitszeugnis, die auf Note 3 hindeuten. Umfasst alle Orange-Signale: fehlende Steigerungsadverbien, eingeschränkte Lobesformeln und strukturelle Abschwächungen mit Notentendenz Note 3. |
 | `output-waehlen` | Output-Wahl für Arbeitszeugnis-Analyse: stimmt Adressat (Mandant/Arbeitnehmer, Arbeitgeber/HR, Vorgesetzte), Frist (BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung) und Form auf den Zweck ab — typische Outputs: Notenmatrix, Geheimcode-Be... |
-| `rechtliche-bewertung-bag-rechtsprechung` | Rechtliche Einordnung von Zeugnisansprüchen nach § 109 GewO und BAG-Rechtsprechung für die anwaltliche Praxis. Anwendungsfall Anwalt benoetigt Beweislastverteilung und Rechtsgrundlagen für Zeugnisstreit oder Klagebegründung. Normen § 109... |
+| `rechtliche-bewertung-bag-rechtsprechung` | Rechtliche Einordnung von Zeugnisansprüchen nach Paragraf 109 GewO und BAG-Rechtsprechung für die anwaltliche Praxis. Anwendungsfall Anwalt benötigt Beweislastverteilung und Rechtsgrundlagen für Zeugnisstreit oder Klagebegründung. Normen... |
 | `rote-flaggen-katalog` | Katalog klassischer roter Warnsignale im deutschen Arbeitszeugnis: Formulierungen, die trotz positiv klingendem Wortlaut eine schlechte Beurteilung kodieren. Umfasst alle Note-4- und Note-5-Signale mit Erklärung und Alternativformulierun... |
-| `satzweise-notenmatrix` | Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen § 109 GewO Bewertungsmaßstab BAG-Linie zur Zeugn... |
-| `schlussformel-bewertung` | Prüfungslinie für schlussformel bewertung im Arbeitszeugnis-Analyse. |
-| `steigerungsadverbien-katalog` | Vollständige Referenzliste aller Steigerungsadverbien der Zeugnissprache mit Notenwert. Ein Adverb fehlt, eine Note faellt. Trennt echte Steigerer (stets, jederzeit, vollkommen, hoechst) von scheinbaren Steigerern (regelmäßig, ueberwiege... |
+| `satzweise-notenmatrix` | Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen Paragraf 109 GewO Bewertungsmaßstab BAG-Linie zu... |
+| `schlussformel-bewertung` | Prüfungslinie für schlussformel bewertung im Arbeitszeugnis-Analyse. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `steigerungsadverbien-katalog` | Vollständige Referenzliste aller Steigerungsadverbien der Zeugnissprache mit Notenwert. Ein Adverb fehlt, eine Note fällt. Trennt echte Steigerer (stets, jederzeit, vollkommen, höchst) von scheinbaren Steigerern (regelmäßig, überwiegend,... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Arbeitszeugnis-Analyse: trennt fehlende Tatsachen von fehlenden Belegen (Erstes Zeugnis, Berichtigungszeugnis, Zwischenzeugnis), nennt pro Lücke Beweisthema, Beschaffungsweg (Arbeitsgericht), Frist und E... |
 | `verbesserungsvorschlaege-formulieren` | Formuliert konkrete Verbesserungsvorschläge für orange und rote Zeugnissätze. Zeigt, wie aus einer Note-4-Formulierung eine Note-2-Formulierung wird — mit Gegenüberstellung Original/Vorschlag und Begründung der sprachlichen Änderung. |
 | `verhaltensbeurteilung-analyse` | Analysiert Verhaltensbeurteilungen im Arbeitszeugnis: Verhalten zu Vorgesetzten, Kollegen und Kunden. Decodiert die Reihenfolge der Genannten, Qualifikationswörter und die Bedeutung von Auslassungen als versteckte Signale. |
 | `widerspruechliche-bewertungen` | Erkennt und kommentiert Widersprüche im Arbeitszeugnis: wenn Leistungsteil grün, aber Schlussformel rot ist, oder wenn Einzelsätze sich inhaltlich ausschließen. Erklärt die Signalwirkung von Widersprüchen auf potenzielle neue Arbeitgeber. |
-| `zeugnis-problem-sortieren` | Allgemeiner Startskill für Arbeitszeugnisse, wenn der Nutzer nur ein komisches Gefuehl, ein PDF, einen Screenshot oder eine unsortierte Frage hat. Klaert Problem, Zeugnisart, Ziel, Frist, Kontext, Belege und naechsten Arbeitsweg. |
-| `zeugnis-ueberblick-extraktion` | Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen für Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen für Akte und Analyse erfasst werden. Normen § 109 GewO Pflichtinhalt § 16 BBiG Ausbil... |
+| `zeugnis-problem-sortieren` | Allgemeiner Startskill für Arbeitszeugnisse, wenn der Nutzer nur ein komisches Gefuehl, ein PDF, einen Screenshot oder eine unsortierte Frage hat. Klaert Problem, Zeugnisart, Ziel, Frist, Kontext, Belege und nächsten Arbeitsweg. |
+| `zeugnis-ueberblick-extraktion` | Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen für Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen für Akte und Analyse erfasst werden. Normen Paragraf 109 GewO Pflichtinhalt Paragraf... |
 | `zeugnisart-erkennung` | Unterscheidet qualifiziertes Endzeugnis einfaches Zeugnis Zwischenzeugnis und Ausbildungszeugnis am Beginn jeder Analyse. Anwendungsfall Zeugnis liegt vor und muss bevor Analyse startet der richtigen Zeugnisart zugeordnet werden. Normen... |
 | `zufriedenheitsformel-decodierung` | Decodiert die fünfstufige Zufriedenheitsformel deutscher Arbeitszeugnisse: von Note 1 bis Note 5. Tabellarische Ampelzuordnung aller Standardformulierungen mit Erklärung der sprachlichen Feinheiten und ihrer rechtlichen Bedeutung. |
 

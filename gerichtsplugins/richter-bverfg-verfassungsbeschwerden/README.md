@@ -1,5 +1,4 @@
 # BVerfG Vorprüfung Verfassungsbeschwerden
-Wenn du das hier oeffnest, willst du eine Grundrechtsruege zulaessig und schluessig begruenden.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du eine Grundrechtsruege zulässig und schlüssig begründen.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
 > **Kritisch — Hochrisiko-KI und Art. 22 DSGVO beachten.** Der Einsatz von KI in der Rechtspflege ist nach Art. 6 Abs. 2 in Verbindung mit Anhang III Nr. 8 Buchstabe a der KI-Verordnung (VO (EU) 2024/1689) grundsätzlich **Hochrisiko-KI**. Die Rückausnahme des Art. 6 Abs. 3 KI-VO greift nur bei rein vorbereitender Tätigkeit ohne Subsumtion; auch dann besteht Registrierungspflicht nach Art. 49 Abs. 2 KI-VO. Eine Entscheidung mit rechtlicher Wirkung über Menschen darf nicht einer Maschine überlassen werden (Art. 22 DSGVO) — die richterliche Letztentscheidung liegt zwingend beim Menschen. Einzelheiten unten unter „Wichtiger Hinweis vor Verwendung".
@@ -32,7 +32,7 @@ Wissenschaftlicher Mitarbeiter oder Berichterstatter in einer Kammer beider Sena
 
 ## Rechtsrahmen
 
-GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
+GG, BVerfGG, BVerfGGO, Geschäftsordnung BVerfG
 
 ## Inhalt
 
@@ -47,11 +47,11 @@ GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
 - **02-substantiierungs-pruefung-paragraf-92** — Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten Rechts, Sachverhaltsdarstellung, Ausein
 - **03-rechtswegerschoepfung-paragraf-90-abs-2** — Rechtswegerschoepfung Paragraf 90 Abs. 2 BVerfGG: vollständige Erschoepfung des fachgerichtlichen Instanzenzugs, Nichtz
 - **04-subsidiaritaet-und-frist** — Materielle Subsidiaritaet (zumutbare anderweitige Abhilfe, prozessuale Obliegenheiten), Beschwerdefrist Paragraf 93 BVer
-- **05-grundrechtsdogmatik-pruefen** — Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken, Schranke
-- **06-fachgerichtliche-entscheidung-pruefen** — Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher Massstaebe,
-- **07-kammer-und-senat-zustaendigkeit** — Zuständigkeit Kammer (drei Richter) Paragraf 93b BVerfGG vs. Senatszuständigkeit, Annahmebeschluss durch Kammer, Senat
+- **05-grundrechtsdogmatik-prüfen** — Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken, Schranke
+- **06-fachgerichtliche-entscheidung-prüfen** — Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher Massstaebe,
+- **07-kammer-und-senat-zuständigkeit** — Zuständigkeit Kammer (drei Richter) Paragraf 93b BVerfGG vs. Senatszuständigkeit, Annahmebeschluss durch Kammer, Senat
 - **08-votum-wissenschaftlicher-mitarbeiter** — Strukturiertes Votum: Sachverhalt verkuerzt, Prüfungspunkte Zulässigkeit (Frist Substantiierung Rechtsweg Subsidiarita
-- **09-nichtannahmebeschluss-entwurf** — Nichtannahmebeschluss Paragraf 93d Abs. 1 BVerfGG: ohne Begründung, mit Kurzbegründung, mit ausfuehrlicher Begründung
+- **09-nichtannahmebeschluss-entwurf** — Nichtannahmebeschluss Paragraf 93d Abs. 1 BVerfGG: ohne Begründung, mit Kurzbegründung, mit ausführlicher Begründung
 - **10-entscheidungsvorschlag-kammer-bverfg** — Strukturierter Entscheidungsvorschlag für die Kammer: Annahme oder Nichtannahme, ggf. Vorlage an den Senat, ggf. einstw
 
 ## Wichtiger Hinweis vor Verwendung
@@ -87,7 +87,7 @@ Viele Gerichte werden externe Cloud-Dienste auf absehbare Zeit nicht produktiv e
 
 ### Verwendung auf eigene Gefahr
 
-Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu prüfen — und kann auch zu dem Ergebnis fuehren, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
+Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu prüfen — und kann auch zu dem Ergebnis führen, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
 
 ## Quellenhygiene
 

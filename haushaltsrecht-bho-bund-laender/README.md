@@ -1,5 +1,4 @@
 # Haushaltsrecht BHO Bund und Länder
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin macht Haushaltsrecht verständlich und bedienbar: vom ersten Blick in Einzelplan und Titel bis zur haushaltsrechtlichen Szenario-Umschichtung, Wirtschaftlichkeitsprüfung, Sondervermögen-Logik und Dashboard.
 
 ## Start
@@ -46,7 +46,7 @@ Beginne mit `haushaltsrecht-bho-bund-laender-allgemein`. Das Plugin fragt zuerst
 
 ## Quellenhygiene
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
+Siehe [`description`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
 
 ## Lizenz
 
@@ -56,7 +56,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 346 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 345 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -218,7 +218,6 @@ Automatisch generierte Komplett-Liste aller 346 Skills in diesem Plugin. Beschre
 | `globaler-minderausgabe-vollzug-tracken` | Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `gruppierungsplan-funktionenplan` | Haushaltsrecht BHO Bund und Länder: Gruppierungsplan und Funktionenplan. Gruppierungsplan und Funktionenplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei... |
 | `haushaltsgesetz-gegen-haushaltsplan` | Haushaltsrecht BHO Bund und Länder: Haushaltsgesetz gegen Haushaltsplan. Haushaltsgesetz gegen Haushaltsplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbei... |
-| `haushaltsrecht-bho-bund-laender-schnellstart` | 'Kompakter Arbeitsmodus für Haushaltsrecht BHO Bund und Länder. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `haushaltssperre-brh-frage-formulieren` | Haushaltsrecht BHO Bund und Länder: Haushaltssperre: BRH-Frage formulieren. BRH- im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `haushaltssperre-dashboard-bauen` | Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `haushaltssperre-deckung-finden` | Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Deckung finden im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |

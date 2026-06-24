@@ -1,5 +1,4 @@
 # Hochschulrecht der Bundesländer
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist der Hochschulrechts-Kompass für Universitäten, Hochschulen, Präsidien, Fakultäten, Studenten, Lehrer und Rechtsabteilungen. Es verbindet Landeshochschulrecht, Satzungen, Wissenschaftsfreiheit und Verwaltungsrecht.
 
 ## Wofür dieses Plugin da ist
@@ -38,7 +38,7 @@ Dieses Plugin führt durch ein stark landes- und satzungsabhängiges Rechtsgebie
 
 ## Quellenanker
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Im Einzelfall gehen Landesgesetz, aktuelle Verordnung, Satzung, Prüfungsordnung, Amtsblatt, Bescheid und Akteninhalt immer vor. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+Siehe [`description`](./references/QUELLEN.md). Im Einzelfall gehen Landesgesetz, aktuelle Verordnung, Satzung, Prüfungsordnung, Amtsblatt, Bescheid und Akteninhalt immer vor. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Arbeitsstil
 
@@ -57,34 +57,34 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `akkreditierung-programm-qualitaet-alumni` | Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen im Hochschulrecht Länder. |
-| `akkreditierung-und-qualitaet` | Prüft Akkreditierung und Qualitätssicherung im Hochschulrecht Länder. |
+| `akkreditierung-und-qualitaet` | Prüft Akkreditierung und Qualitätssicherung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `alumni-stiftung-spenden-compliance` | Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung im Hochschulrecht Länder. |
-| `anerkennung-ects-und-ausland` | Prüft Anerkennung von Leistungen und ECTS im Hochschulrecht Länder. |
+| `anerkennung-ects-und-ausland` | Prüft Anerkennung von Leistungen und ECTS im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `ausgruendung-transferstelle-bafoeg` | Prüft Spin-off, Beteiligung, Nebentätigkeit, IP-Lizenz und Hochschulressourcen im Hochschulrecht Länder. |
-| `bafoeg-und-hochschulstatus` | Prüft BAföG-Schnittstellen zu Hochschulstatus im Hochschulrecht Länder. |
+| `bafoeg-und-hochschulstatus` | Prüft BAföG-Schnittstellen zu Hochschulstatus im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `barrierefreiheit-campus-digital` | Prüft bauliche und digitale Barrierefreiheit, Studienorganisation und Nachteilsausgleich im Hochschulrecht Länder. |
 | `berufungsvereinbarung-ausstattung` | Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsvorbehalt im Hochschulrecht Länder. |
-| `berufungsverfahren-professur-gute` | Prüft Berufungsverfahren für Professuren im Hochschulrecht Länder. |
+| `berufungsverfahren-professur-gute` | Prüft Berufungsverfahren für Professuren im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `beurlaubung-hochschulstatus-campusbau` | Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken im Hochschulrecht Länder. |
 | `campusbau-und-flaechenmanagement` | Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung im Hochschulrecht Länder. |
-| `datenschutz-hochschule` | Prüft Datenschutz in Lehre, Forschung und Verwaltung im Hochschulrecht Länder. |
+| `datenschutz-hochschule` | Prüft Datenschutz in Lehre, Forschung und Verwaltung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dekanat-organstreit` | Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel im Hochschulrecht Länder. |
 | `digitallehre-satzungsgrundlage-drittmittel` | Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz im Hochschulrecht Länder. |
 | `drittmittel-overhead-und-ip` | Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung im Hochschulrecht Länder. |
 | `drittmittel-und-industriekooperation` | Prüft Drittmittel, Forschungskooperation und Industrieeinfluss im Hochschulrecht Länder. |
 | `duale-hochschule-praxispartner` | Prüft Praxispartner, Studienvertrag, Exmatrikulation, Akkreditierung und Status im Hochschulrecht Länder. |
 | `ethikkommission-forschung-exmatrikulation` | Prüft Ethikkommission, Forschungsvorhaben und Verantwortung im Hochschulrecht Länder. |
-| `exmatrikulation` | Prüft Exmatrikulation und Folgen im Hochschulrecht Länder. |
+| `exmatrikulation` | Prüft Exmatrikulation und Folgen im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `exmatrikulation-beitragsrueckstand` | Prüft Beitragsrückstand, Mahnung, Verhältnismäßigkeit, Härtefall und Wiedereinschreibung im Hochschulrecht Länder. |
 | `exportkontrolle-forschung` | Prüft Dual-Use, Sanktionen, Gastwissenschaftler, Wissenstransfer und Genehmigungsbedarf im Hochschulrecht Länder. |
 | `fakultaetsrat-kompetenzen-forschungsdaten` | Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium im Hochschulrecht Länder. |
 | `forschungsdaten-datenschutz` | Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung im Hochschulrecht Länder. |
-| `forschungsdaten-und-open-science` | Prüft Forschungsdaten, Open Science und Repositorien im Hochschulrecht Länder. |
+| `forschungsdaten-und-open-science` | Prüft Forschungsdaten, Open Science und Repositorien im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `forschungskooperation-industrie` | Prüft Forschungskooperation, Publikationssperre, IP, Interessenkonflikte und Compliance im Hochschulrecht Länder. |
 | `gastwissenschaftler-sanktionen-dual-use` | Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung im Hochschulrecht Länder. |
 | `gleichstellung-kommissionen-graduiertenschule` | Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler im Hochschulrecht Länder. |
@@ -92,8 +92,8 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `grundordnung-und-satzung` | Prüft Grundordnung, Satzungskompetenz und Bekanntmachung im Hochschulrecht Länder. |
 | `gute-wissenschaftliche-praxis` | Prüft gute wissenschaftliche Praxis und Ombudsverfahren im Hochschulrecht Länder. |
 | `gute-wissenschaftliche-praxis-verfahren` | Prüft GWP-Verfahren, Ombudsperson, Kommission, Sanktionen und Fairness im Hochschulrecht Länder. |
-| `habilitation-hausrecht-campus-hochschularchiv` | Prüft Habilitation und Lehrbefähigung im Hochschulrecht Länder. |
-| `hausrecht-campus` | Prüft Hausrecht, Demonstration und Campusnutzung im Hochschulrecht Länder. |
+| `habilitation-hausrecht-campus-hochschularchiv` | Prüft Habilitation und Lehrbefähigung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `hausrecht-campus` | Prüft Hausrecht, Demonstration und Campusnutzung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `hochschularchiv-und-aktenordnung` | Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen im Hochschulrecht Länder. |
 | `hochschulautonomie-und-aufsicht` | Prüft Hochschulautonomie, Rechtsaufsicht und Fachaufsicht im Hochschulrecht Länder. |
 | `hochschulerfindungen-und-ip` | Prüft Hochschulerfindungen, Software und Ausgründungen im Hochschulrecht Länder. |
@@ -114,53 +114,52 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `hochschulgesetz-sachsen-schleswig` | Prüft Hochschulrecht in Sachsen-Anhalt mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder. |
 | `hochschulgesetz-schleswig-holstein` | Prüft Hochschulrecht in Schleswig-Holstein mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder. |
 | `hochschulgesetz-thueringen` | Prüft Hochschulrecht in Thüringen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder. |
-| `hochschulmedizin` | Prüft Universitätskliniken und Hochschulmedizin im Hochschulrecht Länder. |
+| `hochschulmedizin` | Prüft Universitätskliniken und Hochschulmedizin im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `hochschulmedizin-klinik-hochschulrat-aufsicht` | Prüft Universitätsmedizin, Klinikträger, Forschung, Lehre und Organabgrenzung im Hochschulrecht Länder. |
 | `hochschulrat-aufsicht-ministerium` | Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Beanstandung im Hochschulrecht Länder. |
 | `hochschulrecht-disziplinarverfahren-pruefungsnah` | Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studenten im Hochschulrecht Länder. |
-| `hochschulrecht-laender-schnellstart` | 'Kompakter Arbeitsmodus für Hochschulrecht der Bundesländer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
-| `hochschulwahlen` | Prüft Hochschulwahlen und Wahlprüfung im Hochschulrecht Länder. |
+| `hochschulwahlen` | Prüft Hochschulwahlen und Wahlprüfung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `hochschulzugang-beruflich-qualifizierte` | Prüft Hochschulzugang ohne Abitur, Beratungspflichten, Eignung und Ablehnung im Hochschulrecht Länder. |
 | `humanstudie-ethik-ifg-transparenz` | Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch im Hochschulrecht Länder. |
 | `ifg-transparenz-hochschule` | Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten im Hochschulrecht Länder. |
-| `immatrikulation-und-rueckmeldung` | Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrecht Länder. |
+| `immatrikulation-und-rueckmeldung` | Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `informationssicherheit-hochschule` | Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten im Hochschulrecht Länder. |
-| `international-office-und-visa` | Prüft internationale Studenten und Hochschulstatus. |
+| `international-office-und-visa` | Prüft internationale Studenten und Hochschulstatus. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `international-office-visum-status` | Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung im Hochschulrecht Länder. |
-| `juniorprofessur-tenure-track` | Prüft Juniorprofessur und Tenure Track im Hochschulrecht Länder. |
+| `juniorprofessur-tenure-track` | Prüft Juniorprofessur und Tenure Track im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `juniorprofessur-verlaengerung` | Prüft Verlängerung, Evaluation, Mutterschutz/Elternzeit und Befristungsgrenzen im Hochschulrecht Länder. |
 | `kaltstart-triage` | Startet Hochschulrecht für Universitäten, Hochschulen, Studenten, Lehrer, Kanzler, Präsidien und Rechtsabteilungen. |
-| `konkurrentenstreit-professur-kunst` | Prüft Konkurrentenstreit im Hochschulbereich im Hochschulrecht Länder. |
+| `konkurrentenstreit-professur-kunst` | Prüft Konkurrentenstreit im Hochschulbereich im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `kunst-und-musikhochschulen` | Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen im Hochschulrecht Länder. |
 | `landeshochschulgesetz-router` | Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung im Hochschulrecht Länder. |
-| `lehrbeauftragte-status-lehrverpflichtung` | Prüft Lehrbeauftragte, Honorar und Status im Hochschulrecht Länder. |
+| `lehrbeauftragte-status-lehrverpflichtung` | Prüft Lehrbeauftragte, Honorar und Status im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `lehrbeauftragte-status-und-verguetung` | Prüft Lehrbeauftragte, Vergütung, Status, Scheinselbständigkeit und Prüfungsbefugnis im Hochschulrecht Länder. |
 | `lehrverpflichtung-deputat` | Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen im Hochschulrecht Länder. |
 | `nebentaetigkeit-professoren` | Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten im Hochschulrecht Länder. |
 | `open-access-hochschule` | Prüft Open-Access-Pflichten, Zweitveröffentlichung, Rechtekette und Drittmittelvorgaben im Hochschulrecht Länder. |
 | `plagiat-gwp-praesidium-rektorat-private` | Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte im Hochschulrecht Länder. |
-| `praesidium-rektorat-kanzler` | Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten im Hochschulrecht Länder. |
-| `private-hochschule` | Prüft private und staatlich anerkannte Hochschulen im Hochschulrecht Länder. |
+| `praesidium-rektorat-kanzler` | Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `private-hochschule` | Prüft private und staatlich anerkannte Hochschulen im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `private-hochschule-anerkennung` | Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studentennrechte im Hochschulrecht Länder. |
-| `promotion-promotionsordnung` | Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht Länder. |
+| `promotion-promotionsordnung` | Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `publikationsfreiheit-affiliation` | Prüft Publikationsfreigabe, Affiliation, Drittmittelbindung und Wissenschaftsfreiheit im Hochschulrecht Länder. |
 | `ranking-kennzahlen-und-hochschulmarketing` | Prüft Rankings, Kennzahlenmeldungen, Werbeaussagen und Reputationsrisiken im Hochschulrecht Länder. |
 | `rechtsschutz-hochschule` | Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht im Hochschulrecht Länder. |
-| `redteam-hochschulrecht-qualitygate` | Finaler Qualitätscheck für Hochschulrechtsausgaben. |
+| `redteam-hochschulrecht-qualitygate` | Finaler Qualitätscheck für Hochschulrechtsausgaben. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `semesterticket-mobilitaetsbeitrag-senat` | Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell im Hochschulrecht Länder. |
-| `senat-fakultaetsrat-gremien` | Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulrecht Länder. |
+| `senat-fakultaetsrat-gremien` | Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `senatswahl-statusgruppen` | Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung im Hochschulrecht Länder. |
 | `studiengang-einstellung` | Prüft Einstellung, Änderung und Akkreditierung von Studiengängen im Hochschulrecht Länder. |
 | `studiengebuehren-internationale` | Prüft Gebühren für internationale Studenten, Satzung, Ausnahmen und Rückerstattung im Hochschulrecht Länder. |
-| `studierendenschaft-asta` | Prüft Studentennschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder. |
+| `studierendenschaft-asta` | Prüft Studentennschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `studierendenwerk-beitrag` | Prüft Studentennwerksbeitrag, Satzung, Rückerstattung und Härtefall im Hochschulrecht Länder. |
 | `tenure-track-evaluation` | Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz im Hochschulrecht Länder. |
 | `tierversuch-ethikvotum-urlaubssemester` | Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit im Hochschulrecht Länder. |
-| `urlaubssemester-und-teilzeit` | Prüft Urlaubssemester, Teilzeitstudium und Härtefälle im Hochschulrecht Länder. |
+| `urlaubssemester-und-teilzeit` | Prüft Urlaubssemester, Teilzeitstudium und Härtefälle im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `vergaberecht-forschungsgeraete` | Prüft Beschaffung von Forschungsgeräten, Dringlichkeit, Alleinstellungsmerkmal und Dokumentation im Hochschulrecht Länder. |
 | `versammlung-polizei-campus` | Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit im Hochschulrecht Länder. |
 | `w-besoldung-zulassung-nc` | Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen im Hochschulrecht Länder. |
 | `wisszeitvg-und-befristung` | Prüft Wissenschaftszeitvertragsrecht im Hochschulkontext im Hochschulrecht Länder. |
-| `zulassung-nc-und-kapazitaet` | Prüft Zulassung, NC und Kapazitätsrecht im Hochschulrecht Länder. |
+| `zulassung-nc-und-kapazitaet` | Prüft Zulassung, NC und Kapazitätsrecht im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

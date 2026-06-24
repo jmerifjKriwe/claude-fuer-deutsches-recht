@@ -1,5 +1,4 @@
 # Schulrecht der Bundesländer
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ist der landesrechtliche Schulrechts-Kompass für Eltern, Schüler, Schulen, Schulträger, Behörden und Anwälte. Es beginnt immer mit Bundesland, Schulart, Entscheidung und Frist und führt dann in einen brauchbaren nächsten Schritt.
 
 ## Wofür dieses Plugin da ist
@@ -38,7 +38,7 @@ Dieses Plugin führt durch ein stark landes- und satzungsabhängiges Rechtsgebie
 
 ## Quellenanker
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Im Einzelfall gehen Landesgesetz, aktuelle Verordnung, Satzung, Prüfungsordnung, Amtsblatt, Bescheid und Akteninhalt immer vor. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+Siehe [`description`](./references/QUELLEN.md). Im Einzelfall gehen Landesgesetz, aktuelle Verordnung, Satzung, Prüfungsordnung, Amtsblatt, Bescheid und Akteninhalt immer vor. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Arbeitsstil
 
@@ -57,26 +57,26 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abitur-und-abschlusspruefungen` | Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Länder. |
+| `abitur-und-abschlusspruefungen` | Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `abiturzulassung-und-fehlkurse` | Prüft Zulassung zum Abitur, Fehlkurse, Atteste und Nachholmöglichkeiten im Schulrecht Länder. |
-| `akteneinsicht-schulakte-attest` | Prüft Einsicht in Schülerakte und Unterlagen im Schulrecht Länder. |
-| `attest-und-pruefungsunfaehigkeit-schule` | Prüft Atteste und Prüfungsunfähigkeit in Schule im Schulrecht Länder. |
+| `akteneinsicht-schulakte-attest` | Prüft Einsicht in Schülerakte und Unterlagen im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `attest-und-pruefungsunfaehigkeit-schule` | Prüft Atteste und Prüfungsunfähigkeit in Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `aufsichtspflicht-und-unfall` | Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung im Schulrecht Länder. |
 | `auslandsschule-rueckkehr` | Prüft Anerkennung, Einstufung, Schulartwechsel und Leistungsnachweise nach Auslandsaufenthalt im Schulrecht Länder. |
 | `autismus-sensorik-barrierefreiheit-schule` | Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume und Schulbegleitung im Schulrecht Länder. |
-| `barrierefreiheit-schule` | Prüft bauliche und digitale Barrierefreiheit in Schule im Schulrecht Länder. |
+| `barrierefreiheit-schule` | Prüft bauliche und digitale Barrierefreiheit in Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `befreiung-schulveranstaltung` | Prüft Befreiung von Klassenfahrt, Exkursion, Projektwoche und Pflichtveranstaltung im Schulrecht Länder. |
 | `beschwerde-gegen-lehrkraft` | Prüft Beschwerden gegen Lehrkräfte, Dienstaufsicht, pädagogische Bewertung und Deeskalation im Schulrecht Länder. |
 | `betriebspraktikum-schule-cloud-plattform` | Prüft Schülerpraktikum, Versicherung, Einsatzstelle, Datenschutz und Aufsicht im Schulrecht Länder. |
 | `bussgeld-schulpflicht` | Prüft Schulpflichtverstoß, Anhörung, Bußgeldbescheid und Verhältnismäßigkeit im Schulrecht Länder. |
 | `cloud-plattform-schule-m365` | Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation im Schulrecht Länder. |
-| `cybermobbing-schule` | Prüft Cybermobbing mit Chat, Bild, Plattform und Schule im Schulrecht Länder. |
+| `cybermobbing-schule` | Prüft Cybermobbing mit Chat, Bild, Plattform und Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `datenschutz-schule` | Prüft Datenschutz in Schule, Lernplattform und Elternkommunikation im Schulrecht Länder. |
-| `einschulung-zurueckstellung-elternabend` | Prüft Einschulung, Rückstellung und vorzeitige Aufnahme im Schulrecht Länder. |
+| `einschulung-zurueckstellung-elternabend` | Prüft Einschulung, Rückstellung und vorzeitige Aufnahme im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `elternabend-protokoll-und-beschluss` | Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit im Schulrecht Länder. |
 | `elternbeitrag-ogts-ganztag` | Prüft Elternbeiträge, Ganztagsbetreuung, Satzung, Ermäßigung und Rückforderung im Schulrecht Länder. |
 | `elternrechte-und-sorgerecht` | Prüft Elternrechte bei gemeinsamer Sorge, Trennung und Information im Schulrecht Länder. |
@@ -84,11 +84,11 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `foerderausschuss-und-foerderort` | Prüft Förderausschuss, Förderort, Inklusionsentscheidung und Beteiligungsrechte im Schulrecht Länder. |
 | `foto-video-einwilligung-schule` | Prüft Bilder, Videos, Klassenchat, Einwilligungen, DSGVO und schulische Öffentlichkeitsarbeit im Schulrecht Länder. |
 | `gewaltschutz-und-schulischer-schutzplan` | Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt im Schulrecht Länder. |
-| `gymnasialempfehlung-uebergang-handyverbot` | Prüft Übergang Grundschule zu weiterführender Schule im Schulrecht Länder. |
+| `gymnasialempfehlung-uebergang-handyverbot` | Prüft Übergang Grundschule zu weiterführender Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `handyverbot-und-digitalgeraete` | Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte im Schulrecht Länder. |
 | `hausaufgaben-und-betreuungspflichten` | Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum im Schulrecht Länder. |
 | `inklusion-sgb-schnittstelle` | Verknüpft Schule mit Eingliederungshilfe und Schulbegleitung im Schulrecht Länder. |
-| `inklusion-sonderpaedagogischer-transport` | Prüft Inklusion und sonderpädagogischen Förderbedarf im Schulrecht Länder. |
+| `inklusion-sonderpaedagogischer-transport` | Prüft Inklusion und sonderpädagogischen Förderbedarf im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `inklusion-transport-und-assistenz` | Prüft Beförderung, Assistenz, Barrierefreiheit und Teilhabe im Schulalltag im Schulrecht Länder. |
 | `integrationshelfer-kostenstreit` | Prüft Schulbegleitung, Eingliederungshilfe, Jugendamt/Sozialamt und Kostenkonflikte im Schulrecht Länder. |
 | `jugendamt-meldung-schule` | Prüft Kindeswohlmeldung, Datenschutz, Elterninformation und Schutzpflichten im Schulrecht Länder. |
@@ -96,31 +96,31 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `ki-nutzung-plagiat-hausarbeit-klassenbildung` | Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen im Schulrecht Länder. |
 | `ki-plagiat-hausarbeit-schule` | Prüft KI-Nutzung, Eigenständigkeitserklärung, Beweiswert und Sanktionen im Schulrecht Länder. |
 | `klassenbildung-und-zuteilung` | Prüft Klassenbildung, Klassenzuteilung, Kapazität und Härtefallargumente im Schulrecht Länder. |
-| `klassenfahrt-und-kosten` | Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss im Schulrecht Länder. |
+| `klassenfahrt-und-kosten` | Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `landesrecht-lehrmittel-lernmittelfreiheit` | Routet jeden Schulfall zuerst in das richtige Bundesland und die richtige Normebene im Schulrecht Länder. |
 | `lehrmittel-und-lernmittelfreiheit` | Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten im Schulrecht Länder. |
 | `mehrsprachige-elternkommunikation` | Erklärt Schulrecht verständlich für Familien mit Deutsch als Zweitsprache im Schulrecht Länder. |
-| `mobbing-und-gewalt` | Prüft Mobbing, Gewalt und Schutzpflichten der Schule im Schulrecht Länder. |
+| `mobbing-und-gewalt` | Prüft Mobbing, Gewalt und Schutzpflichten der Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `nachschreibtermin-terminkollision` | Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit im Schulrecht Länder. |
-| `nachteilsausgleich-lrs-dyskalkulie` | Prüft LRS/Dyskalkulie-spezifische Maßnahmen im Schulrecht Länder. |
-| `nachteilsausgleich-schule` | Prüft Nachteilsausgleich in Unterricht und Prüfungen im Schulrecht Länder. |
-| `notenschutz-und-bewertung` | Prüft Notenschutz, Bewertung und Transparenz im Schulrecht Länder. |
+| `nachteilsausgleich-lrs-dyskalkulie` | Prüft LRS/Dyskalkulie-spezifische Maßnahmen im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `nachteilsausgleich-schule` | Prüft Nachteilsausgleich in Unterricht und Prüfungen im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `notenschutz-und-bewertung` | Prüft Notenschutz, Bewertung und Transparenz im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `oberstufenwahl-kursbelegung` | Prüft Kurswahlen, Umwahl, Belegpflichten und Laufbahnfolgen im Schulrecht Länder. |
 | `ordnungsmassnahmen-anhoerung` | Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit im Schulrecht Länder. |
 | `polizei-in-der-schule` | Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte und Aussageverhalten im Schulrecht Länder. |
 | `privatschule-und-ersatzschule` | Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag im Schulrecht Länder. |
 | `pruefungsaufsicht-formfehler` | Prüft Aufsichtsmängel, Störungen, Täuschungsvorwürfe und Protokolle in Schulprüfungen im Schulrecht Länder. |
-| `redteam-schulrecht-qualitygate` | Finaler Qualitätscheck für schulrechtliche Ausgaben. |
+| `redteam-schulrecht-qualitygate` | Finaler Qualitätscheck für schulrechtliche Ausgaben. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `religionsunterricht-ethik-befreiung` | Prüft Religionsunterricht, Ethik, Befreiung und Weltanschauung im Schulrecht Länder. |
-| `schuelerbefoerderung` | Prüft Schülerbeförderung und Kostenerstattung im Schulrecht Länder. |
+| `schuelerbefoerderung` | Prüft Schülerbeförderung und Kostenerstattung im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `schuelervertretung-und-demonstration` | Prüft Schülervertretung, politische Aktionen und Versammlungen im Schulrecht Länder. |
 | `schuelerzeitung-pressefreiheit-schulaufnahme` | Prüft Schülerzeitung, Meinungsfreiheit, Schulordnung, Vorabkontrolle und Verantwortlichkeit im Schulrecht Länder. |
-| `schulaufnahme-und-schulbezirk` | Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung im Schulrecht Länder. |
+| `schulaufnahme-und-schulbezirk` | Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `schulaufsicht-akteneinsicht-eltern` | Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte im Schulrecht Länder. |
 | `schulaufsichtsbeschwerde` | Erstellt Schulaufsichtsbeschwerde und Dienstaufsichtsbeschwerde im Schulrecht Länder. |
 | `schulbibliothek-medienbestand` | Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag im Schulrecht Länder. |
 | `schulbusaufsicht-und-befoerderungssicherheit` | Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verkehrssicherung im Schulrecht Länder. |
-| `schulessen-und-ganztag` | Prüft Ganztag, OGS, Schulessen und Betreuung im Schulrecht Länder. |
+| `schulessen-und-ganztag` | Prüft Ganztag, OGS, Schulessen und Betreuung im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `schulgeld-ersatzschule` | Prüft Schulgeld, Sonderungsverbot, Ersatzschule und Vertragsgestaltung im Schulrecht Länder. |
 | `schulgesetz-baden-wuerttemberg-bayern-berlin` | Prüft Schulrecht in Baden-Württemberg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder. |
 | `schulgesetz-bayern` | Prüft Schulrecht in Bayern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder. |
@@ -140,10 +140,9 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `schulgesetz-thueringen` | Prüft Schulrecht in Thüringen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder. |
 | `schulhund-allergie-schulische-ordnungsakte` | Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte im Schulrecht Länder. |
 | `schulische-ordnungsakte-beweisarchiv` | Baut eine belastbare Akten- und Beweismatrix für schulische Eskalationsfälle im Schulrecht Länder. |
-| `schulkonferenz-und-mitwirkung` | Prüft schulische Mitwirkungsgremien im Schulrecht Länder. |
+| `schulkonferenz-und-mitwirkung` | Prüft schulische Mitwirkungsgremien im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `schulpflicht-und-schulversaeumnis` | Prüft Schulpflicht, Fehlzeiten, Atteste, Bußgeld, Jugendamt und Eskalation im Schulrecht Länder. |
 | `schulrecht-hausunterricht-schulsozialarbeit` | Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation im Schulrecht Länder. |
-| `schulrecht-laender-schnellstart` | 'Kompakter Arbeitsmodus für Schulrecht der Bundesländer. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `schulsozialarbeit-jugendamt` | Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl im Schulrecht Länder. |
 | `schultraeger-gebaeude-und-ausstattung` | Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit im Schulrecht Länder. |
 | `schulvertrag-privatschule-bussgeld` | Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte im Schulrecht Länder. |
@@ -151,16 +150,16 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `schulwechsel-schulweg-unfall` | Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern im Schulrecht Länder. |
 | `schulweg-unfall-versicherung` | Prüft Schulwegunfall, Unfallanzeige, gesetzliche Unfallversicherung und Aufsicht im Schulrecht Länder. |
 | `schwimmunterricht-befreiung` | Prüft Schwimmunterricht, religiöse/gesundheitliche Gründe, Attest und Teilnahmepflicht im Schulrecht Länder. |
-| `sexualerziehung-und-elterninformation` | Prüft Sexualerziehung und Elterninformation im Schulrecht Länder. |
-| `sportbefreiung-gesundheit-sprachfoerderung` | Prüft Befreiung vom Sport und Gesundheitskonflikte im Schulrecht Länder. |
+| `sexualerziehung-und-elterninformation` | Prüft Sexualerziehung und Elterninformation im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `sportbefreiung-gesundheit-sprachfoerderung` | Prüft Befreiung vom Sport und Gesundheitskonflikte im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `sprachfoerderung-willkommensklasse` | Prüft Sprachförderung, Zuordnung, Wechsel und Teilhaberechte neu zugewanderter Kinder im Schulrecht Länder. |
 | `taeuschung-schulpruefung` | Prüft Täuschungsvorwürfe in Klassenarbeit, Prüfung und Abitur im Schulrecht Länder. |
-| `unterrichtsausschluss` | Prüft Unterrichtsausschluss und vorläufige Maßnahmen im Schulrecht Länder. |
-| `versetzung-nachpruefung-verwaltungsakt` | Prüft Versetzung, Nichtversetzung und Nachprüfung im Schulrecht Länder. |
-| `verwaltungsakt-oder-realakt-schule` | Ordnet schulische Schreiben rechtlich ein im Schulrecht Länder. |
+| `unterrichtsausschluss` | Prüft Unterrichtsausschluss und vorläufige Maßnahmen im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `versetzung-nachpruefung-verwaltungsakt` | Prüft Versetzung, Nichtversetzung und Nachprüfung im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `verwaltungsakt-oder-realakt-schule` | Ordnet schulische Schreiben rechtlich ein im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `waffen-drogen-schule` | Prüft Verdachtsfälle, Durchsuchung, Ordnungsmaßnahme, Polizei und Prävention im Schulrecht Länder. |
-| `widerspruch-und-eilrechtsschutz-schule` | Baut Widerspruch und Eilantrag im Schulrecht im Schulrecht Länder. |
-| `zeugnis-notenangriff-zeugnisbemerkung-arbeits` | Prüft Zeugnisnoten und pädagogischen Bewertungsspielraum im Schulrecht Länder. |
+| `widerspruch-und-eilrechtsschutz-schule` | Baut Widerspruch und Eilantrag im Schulrecht im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `zeugnis-notenangriff-zeugnisbemerkung-arbeits` | Prüft Zeugnisnoten und pädagogischen Bewertungsspielraum im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `zeugnisbemerkung-arbeits-sozialverhalten` | Prüft Kopfnoten, Bemerkungen, Sozialverhalten und Löschung/Änderung im Zeugnis im Schulrecht Länder. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

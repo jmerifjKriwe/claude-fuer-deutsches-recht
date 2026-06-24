@@ -1,5 +1,4 @@
 # verfassungsrecht
-Wenn du das hier oeffnest, willst du eine Grundrechtsruege zulaessig und schluessig begruenden.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,7 +21,8 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
-Deutsches Verfassungsrecht unter dem Grundgesetz aus der Sicht einer verfassungsrechtlichen Spezialkanzlei. **Rechtsprechungsgetrieben** mit verpflichtender Live-Recherche auf [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de), Quellenkarte, Pinpoint-Pflicht und Prozessarten-Navigator für Verfassungsbeschwerde, §-32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, abstrakte und konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Richter-/Präsidentenanklage sowie aktuelle BVerfG-Linien zu Digitalgrundrechten, Triage, Existenzminimum und Berufsfreiheit.
+Wenn du das hier öffnest, willst du eine Grundrechtsruege zulässig und schlüssig begründen.
+Deutsches Verfassungsrecht unter dem Grundgesetz aus der Sicht einer verfassungsrechtlichen Spezialkanzlei. **Rechtsprechungsgetrieben** mit verpflichtender Live-Recherche auf [bundesverfassungsgericht.de](), Quellenkarte, Pinpoint-Pflicht und Prozessarten-Navigator für Verfassungsbeschwerde, §-32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, abstrakte und konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Richter-/Präsidentenanklage sowie aktuelle BVerfG-Linien zu Digitalgrundrechten, Triage, Existenzminimum und Berufsfreiheit.
 
 ## Wofür
 
@@ -56,9 +56,9 @@ Verfassungsrecht ist ein hochspezialisiertes Rechtsgebiet mit existentiellen Fol
 
 ## Quellenstrategie
 
-1. **Primär:** Live-Suche auf [www.bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) (offizielle Entscheidungssammlung). Zitat immer mit Aktenzeichen, Randnummer und URL.
+1. **Primär:** Live-Suche auf [www.bundesverfassungsgericht.de]() (offizielle Entscheidungssammlung). Zitat immer mit Aktenzeichen, Randnummer und URL.
 2. **Sekundär:** Eigene Kanon-Referenz unter `references/bverfg-leitentscheidungen.md` als Schnellzugriff.
-3. **Ersatzweise:** [servat.unibe.ch/dfr/](https://www.servat.unibe.ch/dfr/) (DFR-Volltextsammlung BVerfGE), [opinioiuris.de](https://opinioiuris.de), [dejure.org](https://dejure.org) — nur wenn auf bundesverfassungsgericht.de nicht greifbar.
+3. **Ersatzweise:** [servat.unibe.ch/dfr/]() (DFR-Volltextsammlung BVerfGE), [opinioiuris.de](), [dejure.org]() — nur wenn auf bundesverfassungsgericht.de nicht greifbar.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Jede verfassungsrechtliche Aussage benötigt eine BVerfG-Pinpoint-Quelle (Az. + Rn.). Modellwissen ohne Quelle wird als `[zu verifizieren auf bundesverfassungsgericht.de]` markiert.
@@ -74,11 +74,11 @@ Anwälte sind nach **§ 203 StGB** (Verletzung von Privatgeheimnissen) und **§ 
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `acht-zahlen-schwellen-und-berechnung` | Acht: Zahlen, Schwellenwerte und Berechnung im Verfassungsrecht. |
+| `acht-zahlen-schwellen-und-berechnung` | Acht: Zahlen, Schwellenwerte und Berechnung im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anschluss-routing` | Anschluss-Routing für Verfassungsrecht: wählt den nächsten Spezial-Skill nach Engpass (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde, Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss), dokumentiert Router... |
 | `art-12-berufsfreiheit-regulierungsdichte` | Art. 12 GG in Berufs- und Wirtschaftsregulierung: Berufsausübung, subjektive und objektive Zulassung, Altersgrenzen, sektorale Verbote, Einschätzungsspielraum und Verhältnismäßigkeit nach aktueller BVerfG-Linie. |
 | `art-5-meinung-presse-mehrdeutigkeit` | Art. 5 GG für Meinungs-, Presse- und Rundfunkfreiheit: Meinungsbegriff, Tatsachenbehauptung, Schmähkritik, mehrdeutige Äußerung, strafgerichtliche Deutung, Lebensmittelkontrolle und Wechselwirkungslehre. |
@@ -89,36 +89,36 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `bverfg-verfahrenssicht-und-annahmerisiko` | BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Verfassungsrecht. |
 | `dokumente-intake` | Dokumentenintake für Verfassungsrecht: sortiert Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss, prüft Datum, Absender, Frist und Beweiswert (Tragende Erwägungen Vorinstanzen, Substantiierung Grundrec... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Verfassungsrecht: ordnet Rolle (Beschwerdeführer, Beschwerdegegner, BVerfG), markiert Frist (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde), wählt Norm (GG, BVerfGG, Landesverfassungen) und Zuständigkeit (BV... |
-| `formelle-mehrparteien-konflikt-und-interessen` | Formelle: Mehrparteienkonflikt und Interessenmatrix im Verfassungsrecht. |
+| `formelle-mehrparteien-konflikt-und-interessen` | Formelle: Mehrparteienkonflikt und Interessenmatrix im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `formelle-verfassungsmaessigkeit` | Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78... |
 | `gesetzentwurf-gg-konformitaet-pruefen` | Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip... |
 | `gesetzgebungskompetenz-grundrechtspruefung` | Gesetzgebungskompetenz: Compliance-Dokumentation und Aktenvermerk im Verfassungsrecht. |
 | `gesetzgebungskompetenz-pruefen` | Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirk... |
 | `gleichheit-existenzminimum-triage-asylblg` | Art. 3 GG, Menschenwürde, Existenzminimum und Schutzpflichten: Triage, Behinderung, AsylbLG-Grundleistungen, Sozialstaatsprinzip und Begründungslast des Gesetzgebers nach aktueller BVerfG-Rechtsprechung. |
-| `grundgesetz-fristen-form-und-zustaendigkeit` | Grundgesetz: Fristen, Form, Zuständigkeit und Rechtsweg im Verfassungsrecht. |
+| `grundgesetz-fristen-form-und-zustaendigkeit` | Grundgesetz: Fristen, Form, Zuständigkeit und Rechtsweg im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `grundrechte-digitaler-staat-polizei-ueberwachung` | Digitale Grundrechte gegen staatliche Überwachung: Art. 10 GG, Art. 13 GG, Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG, IT-Grundrecht, Quellen-TKÜ, Online-Durchsuchung, längerfristige Observation und Datenerhebung nach neuer BVerfG-Linie. |
 | `grundrechte-fehlerkatalog` | Grundrechte Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `grundrechtspruefung-acht-formelle-interessen` | Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Maßnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtli... |
 | `grundrechtspruefung-und-verhaeltnismaessigkeit` | Grundrechtsprüfung und Verhältnismäßigkeit: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Verfassungsrecht. |
-| `live-schriftsatz-brief-und-memo-bausteine` | Live: Schriftsatz-, Brief- und Memo-Bausteine im Verfassungsrecht. |
+| `live-schriftsatz-brief-und-memo-bausteine` | Live: Schriftsatz-, Brief- und Memo-Bausteine im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Verfassungsrecht. |
-| `materielle-petition-sonderfall-recherche` | Materielle: Internationaler Bezug und Schnittstellen im Verfassungsrecht. |
+| `materielle-petition-sonderfall-recherche` | Materielle: Internationaler Bezug und Schnittstellen im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `organstreit-bundestag-fraktion-opposition` | Organstreit vor dem BVerfG: Bundestag, Fraktionen, Abgeordnete, Opposition, Ausschüsse, Sitzungssäle, Informationsrechte, Chancengleichheit und Sechsmonatsfrist nach § 64 Abs. 3 BVerfGG. |
 | `output-waehlen` | Output-Wahl für Verfassungsrecht: stimmt Adressat (Beschwerdeführer, Beschwerdegegner, BVerfG), Frist (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde) und Form auf den Zweck ab — typische Outputs: Verfassungsbeschwerde, Vorlagebeschluss, Ste... |
-| `petition-sonderfall-und-edge-case` | Petition: Sonderfall und Edge-Case-Prüfung im Verfassungsrecht. |
+| `petition-sonderfall-und-edge-case` | Petition: Sonderfall und Edge-Case-Prüfung im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `quellen-livecheck` | Quellen-Live-Check für Verfassungsrecht: prüft Normen (GG, BVerfGG, Landesverfassungen) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BVerfG und Quellenhygiene nach references/quellenhygiene.md. |
-| `recherche-verhandlung-vergleich-und-eskalation` | Recherche: Verhandlung, Vergleich und Eskalation im Verfassungsrecht. |
+| `recherche-verhandlung-vergleich-und-eskalation` | Recherche: Verhandlung, Vergleich und Eskalation im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `rechtsprechungsgetrieben-rechtsweg-bverfg` | Rechtsprechungsgetrieben: Behörden-, Gerichts- oder Registerweg im Verfassungsrecht. |
-| `sicht-spezialkanzlei-unter` | Sicht: Dokumentenmatrix, Lückenliste und Nachforderung im Verfassungsrecht. |
+| `sicht-spezialkanzlei-unter` | Sicht: Dokumentenmatrix, Lückenliste und Nachforderung im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `spezial-bundesverfassungsgericht-livequellen-check` | Livequellen-Check für BVerfG-Zitate: entscheidet, ob Entscheidung, Pressemitteilung, Leitsatz, Randnummer und Tenor wirklich die konkrete verfassungsrechtliche Aussage tragen. |
 | `spezial-grundrechte-red-team-und-qualitaetskontrolle` | Red-Team für Grundrechtsprüfungen: findet Schutzbereichsfehler, falsche Schranken, übersehene Schranken-Schranken, fehlende BVerfG-Pinpoints, Substantiierungslücken und schwache Verhältnismäßigkeitsabwägungen. |
 | `spezialkanzlei-risikoampel-und-gegenargumente` | Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien im Verfassungsrecht. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokume... |
-| `unter-tatbestand-beweis-und-belege` | Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Verfassungsrecht. |
+| `unter-tatbestand-beweis-und-belege` | Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Verfassungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss), nennt pro Lücke Beweisthema, Beschaffungsweg (BVe... |
 | `verfassung-abstrakte-bund` | Verfassungsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Verfassungsrecht. |
 | `verfassung-abstrakte-normenkontrolle` | Abstrakte Normenkontrolle Art. 93 Abs. 1 Nr. 2 GG, §§ 76 ff. BVerfGG: Antragsteller (BReg, Landesregierung, ein Viertel BT-Mitglieder), Verfahrensgegenstand Bundes- oder Landesgesetz. Prüfraster im Verfassungsrecht. |
-| `verfassung-beweislast-verfassungsbeschwerde` | Verfassung: Beweislast, Darlegungslast und Substantiierung im Verfassungsrecht. |
+| `verfassung-beweislast-verfassungsbeschwerde` | Verfassung: Beweislast, Darlegungslast und Substantiierung im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `verfassung-bund-laender-streit` | Bund-Länder-Streit Art. 93 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG: Streitigkeiten Bund/Land oder Land/Land. Prüfraster und Beispiele (Finanzausgleich, Schulrecht, Polizeirecht) im Verfassungsrecht. |
 | `verfassung-grundgesetz-organstreitverfahren` | Organstreitverfahren nach Art. 93 Abs. 1 Nr. 1 GG und §§ 63 ff. BVerfGG allgemein prüfen: Beteiligtenfähigkeit, Antragsgegenstand, Antragsbefugnis, Sechsmonatsfrist, Rechtsschutzbedürfnis, verfassungsrechtliche Rechtsposition und Tenorie... |
 | `verfassung-grundgesetz-verfahren` | Verfassungsänderung nach Art. 79 GG prüfen: Änderungsform, Zwei-Drittel-Mehrheiten in Bundestag und Bundesrat, Art. 79 Abs. 3 GG, Identitätskern, Bundesstaats- und Demokratiegrenzen, europäische Integrationsschnittstelle und Formulierung... |
@@ -134,7 +134,6 @@ Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschrei
 | `verfassungsbeschwerde-mandantenentscheidung` | Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage im Verfassungsrecht. |
 | `verfassungsbeschwerde-subsidiaritaet-substantiierung` | Verfassungsbeschwerde auf Zulässigkeit härten: Rechtswegerschöpfung, Subsidiarität, fachgerichtliche Grundrechtsrüge, § 23 Abs. 1 BVerfGG, § 92 BVerfGG, § 93 BVerfGG und Annahmerisiko nach § 93a BVerfGG. |
 | `verfassungsmaessigkeit-formular-portal-und-einreichung` | Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik im Verfassungsrecht. |
-| `verfassungsrecht-schnellstart` | 'Kompakter Arbeitsmodus für verfassungsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `verfassungsrechtliche-pruefung` | Verfassungsrechtliche Prüfung einer Maßnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU... |
 | `verhaeltnismaessigkeit` | Verhältnismäßigkeitsprüfung für staatliche Maßnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegun... |
 | `vfgr-bundestreue-foederalismus` | Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Rücksicht. Prüfraster für Bund-Länder-Konflikte und Klagen Karlsruhe im Verfassungsrecht. |

@@ -19,30 +19,30 @@
 
 ---
 
-# v390.0.0 — Handkurierte Feinarbeit fuer Arbeitsrecht, Familienrecht, Familiengericht und Amtsanwaltschaft
+# v390.0.0 — Handkurierte Feinarbeit für Arbeitsrecht, Familienrecht, Familiengericht und Amtsanwaltschaft
 
-- Arbeitsrecht, Fachanwalt Familienrecht, Richter Familiengericht und Staatsanwaltschaft Amtsanwaltschaft als handkuratierte Prompt-Flaggschiffe vor Generator-Ueberschreibung geschuetzt.
-- Werkstatt- und Schnellstart-Prompts dieser vier Plugins auf konkrete Stationen, Arbeitsprodukte, Pruefraster, Pflichtnormen und belastbare Leitentscheidungen verdichtet.
-- Je Fokus-Plugin drei Schluessel-Skills sprachlich und strukturell nachgeschaerft, mit Ziel, Eingang, Pruefraster, Arbeitsprodukt, Stolpersteinen und Anti-Mustern.
+- Arbeitsrecht, Fachanwalt Familienrecht, Richter Familiengericht und Staatsanwaltschaft Amtsanwaltschaft als handkuratierte Prompt-Flaggschiffe vor Generator-Überschreibung geschuetzt.
+- Werkstatt- und Schnellstart-Prompts dieser vier Plugins auf konkrete Stationen, Arbeitsprodukte, Prüfraster, Pflichtnormen und belastbare Leitentscheidungen verdichtet.
+- Je Fokus-Plugin drei Schlüssel-Skills sprachlich und strukturell nachgeschaerft, mit Ziel, Eingang, Prüfraster, Arbeitsprodukt, Stolpersteinen und Anti-Mustern.
 - Repo-Versionen auf v390.0.0 fortgeschrieben.
 
 # v389.0.0 — Sanity-Fix: Oeffnungssatz direkt unter H1 und HTML-Download-Korrektur erhalten
 
 - Plugin-READMEs nach dem Oeffnungssatzlauf formal geglaettet: der Satz steht jetzt unmittelbar unter der H1, ohne Leerzeile, und bleibt wortgleich mit Werkstatt- und Schnellstart-Prompt.
-- Den parallelen HTML-Download-Fix fuer Werkstatt- und Schnellstart-Links beibehalten und darauf den Versionsstand v389.0.0 gesetzt.
+- Den parallelen HTML-Download-Fix für Werkstatt- und Schnellstart-Links beibehalten und darauf den Versionsstand v389.0.0 gesetzt.
 - Repo-weite Oeffnungssatz-Kontrolle: 229 Plugins, 0 Abweichungen, maximale Schnellstart-Laenge 2932 Zeichen.
 - Strukturvalidator und YAML-Frontmatter-Validator laufen gruen.
 - Repo-weiter Versions-Bump auf v389.0.0.
 
 ---
 
-# v388.0.0 — i-Tuepfelchen: der Oeffnungssatz Wenn du das hier oeffnest
+# v388.0.0 — i-Tuepfelchen: der Oeffnungssatz Wenn du das hier öffnest
 
-Jedes Plugin traegt jetzt ganz oben einen einzigen, themenscharfen Satz nach dem Muster Wenn du das hier oeffnest, willst du, der das konkrete Arbeitsergebnis benennt. Wortgleich in drei Dateien: README, Werkstatt-Prompt, Schnellstart-Prompt.
+Jedes Plugin traegt jetzt ganz oben einen einzigen, themenscharfen Satz nach dem Muster Wenn du das hier öffnest, willst du, der das konkrete Arbeitsergebnis benennt. Wortgleich in drei Dateien: README, Werkstatt-Prompt, Schnellstart-Prompt.
 
-- Neues Feld oeffnungssatz je Themenprofil in scripts/themen_profile.py, ein Satz fuer jedes der neunzehn Profile (Arbeitsrecht, Mietrecht, Familienrecht, Strafrecht, Insolvenz, Steuer und weitere bis zum Auffangprofil).
-- Der Generator stellt den Satz als allererste Zeile von Werkstatt- und Schnellstart-Prompt voran; das Plugin mietrecht wird als handkuratiert uebersprungen und hat den Satz von Hand erhalten.
-- Ein Patch-Helper setzt den Satz in allen 229 Plugin-READMEs direkt unter die Ueberschrift.
+- Neues Feld oeffnungssatz je Themenprofil in scripts/themen_profile.py, ein Satz für jedes der neunzehn Profile (Arbeitsrecht, Mietrecht, Familienrecht, Strafrecht, Insolvenz, Steuer und weitere bis zum Auffangprofil).
+- Der Generator stellt den Satz als allererste Zeile von Werkstatt- und Schnellstart-Prompt voran; das Plugin mietrecht wird als handkuratiert übersprungen und hat den Satz von Hand erhalten.
+- Ein Patch-Helper setzt den Satz in allen 229 Plugin-READMEs direkt unter die Überschrift.
 - Schnellstart-Grenze von 7500 Zeichen bleibt eingehalten, kein Prompt darueber.
 - Repo-weiter Versions-Bump auf v388.0.0. YAML- und Strukturvalidator laufen fehlerfrei.
 
@@ -50,21 +50,21 @@ Jedes Plugin traegt jetzt ganz oben einen einzigen, themenscharfen Satz nach dem
 
 # v387.0.0 — Handkuratierte Prompts gegen den Generator abgesichert
 
-Behebt eine Sollbruchstelle: bislang haette ein erneuter Lauf von generate-werkstatt-und-schnellstart-prompts.py mit force jede von Hand veredelte Werkstatt- oder Schnellstart-Datei wieder mit Generator-Standardtext ueberschrieben.
+Behebt eine Sollbruchstelle: bislang haette ein erneuter Lauf von generate-werkstatt-und-schnellstart-prompts.py mit force jede von Hand veredelte Werkstatt- oder Schnellstart-Datei wieder mit Generator-Standardtext überschrieben.
 
 - Neue Schutzliste scripts/handkuratierte-prompts.txt: ein Plugin-Slug je Zeile, Kommentarzeilen mit Doppelkreuz erlaubt. Plugins auf dieser Liste pflegt man von Hand.
-- Der Generator liest die Liste und ueberspringt gelistete Plugins, statt ihre Werkstatt- und Schnellstart-Dateien zu ueberschreiben. Er meldet sie ausdruecklich als handkuratiert und uebersprungen. Der Lauf gibt jetzt geschrieben 456, uebersprungen 2 aus, weil das Plugin mietrecht geschuetzt ist.
-- Damit bleibt die in v386 handkuratierte mietrecht-Werkstatt auch nach einem kuenftigen Generatorlauf erhalten. Ein Selbsttest mit Hash-Vergleich vor und nach dem Lauf bestaetigt, dass die Datei unveraendert bleibt; die uebrigen 456 Prompts werden byte-identisch neu erzeugt.
-- Keine Marker in den Prompt-Dateien selbst, da spitze Klammern dort nicht zulaessig sind; die Steuerung liegt vollstaendig in der separaten Liste.
+- Der Generator liest die Liste und überspringt gelistete Plugins, statt ihre Werkstatt- und Schnellstart-Dateien zu überschreiben. Er meldet sie ausdruecklich als handkuratiert und übersprungen. Der Lauf gibt jetzt geschrieben 456, übersprungen 2 aus, weil das Plugin mietrecht geschuetzt ist.
+- Damit bleibt die in v386 handkuratierte mietrecht-Werkstatt auch nach einem kuenftigen Generatorlauf erhalten. Ein Selbsttest mit Hash-Vergleich vor und nach dem Lauf bestätigt, dass die Datei unveraendert bleibt; die uebrigen 456 Prompts werden byte-identisch neu erzeugt.
+- Keine Marker in den Prompt-Dateien selbst, da spitze Klammern dort nicht zulässig sind; die Steuerung liegt vollständig in der separaten Liste.
 - Repo-weiter Versions-Bump auf v387.0.0.
 
 ---
 
 # v386.0.0 — Handkuratierte Eloquenz-Veredelung: Mietrecht-Werkstatt auf Spitzenniveau
 
-Triage statt Breitensweep. Befund: Die Stationen der Werkstatt-Prompts tragen themenscharfe Ueberschriften, aber die Bodies aus Eingang, Pruefung und Arbeitsprodukt waren generatorbedingt wortgleiches Boilerplate, fuenffach je Prompt wiederholt. Das ist der Hebel.
+Triage statt Breitensweep. Befund: Die Stationen der Werkstatt-Prompts tragen themenscharfe Überschriften, aber die Bodies aus Eingang, Prüfung und Arbeitsprodukt waren generatorbedingt wortgleiches Boilerplate, fuenffach je Prompt wiederholt. Das ist der Hebel.
 
-- Flaggschiff dieser Runde ist das Plugin mietrecht, weil es die hoechste Praxisreichweite hat und der generische Stationstext dort am meisten schadet. Die fuenf Stationen des Werkstatt-Prompts (Vertrag und Objekt, Zahlung und Abrechnung, Mangel und Nutzung, Kuendigung und Raeumung, Wohnungseigentum und Beschluss) wurden handkuratiert mit themenscharfem Eingang, themenscharfer Pruefung, konkretem Arbeitsprodukt und je einem eigenen Pruefraster mit sechs Handlungsanweisungen versehen. Rolle und Stop-Kriterien sind auf den Punkt gebracht, das Schriftsatzgeruest und die Musterbausteine sind mietrechtlich konkret (Minderung, Eigenbedarfskuendigung, Nachforderung).
+- Flaggschiff dieser Runde ist das Plugin mietrecht, weil es die hoechste Praxisreichweite hat und der generische Stationstext dort am meisten schadet. Die fuenf Stationen des Werkstatt-Prompts (Vertrag und Objekt, Zahlung und Abrechnung, Mangel und Nutzung, Kuendigung und Raeumung, Wohnungseigentum und Beschluss) wurden handkuratiert mit themenscharfem Eingang, themenscharfer Prüfung, konkretem Arbeitsprodukt und je einem eigenen Prüfraster mit sechs Handlungsanweisungen versehen. Rolle und Stop-Kriterien sind auf den Punkt gebracht, das Schriftsatzgerüst und die Musterbausteine sind mietrechtlich konkret (Minderung, Eigenbedarfskuendigung, Nachforderung).
 - Pflichtnormen und Leitentscheidungen blieben unveraendert; an Aktenzeichen, Daten und Kernsaetzen wurde nichts geaendert. Der Schnellstart-Prompt war bereits autark und kohaerent mit den Stationen und wurde belassen.
 - Sanity des Flaggschiffs: 153 Zeilen, kein Paragrafensymbol, keine Doppelsterne im Fliesstext, keine XML-Klammern, keine Floskeln, keine Komma-Ziffer-Paare; Schnellstart unter 7500 Zeichen.
 - Repo-weiter Versions-Bump auf v386.0.0. YAML- und Strukturvalidator laufen fehlerfrei.
@@ -75,12 +75,12 @@ Naechster Handwork-Loop (Triage-Auswahl, noch nicht ausgefuehrt): arbeitsrecht, 
 
 # v385.0.0 — Finale Veredelung: Cowork-Marktplatz bereinigt, Sanity- und Coherency-Sweep
 
-Letzte Schicht ueber alle Plugins, Skills, Werkstatt- und Schnellstart-Prompts: Verwendbarkeit, Konsistenz und harte Funktionsfaehigkeit fuer den Claude-Cowork-Marktplatz.
+Letzte Schicht über alle Plugins, Skills, Werkstatt- und Schnellstart-Prompts: Verwendbarkeit, Konsistenz und harte Funktionsfaehigkeit für den Claude-Cowork-Marktplatz.
 
-- Schnellstart-Prompts aus der Skill-Registrierung entfernt: die in v384 als ladbare Skills gespiegelten 229 Schnellstart-Verzeichnisse unter den jeweiligen skills-Ordnern wurden geloescht. Werkstatt- und Schnellstart-Prompts werden ausschliesslich als Markdown ueber raw.githubusercontent ausgeliefert und sind keine Marktplatz-Skills mehr. Die Prompt-Markdown-Dateien am Plugin-Stamm bleiben unveraendert erhalten.
+- Schnellstart-Prompts aus der Skill-Registrierung entfernt: die in v384 als ladbare Skills gespiegelten 229 Schnellstart-Verzeichnisse unter den jeweiligen skills-Ordnern wurden geloescht. Werkstatt- und Schnellstart-Prompts werden ausschliesslich als Markdown über raw.githubusercontent ausgeliefert und sind keine Marktplatz-Skills mehr. Die Prompt-Markdown-Dateien am Plugin-Stamm bleiben unveraendert erhalten.
 - Zwei echte Fach-Skills, deren Namen auf werkstatt oder erstlekture enden (gewissensbegruendung-werkstatt im Plugin kriegsdienstverweigerung-wehrdienst sowie aktenordner-erstlekture im Plugin forderungsmanagement-klagewerkstatt), wurden ausdruecklich behalten; sie sind echte Werkzeuge und keine Prompt-Spiegel.
-- Distribution geprueft: alle 229 Plugin-READMEs verlinken Werkstatt- und Schnellstart-Prompt als raw.githubusercontent-Markdown, nicht als ZIP.
-- Sanity bestanden: alle 458 Prompt-Dateien ohne Paragrafensymbol, ohne XML-aehnliche Klammern, ohne Emojis, ohne Komma-Ziffer-Paare; jeder Schnellstart-Prompt bis 7500 Zeichen, jeder Werkstatt-Prompt mindestens 120 Zeilen. Marketplace- und Plugin-Descriptions im Limit. Generatorlauf meldet geschrieben 458, uebersprungen 0, Probleme keine. YAML- und Strukturvalidator laufen fehlerfrei.
+- Distribution geprüft: alle 229 Plugin-READMEs verlinken Werkstatt- und Schnellstart-Prompt als raw.githubusercontent-Markdown, nicht als ZIP.
+- Sanity bestanden: alle 458 Prompt-Dateien ohne Paragrafensymbol, ohne XML-ähnliche Klammern, ohne Emojis, ohne Komma-Ziffer-Paare; jeder Schnellstart-Prompt bis 7500 Zeichen, jeder Werkstatt-Prompt mindestens 120 Zeilen. Marketplace- und Plugin-Descriptions im Limit. Generatorlauf meldet geschrieben 458, übersprungen 0, Probleme keine. YAML- und Strukturvalidator laufen fehlerfrei.
 - Skill-Index neu erzeugt, sodass die entfernten Schnellstart-Skills nicht mehr gelistet sind.
 - Repo-weiter Bump auf v385.0.0.
 
@@ -102,7 +102,7 @@ Letzte Schicht ueber alle Plugins, Skills, Werkstatt- und Schnellstart-Prompts: 
 - Schnellstart-Skills nach Prompt-Änderungen synchronisiert und Prompt-/README-Konventionen erneut geprüft.
 - Repo-weiter Bump auf v383.0.0.
 
-# v382.0.0 — Grosser Aufraeumlauf: Testakten integriert, Schnellstart als Skill, READMEs konsolidiert
+# v382.0.0 — Großer Aufraeumlauf: Testakten integriert, Schnellstart als Skill, READMEs konsolidiert
 
 - Die 15 pluginlokalen Testakten der Gerichts- und Staatsanwaltschafts-Plugins sind im Pflichtformat nachgezogen und als pluginbezogene Testakten-Bundles releasefaehig.
 - Alle 229 Plugins liefern den Schnellstart-Prompt zusaetzlich als ladbaren Skill aus; der Werkstatt-Prompt bleibt als reines Markdown-Werkzeug und eigenes ZIP-Bundle erhalten.
@@ -115,11 +115,11 @@ Letzte Schicht ueber alle Plugins, Skills, Werkstatt- und Schnellstart-Prompts: 
 
 # v380.0.0 — Werkstatt- und Schnellstart-Prompts in drei Qualitaetsschleifen geschaerft
 
-Drei Qualitaetsschleifen ueber alle 229 Plugins, anschliessend Sanity-Sweep mit Bug-Hunt und repo-weiter Versions-Bump.
+Drei Qualitaetsschleifen über alle 229 Plugins, anschliessend Sanity-Sweep mit Bug-Hunt und repo-weiter Versions-Bump.
 
-- Schleife 1 (Inhaltsdichte): Werkstatt- und Schnellstart-Dateien aller 229 Plugins gegen die Konvention geprueft. Jede Werkstatt-Datei haelt 150 bis 400 Zeilen, jede Schnellstart-Datei bleibt unter 7500 Zeichen, Stationen und Kurzweg-Schritte korrespondieren zu real existierenden Skill-Ordnern. Keine fehlenden oder erfundenen Stationen gefunden.
-- Schleife 2 (Aequivalenz): Kohaerenz zwischen Werkstatt und Schnellstart geprueft. Pflicht-Paragrafen, Anker-Familie, Rollenname und Antwortform decken sich; der Schnellstart spiegelt verkuerzt denselben Workflow.
-- Schleife 3 (Aktualitaet und Ton): In allen 458 Werkstatt- und Schnellstart-Dateien wurde die Doppelstern-Auszeichnung im Fliesstext in reine Worte gewandelt; Fettdruck in Tabellenzeilen blieb erhalten, unbalancierte Restmarker wurden bereinigt. Ton durchgaengig sachlich-juristisch, keine Emojis, keine Marketing-Sprache, keine Hilfsnamen.
+- Schleife 1 (Inhaltsdichte): Werkstatt- und Schnellstart-Dateien aller 229 Plugins gegen die Konvention geprüft. Jede Werkstatt-Datei haelt 150 bis 400 Zeilen, jede Schnellstart-Datei bleibt unter 7500 Zeichen, Stationen und Kurzweg-Schritte korrespondieren zu real existierenden Skill-Ordnern. Keine fehlenden oder erfundenen Stationen gefunden.
+- Schleife 2 (Aequivalenz): Kohaerenz zwischen Werkstatt und Schnellstart geprüft. Pflicht-Paragrafen, Anker-Familie, Rollenname und Antwortform decken sich; der Schnellstart spiegelt verkuerzt denselben Workflow.
+- Schleife 3 (Aktualität und Ton): In allen 458 Werkstatt- und Schnellstart-Dateien wurde die Doppelstern-Auszeichnung im Fliesstext in reine Worte gewandelt; Fettdruck in Tabellenzeilen blieb erhalten, unbalancierte Restmarker wurden bereinigt. Ton durchgaengig sachlich-juristisch, keine Emojis, keine Marketing-Sprache, keine Hilfsnamen.
 - Sanity-Sweep und Bug-Hunt: genau eine Werkstatt- und eine Schnellstart-Datei je Plugin, keine verbotenen Dateinamen, kein YAML-Frontmatter und kein Paragrafenzeichen in den Promptdateien, README-Direkt-loslegen-Block vorhanden, plugin.json- und Marketplace-Descriptions im Limit, keine Zahl-Komma-Zahl-Sequenzen. YAML- und Strukturvalidator laufen fehlerfrei.
 - Repo-weiter Bump auf v380.0.0.
 
@@ -169,17 +169,17 @@ Fokussierter Qualitätslauf für die 15 Plugins im Sammelordner `gerichtsplugins
 
 # v374.0.0 — Gerichts- und Staatsanwaltschafts-Plugins: prominente KI-VO- und Art. 22 DSGVO-Warnung
 
-In allen 15 READMEs des Sammelordners `gerichtsplugins/` wurde die Kritikalitaet des KI-Einsatzes prominent und fachlich praezise klargestellt.
+In allen 15 READMEs des Sammelordners `gerichtsplugins/` wurde die Kritikalitaet des KI-Einsatzes prominent und fachlich präzise klargestellt.
 
 ## Prominenter Warnhinweis ganz oben
 
 - Jede der 15 READMEs erhaelt direkt unter dem Titel einen hervorgehobenen Hinweisblock, damit die Hochrisiko-Einordnung nicht erst weit unten sichtbar wird:
   - Hochrisiko-KI nach Art. 6 Abs. 2 in Verbindung mit Anhang III Nr. 8 Buchstabe a KI-VO (Justiz) bei den Richter-Plugins.
   - Bei den beiden Staatsanwaltschafts-Plugins zusaetzlich Anhang III Nr. 6 KI-VO (Strafverfolgung).
-  - Rueckausnahme Art. 6 Abs. 3 KI-VO nur bei rein vorbereitender Taetigkeit ohne Subsumtion, mit Registrierungspflicht nach Art. 49 Abs. 2 KI-VO.
-  - Art. 22 DSGVO: keine Entscheidung mit rechtlicher Wirkung ueber Menschen durch eine Maschine; die richterliche beziehungsweise staatsanwaltschaftliche Letztentscheidung liegt zwingend beim Menschen.
-- Im Plugin staatsanwaltschaft-praxis-einstieg fehlte im ausfuehrlichen Block bislang der Verweis auf Anhang III Nr. 6 KI-VO (Strafverfolgung); er wurde ergaenzt.
-- Der bestehende ausfuehrliche Block (Aktengeheimnis Paragraf 353b StGB, Paragraf 43 DRiG bzw. Paragraf 37 BeamtStG und Paragraf 67 BBG, Schatten-KI-Ablehnung, Revisionssicherheit) bleibt unveraendert erhalten und ist fachlich geprueft. Keine falsche Fundstelle Anhang III Nr. 4a vorhanden.
+  - Rueckausnahme Art. 6 Abs. 3 KI-VO nur bei rein vorbereitender Tätigkeit ohne Subsumtion, mit Registrierungspflicht nach Art. 49 Abs. 2 KI-VO.
+  - Art. 22 DSGVO: keine Entscheidung mit rechtlicher Wirkung über Menschen durch eine Maschine; die richterliche beziehungsweise staatsanwaltschaftliche Letztentscheidung liegt zwingend beim Menschen.
+- Im Plugin staatsanwaltschaft-praxis-einstieg fehlte im ausführlichen Block bislang der Verweis auf Anhang III Nr. 6 KI-VO (Strafverfolgung); er wurde ergänzt.
+- Der bestehende ausführliche Block (Aktengeheimnis Paragraf 353b StGB, Paragraf 43 DRiG bzw. Paragraf 37 BeamtStG und Paragraf 67 BBG, Schatten-KI-Ablehnung, Revisionssicherheit) bleibt unveraendert erhalten und ist fachlich geprüft. Keine falsche Fundstelle Anhang III Nr. 4a vorhanden.
 
 ## Versionierung
 
@@ -212,7 +212,7 @@ Inhaltliche Tiefenverbesserung der 15 Plugins im Sammelordner `gerichtsplugins/`
 
 # v372.0.0 — Gerichts-Plugins: Werkstatt-Header, plugin-spezifische Skill-Rollen, Konventionsumbenennung der Prompt-Dateien
 
-Groszer Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`. Mega- und Kompaktprüfungs werden jetzt durchgehend von einem werkstattartigen Kopfteil eroeffnet, der den Spruchkoerper, die Eingangslage, die Arbeitsprodukte, den typischen Workflow und die Eigenheiten der jeweiligen Gerichtsbarkeit beschreibt. Skill-Rollen sind nicht mehr generisch, sondern plugin-spezifisch. Die Dateinamen der Prompts tragen den Plugin-Slug.
+Groszer Qualitaetsdurchgang über alle 15 Plugins im Sammelordner `gerichtsplugins/`. Mega- und Kompaktprüfungs werden jetzt durchgehend von einem werkstattartigen Kopfteil eroeffnet, der den Spruchkoerper, die Eingangslage, die Arbeitsprodukte, den typischen Workflow und die Eigenheiten der jeweiligen Gerichtsbarkeit beschreibt. Skill-Rollen sind nicht mehr generisch, sondern plugin-spezifisch. Die Dateinamen der Prompts tragen den Plugin-Slug.
 
 ## Umbenennung der Prompt-Dateien (Repo-Konvention)
 
@@ -253,7 +253,7 @@ Forward-Fix nach dem Release-Validator. Beim Verschieben des Plugins staatsanwal
 ## Korrigiert
 
 - gerichtsplugins/staatsanwaltschaft-praxis-einstieg/README.md: Verweise auf den Unified Mini Prompt und den Anschauungs-Vollprüfung von einer auf zwei Ebenen hochgezogen (von Punkt-Punkt-Schraegstrich auf Punkt-Punkt-Schraegstrich-Punkt-Punkt-Schraegstrich), sodass sie wieder auf die Dateien im Repo-Wurzelverzeichnis zeigen.
-- references/rechtsgebiete-uebersicht.md: Verweis auf das Plugin von der Wurzel auf den Sammelordner gerichtsplugins umgebogen.
+- references/rechtsgebiete-übersicht.md: Verweis auf das Plugin von der Wurzel auf den Sammelordner gerichtsplugins umgebogen.
 
 ## Versionierung
 
@@ -267,12 +267,12 @@ Aufwertung der Mega- und Kompaktprüfungs aller 15 Plugins im Sammelordner `geri
 
 ## Bessere Namen und Spezifikation
 
-- Jeder Mega- und Kompaktprüfung traegt jetzt einen praezisen, themenspezifischen Titel statt der bloszen Rollennennung (zum Beispiel Zivilrichter am Amtsgericht: Relation, Beweis und Tenor mit Wertgrenze bis 10.000 Euro; Strafkammer am Landgericht: grosse und kleine Strafkammer, Massregeln, Revision; BVerfG-Vorpruefung: Annahme, Subsidiaritaet und Grundrechtspruefung im Votum).
+- Jeder Mega- und Kompaktprüfung traegt jetzt einen präzisen, themenspezifischen Titel statt der bloszen Rollennennung (zum Beispiel Zivilrichter am Amtsgericht: Relation, Beweis und Tenor mit Wertgrenze bis 10.000 Euro; Strafkammer am Landgericht: große und kleine Strafkammer, Massregeln, Revision; BVerfG-Vorpruefung: Annahme, Subsidiaritaet und Grundrechtspruefung im Votum).
 
 ## Gesetzesanker und Rechtsprechungsanker
 
 - Neuer Abschnitt Gesetzesanker je Mega- und Kompaktprüfung: die im jeweiligen Plugin am haeufigsten einschlaegigen Kernnormen, automatisch aus den Skills abgeleitet und auf die jeweilige Verfahrensordnung zugeschnitten (Disclaimer-Normen wie Paragraf 353b StGB bewusst ausgenommen, damit nur die fachlichen Kernnormen erscheinen).
-- Neuer Abschnitt Rechtsprechungsanker je Mega- und Kompaktprüfung: die wichtigsten Leitentscheidungen, ausschliesslich aus den bereits in den Skills vorhandenen, vetteten Zitaten uebernommen (keine neuen oder erfundenen Aktenzeichen) und mit dem Hinweis versehen, sie vor Verwendung an amtlicher Quelle zu verifizieren.
+- Neuer Abschnitt Rechtsprechungsanker je Mega- und Kompaktprüfung: die wichtigsten Leitentscheidungen, ausschliesslich aus den bereits in den Skills vorhandenen, vetteten Zitaten übernommen (keine neuen oder erfundenen Aktenzeichen) und mit dem Hinweis versehen, sie vor Verwendung an amtlicher Quelle zu verifizieren.
 
 ## Sanity
 
@@ -286,17 +286,17 @@ Aufwertung der Mega- und Kompaktprüfungs aller 15 Plugins im Sammelordner `geri
 
 # v369.0.0 — Gerichts-Plugins: Konventions-Angleichung und Qualitaetsdurchgang
 
-Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`, mit Schwerpunkt auf dem nachtraeglich hinzugekommenen Plugin `staatsanwaltschaft-praxis-einstieg`, das von den Konventionen der uebrigen 14 Gerichts-Plugins abwich.
+Qualitaetsdurchgang über alle 15 Plugins im Sammelordner `gerichtsplugins/`, mit Schwerpunkt auf dem nachtraeglich hinzugekommenen Plugin `staatsanwaltschaft-praxis-einstieg`, das von den Konventionen der uebrigen 14 Gerichts-Plugins abwich.
 
 ## Konventions-Angleichung staatsanwaltschaft-praxis-einstieg
 
 - Paragraf-Zeichen durchgaengig aufgeloest: 849 Vorkommen von Paragraf-Zeichen in 143 Dateien auf die ausgeschriebene Form Paragraf beziehungsweise Paragrafen umgestellt, wie es die uebrigen Gerichts-Plugins handhaben. Zahl-Komma-Zahl-Sequenzen wurden dabei nicht erzeugt.
-- Generisches Maskulinum hergestellt: sieben Skill-Verzeichnisse mit weiblicher Endung (Suffix staatsanwaeltinnen) auf die generische Form staatsanwaelte umbenannt, samt Frontmatter-Name, Ueberschrift und allen Verweisen in README, Vollprüfung und Kompaktprüfung. Die einzige verbliebene weibliche Prosaform im Vollprüfung (Probedezernentinnen, Referendarinnen, Dezernentin) ebenfalls auf das generische Maskulinum gezogen.
+- Generisches Maskulinum hergestellt: sieben Skill-Verzeichnisse mit weiblicher Endung (Suffix staatsanwaeltinnen) auf die generische Form staatsanwaelte umbenannt, samt Frontmatter-Name, Überschrift und allen Verweisen in README, Vollprüfung und Kompaktprüfung. Die einzige verbliebene weibliche Prosaform im Vollprüfung (Probedezernentinnen, Referendarinnen, Dezernentin) ebenfalls auf das generische Maskulinum gezogen.
 
-## Bug-Hunt und Sanity ueber alle 15 Plugins
+## Bug-Hunt und Sanity über alle 15 Plugins
 
-- Skill-Descriptions bis 1024 Zeichen, plugin.json- und Marketplace-Descriptions bis 300 Zeichen, keine Zahl-Komma-Zahl-Sequenz, keine spitzen Klammern, keine doppelten Anfuehrungszeichen, keine Emojis, kein Paragraf-Zeichen, Slugs nur aus Kleinbuchstaben, Ziffern und Bindestrich. Frontmatter ausschliesslich name und description; alle 142 Skill-Namen des Praxis-Plugins stimmen mit dem Verzeichnis ueberein.
-- Cross-Refs geprueft: gerichtsplugins/README.md listet alle 15 Plugins, alle Marketplace-source-Pfade aufloesbar, Haupt-README mit Sammelordner-Eintrag.
+- Skill-Descriptions bis 1024 Zeichen, plugin.json- und Marketplace-Descriptions bis 300 Zeichen, keine Zahl-Komma-Zahl-Sequenz, keine spitzen Klammern, keine doppelten Anfuehrungszeichen, keine Emojis, kein Paragraf-Zeichen, Slugs nur aus Kleinbuchstaben, Ziffern und Bindestrich. Frontmatter ausschliesslich name und description; alle 142 Skill-Namen des Praxis-Plugins stimmen mit dem Verzeichnis überein.
+- Cross-Refs geprüft: gerichtsplugins/README.md listet alle 15 Plugins, alle Marketplace-source-Pfade aufloesbar, Haupt-README mit Sammelordner-Eintrag.
 - Niemals auslesen oder abruflauf; keine weiteren weiblichen Doppelpunkt- oder Paarformen.
 
 ## Aesthetik
@@ -317,7 +317,7 @@ Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`, mi
 - Skill 26 Opferschutz, Nebenklage und Verletztenrechte (Paragrafen 406d ff., 395 ff. StPO, psychosoziale Prozessbegleitung).
 - Skill 27 Wiederaufnahme zuungunsten Paragraf 362 StPO mit BVerfG 2 BvR 900/22 vom 31.10.2023 (NJW 2023, 3698): Paragraf 362 Nr. 5 StPO als verfassungswidrig nichtig.
 - Skill 28 Internationale Rechtshilfe und Europaeischer Haftbefehl (Paragrafen 78 ff. IRG, Paragrafen 91a ff. IRG, RiVASt).
-- Aktenzeichen-Verifikation: Skill 04 Anker-Rechtsprechung BVerfGE 103, 142 ergaenzt; Skill 08 Belehrung BGH 5 StR 190/91 statt GSSt 1/96.
+- Aktenzeichen-Verifikation: Skill 04 Anker-Rechtsprechung BVerfGE 103, 142 ergänzt; Skill 08 Belehrung BGH 5 StR 190/91 statt GSSt 1/96.
 - README und MEGAPROMPT auf 28 Skills aktualisiert.
 
 ## Staatsanwaltschaft Praxis-Einstieg in den Sammelordner verschoben
@@ -330,14 +330,14 @@ Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`, mi
 
 - Plugin-Tabelle: Sammelordner-Zeile `gerichtsplugins/` alphabetisch zwischen `geldwaeschepraevention-aml-kyc` und `gesellschaftsgruender` eingefuegt; 14 einzelne Gerichts-Plugin-Zeilen entfernt.
 - Plugin-Tabelle: Sammelordner-Zeile `insolvenzrecht-plugins/` alphabetisch zwischen `insiderrecht-compliance` und `internal-investigations-praxis` eingefuegt; 11 einzelne Insolvenz-Plugin-Zeilen entfernt.
-- Statistik: 25913 Skills, 229 Plugins, 212 Testakten konsistent ueberall (Header, SKILLS.md, Sammel-Downloads).
-- Marketplace.json alphabetisch sortiert (war hinten ans Ende der Liste angehaengt fuer die Gerichts-Plugins).
+- Statistik: 25913 Skills, 229 Plugins, 212 Testakten konsistent überall (Header, SKILLS.md, Sammel-Downloads).
+- Marketplace.json alphabetisch sortiert (war hinten ans Ende der Liste angehaengt für die Gerichts-Plugins).
 
 ## Sammelordner `gerichtsplugins/`
 
 - README listet jetzt alle 15 Plugins (13 Richter-Rollen, Relationstechnik, Staatsanwaltschaft-Amtsanwaltschaft, Staatsanwaltschaft-Praxis-Einstieg).
-- Vollprüfung-Generator beruecksichtigt jetzt auch `gerichtsplugins/*` (vorher nur Top-Level); zentrale Sammlung in `testakten/megaprompts/` hat jetzt 229 Eintraege.
-- Unified Mini Prompts unveraendert vollstaendig fuer alle 229 Plugins.
+- Vollprüfung-Generator berücksichtigt jetzt auch `gerichtsplugins/*` (vorher nur Top-Level); zentrale Sammlung in `testakten/megaprompts/` hat jetzt 229 Eintraege.
+- Unified Mini Prompts unveraendert vollständig für alle 229 Plugins.
 
 ## Validator-Fix vor Bump
 
@@ -355,42 +355,42 @@ Drei Verbesserungs-Loops und ein Sanity- und Bug-Hunt-Durchgang am neuen Plugin 
 
 ## Qualitaets-Loops
 
-- Loop 1 (Mechanik): Tippfehler in der Einziehungs-Fallstrickliste korrigiert (beguenstigter Dritter).
+- Loop 1 (Mechanik): Tippfehler in der Einziehungs-Fallstrickliste korrigiert (begünstigter Dritter).
 - Loop 2 (Quellenhygiene): Zwei nicht sicher verifizierbare Bundesverfassungsgerichts-Aktenzeichen (Legalitaetsprinzip, Beschleunigungsgebot in Haftsachen) durch belegfeste st.-Rspr.-Formulierungen mit Verifikationshinweis ersetzt, statt ein moeglicherweise falsches Aktenzeichen als Tatsache zu behaupten. Die sicher zuzuordnenden Leitentscheidungen bleiben mit Aktenzeichen erhalten (Online-Durchsuchung 1 BvR 370/07, Gefahr im Verzug 2 BvR 1444/00, Widerspruchsloesung GSSt 1/96).
-- Loop 3 (Verweise): Querverweis-Kette Davor und Danach ueber alle 24 Skills auf gueltige Ziel-Slugs geprueft (keine toten Verweise).
+- Loop 3 (Verweise): Querverweis-Kette Davor und Danach über alle 24 Skills auf gueltige Ziel-Slugs geprüft (keine toten Verweise).
 
 ## Sanity und Bug-Hunt
 
-- Frontmatter aller 24 Skills auf genau name und description geprueft; plugin.json-Description 238 Zeichen (bis 300); keine Paragraf-Zeichen, keine spitzen Klammern, keine doppelten H1-Ueberschriften, JSON valide, keine Doppelpunkt-Gender-Formen.
+- Frontmatter aller 24 Skills auf genau name und description geprüft; plugin.json-Description 238 Zeichen (bis 300); keine Paragraf-Zeichen, keine spitzen Klammern, keine doppelten H1-Überschriften, JSON valide, keine Doppelpunkt-Gender-Formen.
 - Komma-Zahl in einer Testakte (Warenwert) auf eine kommafreie Angabe geaendert.
 
 ## Versionierung
 
-- Repo-weiter Bump auf v366.0.0 (229 plugin.json, marketplace.json, README, SKILLS.md, skills-index-Uebersicht und Asset-Stand).
+- Repo-weiter Bump auf v366.0.0 (229 plugin.json, marketplace.json, README, SKILLS.md, skills-index-Übersicht und Asset-Stand).
 
 ---
 
 # v365.0.0 — Gerichts-Plugins: neues Staatsanwaltschafts-Plugin, Wertgrenzen 2026, generisches Maskulinum, Verfeinerung und Verifikation
 
-Abschliessender Qualitaets-Loop mit Schwerpunkt auf den 13 Gerichts-Plugins unter `gerichtsplugins/`. Die inhaltliche Anreicherung der 140 Skills (Anker-Rechtsprechung, Pruefungsschemata, Fallstricke, Tenor-Bausteine) war in v358 bis v364 vorbereitet; v365 zieht die Korrektheits- und Sprachschicht nach und vereinheitlicht die Versionierung.
+Abschliessender Qualitaets-Loop mit Schwerpunkt auf den 13 Gerichts-Plugins unter `gerichtsplugins/`. Die inhaltliche Anreicherung der 140 Skills (Anker-Rechtsprechung, Prüfungsschemata, Fallstricke, Tenor-Bausteine) war in v358 bis v364 vorbereitet; v365 zieht die Korrektheits- und Sprachschicht nach und vereinheitlicht die Versionierung.
 
 ## Gerichts-Plugins
 
-- Wertgrenzen 2026 korrigiert: In allen 13 Gerichts-Plugins war die sachliche Zustaendigkeit des Amtsgerichts noch mit der alten Streitwertgrenze bis 5.000 Euro und die Landgerichts-Zustaendigkeit mit ab 5.001 Euro angesetzt. Nach dem Justizstandort-Staerkungsgesetz gilt seit 01.01.2026 Paragraf 23 Nummer 1 GVG mit 10.000 Euro. Korrigiert auf bis 10.000 Euro beziehungsweise ab 10.001 Euro (29 Ersetzungen in 28 Dateien); die Streitwertangabe von Testakten als Fallbetrag blieb unveraendert.
+- Wertgrenzen 2026 korrigiert: In allen 13 Gerichts-Plugins war die sachliche Zuständigkeit des Amtsgerichts noch mit der alten Streitwertgrenze bis 5.000 Euro und die Landgerichts-Zuständigkeit mit ab 5.001 Euro angesetzt. Nach dem Justizstandort-Staerkungsgesetz gilt seit 01.01.2026 Paragraf 23 Nummer 1 GVG mit 10.000 Euro. Korrigiert auf bis 10.000 Euro beziehungsweise ab 10.001 Euro (29 Ersetzungen in 28 Dateien); die Streitwertangabe von Testakten als Fallbetrag blieb unveraendert.
 - Generisches Maskulinum durchgaengig hergestellt: Die nachtraeglich hinzugekommenen Gerichts-Plugins verwendeten noch Doppelpunkt-Formen (Amtsrichter:in, Berichterstatter:in, Vorsitzende:r und weitere). Auf das im uebrigen Repo bereits etablierte generische Maskulinum vereinheitlicht (346 Ersetzungen in 180 Dateien, 19 Rollenbegriffe). Originalwortlaut zitierter Gerichtsentscheidungen blieb unangetastet.
-- Struktur und Formalia der 13 Plugins verifiziert: README, plugin.json, MEGAPROMPT, MINIPROMPT, Skills (12 mal 10 plus Relationstechnik 20 gleich 140) und Testakte je vollstaendig; Pflicht-Disclaimer (KI-VO Artikel 6, Anhang III Nummer 8 Buchstabe a, Artikel 49 Absatz 2, Artikel 22 DSGVO, Paragraf 353b StGB, Paragraf 43 DRiG, Schatten-KI-Ablehnung, Revisionssicherheit) in jedem README vorhanden.
+- Struktur und Formalia der 13 Plugins verifiziert: README, plugin.json, MEGAPROMPT, MINIPROMPT, Skills (12 mal 10 plus Relationstechnik 20 gleich 140) und Testakte je vollständig; Pflicht-Disclaimer (KI-VO Artikel 6, Anhang III Nummer 8 Buchstabe a, Artikel 49 Absatz 2, Artikel 22 DSGVO, Paragraf 353b StGB, Paragraf 43 DRiG, Schatten-KI-Ablehnung, Revisionssicherheit) in jedem README vorhanden.
 
 ## Neues Plugin: Staatsanwaltschaft und Amtsanwaltschaft
 
-- Neues experimentelles Plugin `gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft` mit 24 Skills, das das staatsanwaltschaftliche Dezernat von der Erstdurchsicht des Ermittlungsvorgangs bis zur Strafvollstreckung abbildet: Anfangsverdacht und Zustaendigkeit (auch Abgrenzung Amtsanwaltschaft nach OrgStA), Ermittlungsfuehrung und Ermittlungsanweisung, Zwangsmassnahmen (Durchsuchung und Beschlagnahme, Haftbefehl, vorlaeufige Festnahme, Telekommunikationsueberwachung, koerperliche Untersuchung), Beschuldigtenvernehmung, alle Einstellungsvarianten (Paragrafen 170 Absatz 2, 153, 153a, 154, 154a StPO), Strafbefehlsantrag, Anklageschrift nach Paragraf 200 StPO, beschleunigtes Verfahren, Sicherungsverfahren und Massregeln, Einziehung und Vermoegensabschoepfung, Jugendsache und Diversion, Sitzungsdienst, Plaedoyer und Schlussvortrag, Rechtsmittel der Staatsanwaltschaft, Strafvollstreckung sowie Klageerzwingungsbescheid und Abschlussverfuegung.
-- Jeder Skill folgt dem Standard der uebrigen Gerichts-Plugins: Anker-Rechtsprechung (famose Leitentscheidungen mit Aktenzeichen sonst als st. Rspr. mit Verifikationshinweis), gestuftes Pruefungsschema, typische Fallstricke, mindestens zwei Copy-Paste-Antrags- oder Verfuegungs-Bausteine und Querverweise.
-- Disclaimer staatsanwaltschaftlich angepasst: Aktengeheimnis ueber Paragraf 353b StGB und die beamtenrechtliche Verschwiegenheit (Paragraf 37 BeamtStG beziehungsweise Paragraf 67 BBG, nicht Paragraf 43 DRiG), KI-VO Anhang III Nummer 6 (Strafverfolgung) und Nummer 8 (Justiz), Objektivitaetspflicht (Paragraf 160 Absatz 2 StPO) und Weisungsgebundenheit (Paragrafen 146, 147 GVG). Zwei Testakten (Wohnungseinbruchdiebstahl und amtsanwaltliche Ladendiebstahlssache).
+- Neues experimentelles Plugin `gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft` mit 24 Skills, das das staatsanwaltschaftliche Dezernat von der Erstdurchsicht des Ermittlungsvorgangs bis zur Strafvollstreckung abbildet: Anfangsverdacht und Zuständigkeit (auch Abgrenzung Amtsanwaltschaft nach OrgStA), Ermittlungsfuehrung und Ermittlungsanweisung, Zwangsmassnahmen (Durchsuchung und Beschlagnahme, Haftbefehl, vorlaeufige Festnahme, Telekommunikationsueberwachung, koerperliche Untersuchung), Beschuldigtenvernehmung, alle Einstellungsvarianten (Paragrafen 170 Absatz 2, 153, 153a, 154, 154a StPO), Strafbefehlsantrag, Anklageschrift nach Paragraf 200 StPO, beschleunigtes Verfahren, Sicherungsverfahren und Massregeln, Einziehung und Vermögensabschoepfung, Jugendsache und Diversion, Sitzungsdienst, Plaedoyer und Schlussvortrag, Rechtsmittel der Staatsanwaltschaft, Strafvollstreckung sowie Klageerzwingungsbescheid und Abschlussverfuegung.
+- Jeder Skill folgt dem Standard der uebrigen Gerichts-Plugins: Anker-Rechtsprechung (famose Leitentscheidungen mit Aktenzeichen sonst als st. Rspr. mit Verifikationshinweis), gestuftes Prüfungsschema, typische Fallstricke, mindestens zwei Copy-Paste-Antrags- oder Verfügungs-Bausteine und Querverweise.
+- Disclaimer staatsanwaltschaftlich angepasst: Aktengeheimnis über Paragraf 353b StGB und die beamtenrechtliche Verschwiegenheit (Paragraf 37 BeamtStG beziehungsweise Paragraf 67 BBG, nicht Paragraf 43 DRiG), KI-VO Anhang III Nummer 6 (Strafverfolgung) und Nummer 8 (Justiz), Objektivitaetspflicht (Paragraf 160 Absatz 2 StPO) und Weisungsgebundenheit (Paragrafen 146, 147 GVG). Zwei Testakten (Wohnungseinbruchdiebstahl und amtsanwaltliche Ladendiebstahlssache).
 
 ## Sanity und Bug-Hunt
 
 - Keine `_GERICHTE_EXPERIMENTAL`-Verweise mehr (0).
-- Description-Laengen und Zeichenregeln in den Gerichts-Plugins geprueft (0 Verstoesse): plugin.json bis 300, SKILL.md bis 1024 Zeichen, keine Komma-Zahl-Sequenzen, keine Paragraf-Zeichen, keine spitzen Klammern, Slugs nur Kleinbuchstaben.
-- Keine doppelten H1-Ueberschriften in den Gerichts-Plugin-Skills.
+- Description-Laengen und Zeichenregeln in den Gerichts-Plugins geprüft (0 Verstoesse): plugin.json bis 300, SKILL.md bis 1024 Zeichen, keine Komma-Zahl-Sequenzen, keine Paragraf-Zeichen, keine spitzen Klammern, Slugs nur Kleinbuchstaben.
+- Keine doppelten H1-Überschriften in den Gerichts-Plugin-Skills.
 
 ## Versionierung
 
@@ -398,17 +398,17 @@ Abschliessender Qualitaets-Loop mit Schwerpunkt auf den 13 Gerichts-Plugins unte
 
 ---
 
-# v364.0.0 — Prozesskosten-Kniff und Remote-Aenderungen integriert
+# v364.0.0 — Prozesskosten-Kniff und Remote-Änderungen integriert
 
-- Remote-Stand von `main` als Basis uebernommen; die neuen Sammelordner-Hinweise fuer Gerichts- und Insolvenzrechts-Plugins bleiben erhalten.
+- Remote-Stand von `main` als Basis übernommen; die neuen Sammelordner-Hinweise für Gerichts- und Insolvenzrechts-Plugins bleiben erhalten.
 - Prozessrecht und Forderungsmanagement um die Kostenfeststellungsklage nach erledigter Hauptsache beziehungsweise Zahlung nach Klageeinreichung erweitert.
 - Zahlungsklage, Klage-Einreichungslogik, Anschluss-Routing, Mandatsabschluss, Beschlussbau ZPO und Selbstvertreter-Kostenfestsetzung verweisen auf die Verzugsschaden-Spur vor reflexhafter Erledigung oder Klageruecknahme.
 - SKILLS.md, skills-index und Unified Mini Prompts neu erzeugt; Repo-weiter Versionsstand auf v364.0.0 gezogen.
 
-# v362.0.0 — Release-ZIPs fuer verschachtelte Plugins stabilisiert
+# v362.0.0 — Release-ZIPs für verschachtelte Plugins stabilisiert
 
 - Release-Workflow baut installierbare Plugin-ZIPs jetzt aus den im Marketplace hinterlegten `source`-Pfaden, damit auch verschachtelte Gerichts-Plugins korrekt ausgeliefert werden.
-- Skill-Markdown-Bundles beruecksichtigen dieselben Quellen und enthalten die verschachtelten Plugin-Skills unter dem jeweiligen Plugin-Namen.
+- Skill-Markdown-Bundles berücksichtigen dieselben Quellen und enthalten die verschachtelten Plugin-Skills unter dem jeweiligen Plugin-Namen.
 - Lokale Probe mit 228 Plugin-ZIPs, Release-ZIP-Validierung und 228 Skill-Markdown-Bundles erfolgreich durchgefuehrt.
 - Repo-weiter Versionsstand auf v362.0.0 gezogen.
 
@@ -426,7 +426,7 @@ Die experimentellen Gerichts-Plugins unter `gerichtsplugins/` wurden fachlich ve
 ## Inhalt
 
 - 140 `SKILL.md` in den 13 Gerichts-Plugins um fuenf Abschnitte erweitert: Anker-Rechtsprechung, Prüfungsschema in Stufen, typische Fallstricke, Tenor- beziehungsweise Beschluss-Bausteine und benachbarte Skills.
-- Richterliche Arbeitsprodukte konkreter gemacht: Hinweise, Beweisbeschluesse, Eilbeschluesse, Urteile, Registerverfuegungen, sozial- und finanzgerichtliche Beschluesse sowie BVerfG-Kammerentwuerfe.
+- Richterliche Arbeitsprodukte konkreter gemacht: Hinweise, Beweisbeschluesse, Eilbeschluesse, Urteile, Registerverfuegungen, sozial- und finanzgerichtliche Beschlüsse sowie BVerfG-Kammerentwuerfe.
 - Aktengeheimnis und Amtsverschwiegenheit bleiben in jedem erweiterten Skill ausdrücklich als Grenze benannt.
 - Versions-Bump aller Plugins und Übersichten auf 360.0.0; `SKILLS.md` und Unified Mini Prompts wurden neu generiert.
 
@@ -460,7 +460,7 @@ Neues Experiment: 13 Plugins, die einen Richter, eine Richterin oder einen wisse
 ## Rahmen und Hinweise (in jedem Plugin enthalten)
 
 - Experiment-Warnung: keine Produktivempfehlung; Capability-Studie
-- KI-VO Art. 6 Abs. 2 i.V.m. Anhang III Nr. 8 lit. a (Justiz = Hochrisiko-KI), Art. 6 Abs. 3 (vorbereitende Taetigkeit), Registrierungspflicht Art. 49 Abs. 2
+- KI-VO Art. 6 Abs. 2 i.V.m. Anhang III Nr. 8 lit. a (Justiz = Hochrisiko-KI), Art. 6 Abs. 3 (vorbereitende Tätigkeit), Registrierungspflicht Art. 49 Abs. 2
 - Art. 22 DSGVO (kein automatisierter Letztentscheid)
 - Paragraf 353b StGB und Paragraf 43 DRiG (Aktengeheimnis, Amtsverschwiegenheit) ausdrücklich beachten
 - Schatten-KI ausdrücklich abgelehnt
@@ -793,9 +793,9 @@ Neues Plugin `denkmalschutzrecht` mit 31 Skills, strukturiert in drei Schichten:
 
 - `denkmaleigenschaft-feststellen` — Tatbestandsmerkmale, konstitutive und nachrichtliche Eintragung.
 - `eintragungsverfahren-allgemein` — Verfahrensschritte und Verteidigungslinien.
-- `erlaubnis-pflichtige-massnahmen` — Erlaubnistatbestände und Antragsverfahren.
+- `erlaubnis-pflichtige-maßnahmen` — Erlaubnistatbestände und Antragsverfahren.
 - `foerderung-und-steuerliche-abschreibung` — Paragrafen 7i, 10f, 11b EStG mit Denkmalbescheinigung.
-- `enteignung-uebernahme-und-entschaedigung` — Ausgleichspflicht, Übernahme, Enteignung.
+- `enteignung-übernahme-und-entschaedigung` — Ausgleichspflicht, Übernahme, Enteignung.
 
 ## Sechzehn Bundesländer-Skills
 
@@ -974,7 +974,7 @@ Das Bauträgervertrag-Plugin ist fachlich erheblich erweitert: Die verbraucherse
 
 ## Fachliche Erweiterung
 
-- `bautraegervertrag-pruefer` von 15 auf 30 Skills erweitert, mit präzisen Normankern zu BGB, MaBV, BeurkG, WEG, InsO, ZPO und HOAI-Prüfrastern.
+- `bauträgervertrag-pruefer` von 15 auf 30 Skills erweitert, mit präzisen Normankern zu BGB, MaBV, BeurkG, WEG, InsO, ZPO und HOAI-Prüfrastern.
 - Neue Spezialskills u. a. zu § 3/§ 7/§ 12 MaBV, § 650m Abs. 2 BGB, § 650u/§ 650v BGB, unwirksamen Abnahmeklauseln, vollständiger Fertigstellung, Bautenstandsnachweisen, Preisanpassung, Bauzeitverzug, Verbraucherbauvertrag-Abgrenzung, Baugruppen-GbR und Eigentumssicherung.
 - Rechtsprechungsanker zur aktuellen BGH-Linie im Bauträgerrecht nur als verifizierbare Hinweise eingebaut; keine BeckRS-/juris-Blindzitate.
 - Angrenzende Plugins punktuell ergänzt: `fachanwalt-bau-architektenrecht`, `immobilienrechtspraxis` und `weg-hausverwaltung` erhalten je einen Bauträger-Spezialskill für die dort typischen Anschlussfragen.
@@ -991,9 +991,9 @@ Der externe Bauträgervertragsprüfer ist jetzt in die Cloud-Legal-Plugin-Sammlu
 
 ## Neues Plugin
 
-- Neues Plugin `bautraegervertrag-pruefer` mit 15 fachlich getrennten Skills zu MaBV-Ratenplan, § 650u/650v BGB, § 650m Abs. 2 BGB, AGB-Kontrolle, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung, Bauzeit, Sonderwünschen, Streitstrategie und Drei-Dokumente-Ausgabe.
+- Neues Plugin `bauträgervertrag-pruefer` mit 15 fachlich getrennten Skills zu MaBV-Ratenplan, § 650u/650v BGB, § 650m Abs. 2 BGB, AGB-Kontrolle, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung, Bauzeit, Sonderwünschen, Streitstrategie und Drei-Dokumente-Ausgabe.
 - Der lange Ausgangsworkflow aus dem Ursprungsrepo bleibt ohne Wissensverlust als Referenzdatei erhalten; der eigentliche Einsatz erfolgt über einen kürzeren One-Shot-Workflow plus einzelne präzise Skills.
-- Neue Testakte `bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung` mit Bauträgervertrag als Markdown, DOCX und PDF, Mandanten-EML und validem Gesamt-PDF.
+- Neue Testakte `bauträgervertrag-birkenpfuhl-quendel-verbraucherpruefung` mit Bauträgervertrag als Markdown, DOCX und PDF, Mandanten-EML und validem Gesamt-PDF.
 
 ## Übersichten und Downloads
 
@@ -1044,7 +1044,7 @@ Zwei Themen zusammen ausgeliefert: ein scharfer Bug-Fix am Ausformulierungspflic
 
 ## Inject-Fence-Bug
 
-- `scripts/inject-ausformulierungspflicht.py`: `find_ausgabe_section_end()` jetzt mit Fence-Tracking. Faellt das Dateiende mitten in einen offenen ``` ```-Block, liefert die Funktion die Position **vor** der oeffnenden Fence-Zeile, nicht die nach der letzten Template-Zeile. Damit landet der `<!-- BEGIN ausformulierungspflicht (autogen) -->`-Block niemals mehr in einem fenced code block.
+- `scripts/inject-ausformulierungspflicht.py`: `find_ausgabe_section_end()` jetzt mit Fence-Tracking. Faellt das Dateiende mitten in einen offenen -Block, liefert die Funktion die Position **vor** der oeffnenden Fence-Zeile, nicht die nach der letzten Template-Zeile. Damit landet der `<!-- BEGIN ausformulierungspflicht (autogen) -->`-Block niemals mehr in einem fenced code block.
 - Neues Skript `scripts/fix-ausformulierungspflicht-fenced-leak.py`: Reparatur-Lauf über den Bestand. Findet betroffene SKILL.md (Marker im offenen Fence), extrahiert den Block, entfernt ihn aus der Datei und platziert ihn vor dem ersten ``` nach der Ausgabeformat-Ueberschrift.
 - Reparatur-Ergebnis: 32 SKILL.md gefixt, 2.392 waren bereits korrekt, 23.216 Dateien ohne Marker (nicht betroffen).
 
@@ -1093,39 +1093,19 @@ Neu: pro Plugin gibt es ein eigenes Markdown-ZIP als Release-Asset. ZIPs trigger
 ## Asset-Schema
 
 - `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<plugin>-skills-markdown.zip` — pro Plugin
-- `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip` — Sammel (~51 MB)
+- `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip` in `alle-skills-markdown.zip` (anwälte, notare, patentanwälte, steuerberater, wirtschaftsprüfer, berufsgerichtliche-verfahren-freie-berufe)
+- 2x `validate-plugin-structure.mjs` → `validate-testakten-gesamt-pdf.py` in `validate-release-zips.py`
+- 1x `-skills-markdown.zip` → `validate-release-assets.py` in `dist/`
+- 1x `.claude-plugin/marketplace.json` → `version` in `326.0.0`
+- 1x `scripts/generate-skills-md.py` → `scripts/generate-skills-overview.py` in `SKILLS.md`
 
-## Kennzahlen
-
-- Plugin-Markdown-Bundles: 213 ZIPs, je 85 KB - 2 MB
-- Skill/Vollprüfung-Dateien gesamt im Sammel-ZIP: 25.852
-- Sammel-ZIP `alle-skills-markdown.zip`: ~51 MB
-
-## Validatoren
-
-- `validate-plugin-structure.mjs`: OK
-- `validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
-- `validate-release-zips.py`: ignoriert die neuen `-skills-markdown.zip` Assets (prüft nur explizit benannte Plugin-ZIPs)
-- `validate-release-assets.py`: erfasst die neuen Assets automatisch über `dist/`-Diff
-
----
-
-# v328.0.0 — Manifest-Top-Level-Version synchronisiert
-
-Fix nach v327: Beim v327-Bump war zwar in `.claude-plugin/marketplace.json` jede Plugin-Eintrag-Version auf 327.0.0 hochgezogen, die **Top-Level-`version`** des Manifests selbst blieb aber auf `326.0.0`. Da `scripts/generate-skills-md.py` und `scripts/generate-skills-overview.py` ihre Stand-Angabe aus genau diesem Top-Level-Feld lesen, zeigten `SKILLS.md` und alle 213 Seiten unter `skills-index/` weiterhin v326, während `README.md` und `skills-index/README.md` schon v327 nannten.
-
-## Was
-
-- `.claude-plugin/marketplace.json`: Top-Level `version` auf `328.0.0` und alle 213 Plugin-Einträge auf `328.0.0`.
-- 213 `plugin.json`: auf `328.0.0`.
-- `README.md`, `skills-index/README.md`, `testakten/README.md`: Stand-Angabe auf `v328.0.0`.
-- `SKILLS.md` und alle 213 `skills-index/*.md` Detailseiten neu generiert (`generate-skills-md.py`, `generate-skills-overview.py`) — jetzt mit korrekt synchronisierter Versionsangabe aus dem Manifest.
+READMEs und `skills-index/` über `README.md` und `skills-index/README.md` regeneriert.
 
 ## Validatoren
 
-- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
-- `validate-plugin-structure.mjs`: OK
-- `validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
+- `.claude-plugin/marketplace.json`: 0 Fehler, 0 Warnungen
+- `version`: OK
+- `328.0.0`: OK (204 Testakten)
 
 ## Kennzahlen
 
@@ -1135,15 +1115,25 @@ Fix nach v327: Beim v327-Bump war zwar in `.claude-plugin/marketplace.json` jede
 
 ---
 
-# v327.0.0 — Sanity: doppelte Wörter in SKILL-Descriptions
+# v326.0.0 — Schlussgang: ASCII-Umlaute in plugin.json- und marketplace.json-Descriptions
 
-Reines Hygiene-Release nach v326. Keine Skill-Inhalte oder Funktionalität geändert. Versions-Bump für eine saubere Release-Reihe.
+Im Anschluss an die Codex-Releases v320 bis v325 (Worktree-Salvage, Skill-Qualitätssanierung, Vollprüfung-Sanity, Listings-Härtung) hat dieser Schlussgang einen verbleibenden Umlaut-Hygienemangel adressiert.
 
 ## Was
 
-Elf echte Wortdoppelungen in `description`-Frontmattern korrigiert. Die Doppelungen waren in den Marketplace-Listings, README-Tabellen und Skill-Index-Seiten direkt sichtbar.
+In 17 Plugins enthielt das `328.0.0`-Feld der `plugin.json` und damit gespiegelt die `328.0.0` noch ASCII-Ersatzschreibungen wie `README.md`, `skills-index/README.md`, `testakten/README.md`, `v328.0.0` etc. — vor allem in der ersten Zeile, die im Marketplace und in Plugin-Listen unmittelbar sichtbar ist.
 
-- 6x `prüft prüft` → `prüft` in `berufsrecht-*/red-team-qualitygate` (anwälte, notare, patentanwälte, steuerberater, wirtschaftsprüfer, berufsgerichtliche-verfahren-freie-berufe)
+Betroffene Plugins (alphabetisch):
+
+1. `SKILLS.md`
+2. `skills-index/*.md`
+3. `generate-skills-md.py`
+4. `generate-skills-overview.py`
+5. `validate-yaml-frontmatter.py`
+6. `validate-plugin-structure.mjs`
+7. `validate-testakten-gesamt-pdf.py`
+8. `description`
+9. `prüft prüft` → `prüft` in `berufsrecht-*/red-team-qualitygate` (anwälte, notare, patentanwälte, steuerberater, wirtschaftsprüfer, berufsgerichtliche-verfahren-freie-berufe)
 - 2x `Streik Streik` → `Streik, Streik` in `fluggastrechte/airline-standardausreden-*`
 - 1x `Anträge Anträge` → `Anträge` in `selbstvertreter-amtsgericht/terminvorbereitung-checkliste`
 - 1x `AufenthG AufenthG` → `AufenthG` in `fachanwalt-migrationsrecht/bamf-anhoerung-strategie`
@@ -1171,7 +1161,7 @@ Im Anschluss an die Codex-Releases v320 bis v325 (Worktree-Salvage, Skill-Qualit
 
 ## Was
 
-In 17 Plugins enthielt das `description`-Feld der `plugin.json` und damit gespiegelt die `.claude-plugin/marketplace.json` noch ASCII-Ersatzschreibungen wie `fuer`, `ueber`, `moeglich`, `Vertraege` etc. — vor allem in der ersten Zeile, die im Marketplace und in Plugin-Listen unmittelbar sichtbar ist.
+In 17 Plugins enthielt das `description`-Feld der `plugin.json` und damit gespiegelt die `.claude-plugin/marketplace.json` noch ASCII-Ersatzschreibungen wie `für`, `über`, `moeglich`, `Vertraege` etc. — vor allem in der ersten Zeile, die im Marketplace und in Plugin-Listen unmittelbar sichtbar ist.
 
 Betroffene Plugins (alphabetisch):
 
@@ -1193,7 +1183,7 @@ Betroffene Plugins (alphabetisch):
 16. `wahlkampfrecht-praxis`
 17. `weg-hausverwaltung`
 
-Skriptbasierte Ersetzung mit konservativer Wortliste (`fuer → für`, `ueber → über`, `moeglich → möglich`, `Vertraege → Verträge`, `Verhaeltnismaessigkeit → Verhältnismäßigkeit`, …), wortgrenzenstrikt. `marketplace.json` synchron mitgezogen; kein Drift mehr zwischen Plugin-eigener `plugin.json` und Marketplace-Aggregat.
+Skriptbasierte Ersetzung mit konservativer Wortliste (`für → für`, `über → über`, `moeglich → möglich`, `Vertraege → Verträge`, `Verhältnismaessigkeit → Verhältnismäßigkeit`, …), wortgrenzenstrikt. `marketplace.json` synchron mitgezogen; kein Drift mehr zwischen Plugin-eigener `plugin.json` und Marketplace-Aggregat.
 
 ## Sanity-Bilanz nach Schlussgang
 
@@ -1446,7 +1436,7 @@ Validatoren in der Folge wieder grün.
 ## Workflows (Status quo)
 
 Unverändert:
-- `.github/workflows/pages.yml` — Deploy `uebersicht-fachanwaltschaften` auf GitHub Pages
+- `.github/workflows/pages.yml` — Deploy `übersicht-fachanwaltschaften` auf GitHub Pages
 - `.github/workflows/release-plugin-zips.yml` — Pro Tag/manueller Trigger Plugin-ZIPs an Release
 
 ---
@@ -1480,7 +1470,7 @@ Pflege- und Qualitätsrelease nach zehn Prüfschleifen über Pluginbestand, Skil
 - Zehnstufiger Sanity-/Qualitätslauf über 213 Plugins und 20.908 Skills: Manifest-Abgleich, README-Abdeckung, Skill-Index, Downloadsektionen, Boilerplate-Marker, kurze Skills, Blindzitat-Muster, Testakten-Gesamt-PDFs, geschützte Kernplugins und Versionsstände.
 - `lizenzvertragsersteller` ist jetzt in der alphabetischen Top-README-Liste sichtbar und hat einen Sofort-Downloadblock.
 - `SKILLS.md`, `skills-index/*`, alle Plugin-Skillübersichten, Downloadsektionen und `ASSET_INDEX.md` wurden auf `v312.0.0` regeneriert.
-- `verhaeltnismaessigkeitspruefer`: README-Zählfehler bereinigt; der Wegweiser verweist nun auf die vollständige Autoliste mit 85 Skills.
+- `verhältnismäßigkeitspruefer`: README-Zählfehler bereinigt; der Wegweiser verweist nun auf die vollständige Autoliste mit 85 Skills.
 - `liquiditaetsplanung/skills/redteam-qualitygate`: alte Arbeitskontext-Formel entfernt und den Einstieg stärker auf Aktenlektüre, Planmechanik, OPOS, Bankstände, Steuer-/SV-Fälligkeiten und Insolvenznähe ausgerichtet.
 - Sanierungsgewinn-/Steuer-/Insolvenz-Skills: BeckVerw-/BeckRS-Blindfundstellen durch frei prüfbare Quellenlogik ersetzt.
 - `telekommunikationsrecht`: zwei zu kurze Skills mit konkreten TKG-, VwGO-, VwVfG-, BGB- und ZPO-Ankern sowie verwertbarem Output-Workflow nachgeschärft.
@@ -1541,7 +1531,7 @@ Reiner Pflege- und Hygiene-Release. Keine inhaltlichen Skill-Änderungen.
 | Skills (SKILL.md) | 20.908 |
 | Testakten (mit gesamt-pdf) | 204 |
 | Hilfsmaterial-Ordner (Formatvorlagen, Vollprüfungs) | 2 |
-| Skills im `verhaeltnismaessigkeitspruefer` | 85 |
+| Skills im `verhältnismäßigkeitspruefer` | 85 |
 
 ## Validatoren
 
@@ -1558,19 +1548,19 @@ Reiner Pflege- und Hygiene-Release. Keine inhaltlichen Skill-Änderungen.
 
 # v310.0.0 — Sammel-Release: Welle 2 + Welle 3 + Inhalts-Erweiterungen
 
-Konsolidierter Release, der die seit v305 angefallenen Änderungen unter einem gemeinsamen Tag buendelt. Inhaltlich enthält der Release die Wellen 2 und 3 des Umlaut- und Komposita-Sweeps, eine substantielle Erweiterung des `verhaeltnismaessigkeitspruefer` um Art. 3 GG, AGG und Drittwirkungsdimensionen, ein Eval-Harness-Bundle für den `arbeitszeugnispruefer-skill` sowie eine vollständige Neutralisierung des EU-Gateway-Setup-Plugins.
+Konsolidierter Release, der die seit v305 angefallenen Änderungen unter einem gemeinsamen Tag buendelt. Inhaltlich enthält der Release die Wellen 2 und 3 des Umlaut- und Komposita-Sweeps, eine substantielle Erweiterung des `verhältnismäßigkeitspruefer` um Art. 3 GG, AGG und Drittwirkungsdimensionen, ein Eval-Harness-Bundle für den `arbeitszeugnispruefer-skill` sowie eine vollständige Neutralisierung des EU-Gateway-Setup-Plugins.
 
 ## Highlights
 
-### `verhaeltnismaessigkeitspruefer`: 10 neue Skills
+### `verhältnismäßigkeitspruefer`: 10 neue Skills
 
 Das Plugin ist von 75 auf 85 Skills gewachsen.
 
 **Wellenkomplex Art. 3 GG und AGG (5 Skills):**
 - `art-3-gg-allgemeiner-gleichheitssatz` — Willkuerformel, Neue Formel, gleitender Maßstab
 - `art-3-abs-2-3-besondere-gleichheitssaetze` — Geschlecht, Behinderung, Diskriminierungsverbote
-- `agg-systematik-und-verhaeltnismaessigkeit` — AGG-Aufbau, Paragraph 8/10/20 AGG
-- `verhaeltnismaessigkeit-mittelbare-diskriminierung` — Paragraph 3 II AGG, EuGH-Linie Bilka
+- `agg-systematik-und-verhältnismäßigkeit` — AGG-Aufbau, Paragraph 8/10/20 AGG
+- `verhältnismäßigkeit-mittelbare-diskriminierung` — Paragraph 3 II AGG, EuGH-Linie Bilka
 - `gleichbehandlung-arbeitsrecht-praxischeck` — Paragraph 7/15/22 AGG, BAG-Linien
 
 **Wellenkomplex Drittwirkung der Grundrechte (5 Skills):**
@@ -1615,7 +1605,7 @@ Zwei Codex-Fix-Runden auf den Pull Requests #260 und #266: Drittwirkung-Klassifi
 | Plugin-Manifests | 213 |
 | Skills gesamt | 20908 |
 | Testakten | 209 |
-| Skills im `verhaeltnismaessigkeitspruefer` | 85 |
+| Skills im `verhältnismäßigkeitspruefer` | 85 |
 | seit v305 enthaltene Pull Requests | 8 (#260, #262, #263, #264, #265, #266, #267, #268, #269) |
 
 ## Enthaltene CHANGELOG-Abschnitte
@@ -1633,22 +1623,22 @@ Die folgenden Abschnitte unten dokumentieren Teilreleases, die zwischen v305 und
 Zusätzlich behandelt Welle 3 jetzt das `description:`-Feld in YAML-Frontmatter, während `name:` (Plugin-/Skill-Slug) weiterhin geschützt bleibt.
 
 Erfasste Stamm-Familien (Auszug):
-- `Pruefung*` → `Prüfung*` (Prüfungsschritt, Prüfungsordnung, Prüfungsrecht, Prüfungstermin, Prüfungsentscheidung)
-- `Geschaeft*` → `Geschäft*` (Geschäftsbereich, Geschäftsführung, Geschäftsleitung, Geschäftsgeheimnis, Geschäftsordnung)
+- `Prüfung*` → `Prüfung*` (Prüfungsschritt, Prüfungsordnung, Prüfungsrecht, Prüfungstermin, Prüfungsentscheidung)
+- `Geschäft*` → `Geschäft*` (Geschäftsbereich, Geschäftsführung, Geschäftsleitung, Geschäftsgeheimnis, Geschäftsordnung)
 - `Beschaeftig*` → `Beschäftig*` (Beschäftigung, Beschäftigte, Beschäftigungsverhältnis)
-- `Verhaeltnismaessig*` → `Verhältnismäßig*` (auch in Komposita)
-- `Massnahme*`, `Massstab*`, `Massgabe*` → `Maßnahme*`, `Maßstab*`, `Maßgabe*`
-- `Aenderung*`, `Aender*` → `Änderung*`, `Änder*`
-- `Klaeger*`, `Klaerung*`, `Klaeren*` → `Kläger*`, `Klärung*`, `Klären*`
+- `Verhältnismaessig*` → `Verhältnismäßig*` (auch in Komposita)
+- `Maßnahme*`, `Massstab*`, `Massgabe*` → `Maßnahme*`, `Maßstab*`, `Maßgabe*`
+- `Änderung*`, `Aender*` → `Änderung*`, `Änder*`
+- `Klaeger*`, `Klaerung*`, `Klären*` → `Kläger*`, `Klärung*`, `Klären*`
 - `Erlaeuter*` → `Erläuter*`
 - `Aequivalent*`, `Aequival*` → `Äquivalent*`, `Äquival*`
-- `Schluessel*` → `Schlüssel*`
+- `Schlüssel*` → `Schlüssel*`
 - `Selbstaendig*` → `Selbständig*`
 - `Auslaendisch*`, `Auslaender*` → `Ausländisch*`, `Ausländer*`
 - `Glaeubig*` → `Gläubig*`
-- `Vermoegens*` → `Vermögens*`
-- `Ueberpruef*`, `Ueberlassung*`, `Uebergabe*`, `Uebersetz*` etc. → `Überprüf*`, `Überlassung*`, `Übergabe*`, `Übersetz*`
-- `Fuersorge*`, `Fuerstent*` → `Fürsorge*`, `Fürstent*`
+- `Vermögens*` → `Vermögens*`
+- `Überpruef*`, `Überlassung*`, `Übergabe*`, `Übersetz*` etc. → `Überprüf*`, `Überlassung*`, `Übergabe*`, `Übersetz*`
+- `Fürsorge*`, `Fürstent*` → `Fürsorge*`, `Fürstent*`
 
 Stand:
 - 5253 Dateien angefasst, ~31.755.404 Zeichen geändert
@@ -1661,9 +1651,9 @@ Stand:
 
 Das `description:`-Feld in der YAML-Frontmatter wird jetzt mit derselben Stamm-Wortliste behandelt. Das `name:`-Feld (Plugin-/Skill-Slug) bleibt unangetastet.
 
-Beispiel `verhaeltnismaessigkeitspruefer/skills/agg-systematik-und-verhaeltnismaessigkeit/SKILL.md`:
-- `name: agg-systematik-und-verhaeltnismaessigkeit` (Slug, unverändert)
-- `description: ... Verhältnismäßigkeit ist hier eingebauter Prüfungsmassstab ...` (ehemals `Verhaeltnismaessigkeit`, `Pruefungsmassstab`)
+Beispiel `verhältnismäßigkeitspruefer/skills/agg-systematik-und-verhältnismäßigkeit/SKILL.md`:
+- `name: agg-systematik-und-verhältnismäßigkeit` (Slug, unverändert)
+- `description: ... Verhältnismäßigkeit ist hier eingebauter Prüfungsmassstab ...` (ehemals `Verhältnismaessigkeit`, `Prüfungsmaßstab`)
 
 ## Offen für Welle 4
 
@@ -1677,19 +1667,19 @@ Beispiel `verhaeltnismaessigkeitspruefer/skills/agg-systematik-und-verhaeltnisma
 
 ## Umlaut-Sweep über das Repo
 
-`scripts/sweep-umlaut-welle-2.py`: deterministischer Skript-Lauf, der ASCII-Ersatzschreibungen (`ae`, `oe`, `ue`, `ss`) in einer kuratierten Wortliste durch korrekte Umlaute und scharfes s ersetzt. Aufbauend auf der Schutzlogik von `fix-umlaute-protected.py` (Frontmatter, Code-Blöcke, URLs, Hex-Hashes, Slug-Token); zusätzlich Schutz für lange Lowercase-Wörter (≥ 18 Zeichen, typisch Plugin-Slugs wie `verhaeltnismaessigkeitspruefer`).
+`scripts/sweep-umlaut-welle-2.py`: deterministischer Skript-Lauf, der ASCII-Ersatzschreibungen (`ae`, `oe`, `ue`, `ss`) in einer kuratierten Wortliste durch korrekte Umlaute und scharfes s ersetzt. Aufbauend auf der Schutzlogik von `fix-umlaute-protected.py` (Frontmatter, Code-Blöcke, URLs, Hex-Hashes, Slug-Token); zusätzlich Schutz für lange Lowercase-Wörter (≥ 18 Zeichen, typisch Plugin-Slugs wie `verhältnismäßigkeitspruefer`).
 
 Erfasste Wortfamilien (Auszug, ca. 80 Mappings insgesamt):
-- `Pruefung`/`pruefen`/`Pruefer` → `Prüfung`/`prüfen`/`Prüfer`
-- `Verhaeltnismaessigkeit` → `Verhältnismäßigkeit`
-- `Massnahme` → `Maßnahme`
+- `Prüfung`/`prüfen`/`Pruefer` → `Prüfung`/`prüfen`/`Prüfer`
+- `Verhältnismaessigkeit` → `Verhältnismäßigkeit`
+- `Maßnahme` → `Maßnahme`
 - `ausschliesslich` → `ausschließlich`
 - `grundsaetzlich` → `grundsätzlich`
-- `gross`/`grosse`/`grosser` → `groß`/`große`/`großer`
-- `laesst` → `lässt`
-- `Klaeger`/`Klaerung`/`klaeren` → `Kläger`/`Klärung`/`klären`
-- `Schluessel` → `Schlüssel`
-- `Verguetung` → `Vergütung`
+- `gross`/`große`/`großer` → `groß`/`große`/`großer`
+- `lässt` → `lässt`
+- `Klaeger`/`Klaerung`/`klären` → `Kläger`/`Klärung`/`klären`
+- `Schlüssel` → `Schlüssel`
+- `Vergütung` → `Vergütung`
 - `Hoehe` → `Höhe`
 - `Aequivalenz` → `Äquivalenz`
 - `Erlaeuter` → `Erläuter`
@@ -1718,7 +1708,7 @@ Workflow-Hinweis: Codex-Push war direkt auf `main` ohne PR und mit englischem Co
 ## Offen für Welle 3
 
 - 213 Skills mit verbleibendem „Az verifizieren"-Marker (Codex-Sweep adressierte 59 von 272).
-- Komposita-Stamm-Sweep (z. B. `Pruefungsschritt` → `Prüfungsschritt`): erfordert weichere Wortgrenzen mit erweiterter Heuristik gegen False Positives.
+- Komposita-Stamm-Sweep (z. B. `Prüfungsschritt` → `Prüfungsschritt`): erfordert weichere Wortgrenzen mit erweiterter Heuristik gegen False Positives.
 - Description-Frontmatter-Felder: aktuell durch Frontmatter-Schutz unverändert, in Welle 3 mit feldspezifischem Skript angehbar.
 
 ---
@@ -1885,13 +1875,13 @@ Eval-Baseline-Run: **5/5 Akten All-Pass** (38 Checks gesamt, 0 Failures).
   - `rechtliche-bewertung-bag-rechtsprechung`: volle 13-Entscheidungen-Anker-Tabelle.
   - `zufriedenheitsformel-decodierung`, `gruen-flaggen-katalog`, `verbesserungsvorschlaege-formulieren`, `gesamtnoten-aggregation`, `azubi-zeugnis-analyse`: BAG-Notenstufen/Beweislast-Linie (9 AZR 12/03, 9 AZR 584/13).
   - `schlussformel-bewertung`, `aufforderungsschreiben-arbeitgeber`: BAG-Schlussformel-Linie inkl. Maßregelungsverbot § 612a BGB (BAG 9 AZR 272/22).
-  - `orange-flaggen-katalog`, `bereichs-drift-detektor`, `negationen-und-auslassungen-erkennen`, `widerspruechliche-bewertungen`, `branchen-spezifische-formulierungen`: Empfängerhorizont-Linie (9 AZR 352/04, 386/10).
+  - `orange-flaggen-katalog`, `bereichs-drift-detektor`, `negationen-und-auslassungen-erkennen`, `widersprüchliche-bewertungen`, `branchen-spezifische-formulierungen`: Empfängerhorizont-Linie (9 AZR 352/04, 386/10).
   - `rote-flaggen-katalog`: Ironie- und Smiley-Geheimzeichen-Linie (LAG Hamm 12 Ta 475/16, ArbG Kiel 5 Ca 80 b/13).
   - `klage-strategie-zeugnisberichtigung`: Vollstreckungs-Modul mit BAG 8 AZB 25/25 und § 888 ZPO.
 - Workflow-Direktiven:
   - `einstieg-routing` + `kaltstart-triage`: Sofortstart-Disziplin.
   - `ampelsystem-tabellenausgabe`: Ampel-Symbol-Disziplin (🔴/🟠/🟢).
-  - `output-waehlen`: HR-Gegenprüfung-Modus.
+  - `output-wählen`: HR-Gegenprüfung-Modus.
 
 ## Testakten
 
@@ -1920,7 +1910,7 @@ Eval-Baseline-Run: **5/5 Akten All-Pass** (38 Checks gesamt, 0 Failures).
   - `spanien-juicio-proporcionalidad` — Tribunal Constitucional STC 66/1995 und STC 207/1996, Idoneidad/Necesidad/Proporcionalidad en sentido estricto; Contenido esencial Art 53 I CE, reserva de ley organica Art 81 CE; STC 49/1999 (Telefoonintervention), STC 14/2003.
   - `niederlande-evenredigheidsbeginsel` — Art 3 4 lid 2 Awb seit ABRvS 2 februari 2022 (Maxis en Praxis ECLI:NL:RVS:2022:285), Geschiktheid/Noodzakelijkheid/Evenwichtigheid mit variabler toetsingsintensiteit; Toetsingsverbod Art 120 Gw; EVRM und Charta als dominanter Maßstab.
   - `belgien-redelijkheid-evenredigheid` — Grondwettelijk Hof über Art 10 11 GW als Einfallstor; objectief en redelijk verantwoord; arrests 23/89, 39/91, 116/2017, 96/2018; Raad van State / Conseil d Etat redelijkheidstoets; Bevoegdheidsoverschrijding als Foederalismus-Prüfung.
-  - `oesterreich-vfgh-verhaeltnismaessigkeit` — VfGH Sachlichkeitsgebot Art 7 B-VG mit Eignung/Erforderlichkeit/Adaequanz; EMRK im Verfassungsrang (BGBl 59/1964); VfSlg 11.853/1988, 12.485/1990, 20.397/2020 COVID; Funktionsschutz als Wesensgehalts-Pendant.
+  - `oesterreich-vfgh-verhältnismäßigkeit` — VfGH Sachlichkeitsgebot Art 7 B-VG mit Eignung/Erforderlichkeit/Adaequanz; EMRK im Verfassungsrang (BGBl 59/1964); VfSlg 11.853/1988, 12.485/1990, 20.397/2020 COVID; Funktionsschutz als Wesensgehalts-Pendant.
   - `luxemburg-cour-constitutionnelle-proportionnalite` — Cour constitutionnelle Triple Test Adequation/Necessite/Proportionnalite, Arrets 17/2003, 23/2004, 109/2014, 132/2017; Verfassungsreform 2023; Cour administrative und Cour superieure de justice als Parallelbahnen.
   - `daenemark-proportionalitetsprincip` — Politilov § 2 Nr 6, Retsplejelov § 783, Udlaendingelov; Egnethed/Noedvendighed/Proportionalitet i snaever forstand; Hoejesteret U 1996.234 H (Tvind), U 2013.1916 H; EMRK-Inkorporationsgesetz Nr 285/1992.
   - `polen-tk-zasada-proporcjonalnosci` — Trybunal Konstytucyjny Art 31 III Konstytucji RP mit Gesetzesvorbehalt, demokratischer Notwendigkeit, legitimen Zielen und Istota wolnosci i praw; Przydatnosc/Koniecznosc/Proporcjonalnosc; K 11/94, K 12/03, K 23/11; Praxis nach 2015 kritisch.
@@ -1939,10 +1929,10 @@ Eval-Baseline-Run: **5/5 Akten All-Pass** (38 Checks gesamt, 0 Failures).
 ## Skills
 
 - **verhältnismäßigkeitsprüfer**: fünf neue rechtsvergleichende Skills, Plugin wächst von 44 auf 49 Skills. Neue Gruppe „Rechtsvergleich (8)" deckt jetzt fünf Rechtsordnungen ab.
-  - `kanada-oakes-test-uebersicht` — R v Oakes [1986] 1 SCR 103 unter Section 1 Charter, vier Prongs (pressing and substantial objective, rational connection, minimal impairment, proportionality of effects), prescribed by law mit Sunday-Times-/Pharmaceutical-Society-Linie, Kontrolldichte-Wandel über Edwards Books, Irwin Toy, RJR-MacDonald, Hutterian Brethren, Notwithstanding Clause Section 33.
+  - `kanada-oakes-test-übersicht` — R v Oakes [1986] 1 SCR 103 unter Section 1 Charter, vier Prongs (pressing and substantial objective, rational connection, minimal impairment, proportionality of effects), prescribed by law mit Sunday-Times-/Pharmaceutical-Society-Linie, Kontrolldichte-Wandel über Edwards Books, Irwin Toy, RJR-MacDonald, Hutterian Brethren, Notwithstanding Clause Section 33.
   - `kanada-oakes-fallmatrix` — Fallmatrix Oakes, Edwards Books, Irwin Toy, RJR-MacDonald, Hutterian Brethren, Bedford 2013, Carter 2015 jeweils auf tragenden Prong gespiegelt; Übersetzungstabelle Oakes-Prong vs. deutsche Stufe; Section-7-Sonderkategorien (overbreadth, arbitrariness, groß disproportionality).
-  - `egmr-emrk-verhaeltnismaessigkeit` — Drei-Stufen-Test der Art 8–11 II EMRK: prescribed by law / legitimate aim / necessary in a democratic society, pressing social need, least restrictive means, fair balance; margin of appreciation eng vs. weit (Dudgeon, Von Hannover, Handyside, Sahin, S.A.S.); Rezeption im deutschen Recht über BVerfGE 111, 307 (Görgülü) und BVerfGE 128, 326 (Sicherungsverwahrung).
-  - `eugh-cjeu-verhaeltnismaessigkeit` — Art 52 I GRCh mit Wesensgehalt als eigenständiger Vorabausschluss; Leitentscheidungen Digital Rights Ireland (C-293/12), Schrems I & II (C-362/14, C-311/18), Tele2 Sverige (C-203/15), La Quadrature du Net (C-511/18), Commissioner v Dwyer (C-140/20), H K v Prokuratuur (C-746/18); Verhältnis zum allgemeinen Verhältnismäßigkeitsgrundsatz und Art 52 III GRCh.
+  - `egmr-emrk-verhältnismäßigkeit` — Drei-Stufen-Test der Art 8–11 II EMRK: prescribed by law / legitimate aim / necessary in a democratic society, pressing social need, least restrictive means, fair balance; margin of appreciation eng vs. weit (Dudgeon, Von Hannover, Handyside, Sahin, S.A.S.); Rezeption im deutschen Recht über BVerfGE 111, 307 (Görgülü) und BVerfGE 128, 326 (Sicherungsverwahrung).
+  - `eugh-cjeu-verhältnismäßigkeit` — Art 52 I GRCh mit Wesensgehalt als eigenständiger Vorabausschluss; Leitentscheidungen Digital Rights Ireland (C-293/12), Schrems I & II (C-362/14, C-311/18), Tele2 Sverige (C-203/15), La Quadrature du Net (C-511/18), Commissioner v Dwyer (C-140/20), H K v Prokuratuur (C-746/18); Verhältnis zum allgemeinen Verhältnismäßigkeitsgrundsatz und Art 52 III GRCh.
   - `usa-tiers-of-scrutiny` — Strict / Intermediate / Rational Basis Review mit Compelling Interest, Narrow Tailoring, Substantial Relation; Korematsu/Trump v Hawaii, Adarand, Grutter, SFFA v Harvard, Craig v Boren, VMI, Reed v Town of Gilbert, Williamson v Lee Optical, Romer/Cleburne (Rational Basis with Bite); Substantive Due Process von Lochner über Roe/Casey/Dobbs bis Obergefell, Glucksberg-Test; DeShaney-Schutzpflichtgrenze.
 - **verhältnismäßigkeit-einstieg** und Plugin-README: neue Sektion „Rechtsvergleich" mit allen fünf Rechtsordnungen, Skill-Zähler von 44 auf 49 angepasst.
 - plugin.json und marketplace.json Beschreibungen aktualisiert, Skill-Index regeneriert (20840 Skills, Stand v291.0.0).
@@ -2114,10 +2104,10 @@ Reine Pflege- und Konsistenzversion nach dem v239-Release. Alle 15 Befunde aus d
 ## Änderungen im Einzelnen
 
 - **YAML-Description-Cleanup** in 14 Verhältnismäßigkeitsprüfer-Skills: Doppel-Bandzahl entfernt (`BVerfGE 7 Band 7 Seite 198` -> `BVerfGE Band 7 Seite 198`), Umlaute/ss in YAML-descriptions vereinheitlicht zu ASCII (ae/oe/ue/ss). Body-Texte unveraendert.
-- **Plugin-README** `verhaeltnismaessigkeitspruefer/README.md` auf alle 44 Skills mit sieben Gruppen ausgebaut (Methodik 8, Vor-Trias plus Schranken 4, absolute Grenzen 3, Kontrolldichte 5, BVerfG-Leitentscheidungen 10, Rechtsvergleich 3, Dogmatiklinien 4, Praxis 7) und Plugin-Titel mit ss-Schreibung auf ss-Schreibung umgestellt.
-- **marketplace.json** description für `verhaeltnismaessigkeitspruefer` mit der plugin.json-Description synchronisiert (jetzt 44 Skills statt vorher noch 31). plugin.json für `status-navigator-step-plan` um "mit 35 Skills" ergaenzt, damit marketplace und plugin übereinstimmen.
+- **Plugin-README** `verhältnismäßigkeitspruefer/README.md` auf alle 44 Skills mit sieben Gruppen ausgebaut (Methodik 8, Vor-Trias plus Schranken 4, absolute Grenzen 3, Kontrolldichte 5, BVerfG-Leitentscheidungen 10, Rechtsvergleich 3, Dogmatiklinien 4, Praxis 7) und Plugin-Titel mit ss-Schreibung auf ss-Schreibung umgestellt.
+- **marketplace.json** description für `verhältnismäßigkeitspruefer` mit der plugin.json-Description synchronisiert (jetzt 44 Skills statt vorher noch 31). plugin.json für `status-navigator-step-plan` um "mit 35 Skills" ergaenzt, damit marketplace und plugin übereinstimmen.
 - **TESTBERICHT.md** Arbeitsstand-Beschreibung auf v239 aktualisiert (alter LausitzStorage-Text raus), Skill-Count von 18.536 auf 18.549 korrigiert.
-- **README.md** Skill-Count auf 18.549, Plugin-Tabellen-Description für `verhaeltnismaessigkeitspruefer` um v239-Themen erweitert.
+- **README.md** Skill-Count auf 18.549, Plugin-Tabellen-Description für `verhältnismäßigkeitspruefer` um v239-Themen erweitert.
 - **Padlet-Skill** `padlet-vier-stufen-tafel/SKILL.md` description-Style an die übrigen 43 Skills im Plugin angeglichen (keine Quotes mehr, Doppelpunkt vor Beispielen vermieden, damit YAML-Plain-Scalar-Regel eingehalten wird).
 - **BVerfG-Schlagwort-Feintuning** in drei Body-Stellen ohne Klammer-Schlagwort: `untermassverbot-schutzpflicht-dimension` (Lüth-Urteil), `vorpruefung-schranke-finden` (G10-Gesetz), `absolute-grenze-menschenwuerde-art-1-i-gg` (Schubhaft).
 - **audiovisuelle-leitentscheidungen-sammlung** mit Permalink-Disziplin: Permalinks zu BVerfG-Pressemitteilungen für Klimaschutz-Beschluss und Bundesnotbremse-Beschluss eingefuegt, aeltere Leitentscheidungen ohne audiovisuelles Material explizit als ohne Mediathek-Permalink gekennzeichnet.
@@ -2134,7 +2124,7 @@ Reine Pflege- und Konsistenzversion nach dem v239-Release. Alle 15 Befunde aus d
 
 ## Schwerpunkt
 
-Das Plugin `verhaeltnismaessigkeitspruefer` ist von 30 auf **44 Skills** angewachsen. Die vierstufige Schranken-Schranke ist jetzt durchgehend mit Vor-Trias (Schutzbereich, Eingriff, Schranke), absoluten Grenzen (Menschenwuerde, Wesensgehalt, Existenzminimum), Bestimmtheit, Wesentlichkeitstheorie, Untermassverbot, Einschaetzungspraerogative und Zitiergebot abgedeckt. Der Padlet-Skill funktioniert wieder, der unjuristische Arbeitstitel "Clip-Club" ist durch eine kuratierte audiovisuelle Leitentscheidungs-Sammlung ersetzt.
+Das Plugin `verhältnismäßigkeitspruefer` ist von 30 auf **44 Skills** angewachsen. Die vierstufige Schranken-Schranke ist jetzt durchgehend mit Vor-Trias (Schutzbereich, Eingriff, Schranke), absoluten Grenzen (Menschenwuerde, Wesensgehalt, Existenzminimum), Bestimmtheit, Wesentlichkeitstheorie, Untermassverbot, Einschaetzungspraerogative und Zitiergebot abgedeckt. Der Padlet-Skill funktioniert wieder, der unjuristische Arbeitstitel "Clip-Club" ist durch eine kuratierte audiovisuelle Leitentscheidungs-Sammlung ersetzt.
 
 ### Neue Stufen- und Schranken-Skills (14)
 
@@ -2173,9 +2163,9 @@ Im Skill-Body steht hinter jeder Leitentscheidung jetzt ein Schlagwort in Klamme
 
 ## Cross-References aktualisiert
 
-- `verhaeltnismaessigkeit-einstieg/SKILL.md`: neue Visualisierungs-Verweise auf `audiovisuelle-leitentscheidungen-sammlung` und `stufenbaum-ascii-art`.
-- `verhaeltnismaessigkeitspruefer/README.md`: Praxis-und-Workflow-Block und Skill-Tabelle aktualisiert.
-- `verhaeltnismaessigkeitspruefer/.claude-plugin/plugin.json`: description, keywords (`clip-club` → `audiovisuelle-leitentscheidungen`, plus `wesensgehalt`, `menschenwuerde`, `bestimmtheit`, `wesentlichkeitstheorie`).
+- `verhältnismäßigkeit-einstieg/SKILL.md`: neue Visualisierungs-Verweise auf `audiovisuelle-leitentscheidungen-sammlung` und `stufenbaum-ascii-art`.
+- `verhältnismäßigkeitspruefer/README.md`: Praxis-und-Workflow-Block und Skill-Tabelle aktualisiert.
+- `verhältnismäßigkeitspruefer/.claude-plugin/plugin.json`: description, keywords (`clip-club` → `audiovisuelle-leitentscheidungen`, plus `wesensgehalt`, `menschenwuerde`, `bestimmtheit`, `wesentlichkeitstheorie`).
 
 ## Counts (v239)
 
@@ -2252,7 +2242,7 @@ Alle zehn neuen Aktenstücke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 
 ## Repo-Sweep clean
 
-- Skill-Slugs in beiden neuen Plugins (`status-navigator-step-plan`, `verhaeltnismaessigkeitspruefer`) durchgesehen — alle sprechend, normbezogen, keine generischen Kurzformen.
+- Skill-Slugs in beiden neuen Plugins (`status-navigator-step-plan`, `verhältnismäßigkeitspruefer`) durchgesehen — alle sprechend, normbezogen, keine generischen Kurzformen.
 - Boilerplate-Scan repo-weit: "robuste" 191x, "nahtlos" 32x, "klar und verstaendlich" 12x — alle in juristischem Fachkontext (§ 307 BGB, Nahtlosigkeit GKV/RV, etc.), keine generischen KI-Tells.
 - Keine leeren SKILL.md, kein TODO/FIXME außerhalb legitimer Mustertexte (XXX = ISBN-Platzhalter, Az.-Format-Beispiel, TODO-Workflow-Marker).
 - description-Laengen aller 18.549 Skills compliant (<= 1024 Zeichen).
@@ -2273,7 +2263,7 @@ Alle zehn neuen Aktenstücke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 
 ## Schwerpunkt
 
-- **Root-README alphabetisch nachgezogen:** `status-navigator-step-plan` und `verhaeltnismaessigkeitspruefer` stehen wieder in der zentralen Plugin-Tabelle; die thematischen Cluster nennen beide ebenfalls.
+- **Root-README alphabetisch nachgezogen:** `status-navigator-step-plan` und `verhältnismäßigkeitspruefer` stehen wieder in der zentralen Plugin-Tabelle; die thematischen Cluster nennen beide ebenfalls.
 - **PROMPTLISTE aktualisiert:** 208 kuratierte Praxis-Plugins von 212; die vier bewusst ausgenommenen historischen/exotischen Spezialplugins bleiben nicht in der kuratierten Praxisliste.
 - **ASSET_INDEX neu aufgebaut:** 212 Plugin-Assets, 203 Testakten-Assets und alle vier Sammel-Assets (`marketplace.json`, `alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`) mit den tatsächlich vom Release-Workflow erzeugten Download-URLs.
 - **Sofort-Download-Sektionen nachgezogen:** Die beiden neuen Plugins haben nun eigene Direkt-Download-Blöcke mit zugeordneter Demonstrationsakte; bestehende Plugin- und Testakten-README-Blöcke wurden idempotent geprüft.
@@ -2293,7 +2283,7 @@ Alle zehn neuen Aktenstücke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 
 - **Zwei neue Plugins** mit zusammen 66 Skills:
   - `status-navigator-step-plan` (35 Skills): Status-Navigator und Step-Plan-Macher als reine Dokumentenverarbeitung. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Überblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung, keine Normenanker.
-  - `verhaeltnismaessigkeitspruefer` (31 Skills): Vierstufige Schranken-Schranke (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) mit BVerfG-Leitentscheidungen, PrOVG-Kreuzberg-Linie, rechtsvergleichenden Skills zu Suedafrika Section 36 und Workflow-Werkzeugen Clip-Club/Padlet.
+  - `verhältnismäßigkeitspruefer` (31 Skills): Vierstufige Schranken-Schranke (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit) mit BVerfG-Leitentscheidungen, PrOVG-Kreuzberg-Linie, rechtsvergleichenden Skills zu Suedafrika Section 36 und Workflow-Werkzeugen Clip-Club/Padlet.
 - **230 neue Norm-Skills in 23 Fachanwalt-Plugins** (je 10 Skills mit sprechenden Slugs): zitiert konkret aus dem jeweiligen Plugin-Bestand und loest jeweils ein konkretes Problem. Plugins: agrarrecht, arbeitsrecht, bank-kapitalmarktrecht, bau-architektenrecht, erbrecht, familienrecht, gewerblicher-rechtsschutz, handels-gesellschaftsrecht, insolvenz-sanierungsrecht, internationales-wirtschaftsrecht, it-recht, medizinrecht, miet-wohnungseigentumsrecht, migrationsrecht, sozialrecht, sportrecht, strafrecht, transport-speditionsrecht, urheber-medienrecht, vergaberecht, verkehrsrecht, versicherungsrecht, verwaltungsrecht (steuerrecht ausgenommen wegen Redirect).
 - **Neue Testakte**: `polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz` (20 Aktenstücke) — Initiative Lausitzer Lebensraum e.V. (1. Vorsitzender Dr. Werner-Karl Pohlmann-Brandenburg) gegen Polizeiverfuegung wegen Anti-Kohle-Versammlung mit Performance-Erdaushebung "Vier Stufen der Trauer um den Lausitzer Wald". Eilantrag § 80 Abs. 5 VwGO an VG Cottbus 3 L 188/26, Vors. RiVG Dr. Susanne Marquardt-Heuser. Beschluss-Stattgabe wegen Versammlungsfreiheit Art. 8 GG. Bearbeitung durch RAin Dr. Friederike Hesselmann-Sauerbruch, Pohlmann und Pohlmann, AZ PoPo-2026-VR-0617.
 - **Veredelungs-Runde 3**: 1.124 Skills in 197 Plugins mit kuratierten Normen-und-Rechtsprechung-Sektionen versehen. Plugin-Top-30 mit handkuratierten Norm-Bibliotheken (8-15 Normen + 3-6 Leitentscheidungen), uebrige Plugins mit aus den Plugin-Skills extrahierten Top-Normen.
@@ -2314,12 +2304,12 @@ Alle zehn neuen Aktenstücke sind durch durchgaengige Aktenzeichen, Notar-UR-Num
 
 ## Schwerpunkt
 
-- **Grammatik-Fix nach Codex-Polish v216:** 13.346 SKILL.md-Dateien mit grammatischen Folgefehlern der `Prueffeld -> Pruefungslinie`-Substitution korrigiert. Insgesamt rund 13.300 Sprachstellen geheilt: `dieses Pruefungslinie -> diese Pruefungslinie` (~12.993), `Dieser Pruefungslinie -> Diese Pruefungslinie`, `beim sachtragenden -> bei der sachtragenden`, `konkret Pruefungslinie -> konkrete Pruefungslinie`, `in das tragende -> in die tragende`, `zum richtigen -> zur richtigen`, `Passenden -> Passende`.
+- **Grammatik-Fix nach Codex-Polish v216:** 13.346 SKILL.md-Dateien mit grammatischen Folgefehlern der `Prueffeld -> Prüfungslinie`-Substitution korrigiert. Insgesamt rund 13.300 Sprachstellen geheilt: `dieses Prüfungslinie -> diese Prüfungslinie` (~12.993), `Dieser Prüfungslinie -> Diese Prüfungslinie`, `beim sachtragenden -> bei der sachtragenden`, `konkret Prüfungslinie -> konkrete Prüfungslinie`, `in das tragende -> in die tragende`, `zum richtigen -> zur richtigen`, `Passenden -> Passende`.
 - **Truncation-Fix V4:** 80 Skill-Slugs mit abgeschnittenen Endungen rekonstruiert.
   - `-un` (Tail-Drop nach `-und`) entfernt für 30+ Skills.
   - `-red` -> `-red-team-korrektur` für 14 Skills.
   - `-sta` -> `-staatsanwaeltinnen` (StA-Plugin) bzw. `-staatshaftung` (Weltraumrecht).
-  - `-fak` -> `-faktenmatrix`, `-ve` -> `-verhaeltnismaessigkeit`.
+  - `-fak` -> `-faktenmatrix`, `-ve` -> `-verhältnismäßigkeit`.
   - Hardcoded Fixes für Spezialfälle (gesellschafterstreit, rechnungskorrektur etc.).
 - **Aspekt-Suffix-Sweep:** 7 Skills mit doppeldeutigen Aspekt-Suffixen `-re/-or/-ka/-2/-3/-4` auf sprechende Vollform gebracht (z. B. `-rechtsprechungscheck`, `-organisationspflicht`, `-kaltstart`, `-kammerantwort`). Slug-Laengen-Limit 64 Zeichen beachtet, wo noetig Kurzform (z. B. `-orgapflicht`, `-rspr-check`).
 - **marktmac/energie-Renames:** 5 Slugs aus bundesnetzagentur-verfahren rekonstruiert (`-marktmacht-...`, `-unbundling-...`, `-messstellenbetrieb-...`).
@@ -3389,8 +3379,8 @@ Nachlauf zum umbenannten Word-Plugin: Der neue Slug `word-legal-ai-plugin-and-sk
 - `partner-kommentar-umsetzen` für knappe Partnernotizen und Randkommentare.
 - `mandantenmemo-und-partner-update` für Executive Summary, Empfehlung, Risikoampel und nächste Schritte.
 - `argumentationsarchitektur-schreiben` für These, Norm, Tatsache, Beleg, Gegenargument und Rechtsfolge.
-- `schriftsatz-ueberarbeiten-richterlesbar` für Anträge, Ergebnisüberschriften, Beweisangebote, Anlagenverweise und Ton.
-- `us-uk-legal-writing-fuer-deutsche` für englische/amerikanische Legal-Texte aus deutscher Anwaltsperspektive.
+- `schriftsatz-überarbeiten-richterlesbar` für Anträge, Ergebnisüberschriften, Beweisangebote, Anlagenverweise und Ton.
+- `us-uk-legal-writing-für-deutsche` für englische/amerikanische Legal-Texte aus deutscher Anwaltsperspektive.
 - `englischer-vertrag-deutsches-recht` für englischsprachige Verträge mit deutschem Recht ohne versehentlichen Common-Law-Import.
 - `finaler-writing-quality-gate` als letzte Freigabeampel vor Versand.
 
@@ -3461,7 +3451,7 @@ User-Wunsch: Das Plugin `juristisches-drafting` ist solide, aber spartanisch. Es
 ## Vier neue Skills im Plugin `juristisches-drafting`
 
 - **`defensive-drafting-fallen-erkennen`** — Zwölf typische Fallen in Gegenseitenentwürfen mit Roten-Flaggen-Wortlisten und Verteidigungsformulierungen (von einseitigen Haftungsbegrenzungen über kaschierte Vertragsstrafen bis zu versteckten Optionsrechten).
-- **`term-sheet-zu-vertrag-uebersetzung`** — Mapping-Tabelle Term-Sheet-Position → Vertragsklausel, zwölf typische Term-Sheet-Lücken (Steuern, IP, Indemnities, Closing Conditions, MAC-Klauseln), Mandantenmemo-Vorlage mit offenen Punkten.
+- **`term-sheet-zu-vertrag-übersetzung`** — Mapping-Tabelle Term-Sheet-Position → Vertragsklausel, zwölf typische Term-Sheet-Lücken (Steuern, IP, Indemnities, Closing Conditions, MAC-Klauseln), Mandantenmemo-Vorlage mit offenen Punkten.
 - **`bilingual-drafting-deutsch-englisch`** — Drei Use Cases (zwei Sprachfassungen, Glossar-Anhang, parallele Spalten), False-Friends-Tabelle DE-EN mit 25 Einträgen (z. B. `Schuldner ≠ schuldner`, `Erfüllungsort ≠ place of performance`, `Schadensersatz ≠ damages`), Maßgeblichkeits-Klausel.
 - **`klausel-bibliothek-katalog`** — Bedienungsanleitung für die Klauselbibliothek mit über 60 Bausteinen. Jeder Baustein hat B2B/B2C-Ampel, AGB-Risiko (grün/gelb/rot), mild/scharf-Variante und englische Fassung.
 
@@ -3496,7 +3486,7 @@ Bugfix für ein Codex-P2-Finding zu v50.4.0: Die `alles-komplettpaket.zip` aus d
 
 ## Änderungen
 
-- `.github/workflows/release-plugin-zips.yml`: Beim Bauen von `alles-komplettpaket.zip` wird `skills-index/` mit nach `uebersichten/skills-index/` kopiert, damit die relativen Links der `SKILLS.md` im ZIP auflösen.
+- `.github/workflows/release-plugin-zips.yml`: Beim Bauen von `alles-komplettpaket.zip` wird `skills-index/` mit nach `übersichten/skills-index/` kopiert, damit die relativen Links der `SKILLS.md` im ZIP auflösen.
 - Marketplace-Version `50.5.0` → `50.5.1`.
 
 # v50.5.0 — Testakten-Qualitätssprung und Gesamt-PDF-Regel
@@ -3669,7 +3659,7 @@ Sanity-Check ergab: in 96 von 107 Plugin-READMEs fehlten Skills in der jeweilige
 
 ## Änderungen
 
-- Neues Skript `scripts/generate-skills-overview.py` baut in jeder Plugin-README einen automatisch gepflegten Abschnitt `## Alle Skills im Ueberblick` ans Ende. Der Block ist mit HTML-Kommentar-Markern eingegrenzt und kann jederzeit regeneriert werden, ohne manuelle README-Inhalte zu zerstoeren.
+- Neues Skript `scripts/generate-skills-overview.py` baut in jeder Plugin-README einen automatisch gepflegten Abschnitt `## Alle Skills im Überblick` ans Ende. Der Block ist mit HTML-Kommentar-Markern eingegrenzt und kann jederzeit regeneriert werden, ohne manuelle README-Inhalte zu zerstoeren.
 - 107 Plugin-READMEs einmalig generiert. Jede README listet jetzt alle Skills des Plugins mit Description aus der jeweiligen SKILL.md.
 - Cross-Check: 0 Plugins mit Skill-Drift in der README (vorher: 96).
 
@@ -3861,7 +3851,7 @@ Die Frankfurt-Startup-Testakte wird zu einer realistischen Mandatsakte umgebaut.
 
 - Fuenf formale Lehrdateien geloescht (jeweils `.md` + `.docx` + `.pdf`): `07-erwarteter-output`, `08-glossar-english-deutsch`, `09-anfaengerfehler-katalog`, `17-anschauungsmaterial-index`, `23-rookie-cheatsheet`.
 - In den verbleibenden 15 Markdown-Dateien alle Disclaimer-Zeilen entfernt ("Fiktive Lehrakte", "Aehnlichkeit zu realen Transaktionen", "Lehrmaterial", "Didaktischer Hinweis", "Simuliert wird").
-- ASCII-Umlaute systematisch gefixt: `Aehnlichkeiten` → `Ähnlichkeiten`, `Uebersetzung` → `Übersetzung`, `fuer` → `für` (kontextabhaengig), `dass` korrekt, `ß` durchgaengig.
+- ASCII-Umlaute systematisch gefixt: `Ähnlichkeiten` → `Ähnlichkeiten`, `Übersetzung` → `Übersetzung`, `für` → `für` (kontextabhaengig), `dass` korrekt, `ß` durchgaengig.
 - E-Mail-Adressen entfiktivisiert: `[mailto fiktiv ...]` → echte Kanzlei-Domains (`@hagemann-westarp.de`, `@brackenmuir-quint.de`); "Fiktive Adresse:" → echte Anschrift.
 - `README.md` der Testakte komplett neu als Akten-Deckblatt der Kanzlei (Mandantin, Az., Sachbearbeitung, Aktenbestand).
 
@@ -3882,7 +3872,7 @@ Die Frankfurt-Startup-Testakte wird zu einer realistischen Mandatsakte umgebaut.
 - `node scripts/validate-plugin-structure.mjs` — OK
 - `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
 - `python3 /tmp/welle5_komma_check.py` — 0 Treffer
-- Volltextsuche `lehr|fiktiv|didakt|simuliert|aehnlich` in allen 17 PDFs, 17 DOCX, 5 EML, 2 Chat-MDs — 0 Treffer.
+- Volltextsuche `lehr|fiktiv|didakt|simuliert|ähnlich` in allen 17 PDFs, 17 DOCX, 5 EML, 2 Chat-MDs — 0 Treffer.
 - PDF 19 (Notar-Memo) und PDF 11 (Investor-Counsel) visuell mit `pdftoppm` geprüft: Briefkopf korrekt, Nummerierung korrekt, kein Überlauf.
 
 ---
@@ -4229,7 +4219,7 @@ Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:
 - Neues Plugin **`nachbarschaftsstreit-pruefer`** mit 19 Skills zum Nachbarrecht: Überbau (§§ 912-916 BGB), Überhang (§ 910 BGB), Grenzbaum/Grenzanlage (§§ 921-923 BGB), Einfriedung, Immissionen (§ 906 BGB), Notweg (§§ 917-918 BGB), Vertiefung/Baugrube (§ 909 BGB), Hammerschlagsrecht, Landesnachbarrecht-Router, Beweissicherung, Aufforderungsschreiben, einstweilige Verfügung und Vergleich. Mit zwölfteiliger Testakte `nachbarschaftsstreit-horrorfall-rosengarten`.
 - Drei neue Datenschutz-Skills im Plugin `datenschutzrecht`: `us-transfer-tia-dokumentation`, `standardvertragsklauseln-scc-paket`, `drittlandtransfer-behoerdenpaket-output`. Mit Testakte `datenschutz-us-transfer-cloudsuite-rheinmain` (CloudSuite Assist, DPF-Lücke, SCC Modul 2, hbDI-Antwortentwurf).
 - Neuer KI-VO-Skill `output-konformitaetsbescheinigung-evidence-pack` mit Statusleiter Final/Entwurf/Readiness/Drittstelle, EU-Konformitätserklärung nach Art. 47 / Anhang V, Evidence Index und Lückenliste. Mit Testakte `ki-vo-konformitaetsbescheinigung-bewerberpilot`.
-- Bereicherungs- und Arbeitsrecht-Cleanup: URL-Konsistenz `claude-fuer-deutsches-recht` und ASCII-Slugs in den Direkt-Download-Tabellen, Skill-Slugs in Plugin-README-Tabellen ohne Umlaute.
+- Bereicherungs- und Arbeitsrecht-Cleanup: URL-Konsistenz `claude-für-deutsches-recht` und ASCII-Slugs in den Direkt-Download-Tabellen, Skill-Slugs in Plugin-README-Tabellen ohne Umlaute.
 - Direkt-Download-Blöcke in den beiden neuen Testakten-READMEs analog zu den 53 anderen.
 - Stand jetzt 102 Plugins, 2410 Skills und 55 Testakten.
 
@@ -4632,7 +4622,7 @@ Spezialisierter Ausbau des `arbeitszeugnis-analyse` Plugins um die Erkennung des
 ## Updates
 
 - **`gesamtnoten-aggregation`**: neue Drift-Penalty-Regel (minus halbe Stufe bei Spreizung zwei Stufen, minus halbe Stufe bei konstanter Note 3 in weichen Bereichen). Neues Beispiel: Schaufenster-Zeugnis.
-- **`widerspruechliche-bewertungen`**: vierter Widerspruchstyp (Schaufenster-Pattern im selben Themenbereich) mit Verweis auf den neuen Drift-Detektor.
+- **`widersprüchliche-bewertungen`**: vierter Widerspruchstyp (Schaufenster-Pattern im selben Themenbereich) mit Verweis auf den neuen Drift-Detektor.
 - **`README.md`**: erweiterter Empfehlungs-Workflow um Satzmatrix, Drift-Detektor und Widerspruchsanalyse; Plugin enthält jetzt 25 Skills.
 
 ## Globaler Versionsbump
@@ -4707,7 +4697,7 @@ Drei Skills im Plugin `fachanwalt-strafrecht` enthielten zivilrechtliche Reste a
 ### Bug-Hunt v12.0.0
 
 - Alle Backtick-Cross-Refs auf das fusionierte Plugin `kanzlei-cowork` (52 Dateien in 24 Plugins + CHANGELOG, INSTALLATION, ASSET_INDEX, TESTBERICHT) auf `kanzlei-allgemein` umgestellt.
-- Config-Pfade in `kanzlei-allgemein/skills/{sekretariats-tagesbrief, mandantenakte-anlegen, fristenbuch-fuehren, kanzlei-cowork-kaltstart-interview}` von `~/.claude/plugins/config/.../kanzlei-cowork/` auf `kanzlei-allgemein/` korrigiert.
+- Config-Pfade in `kanzlei-allgemein/skills/{sekretariats-tagesbrief, mandantenakte-anlegen, fristenbuch-führen, kanzlei-cowork-kaltstart-interview}` von `~/.claude/plugins/config/.../kanzlei-cowork/` auf `kanzlei-allgemein/` korrigiert.
 - Slash-Command-Verweise in `tests/smoke-tests.md` und `kanzlei-cowork-kaltstart-interview` von `/kanzlei-cowork:` auf `/kanzlei-allgemein:` umgestellt.
 - `tests/smoke-tests.md`: Abschnitt-Header von `## kanzlei-cowork (rechnungserstellung-rvg)` auf `## kanzlei-allgemein (rechnungserstellung-rvg)` umgestellt.
 - `kanzlei-allgemein/.claude-plugin/plugin.json`: Keyword `kanzlei-cowork` aus Liste entfernt (Migrations-Hinweis in README/CHANGELOG bleibt).
@@ -4745,7 +4735,7 @@ Neues Plugin Nr. 99: **DSA und DMA und Digitalregulierung EU**. 9 Skills:
 
 Neue Skills in `arbeitsrecht` und `fachanwalt-arbeitsrecht`:
 
-- `betriebsrat-ladung-und-ersatzmitglieder-pruefen` (arbeitsrecht)
+- `betriebsrat-ladung-und-ersatzmitglieder-prüfen` (arbeitsrecht)
 - `betriebsrat-beschluss-heilung-nachtraeglich` (arbeitsrecht)
 - `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` (fachanwalt-arbeitsrecht)
 
@@ -4771,7 +4761,7 @@ Drei neue Skills mit verschiedener Perspektive auf die LG-Darmstadt-Linie:
 
 ### Plugin-Fusion: kanzlei-allgemein in kanzlei-allgemein
 
-Das Plugin `kanzlei-allgemein` wurde vollständig in `kanzlei-allgemein` fusioniert. Alle 14 Cowork-Skills sind erhalten und werden ab v11.0.0 unter `kanzlei-allgemein/skills/` ausgeliefert: `aktenbestand-pflege`, `bea-versand-pruefen`, `fristenbuch-fuehren`, `geburtstage-feiertage`, `kanzlei-allgemein-kaltstart-interview`, `mahnwesen-honorar`, `mandantenakte-anlegen`, `mandantenbrief-vorlagen`, `posteingang-ausgang`, `rechnungserstellung-rvg` (inkl. Werkzeug `rvg_gebuehrenrechner.py`), `sekretariats-tagesbrief`, `timesheet-aktenzeitung`, `versand-vor-check`, `weihnachtskarten`. Das Stand-Alone-Plugin `kanzlei-allgemein` ist entfallen.
+Das Plugin `kanzlei-allgemein` wurde vollständig in `kanzlei-allgemein` fusioniert. Alle 14 Cowork-Skills sind erhalten und werden ab v11.0.0 unter `kanzlei-allgemein/skills/` ausgeliefert: `aktenbestand-pflege`, `bea-versand-prüfen`, `fristenbuch-führen`, `geburtstage-feiertage`, `kanzlei-allgemein-kaltstart-interview`, `mahnwesen-honorar`, `mandantenakte-anlegen`, `mandantenbrief-vorlagen`, `posteingang-ausgang`, `rechnungserstellung-rvg` (inkl. Werkzeug `rvg_gebuehrenrechner.py`), `sekretariats-tagesbrief`, `timesheet-aktenzeitung`, `versand-vor-check`, `weihnachtskarten`. Das Stand-Alone-Plugin `kanzlei-allgemein` ist entfallen.
 
 ### Repo-Stand v11.0.0
 

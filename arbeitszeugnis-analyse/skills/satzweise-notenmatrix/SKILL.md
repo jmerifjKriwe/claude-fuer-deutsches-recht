@@ -1,13 +1,13 @@
 ---
 name: satzweise-notenmatrix
-description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen § 109 GewO Bewertungsmaßstab BAG-Linie zur Zeugnissprache. Prüfraster Satzkurzform Themenbereich Note Steigerungsadverb-Befund Begründung. Output Geschlossene Notenmatrix als Grundlage für Bereichs-Drift-Detektor und Gesamtnoten-Aggregation. Abgrenzung zu notenrelevante-saetze-identifizieren (Vorstufe) und gesamtnoten-aggregation (Folgestufe)."
+description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen Paragraf 109 GewO Bewertungsmaßstab BAG-Linie zur Zeugnissprache. Prüfraster Satzkurzform Themenbereich Note Steigerungsadverb-Befund Begründung. Output Geschlossene Notenmatrix als Grundlage für Bereichs-Drift-Detektor und Gesamtnoten-Aggregation. Abgrenzung zu notenrelevante-saetze-identifizieren (Vorstufe) und gesamtnoten-aggregation (Folgestufe)."
 ---
 
 # Satzweise Notenmatrix
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -42,8 +42,8 @@ description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Sc
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
-- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
 
 ## Aktuelle Rechtsprechung
 

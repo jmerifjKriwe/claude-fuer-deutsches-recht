@@ -7,7 +7,7 @@ description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Trai
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -25,7 +25,7 @@ description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Trai
 | "fand gute neue Ideen und innovative Ansaetze" | Innovation | 3 | "gute" statt "hervorragende" |
 | "Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
 | "war in der Lage, Konflikte erfolgreich zu bewaeltigen" | Sozialverhalten | 3 | "war in der Lage" |
-| "vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen" | Gesamtbeurteilung | 1 | Maximalformel |
+| "vollsten Zufriedenheit erfuellt und teilweise sogar übertroffen" | Gesamtbeurteilung | 1 | Maximalformel |
 | "geschaetzter Ansprechpartner, persönliches Verhalten war einwandfrei" | Sozialverhalten | 3 | "einwandfrei" ohne "stets" |
 | "stets ausgezeichnete Mitarbeit" plus volles Bedauern und voller Dank | Schlussformel | 1 | Vollstaendig auf Spitze |
 
@@ -53,15 +53,15 @@ Herr Beispiel verfuegt über eine besonders hohe Arbeitsmoral und war stets aeus
 
 Herr Beispiel zeigte eine hohe Lernbereitschaft.
 
-Alle Aufgaben fuehrte er jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig und planvoll durchdacht aus. Er agierte immer ruhig, ueberlegt und zielorientiert und in hoechstem Masse praezise.
+Alle Aufgaben fuehrte er jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig und planvoll durchdacht aus. Er agierte immer ruhig, überlegt und zielorientiert und in höchstem Masse präzise.
 
 Herr Beispiel war Neuem gegenueber aufgeschlossen, fand gute neue Ideen und innovative Ansaetze.
 
 Die von Herrn Beispiel entwickelten Arbeitsergebnisse lagen stets sehr weit über unseren Anforderungen.
 
-Herr Beispiel war in der Lage, Konflikte erfolgreich zu bewaeltigen. Durch sein konstruktives Verhalten und ueberlegtes Handeln konnte er so ein gutes Arbeitsklima in seinem Team schaffen.
+Herr Beispiel war in der Lage, Konflikte erfolgreich zu bewaeltigen. Durch sein konstruktives Verhalten und überlegtes Handeln konnte er so ein gutes Arbeitsklima in seinem Team schaffen.
 
-Herr Beispiel hat die an ihn gestellten sehr hohen Erwartungen zu unserer vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen.
+Herr Beispiel hat die an ihn gestellten sehr hohen Erwartungen zu unserer vollsten Zufriedenheit erfuellt und teilweise sogar übertroffen.
 
 Wegen seines freundlichen und hilfsbereiten Auftretens war Herr Beispiel ein geschaetzter Ansprechpartner. Sein persönliches Verhalten gegenueber Vorgesetzten, Mitarbeitern und Externen war einwandfrei.
 
@@ -94,8 +94,8 @@ Spitzensaetze sind authentisch (Fachkenntnisse, Arbeitsweise, Arbeitsergebnis, E
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
-- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
 
 ## Aktuelle Rechtsprechung
 

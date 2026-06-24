@@ -1,5 +1,4 @@
 # Immobilienrechtspraxis
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Werkzeuge für immobilienrechtliche Rechtsabteilungen — musterbasierte Vertragserstellung mit Klauselschutz; Vertragsprüfung gegen Playbook; Grundbuchanalyse; Sachverhaltsermittlung; Mieteranfragen mit BGH-Verankerung; Case Management; projektbasierte Arbeitsweise mit AVV-Prüfung.
 
 ## Installation in der Plugin-Umgebung
@@ -57,7 +57,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 62 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -65,11 +65,11 @@ Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschrei
 | `bautraegerkauf-eigentumspfad-und-freistellung` | Immobilienrechtlicher Spezialskill für Bauträgerkauf: Eigentumspfad, Vormerkung, Lastenfreistellung, Globalgrundschuld, Freigabe, MaBV-Fälligkeit, Käuferbank, Insolvenz und Besitzübergabe. |
 | `betriebskostenabrechnung-erstellen-asset-management` | Betriebskostenabrechnung im Asset- und Property-Management erstellen: Mietvertragsklauseln, BetrKV-Mapping, WEG- oder Objektbuchhaltung, HeizkostenV, CO2KostAufG, Gewerbe-Vorwegabzug, Vorauszahlungskonto, Versand und Belegpaket im Immobi... |
 | `betriebskostenabrechnung-pruefen-asset-management` | Betriebskostenabrechnung im Immobilienportfolio prüfen: formelle Mindestangaben, Fristen, Umlagefähigkeit, Buchhaltungsabgleich, WEG-zu-Mieter-Übersetzung, Zahlungsbelege, Wirtschaftlichkeit, HeizkostenV, CO2KostAufG und Streitwertkalkul... |
-| `case-gegen-grundbuchanalyse` | Case: Internationaler Bezug und Schnittstellen im Immobilienrechtspraxis. |
+| `case-gegen-grundbuchanalyse` | Case: Internationaler Bezug und Schnittstellen im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `case-management-grundbuchanalyse-immo` | Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen, Dokumente im Überblick. Normen: WEG, §§ 535 ff. 873 ff. BGB, GrEStG. Prüfraster: Fristenliste, offene Anträge, Dokumentenstruktur. Output: Case-Management-Übersicht Im... |
 | `dokumente-intake` | Dokumentenintake für Immobilienrechtspraxis: sortiert Notarvertrag, Grundbuchauszug, Energieausweis, prüft Datum, Absender, Frist und Beweiswert (Grundbuchauszug, Verkehrswertgutachten); markiert Lücken; berücksichtigt Mandatsgeheimnis §... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Immobilienrechtspraxis: ordnet Rolle (Käufer, Verkäufer, Notar), markiert Frist (Vormerkung), wählt Norm (BGB §§ 433/873/925, GrEStG, GBO) und Zuständigkeit (Grundbuchamt), leitet zum passenden Spezial-Sk... |
-| `gegen-verhandlung-vergleich-und-eskalation` | Gegen: Verhandlung, Vergleich und Eskalation im Immobilienrechtspraxis. |
+| `gegen-verhandlung-vergleich-und-eskalation` | Gegen: Verhandlung, Vergleich und Eskalation im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `grundbuchanalyse` | Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Prüfraster: Abteilung I bis III, Widersprueche, Rangverhältnisse, Löschungsansprüche. Output: Grundbuch... |
 | `grundbuchanalyse-zahlen-schwellen-und-berechnung` | Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung im Immobilienrechtspraxis. |
 | `immo-aufteilungsplan-weg` | Aufteilungsplan WEG: Voraussetzungen § 8 WEG, Teilungserklaerung, Aufteilungsplan, Gemeinschaftsordnung. Prüfraster und Hinweise für den Notar im Immobilienrechtspraxis. |
@@ -78,7 +78,7 @@ Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschrei
 | `immo-energieausweis` | Energieausweis: Pflicht GEG 2024, Vorlage bei Verkauf/Vermietung, Bussgeldrisiko. Beratung Verkaeufer/Vermieter Beschaffung im Immobilienrechtspraxis. |
 | `immo-gewerbliche-mieter-konkurs` | Gewerbliche Mieter in der Insolvenz: § 109 InsO Wahlrecht Insolvenzverwalter, Kuendigung trotz fester Mietzeit. Prüfraster für Vermieter im Immobilienrechtspraxis. |
 | `immo-grundschuld-bestellung-makler-honorar` | Grundschuldbestellung: Vorlage Notarsurkunde, Sicherungsabrede, Verbraucher-Sicherungs-AGB §§ 305 ff. BGB, Beschraenkungen Vollstreckung bei Verbraucher. Loeschungsbewilligung nach Tilgung im Immobilienrechtspraxis. |
-| `immo-immobilienrechtliche-live-beweislast` | Immo: Abschlussprodukt und Übergabe im Immobilienrechtspraxis. |
+| `immo-immobilienrechtliche-live-beweislast` | Immo: Abschlussprodukt und Übergabe im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `immo-kaufvertrag-grundstueck` | Grundstueckskaufvertrag prüfen: § 311b BGB notarielle Beurkundung, Auflassung § 925 BGB, Eintragung Auflassungsvormerkung § 883 BGB, Kaufpreiszahlung, Vollzugspflichten, Sicherheiten. Prüfraster im Immobilienrechtspraxis. |
 | `immo-makler-honorar` | Maklervertrag und Honorar: § 652 BGB Maklerlohn, Nachweismakler/Verhandlungsmakler, § 656d BGB Verbraucher-Wohnimmobilien Halbteilungsgrundsatz, Hinweis Doppelmaklertaetigkeit § 654 BGB. Prüfraster im Immobilienrechtspraxis. |
 | `immo-mietkaufvertrag` | Mietkaufvertrag: Aufbau, Steuerrecht, Kostenfallen, Reform 2025 (falls relevant). Prüfraster Vor- und Nachteile vs. klassischem Kaufvertrag im Immobilienrechtspraxis. |
@@ -87,14 +87,13 @@ Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschrei
 | `immo-zwangsversteigerung-frist-naechster` | Zwangsversteigerung Verfahren: Antrag, Wertgutachten, Termin, Mindestgebot, Sicherheitsleistung. Strategie für Gläubiger und für Schuldner (Vollstreckungsschutz § 765a ZPO) im Immobilienrechtspraxis. |
 | `immobilienrechtliche-tatbestand-beweis-und-belege` | Immobilienrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage im Immobilienrechtspraxis. |
 | `immobilienrechtspraxis-frist-naechster-schritt` | Immobilienrechtspraxis: Fristennotiz und nächster Schritt im Immobilienrechtspraxis. |
-| `immobilienrechtspraxis-schnellstart` | 'Kompakter Arbeitsmodus für Immobilienrechtspraxis. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `immor-bauvertrag-vob-erbbaurecht-vertrag` | Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff. BGB: Anordnungsrecht, Vereinbarung VOB-B als AGB, Abnahme, Maengelrechte. Prüfraster Bauherr und Unternehmer im Immobilienrechtspraxis. |
 | `immor-bodenrichtwert-betriebskostenabrechnung` | Spezialfall Bodenrichtwert und Bewertung im Erb- und Steuerfall: ImmoWertV 2021, Vergleichswertverfahren, Ertragswertverfahren. Prüfraster für Finanzamt und Gutachter im Immobilienrechtspraxis. |
 | `immor-erbbaurecht-vertrag-spezial` | Spezialfall Erbbaurechtsvertrag: ErbbauRG, Erbbauzins, Heimfall, Entschaedigung. Prüfraster für kirchliche und kommunale Grundstuecksverwaltung im Immobilienrechtspraxis. |
 | `immor-grundstueckskaufvertrag-bauleiter` | Bauleiter Grundstueckskaufvertrag: Form § 311b BGB, Belastungsvollmacht, Faelligkeitsvoraussetzungen, Abloesung Grundpfandrechte. Prüfraster Kaeufer und Verkaeufer im Immobilienrechtspraxis. |
-| `klauselschutz-vertragserstellung` | Klauselschutz: Behörden-, Gerichts- oder Registerweg im Immobilienrechtspraxis. |
-| `live-beweislast-und-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung im Immobilienrechtspraxis. |
-| `management-mieteranfragen-interessen` | Management: Formular, Portal und Einreichungslogik im Immobilienrechtspraxis. |
+| `klauselschutz-vertragserstellung` | Klauselschutz: Behörden-, Gerichts- oder Registerweg im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `live-beweislast-und-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `management-mieteranfragen-interessen` | Management: Formular, Portal und Einreichungslogik im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mandant-redteam-gate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Immobilienrechtspraxis. |
 | `mieteranfragen-bearbeitung-projekt` | Mieteranfragen im Immobilienportfolio bearbeiten: Mängel, Betriebskosten, Belegeinsicht, Kündigung, Mieterhöhung und Mietpreisbremse; mit Fristen, Zuständigkeit, Antwortentwurf, Aktenvermerk und Anschluss an die Betriebskosten-/WEG-Daten... |
 | `mieteranfragen-mehrparteien-konflikt-und-interessen` | Mieteranfragen: Mehrparteienkonflikt und Interessenmatrix im Immobilienrechtspraxis. |
@@ -112,7 +111,7 @@ Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschrei
 | `spezial-pruefung-red-team-und-qualitaetskontrolle` | Pruefung: Red-Team und Qualitätskontrolle. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Immobilienrechtspraxis-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Immobilienrechtspraxis: trennt fehlende Tatsachen von fehlenden Belegen (Notarvertrag, Grundbuchauszug, Energieausweis), nennt pro Lücke Beweisthema, Beschaffungsweg (Grundbuchamt), Frist und Ersatznachw... |
-| `verifikation-sonderfall-und-edge-case` | Verifikation: Sonderfall und Edge-Case-Prüfung im Immobilienrechtspraxis. |
+| `verifikation-sonderfall-und-edge-case` | Verifikation: Sonderfall und Edge-Case-Prüfung im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `vertragserstellung-musterbasiert` | Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis. Output: Vertragsen... |
 | `vertragserstellung-risikoampel-und-gegenargumente` | Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien im Immobilienrechtspraxis. |
 | `vertragspruefung-playbook` | Immobilienrechtliche Vertraege nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und Formerfordernisse. Output:... |

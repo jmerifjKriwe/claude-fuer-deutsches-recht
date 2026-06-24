@@ -1,5 +1,4 @@
 # Staatsanwaltschaft und Amtsanwaltschaft
-Wenn du das hier oeffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
 > **Kritisch — Hochrisiko-KI und Art. 22 DSGVO beachten.** Der Einsatz von KI in der Strafverfolgung und Rechtspflege ist nach Art. 6 Abs. 2 in Verbindung mit Anhang III Nr. 6 (Strafverfolgung) und Nr. 8 Buchstabe a (Justiz) der KI-Verordnung (VO (EU) 2024/1689) grundsätzlich **Hochrisiko-KI**. Die Rückausnahme des Art. 6 Abs. 3 KI-VO greift nur bei rein vorbereitender Tätigkeit ohne Subsumtion; auch dann besteht Registrierungspflicht nach Art. 49 Abs. 2 KI-VO. Eine Entscheidung mit rechtlicher Wirkung über Menschen darf nicht einer Maschine überlassen werden (Art. 22 DSGVO) — die staatsanwaltschaftliche Letztentscheidung liegt zwingend beim Menschen. Einzelheiten unten unter „Wichtiger Hinweis vor Verwendung".
@@ -44,29 +44,29 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 ## Skill-Liste
 
 - **01-akte-erstdurchsicht-und-anfangsverdacht** — Erstdurchsicht, Anfangsverdacht (Paragraf 152 Abs. 2 StPO), Verjaehrung, Ermittlungsrichtung
-- **02-zustaendigkeit-sta-und-amtsanwaltschaft** — Sachliche und oertliche Zustaendigkeit, Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA
+- **02-zuständigkeit-sta-und-amtsanwaltschaft** — Sachliche und oertliche Zuständigkeit, Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA
 - **03-ermittlungsfuehrung-und-ermittlungsanweisung** — Sachleitung (Paragrafen 161, 163 StPO), Ermittlungsanweisung an die Polizei, Ermittlungsplan
 - **04-durchsuchung-und-beschlagnahme-antrag** — Antrag Durchsuchung (Paragrafen 102 ff. StPO) und Beschlagnahme (Paragrafen 94 ff. StPO), Richtervorbehalt
-- **05-haftbefehlsantrag-und-untersuchungshaft** — Haftbefehlsantrag (Paragrafen 112 ff. StPO), Haftgruende, Verhaeltnismaessigkeit, Haftverschonung
+- **05-haftbefehlsantrag-und-untersuchungshaft** — Haftbefehlsantrag (Paragrafen 112 ff. StPO), Haftgruende, Verhältnismaessigkeit, Haftverschonung
 - **06-vorlaeufige-festnahme-und-eilkompetenz** — Vorlaeufige Festnahme (Paragraf 127 StPO), Eilkompetenz, Vorfuehrung (Paragraf 128 StPO)
-- **07-telekommunikationsueberwachung-und-verdeckte-massnahmen** — TKUe (Paragraf 100a StPO) und verdeckte Massnahmen, Katalogtat, Subsidiaritaet, Kernbereichsschutz
+- **07-telekommunikationsueberwachung-und-verdeckte-maßnahmen** — TKUe (Paragraf 100a StPO) und verdeckte Maßnahmen, Katalogtat, Subsidiaritaet, Kernbereichsschutz
 - **08-beschuldigtenvernehmung-und-belehrung** — Vernehmung (Paragrafen 136, 163a StPO), Belehrung, verbotene Methoden (Paragraf 136a StPO)
 - **09-sachverstaendige-und-koerperliche-untersuchung** — Gutachtenauftrag (Paragrafen 73 ff. StPO), koerperliche Untersuchung (Paragraf 81a StPO)
 - **10-einstellung-mangels-tatverdacht-paragraf-170** — Einstellung mangels hinreichenden Tatverdachts (Paragraf 170 Abs. 2 StPO), Bescheide
 - **11-einstellung-aus-opportunitaet-paragraf-153-und-153a** — Einstellung wegen Geringfuegigkeit und gegen Auflagen (Paragrafen 153, 153a StPO)
 - **12-teileinstellung-paragraf-154-und-154a** — Beschraenkung der Verfolgung (Paragrafen 154, 154a StPO)
-- **13-strafbefehlsantrag-paragraf-407** — Strafbefehlsantrag (Paragrafen 407 ff. StPO), zulaessige Rechtsfolgen, Tatkonkretisierung
+- **13-strafbefehlsantrag-paragraf-407** — Strafbefehlsantrag (Paragrafen 407 ff. StPO), zulässige Rechtsfolgen, Tatkonkretisierung
 - **14-anklageschrift-paragraf-200** — Anklageschrift (Paragraf 200 StPO), Anklagesatz, wesentliches Ermittlungsergebnis, Eroeffnungsantrag
 - **15-antrag-beschleunigtes-verfahren-paragraf-417** — Beschleunigtes Verfahren (Paragrafen 417 ff. StPO), Eignung, Rechtsfolgenbegrenzung
 - **16-sicherungsverfahren-und-massregeln** — Sicherungsverfahren (Paragrafen 413 ff. StPO), Massregeln (Paragrafen 63, 64 StGB), Gefaehrlichkeitsprognose
-- **17-einziehung-und-vermoegensabschoepfung** — Einziehung (Paragrafen 73 ff. StGB), Vermoegensarrest (Paragraf 111e StPO), Wertersatz
+- **17-einziehung-und-vermoegensabschoepfung** — Einziehung (Paragrafen 73 ff. StGB), Vermögensarrest (Paragraf 111e StPO), Wertersatz
 - **18-jugendsache-und-diversion-paragraf-45-jgg** — Jugendsache, Diversion (Paragraf 45 JGG), Heranwachsende (Paragraf 105 JGG)
 - **19-sitzungsdienst-und-fragerecht-hauptverhandlung** — Sitzungsvertretung (Paragraf 226 StPO), Fragerecht (Paragraf 240 StPO), Erklaerungen (Paragraf 257 StPO)
 - **20-plaedoyer-und-schlussvortrag-paragraf-258** — Schlussvortrag (Paragraf 258 StPO), Beweiswuerdigung, Strafzumessungsantrag (Paragraf 46 StGB)
 - **21-rechtsmittel-der-staatsanwaltschaft** — Berufung, Revision, Beschwerde, zugunsten und zuungunsten (Paragraf 296 Abs. 2 StPO)
 - **22-strafvollstreckung-paragraf-451** — Vollstreckung durch die Staatsanwaltschaft (Paragrafen 449 ff. StPO), Ladung, Aufschub
 - **23-klageerzwingung-und-beschwerdebescheid-paragraf-172** — Bescheid (Paragraf 171 StPO), Klageerzwingungsverfahren (Paragraf 172 StPO)
-- **24-abschlussverfuegung-und-entscheidungsvorschlag** — Abschlussverfuegung, Gesamtwuerdigung, Verfuegungstechnik, Markierung als Vorschlag
+- **24-abschlussverfuegung-und-entscheidungsvorschlag** — Abschlussverfuegung, Gesamtwuerdigung, Verfügungstechnik, Markierung als Vorschlag
 - **25-adhaesionsverfahren-paragraf-403** — Adhaesionsantrag (Paragrafen 403 ff. StPO), Eignung zur Mitverhandlung, Abtrennung
 - **26-opferschutz-nebenklage-und-verletztenrechte** — Opferschutz (Paragrafen 406d ff. StPO), Nebenklage (Paragrafen 395 ff. StPO), psychosoziale Prozessbegleitung
 - **27-wiederaufnahme-zuungunsten-paragraf-362** — Wiederaufnahme zuungunsten (Paragraf 362 StPO), formale Anforderungen, ne bis in idem
@@ -80,7 +80,7 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 - **Art. 6 Abs. 2 i.V.m. Anhang III Nr. 6 KI-VO**: KI-Systeme, die im Bereich **Strafverfolgung** zur Bewertung von Beweismitteln, zur Risikoeinschaetzung oder zur Aufklaerung von Straftaten eingesetzt werden, sind grundsaetzlich **Hochrisiko-KI**.
 - **Art. 6 Abs. 2 i.V.m. Anhang III Nr. 8 lit. a KI-VO**: Soweit das System im Auftrag einer Justizbehoerde bei der **Recherche und Auslegung von Sachverhalten und Rechtsvorschriften** sowie bei der **Anwendung des Rechts** verwendet wird, gilt es ebenfalls als Hochrisiko-KI.
-- **Aber Art. 6 Abs. 3 KI-VO**: Ein KI-System gilt **nicht** als Hochrisiko-KI, wenn es nur eine **vorbereitende Aufgabe** wahrnimmt (z.B. Vorbereitung von Verfuegungsentwuerfen, reine Recherche ohne Subsumtion).
+- **Aber Art. 6 Abs. 3 KI-VO**: Ein KI-System gilt **nicht** als Hochrisiko-KI, wenn es nur eine **vorbereitende Aufgabe** wahrnimmt (z.B. Vorbereitung von Verfügungsentwuerfen, reine Recherche ohne Subsumtion).
 - **Notifizierungspflicht**: Auch im Ausnahmefall des Art. 6 Abs. 3 ist der Anbieter bzw. Betreiber verpflichtet, das KI-System bei der zuständigen Aufsicht zu **registrieren** (Art. 49 Abs. 2 KI-VO).
 - Die Einordnung ist im Einzelfall zu prüfen. Sobald das System konkrete Antragsvorschlaege produziert, die Subsumtion vornimmt oder die staatsanwaltschaftliche Würdigung ersetzt, wird die Schwelle zur Hochrisiko-KI überschritten.
 
@@ -111,7 +111,7 @@ Viele Behörden werden externe Cloud-Dienste auf absehbare Zeit nicht produktiv 
 
 ### Verwendung auf eigene Gefahr
 
-Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu prüfen — und kann auch zu dem Ergebnis fuehren, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
+Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu prüfen — und kann auch zu dem Ergebnis führen, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
 
 ## Quellenhygiene
 

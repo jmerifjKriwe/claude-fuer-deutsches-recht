@@ -1,5 +1,4 @@
 # Fachanwalt Bank Kapitalmarktrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin Fachanwalt für Bank- und Kapitalmarktrecht. Orientierung KWG ZAG WpHG WpIG MiFID-II MAR Marktmissbrauch MiCAR Verbraucherkredit Vermögensanlage Beratungshaftung. Schnittstellen gesellschaftsrecht und regulatorisches-recht.
 
 Der bankrechtliche Teil deckt nun ausdrücklich auch die klassischen Sicherungs- und Liquiditätsinstrumente ab: Bürgschaft, kaufmännische Bürgschaft, Aval, Kautionsaval, Bankgarantie, Bürgschaft auf erstes Anfordern, Akkreditiv, Standby Letter of Credit, Dokumentenstreit, Abruf, Eilrechtsschutz und Regress. Das ist der praktische Kern vieler Mandate: Die Bank sichert den Geschäftsverkehr ab, verschafft Liquidität, und im Streit entscheidet die genaue Formulierung des Sicherungsmittels.
@@ -51,7 +51,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -78,9 +78,9 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 | `bk-mandantenrouting-anlegeranspruch` | Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto: Pro Produktart typische... |
 | `bk-mifid-suitability-spezial` | Spezialfall MiFID II Geeignetheits- und Angemessenheitspruefung: Anlegerprofil, Ziele, Risikobereitschaft, Verlusttragfaehigkeit: Spezialfall MiFID II Geeignetheits- und Angemessenheitspruefung: Anlegerprofil, Ziele, Risikobereitschaft,... |
 | `bk-prip-kid-fehlerhaft-spezial` | Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformationsblatt, Haftung Hersteller und Vertrieb bei irrefuehrenden Angaben, Prüfung Kosten- und Risikoangabe: Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformat... |
-| `cum-ex-beihilfe-bgh-1-str-519-20` | Cum-Ex Phantom-Verluste Beihilfe Paragraf 263 StGB und BGH 1 StR 519/20. |
+| `cum-ex-beihilfe-bgh-1-str-519-20` | Cum-Ex Phantom-Verluste Beihilfe Paragraf 263 StGB und BGH 1 StR 519/20. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `cybertrading-anlagebetrug` | Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück: § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Nor... |
-| `dispokredit-zinsanpassung-bgh-xi-zr-78-08` | Dispokredit Zinsanpassungsklausel ohne Referenzbindung mit BGH XI ZR 78/08. |
+| `dispokredit-zinsanpassung-bgh-xi-zr-78-08` | Dispokredit Zinsanpassungsklausel ohne Referenzbindung mit BGH XI ZR 78/08. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Fachanwalt Bank- und Kapitalmarktrecht: sortiert Darlehensvertrag, Wertpapierorder, Beratungsprotokoll, prüft Datum, Absender, Frist und Beweiswert (Beratungsprotokoll, Geeignetheitsprüfung); markiert Lücken; berücks... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Fachanwalt Bank- und Kapitalmarktrecht: ordnet Rolle (Anleger/Kunde, Bank/WPI, BaFin), markiert Frist (Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB), wählt Norm (BGB §§ 488/491-505, WpHG, KAGB) un... |
 | `einstieg-schnelltriage-fallrouting` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Bank Kapitalmarktrecht-Plugin: Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende... |
@@ -94,7 +94,6 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 | `fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin` | Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art. 36-38. Normen MiCA Art. 16-21 KWG WpIG BaFin-Merkblatt. Prüf... |
 | `fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung` | Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Prüfraster Zula... |
 | `fachanwalt-bank-kapitalmarktrecht-orientierung` | Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB... |
-| `fachanwalt-bank-kapitalmarktrecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Bank Kapitalmarktrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa eintrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fehlerhaft-fristennotiz-und-naechster-schritt` | Fehlerhaft: Fristennotiz und nächster Schritt: Fehlerhaft: Fristennotiz und nächster Schritt. |
@@ -108,18 +107,18 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 | `mandat-triage-bank-kapitalmarktrecht` | Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen: V... |
 | `mica-stablecoin-art-16-bafin` | Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin: MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art... |
 | `micar-schriftsatz-brief-und-memo-bausteine` | Micar: Schriftsatz-, Brief- und Memo-Bausteine: Micar: Schriftsatz-, Brief- und Memo-Bausteine. |
-| `mietkaution-insolvenzfest-bgh-viii-zr-75-20` | Mietkaution insolvenzfeste Anlage Paragraf 551 BGB mit BGH VIII ZR 75/20. |
+| `mietkaution-insolvenzfest-bgh-viii-zr-75-20` | Mietkaution insolvenzfeste Anlage Paragraf 551 BGB mit BGH VIII ZR 75/20. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mifid-behoerden-gericht-und-registerweg` | Mifid: Behörden-, Gerichts- oder Registerweg: Mifid: Behörden-, Gerichts- oder Registerweg. |
 | `ombudsmann-bafin-schlichtung` | Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen: Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen §... |
 | `orientierung-fachanwaltschaft-mandat` | Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick: KWG ZAG WpHG WpIG MiFID-II MA... |
 | `output-waehlen` | Output-Wahl für Fachanwalt Bank- und Kapitalmarktrecht: stimmt Adressat (Anleger/Kunde, Bank/WPI, BaFin), Frist (Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB) und Form auf den Zweck ab — typische Outputs: Klage Falschberatung, Wi... |
 | `p-konto-pfaendung-bgh-vii-zb-25-21` | P Konto Pfaendung BGH Vii Zb 25 21: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `praemiensparvertrag-zinsanpassung-bgh-xi-zr-234-20` | Praemiensparvertrag variable Verzinsung mit BGH XI ZR 234/20 und Bundesbank-Referenzzins WX4260. |
-| `prip-sonderfall-edge-case` | Prip: Sonderfall und Edge-Case-Prüfung: Prip: Sonderfall und Edge-Case-Prüfung. |
+| `prip-sonderfall-edge-case` | Prip: Sonderfall und Edge-Case-Prüfung: Prip: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `prospekthaftung-inflationsanleihe-bgh-xi-zr-442-16` | Prospekthaftung inflationsindexierte Anleihe Paragraf 21 WpPG mit BGH XI ZR 442/16. |
 | `quellen-livecheck` | Quellen-Live-Check für Fachanwalt Bank- und Kapitalmarktrecht: prüft Normen (BGB §§ 488/491-505, WpHG, KAGB) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BaFin und Quellenhygiene nach references/quellenhygiene.md. |
 | `regulatorisches-internationaler-bezug-und-schnittstellen` | Regulatorisches: Internationaler Bezug und Schnittstellen: Regulatorisches: Internationaler Bezug und Schnittstellen. |
-| `riester-foerderschaedlich-pflege-bfh-x-r-19-19` | Riester foerderschaedliche Verwendung bei Pflegekosten mit BFH X R 19/19. |
+| `riester-foerderschaedlich-pflege-bfh-x-r-19-19` | Riester foerderschaedliche Verwendung bei Pflegekosten mit BFH X R 19/19. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `schnittstellen-compliance-dokumentation-und-akte` | Schnittstellen: Compliance-Dokumentation und Aktenvermerk: Schnittstellen: Compliance-Dokumentation und Aktenvermerk. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau: Substanti... |
 | `schufa-eintrag` | Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben,... |
@@ -132,7 +131,7 @@ Automatisch generierte Komplett-Liste aller 87 Skills in diesem Plugin. Beschrei
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverha... |
 | `vermoegensanlage-quellenkarte` | Vermögensanlage Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `widerrufsjoker-formular-portal-und-einreichung` | Widerrufsjoker: Formular, Portal und Einreichungslogik: Widerrufsjoker: Formular, Portal und Einreichungslogik. |
-| `widerrufsjoker-immobiliardarlehen-bgh-xi-zr-564-15` | Widerrufsjoker Immobiliardarlehen mit BGH XI ZR 564/15 und Art 247 EGBGB. |
+| `widerrufsjoker-immobiliardarlehen-bgh-xi-zr-564-15` | Widerrufsjoker Immobiliardarlehen mit BGH XI ZR 564/15 und Art 247 EGBGB. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `widerrufsjoker-immobiliendarlehen` | Widerrufsjoker Immobiliendarlehen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Widerrufsjoker Immobiliendarlehen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizie... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |

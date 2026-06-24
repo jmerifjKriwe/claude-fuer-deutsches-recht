@@ -1,5 +1,4 @@
 # Verbraucherinsolvenz und Schuldenbereinigung
-Wenn du das hier oeffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt waehlen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt wählen.
 Dieses Plugin führt durch Verbraucherinsolvenz, außergerichtlichen Einigungsversuch, Schuldenbereinigungsplan, Antrag beim Insolvenzgericht, Restschuldbefreiung, P-Konto, Pfändungsschutz und Neustart.
 
 ## Kaltstart
@@ -104,7 +104,7 @@ InsO §§ 304 bis 314, §§ 286 bis 303, § 305, §§ 307 bis 309, §§ 4a bis 4
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 69 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -167,7 +167,6 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `verbraucherinsolvenz-belegchaos-strukturieren` | Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Sc... |
 | `verbraucherinsolvenz-nachtraegliche-glaeubiger` | Verbraucherinsolvenz: Nachtraegliche Gläubiger nach Restschuldbefreiung: Skill klaert ob nicht angemeldete Gläubiger nach Erteilung der Restschuldbefreiung noch Anspruch geltend mac... |
 | `verbraucherinsolvenz-pfaendungsschutzkonto` | Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrun... |
-| `verbraucherinsolvenz-schuldenbereinigung-schnellstart` | 'Kompakter Arbeitsmodus für Verbraucherinsolvenz und Schuldenbereinigung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `verbraucherinsolvenz-treuhaender-rolle` | Verbraucherinsolvenz: Rolle des Treuhaenders: Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermögensaufsicht Verteilung Forderungspruefung Gläubigerinformation. Verguetung und Koste... |
 | `verbraucherinsolvenz-unterhalt-und-insolvenz` | Verbraucherinsolvenz und eheliche Unterhaltspflicht: Skill behandelt das Verhältnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung.... |
 | `verbraucherinsolvenz-versagungsgruende` | Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermögensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigu... |

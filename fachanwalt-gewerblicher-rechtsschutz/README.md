@@ -1,5 +1,4 @@
 # Fachanwalt Gewerblicher Rechtsschutz
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG, DesignG, UWG, PatG/GebrMG, UrhG-Bezüge. Markenanmeldung DPMA und EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfügung, Verletzungsklage, lizenzanaloger Schadensersatz.
 
 ## Installation in der Plugin-Umgebung
@@ -52,7 +52,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 107 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -84,7 +84,6 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung` | Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Prüfraster: Markenfähigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Stra... |
 | `fachanwalt-gewerblicher-rechtsschutz-orientierung` | Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Prüfraster: Schutzrecht Verletzungsart Parteistellung Route Fristen Eilbedürfnis. Output: Mandat-Einordnung Normenm... |
 | `fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage` | Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG Nichtigkeitsverfahren § 22 PatG Nichtigkeitsgründe. Prüfraster: Nichtigkeitsgrund Stand der Technik erfinderische Täti... |
-| `fachanwalt-gewerblicher-rechtsschutz-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Gewerblicher Rechtsschutz. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung` | Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Prüfraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaf... |
 | `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` | Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich V... |
 | `fachanwalt-gewrechts-ki-vo-50-genai` | KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art... |
@@ -148,7 +147,7 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `spezial-verfuegung-beweislast-und-darlegungslast` | Verfuegung: Beweislast, Darlegungslast und Substantiierung. |
 | `spezial-verletzungsklage-sonderfall-und-edge-case` | Verletzungsklage: Sonderfall und Edge-Case-Prüfung. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Gewerblicher Rechtsschutz: trennt fehlende Tatsachen von fehlenden Belegen (Registerauszug, Abmahnung, Unterlassungserklärung), nennt pro Lücke Beweisthema, Beschaffungsweg (DPMA), Frist und E... |
-| `urheberrecht-abmahnung-paragraf-97a-urhg-bgh-i-zr-9-18` | Urheberrecht Abmahnung Streitwert Paragraf 97a UrhG mit BGH I ZR 9/18. |
+| `urheberrecht-abmahnung-paragraf-97a-urhg-bgh-i-zr-9-18` | Urheberrecht Abmahnung Streitwert Paragraf 97a UrhG mit BGH I ZR 9/18. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `urhg-quellenkarte` | Urhg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `uwg-einstweilige-verfuegung` | Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen: §§ 935... |
 | `uwg-systematik-und-anwendung` | UWG-Systematik: § 3 (unlautere geschäftliche Handlungen), § 5 (Irreführung), § 5a (Vorenthalten wesentlicher Informationen), §§ 4 ff: UWG-Systematik: § 3 (unlautere geschäftliche Handlungen), § 5 (Irreführung), § 5a (Vorenthalten wesentl... |
@@ -157,7 +156,7 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `vergleichsverhandlung-strategie` | Streit im gewerblichen Rechtsschutz durch Vergleich lösen und Verhandlungsstrategie entwickeln: § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Prüfraster:... |
 | `verletzungsklage-sonderfall-edge-case` | Verletzungsklage: Sonderfälle und Edge Cases: Mittelbare Patentverletzung § 10 PatG, Erschöpfungseinwand § 24 MarkenG, Vorbenutzungsrecht § 12 PatG, Markenrechtliche Erschöpfung bei Reimport, fehlerhafte Schutzr... |
 | `wettbewerbsrecht-irrefuehrung-paragraf-5-uwg-bgh-i-zr-167-19` | Wettbewerbsrecht Irrefuehrung Paragraf 5 Uwg BGH I Zr 167 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
-| `wettbewerbsverbot-mitarbeiter-paragraf-74-hgb-bgh-ii-zr-189-12` | Nachvertragliches Wettbewerbsverbot Paragraf 74 HGB mit BGH II ZR 189/12. |
+| `wettbewerbsverbot-mitarbeiter-paragraf-74-hgb-bgh-ii-zr-189-12` | Nachvertragliches Wettbewerbsverbot Paragraf 74 HGB mit BGH II ZR 189/12. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im gewerblichen Rechtsschutz: Zeitachse aufbauen, Dokumente chronologisch sortieren, Lücken identifizieren, Beweiskette strukturieren für Verletzungsverfahren, EV, Klagschrift und Mandantenakte: Chronologie un... |
 | `workflow-fristen-und-risikoampel` | Fristen und Risikoampel im gewerblichen Rechtsschutz: systematischer Fristencheck, Risikoampel Grün/Gelb/Rot für alle Verfahrensarten (Marke, Patent, Design, UWG, EV, Klage), Fristenkalender und Eskalationshinweise: Fristen und Risikoamp... |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |

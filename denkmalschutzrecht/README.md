@@ -1,5 +1,4 @@
 # Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn Landesgesetze
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin für die anwaltliche Bearbeitung von Mandaten im deutschen Denkmalschutzrecht. Strukturiert in drei Schichten:
 
 1. **Allgemeiner Teil** — bundesstaatlicher Rahmen (Art. 73 GG, Art. 14 GG, Verwaltungsverfahrensrecht, Welterbe).
@@ -45,7 +45,7 @@ Denkmalschutzrecht ist Landesrecht. Bei jedem Mandat ist als allererstes das anw
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -76,7 +76,6 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `denkmalschutz-sachsen-sachsdschg` | Denkmalschutzrecht Sachsen nach dem Sächsischen Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Sächsisches Staatsministerium für Regionalentwicklung; Landesamt für Denkmalpflege Sachsen in Dresden; Untere Denkmalschutzbehörden b... |
 | `denkmalschutz-schleswig-holstein-dschg-sh` | Denkmalschutzrecht Schleswig-Holstein nach dem Denkmalschutzgesetz Schleswig-Holstein. Skill bündelt zuständige Behörden (Ministerium für Allgemeine und Berufliche Bildung, Wissenschaft, Forschung und Kultur; Landesamt für Denkmalpflege... |
 | `denkmalschutz-thueringen-thuerdschg` | Denkmalschutzrecht Thüringen nach dem Thüringer Denkmalschutzgesetz. Skill bündelt zuständige Behörden (Thüringer Staatskanzlei; Thüringisches Landesamt für Denkmalpflege und Archäologie in Erfurt; Untere Denkmalschutzbehörden bei den La... |
-| `denkmalschutzrecht-schnellstart` | 'Kompakter Arbeitsmodus für Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn Landesgesetze. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-K... |
 | `einstieg-routing` | Einstiegsskill für das Denkmalschutzrecht-Plugin. Sortiert das Mandat, klärt Belegenheit des Objekts und damit das anwendbare Landesgesetz, ermittelt Rolle (Eigentümer, Erwerber, Behörde, Nachbar, Förderantragsteller), Fristen und gewüns... |
 | `eintragungsverfahren-allgemein` | Verfahren zur Eintragung eines Objekts in die Denkmalliste. Skill ordnet die typischen Verfahrensschritte (Anhörung, sachverständige Stellungnahme, Eintragungsverfügung, Bekanntgabe), erläutert konstitutive und nachrichtliche Eintragung... |
 | `enteignung-uebernahme-und-entschaedigung` | Eigentumseingriff im Denkmalrecht: Enteignung nach Art. 14 Abs. 3 GG mit Entschädigung, Übernahmeanspruch der Eigentümerin bei wirtschaftlicher Unzumutbarkeit, Ausgleichszahlungen bei ausgleichspflichtiger Inhaltsbestimmung. Skill ordnet... |

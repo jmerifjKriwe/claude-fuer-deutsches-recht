@@ -1,5 +1,4 @@
 # Kanzlei-Mandant Lifecycle
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Ein Plugin für die ganze Lebensbeziehung zwischen Kanzlei, Einzelanwalt, Mandant und Rechtsabteilung: Mandatsannahme, Scope, Outside Counsel Guidelines, Budget, Forecast, Statusbericht, Gerichtsakte, Rechnung, Erwartungsmanagement, Enttäuschung, Eskalation, Quickwins und Abschluss.
 
 Es denkt nicht nur juristisch, sondern auch organisatorisch und kaufmännisch: Wer braucht welche Entscheidung, was kostet es, was ist schon erledigt, was blockiert, was darf aus Geheimhaltungs-, Datenschutz- oder Berufsrechtsgründen überhaupt in ein gemeinsames System?
@@ -66,7 +66,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -126,7 +126,6 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `joint-ai-workspace` | Gemeinsamer KI-Workspace: steuert Kanzlei und Mandant arbeiten in einem KI-System mit getrennten Rollen, Logs und Freigaben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspfl... |
 | `kaltstart-beide-seiten-dashboard` | Kaltstart für beide Seiten: steuert gemeinsamer Einstieg für Kanzlei, Einzelanwalt, Rechtsabteilung und Fachabteilung mit Rollen, Zielbild, Budget und Vertraulichkeitsgrenzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, B... |
 | `kanzlei-ki-tool-mandanteneinwilligung` | KI-Tool und Mandanteneinwilligung: steuert KI-Einsatz im Mandat offenlegen, absichern, begrenzen und dokumentieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Q... |
-| `kanzlei-mandant-lifecycle-schnellstart` | 'Kompakter Arbeitsmodus für Kanzlei-Mandant Lifecycle. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `law-firm-feedback-loop` | Law Firm Feedback Loop: steuert Mandant gibt Feedback ohne Gesichtsverlust; Kanzlei verbessert sich messbar zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenh... |
 | `law-firm-internal-language` | Kanzlei-interne Sprache: steuert interne Tasknotizen, Reviewkommentare und Risikoformulierungen mandatsfest halten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Q... |
 | `legal-engineer-dashboard` | Legal Engineer Dashboard: steuert Automatisierung, Datenextraktion, KI-Nutzung, Datenschutz und Outputprüfung im Mandat zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege... |

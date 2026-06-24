@@ -1,13 +1,13 @@
 ---
 name: mandantenbericht-zeugnisanalyse
-description: "Schriftlicher Ergebnisbericht an den Arbeitnehmer nach abgeschlossener Ampelanalyse. Strukturierter Aufbau in Gesamtnote, Befund pro Themenbereich, kritische Geheimcodes und Drift-Stellen, rechtliche Einordnung, Erfolgsaussichten, drei Handlungsoptionen (Akzeptanz, Berichtigungsverlangen, Klage) mit Kosten-Nutzen-Abwaegung. Klare Empfehlung, verstaendliche Sprache ohne juristisches Fachchinesisch."
+description: "Schriftlicher Ergebnisbericht an den Arbeitnehmer nach abgeschlossener Ampelanalyse. Strukturierter Aufbau in Gesamtnote, Befund pro Themenbereich, kritische Geheimcodes und Drift-Stellen, rechtliche Einordnung, Erfolgsaussichten, drei Handlungsoptionen (Akzeptanz, Berichtigungsverlangen, Klage) mit Kosten-Nutzen-Abwaegung. Klare Empfehlung, verständliche Sprache ohne juristisches Fachchinesisch."
 ---
 
 # Mandantenbericht zur Zeugnisanalyse
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -17,7 +17,7 @@ Der Bericht ist für einen juristischen Laien geschrieben. Fachbegriffe werden e
 
 ## Aufbau in sieben Abschnitten
 
-Der Bericht hat eine feste Struktur. Die Reihenfolge stellt sicher, dass der Mandant zunaechst das Gesamtbild erhaelt, bevor er sich in Details verliert.
+Der Bericht hat eine feste Struktur. Die Reihenfolge stellt sicher, dass der Mandant zunaechst das Gesamtbild erhält, bevor er sich in Details verliert.
 
 ### Abschnitt 1 Gesamtbewertung und Note
 
@@ -33,7 +33,7 @@ Wortlauf der problematischen Saetze mit kurzer Erklaerung. Pro Stelle ein Absatz
 
 ### Abschnitt 4 Rechtliche Einordnung
 
-Erklärung des Anspruchs nach § 109 GewO, der Beweislastverteilung und der einschlägigen BAG-Rechtsprechung. Bei Schlussformel-Streit immer trennen: Signalwirkung für Bewerbungen einerseits, einklagbarer Anspruch andererseits. Dauer der Verjährungsfrist und Verwirkungsrisiko werden konkret benannt.
+Erklärung des Anspruchs nach Paragraf 109 GewO, der Beweislastverteilung und der einschlägigen BAG-Rechtsprechung. Bei Schlussformel-Streit immer trennen: Signalwirkung für Bewerbungen einerseits, einklagbarer Anspruch andererseits. Dauer der Verjährungsfrist und Verwirkungsrisiko werden konkret benannt.
 
 ### Abschnitt 5 Erfolgsaussichten
 
@@ -45,7 +45,7 @@ Jede Option mit Kosten-, Zeit- und Erfolgseinschaetzung.
 
 Option A ist die Akzeptanz. Der Mandant nimmt das Zeugnis so wie es ist. Kostet nichts, dauert null, beendet die Angelegenheit. Sinnvoll, wenn die Note in der Sache stimmt und nur kosmetische Fragen verbleiben.
 
-Option B ist das aussergerichtliche Berichtigungsverlangen. Der Anwalt schreibt den Arbeitgeber an, listet die zu ändernden Stellen auf und setzt eine Frist. Kosten ueberschaubar (eine Geschäftsgebuehr nach RVG), Dauer zwei bis sechs Wochen, Erfolgsquote bei sauber begruendetem Verlangen erfahrungsgemaess hoch. Sinnvoll bei klaren Geheimcodes, fehlender Bedauernsformel oder offensichtlicher Drift.
+Option B ist das aussergerichtliche Berichtigungsverlangen. Der Anwalt schreibt den Arbeitgeber an, listet die zu ändernden Stellen auf und setzt eine Frist. Kosten überschaubar (eine Geschäftsgebuehr nach RVG), Dauer zwei bis sechs Wochen, Erfolgsquote bei sauber begruendetem Verlangen erfahrungsgemaess hoch. Sinnvoll bei klaren Geheimcodes, fehlender Bedauernsformel oder offensichtlicher Drift.
 
 Option C ist die Klage vor dem Arbeitsgericht. Kosten hoeher (Verfahrensgebuehr plus Terminsgebuehr plus Gerichtskosten), Dauer drei bis neun Monate, Erfolgsquote abhaengig von Beweislage. Sinnvoll, wenn der Arbeitgeber das Berichtigungsverlangen ablehnt, der Notenstreit aber durchgreift oder ein Vorzeugnis vorliegt, das die bessere Note belegt.
 
@@ -57,7 +57,7 @@ Klare Empfehlung in ein bis drei Saetzen. Keine Hintertueren, kein Konjunktivneb
 
 Sehr geehrte Frau [Name],
 
-nach Sichtung Ihres Zeugnisses vom [Datum] und der uns uebersandten Unterlagen ergibt unsere Analyse das folgende Bild.
+nach Sichtung Ihres Zeugnisses vom [Datum] und der uns übersandten Unterlagen ergibt unsere Analyse das folgende Bild.
 
 Gesamtbewertung: Note befriedigend bis ausreichend (zwischen drei und vier auf der Skala eins bis fuenf). Diese Bewertung ist deutlich schlechter als die formale Zufriedenheitsformel vermuten lässt. Grund ist die in mehreren Themenbereichen auftretende Drift: einzelne Saetze formulieren Spitzenleistung, die unmittelbar benachbarten Saetze zum selben Thema halten dagegen und ziehen die Bewertung herab.
 
@@ -76,12 +76,12 @@ Stimmt der Mandant der Option B oder C zu, wird das Aufforderungsschreiben an de
 
 ## Qualitaetskriterien
 
-Der Bericht ist fertig, wenn vier Kriterien erfuellt sind. Er kommt ohne juristisches Fachchinesisch aus. Er nennt die Gesamtnote in Worten. Er enthaelt eine klare Empfehlung. Er listet konkrete Streitstellen mit Wortlaut. Fehlt eines dieser Kriterien, ist der Bericht zu ueberarbeiten.
+Der Bericht ist fertig, wenn vier Kriterien erfuellt sind. Er kommt ohne juristisches Fachchinesisch aus. Er nennt die Gesamtnote in Worten. Er enthält eine klare Empfehlung. Er listet konkrete Streitstellen mit Wortlaut. Fehlt eines dieser Kriterien, ist der Bericht zu überarbeiten.
 
 ## Rechtliche Einordnung und Normen
 
-- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
-- **§§ 195, 199 BGB** — Verjährung drei Jahre ab Jahresende
+- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
+- **Paragrafen 195, 199 BGB** — Verjährung drei Jahre ab Jahresende
 
 ## Aktuelle Rechtsprechung
 

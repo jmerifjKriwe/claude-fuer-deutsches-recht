@@ -1,5 +1,4 @@
 # Insiderrecht Compliance
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin hilft Unternehmen, Kanzleien, Vorständen, Aufsichtsräten, Investor-Relations-Teams und Beratern bei Insiderrecht, Ad-hoc-Publizität und Marktmissbrauchsrisiken. Es fragt zuerst: Liegt eine Insiderinformation vor, wer weiß was, darf gehandelt werden, muss veröffentlicht werden, darf aufgeschoben werden, wer steht auf der Insiderliste, und welche Beweise braucht man später?
 
 ## Quellenanker
@@ -44,7 +44,7 @@ Keine Rechtsberatung. Rechtsprechung und Verwaltungspraxis nur mit frei prüfbar
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -83,7 +83,7 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 | `ins-007-unlawful-disclosure` | Prueft erlaubte und verbotene Weitergabe von Insiderinformationen an Berater, Banken, Arbeitnehmer, Aufsichtsräte und Transaktionspartner. |
 | `ins-008-market-sounding` | Prueft Marktsondierungen, Empfaengerpflichten, Skript, Zustimmung, Aufzeichnung, Wall-Crossing und Follow-up. |
 | `ins-009-directors-dealings` | Prueft Eigengeschaefte von Fuehrungskraeften und nahestehenden Personen, Schwellen, Fristen und Closed Periods. |
-| `ins-010-closed-periods` | Organisiert Closed Periods, Blackout Windows, Ausnahmen und Freigabeprozesse. |
+| `ins-010-closed-periods` | Organisiert Closed Periods, Blackout Windows, Ausnahmen und Freigabeprozesse. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `ins-011-leak-response` | Fuehrt durch Geruecht, Presseleck, Kursbewegung, Anfrage BaFin/Boerse und beschleunigte Ad-hoc-Entscheidung. |
 | `ins-012-vorstand-aufsichtsrat` | Prueft Insiderrecht im Organbereich: Vorstandsvorlagen, AR-Sitzung, Sonderausschuss, M&A und Protokolle. |
 | `ins-013-berater-kanzlei-bank` | Steuert Insiderinformationen bei Kanzleien, Investmentbanken, Wirtschaftsprüfern und Due-Diligence-Teams. |
@@ -131,7 +131,6 @@ Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Beschre
 | `ins-055-incident-drill` | Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Prüfer und BaFin-Kommunikation unter Zeitdruck: Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-... |
 | `insiderinformation-zwischenschritte` | Prüft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz im Insiderrecht Compliance. |
 | `insiderliste-art18` | Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung im Insiderrecht Compliance. |
-| `insiderrecht-compliance-schnellstart` | 'Kompakter Arbeitsmodus für Insiderrecht Compliance. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `insolvenzreife` | Prüft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen im Insiderrecht Compliance. |
 | `kaltstart-triage` | Kaltstart Insiderrecht im Insiderrecht und Compliance: Erzwingt eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt. |
 | `kapitalerhoehung-insiderrecht` | Prüft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht im Insiderrecht Compliance. |

@@ -1,5 +1,4 @@
 # Gesellschaftsrecht-Plugin
-Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschliessen und dokumentieren.
 Abläufe für gesellschaftsrechtliche Mandate in deutschen Kanzleien und Rechtsabteilungen: M&A-Transaktionen, Organe und Protokollwesen, Gesellschafts-Compliance und Unternehmensführung. Aktiviere nur die Module, die für deine Praxis relevant sind. Das Kaltstart-Interview ist modular – es stellt gezielte Fragen je aktivem Bereich und schreibt nur die entsprechenden Abschnitte in dein Praxisprofil.
 
 **Jedes Ergebnis ist ein Entwurf zur anwaltlichen Überprüfung – zitiert, markiert und gesperrt – kein Rechtsgutachten.** Das Plugin übernimmt die Arbeit: liest Dokumente, wendet dein Playbook an, findet die Issues, erstellt den Bericht. Ein Rechtsanwalt prüft, verifiziert und entscheidet. Zitate sind mit Quellen gekennzeichnet, damit klar ist, welche aus einem Recherchetool stammen und welche noch zu prüfen sind. Mandantengeheimnis (§ 43a Abs. 2 BRAO, § 203 StGB) wird konservativ gewahrt. Folgenreiche Handlungen – Einreichung, Versendung, Beurkundung – werden durch ausdrückliche Bestätigung gesperrt.
@@ -86,7 +86,7 @@ MCP-Server konfigurieren unter `.mcp.json` auf Repo- oder Benutzerebene. Skills 
 | **dealteam-zusammenfassung** | M&A | Stufenbriefings: Geschäftsführung / Deal-Lead / Arbeitsteam |
 | **wesentliche-vertraege-anlage** | M&A | Disclosure Schedule gemäß SPA-Definition |
 | **vollzugs-checkliste** | M&A | Selbstaktualisierend: nimmt Einträge aus DD und Schedule-Builds auf |
-| **ki-werkzeug-uebergabe** | M&A | Luminance/Kira-Integration – Massenextraktion + QA-Schicht |
+| **ki-werkzeug-übergabe** | M&A | Luminance/Kira-Integration – Massenextraktion + QA-Schicht |
 | **aufsichtsrat-protokoll** | Organe & Protokoll | Kalendererkennung für Sitzungen → Protokollentwurf im Hausformat (AG: § 107 AktG; GmbH: § 48 GmbHG) |
 | **gesellschafterbeschluss** | Organe & Protokoll | Beschlüsse im schriftlichen Verfahren § 48 II GmbHG mit Mustersuche aus dem Beschluss-Repository; Hinweis bei wesentlichen Einzelmaßnahmen |
 | **gesellschafts-compliance** | Gesellschafts-Compliance | Compliance-Kalender-Tracker (YAML); Einreichungsfristen nach Rechtsträger; Bilanzpublizität § 325 HGB; Transparenzregister § 20 GwG; Gesundheitsaudit; CSV-Export |
@@ -148,7 +148,7 @@ Dein Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/ge
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 107 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -218,7 +218,6 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschre
 | `gesellschafts-compliance` | Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach Rechtsträger und Recht... |
 | `gesellschaftsrecht-erstpruefung-und-mandatsziel` | Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse u... |
 | `gesellschaftsrecht-mandatsworkspace-kontexttrennung` | 'Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen,... |
-| `gesellschaftsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Gesellschaftsrecht-Plugin. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `gesr-corporate-governance-kodex-spezial` | Spezialfall Corporate-Governance-Kodex: Empfehlungen, Anregungen, Entsprechenserklaerung § 161 AktG. Prüfraster für boersennotierten Vorstand und Aufsichtsrat im Gesellschaftsrecht. |
 | `gesr-gesellschafterversammlung-protokoll-leitfaden` | Leitfaden Protokoll Gesellschafterversammlung GmbH: Einberufung, Tagesordnung, Beschluesse, Anfechtung. Prüfraster für Geschäftsführer und Berater im Gesellschaftsrecht. |
 | `gesr-gesellschaftsformwahl-aufsichtsrat` | Bauleiter Gesellschaftsformwahl: GmbH, UG, GmbH und Co. KG, AG, eG, Stiftung. Prüfraster Haftung, Steuern, Mitbestimmung, Publizitaet. Entscheidungstabelle im Gesellschaftsrecht. |

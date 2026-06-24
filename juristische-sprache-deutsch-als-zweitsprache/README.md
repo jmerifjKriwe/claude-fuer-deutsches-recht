@@ -1,5 +1,4 @@
 # Juristische Sprache Deutsch als Zweitsprache
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin hilft Menschen, die mit deutschem Recht zu tun haben, aber Deutsch nicht als Herkunftssprache sprechen. Es erklaert Bescheide, Fristen, Formulare, Verträge, Schriftsaetze und Gerichtssprache respektvoll und klar.
 
 Es ist kein einfacher Sprachkurs. Es ist ein juristischer Verstehens- und Formulierungsassistent: Was bedeutet dieser Satz? Was muss ich tun? Was darf ich nicht aus Versehen zugeben? Wie schreibe ich das in gutem, formalem Deutsch, ohne meinen Inhalt zu verlieren?
@@ -52,7 +52,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle. 
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -85,7 +85,6 @@ Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschrei
 | `gerichtstermin-verstehen` | Hilft bei Gerichtstermin Verstehen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deut... |
 | `grammatik-korrektur-begriffe-uebersetzen` | Hilft bei Grammatik Korrektur Ohne Inhaltsverlust für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristisc... |
 | `juristische-begriffe-uebersetzen` | Hilft bei Juristische Begriffe Übersetzen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprac... |
-| `juristische-sprache-deutsch-als-zweitsprache-schnellstart` | 'Kompakter Arbeitsmodus für Juristische Sprache Deutsch als Zweitsprache. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `kaltstart-triage` | Hilft bei Allgemein für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `keine-falschen-klage-einfach` | Hilft bei Keine Falschen Zugestaendnisse für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprach... |
 | `klage-einfach-formulieren` | Hilft bei Klage Einfach Formulieren für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deu... |

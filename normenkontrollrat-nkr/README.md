@@ -1,5 +1,4 @@
 # Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,9 +21,10 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Freistehendes Plugin für die Arbeit eines **Mitglieds oder Referenten / einer Referentin des Nationalen Normenkontrollrats (NKR)** nach dem Gesetz über die Einsetzung eines Nationalen Normenkontrollrats (**NKRG vom 14.08.2006, BGBl. I S. 1866**) in der jeweils geltenden Fassung.
 
-Es bildet den vollstaendigen Prüfzyklus eines Vorhabens ab: von der **Eingangstriage** eines Referentenentwurfs über die **Erfuellungsaufwand-Berechnung** nach Standardkostenmodell (SKM) und die **Prüfraster** des NKR bis zur **Stellungnahme** nach § 6 NKRG.
+Es bildet den vollständigen Prüfzyklus eines Vorhabens ab: von der **Eingangstriage** eines Referentenentwurfs über die **Erfuellungsaufwand-Berechnung** nach Standardkostenmodell (SKM) und die **Prüfraster** des NKR bis zur **Stellungnahme** nach § 6 NKRG.
 
 ## Mandatsperspektive
 
@@ -99,9 +99,9 @@ E — Spezialfaelle / komplexe Themen (6 Skills)
 
 ## Testakte
 
-Zu diesem Plugin existiert eine vollstaendige Beispielakte unter [`testakten/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026/`](../testakten/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026/).
+Zu diesem Plugin existiert eine vollständige Beispielakte unter [`description`](../testakten/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026/).
 
-**Sachverhalt**: Referentenentwurf des BMJ vom 14.04.2026 zur Verbesserung der elektronischen Erreichbarkeit im Handelsregister eingetragener Gesellschaften (**ElErrHandRegG**). NKR-Prüfung ergibt: Regelung ist erforderlich, Ausgestaltung jedoch zu komplex; geschaetzter Erfuellungsaufwand 320 Mio EUR jaehrlich für die Wirtschaft. Stellungnahme weist die Notwendigkeit positiv aus, kritisiert die konkrete Ausgestaltung und schlaegt eine zentrale Loesung vor.
+**Sachverhalt**: Referentenentwurf des BMJ vom 14.04.2026 zur Verbesserung der elektronischen Erreichbarkeit im Handelsregister eingetragener Gesellschaften (**ElErrHandRegG**). NKR-Prüfung ergibt: Regelung ist erforderlich, Ausgestaltung jedoch zu komplex; geschaetzter Erfuellungsaufwand 320 Mio EUR jaehrlich für die Wirtschaft. Stellungnahme weist die Notwendigkeit positiv aus, kritisiert die konkrete Ausgestaltung und schlägt eine zentrale Loesung vor.
 
 Die Akte zeigt sowohl die **mahnende** als auch die **konstruktive** Funktion des NKR.
 
@@ -109,7 +109,7 @@ Die Akte zeigt sowohl die **mahnende** als auch die **konstruktive** Funktion de
 
 - Keine erfundenen NKR-Stellungnahme-Aktenzeichen oder Berichte aus Modellwissen.
 - NKRG und methodische Grundlagen werden mit Norm und Stand zitiert; NKR-Jahresberichte allgemein als "NKR-Jahresbericht <Jahr>".
-- Vor Ausgabe stets Live-Quellen prüfen: [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de), BMI-Leitfaden, Bundesanzeiger.
+- Vor Ausgabe stets Live-Quellen prüfen: [www.normenkontrollrat.bund.de](), BMI-Leitfaden, Bundesanzeiger.
 
 ## Installation
 
@@ -120,20 +120,20 @@ Die Akte zeigt sowohl die **mahnende** als auch die **konstruktive** Funktion de
 
 ## Konversationsstil
 
-Erste Antwort knapp. Maximal eine gezielte Rueckfrage zur Mandatsaufnahme. Sofort in den Prüfraster-Modus uebergehen und einen ersten Stellungnahme-Entwurf liefern, sobald Eckdaten vorliegen. Subsumtion und ausfuehrliche Begruendung nur dort, wo der Skill dies ausdruecklich vorsieht (Erforderlichkeit, Verhältnismäßigkeit, Alternativenpruefung).
+Erste Antwort knapp. Maximal eine gezielte Rueckfrage zur Mandatsaufnahme. Sofort in den Prüfraster-Modus übergehen und einen ersten Stellungnahme-Entwurf liefern, sobald Eckdaten vorliegen. Subsumtion und ausführliche Begründung nur dort, wo der Skill dies ausdruecklich vorsieht (Erforderlichkeit, Verhältnismäßigkeit, Alternativenpruefung).
 
 ## Verwandte Plugins
 
-- [`legistik-werkstatt`](../legistik-werkstatt/) — Drafting-Werkstatt für Referenten- und Kabinettsentwuerfe (Ressortsicht; NKR ist der Prüfer dieser Entwuerfe).
-- [`normenkontrolle-bauleitplanung`](../normenkontrolle-bauleitplanung/) — Anfechtung von Bauleitplaenen nach § 47 VwGO (begriffliche Verwandtschaft, nicht inhaltlich).
-- [`buerokratieversteher-entbuerokratisierer`](../buerokratieversteher-entbuerokratisierer/) — operative Entbuerokratisierung in einzelnen Verfahren.
+- [`allgemein`](../legistik-werkstatt/) — Drafting-Werkstatt für Referenten- und Kabinettsentwuerfe (Ressortsicht; NKR ist der Prüfer dieser Entwuerfe).
+- [`alternativen-keine-aufgabe-kompetenz`](../normenkontrolle-bauleitplanung/) — Anfechtung von Bauleitplaenen nach § 47 VwGO (begriffliche Verwandtschaft, nicht inhaltlich).
+- [`alternativen-keine-regelung-soft-law`](../buerokratieversteher-entbuerokratisierer/) — operative Entbuerokratisierung in einzelnen Verfahren.
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -176,7 +176,6 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `nkr-stellungnahme-zum-bundestag-anhoerung` | Vorbereitung einer Anhoerung im federfuehrenden Ausschuss des Bundestages. Beschreibt typische Anhoerungssituation NKR-Vertretung muendliche Eingangsaussage Vorbereitung Folienpaket Antworten auf Abgeordnetenfragen und Folge-Stellungnahm... |
 | `nkr-verhaeltnismaessigkeit-aus-nkr-sicht` | Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand... |
 | `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts` | Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts: Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstuf... |
-| `normenkontrollrat-nkr-schnellstart` | 'Kompakter Arbeitsmodus für Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `one-in-one-out-bilanz-und-buchung` | One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen für die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung... |
 | `one-in-out-bilanz-und-buchung` | One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen für die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung... |
 | `orientierung-mandatsaufnahme-praktikabilitaet` | Einstiegs-Skill für NKR-Prüfauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem... |

@@ -1,5 +1,4 @@
 # markenrecht-fashion-luxus
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 **Version:** 3.2.1
 **Mandantin:** klôtzzkètté SA, Paris/Mailand — Haute-Couture-Label, Geschäftsführerin Comtesse Beatrice de Klotzzkettie
 **US-Tochter:** klôtzzkètté Inc., 712 Fifth Avenue, New York, NY 10019
@@ -97,25 +97,25 @@ Die vollständige Skillliste steht unten automatisch generiert. Inhaltlich arbei
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `abmahnung-markenrecht-euipo-beschwerdekammer` | Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprüc... |
 | `absolute-schutzhindernisse-8-markeng-art7-umv` | Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidungskraft, beschreibende Angaben, Freihaltebedürfnis, Täuschung, Sittenverstoß, Hoheitszeichen, Form- und Funktionsausschlüsse, Verkehrsdurchsetzung und Beanst... |
 | `agb-haendlervertrag-luxus` | AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control im Markenrecht Fashion Luxus. |
-| `alicante-schriftsatz-brief-und-memo-bausteine` | Alicante: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `alicante-schriftsatz-brief-und-memo-bausteine` | Alicante: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anmeldung-strategie-portfolio` | Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Prüfraster: Ni... |
 | `anti-ki-beweissicherung-testkauf-bildmarke` | Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfä... |
 | `benutzungsschonfrist-und-rechtserhaltende-benutzung` | Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen: ernsthafte Benutzung, Zeitraum, Gebiet, Waren/Dienstleistungen, Benutzungsunterlagen, Widerspruchseinrede, Verfallsrisiko und Belegpaket im Markenrecht Fashion Luxus. |
 | `beweissicherung-testkauf-screenshot-chain` | Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen im Markenrecht Fashion Luxus. |
 | `bildmarke-und-wort-bild` | Bildmarke und Wort-Bild-Marke für Couture-Logos beim DPMA und EUIPO anmelden: Modehaus will Logo grafisch schützen einschließlich Farbansprüchen. Normen: §§ 3 und 8 MarkenG sowie Art. 4 UMV, Vienna Classification (EUIPO-Bilddatenbank). P... |
 | `boesglaeubige-anmeldung-und-sperrmarke` | Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer prüfen: Kenntnis älterer Benutzung, Behinderungsabsicht, Serienanmeldungen, Abmahnmodell, Nichtigkeit, Gegenabmahnung und Beweisführung im Markenrecht Fashion Luxus. |
-| `boutique-tatbestand-beweis-und-belege` | Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `boutique-tatbestand-beweis-und-belege` | Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `discounter-graumarkt-dpma-bpatg-widerspruch` | Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft im Markenrecht Fashion Luxus. |
 | `dokumente-intake` | Dokumentenintake für Markenrecht Fashion/Luxus: sortiert Markenregisterauszug, Lizenzvertrag, Abmahnung, prüft Datum, Absender, Frist und Beweiswert (Verkehrsbefragung Verkehrsgeltung, Benutzungsnachweis); markiert Lücken; berücksichtigt... |
 | `dpma-bpatg-bgh-rechtsmittelroute` | DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung, Erinnerung, Widerspruch, Löschung, Beschwerde, Rechtsbeschwerde, Fristen, Begründung und Registerfolgen im Markenrecht Fashion Luxus. |
-| `dpma-risikoampel-und-gegenargumente` | Dpma: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `dpma-risikoampel-und-gegenargumente` | Dpma: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dpma-widerspruch-und-loeschung` | DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Lösung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung), § 50 MarkenG (Nich... |
 | `dreidimensionale-marke` | Dreidimensionale Marke und Formmarke prüfen: Produktform, Flakon, Schuhform, technische Funktion, wesentlicher Wert, Unterscheidungskraft, Verkehrsdurchsetzung und Design-Alternativen im Markenrecht Fashion Luxus. |
 | `duftmarke-geschmacksmarke-einstweilige` | Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen im Markenrecht Fashion Luxus. |
@@ -123,7 +123,7 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `einstweilige-verfuegung-markenrecht-dringleichkeit` | Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung im Markenrecht Fashion Luxus. |
 | `erschoepfung-parallelimport-graumarkt` | Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverkehrbringen im EWR, Zustimmung, Umpacken, Luxusimage, selektiver Vertrieb, Beweislast, Testkäufe und Durchsetzungsstrategie im Markenrecht Fashion Luxus. |
 | `euipo-beschwerdekammer-eu-gerichte` | EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren im Markenrecht Fashion Luxus. |
-| `euipo-korrespondenz-markenarten-markenrecht` | Euipo: Behörden-, Gerichts- oder Registerweg. |
+| `euipo-korrespondenz-markenarten-markenrecht` | Euipo: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `euipo-widerspruchsverfahren` | EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekam... |
 | `fashion-luxus-kaltstart-interview` | Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat beginnt, Portfolio-Inventur und Prioritaeten-Matrix sind zu erstellen. Normen: BRAO § 43a, § 32 MarkenG, Art. 32 UMV. Prüfraster: IP-Audit-Fragenkatalog (Mark... |
 | `geografische-angaben-kollektiv-gewaehrleistungsmarke` | Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke im Markenrecht Fashion Luxus. |
@@ -134,21 +134,20 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `ki-generierte-marken-deepfake-counterfeit` | KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung im Markenrecht Fashion Lu... |
 | `klageantraege-auskunft-madrid-protokoll` | Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Entfernung aus Vertriebswegen, Schadensersatzfeststellung, Annexanträge und Bestimmtheit im Markenrecht Fashion Luxus. |
 | `koexistenz-abgrenzungsvereinbarung-vertikale` | Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenrecht entwerfen: Zeichenabstand, Warenabgrenzung, Territorium, Online-Nutzung, Vertragsstrafe, Registermaßnahmen und Zukunftsmarken im Markenrecht Fashion Luxus. |
-| `korrespondenz-zahlen-schwellen-und-berechnung` | Korrespondenz: Zahlen, Schwellenwerte und Berechnung. |
+| `korrespondenz-zahlen-schwellen-und-berechnung` | Korrespondenz: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `lanham-quellenkarte` | Lanham Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `luxus-agb-haendlervertrag-rechtsabteilung` | Luxus: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `luxus-agb-haendlervertrag-rechtsabteilung` | Luxus: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `madrid-protokoll-und-internationale-registrierung` | Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Ländern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Prüfr... |
-| `markenarten-compliance-dokumentation-und-akte` | Markenarten: Compliance-Dokumentation und Aktenvermerk. |
+| `markenarten-compliance-dokumentation-und-akte` | Markenarten: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `markenbewertung-asset-deal-insolvenz` | Marken als Vermögensgegenstand bewerten und in Asset Deal, Finanzierung oder Insolvenz verwerten: Portfolioqualität, Benutzung, Lizenzen, Streit, Bewertungsmethoden, Sicherheiten, Datenraum und Käuferfragen im Markenrecht Fashion Luxus. |
 | `markenlizenz-und-qualitaetskontrolle` | Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklusive Lizenz, Territorium, Waren, Qualitätskontrolle, Unterlizenz, Register, Royalty, Audit, Kündigung, Erschöpfung und Insolvenzrisiko im Markenrecht Fashion Luxus. |
 | `markenmonitoring-watchlist-markenuebertragung` | Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Prüfraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, A... |
 | `markenrecht-benutzungsschonfrist-loeschung` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Markenrecht Fashion Luxus. |
-| `markenrecht-erstpruefung-und-mandatsziel` | Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel. |
-| `markenrecht-fashion-luxus-schnellstart` | 'Kompakter Arbeitsmodus für markenrecht-fashion-luxus. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
+| `markenrecht-erstpruefung-und-mandatsziel` | Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `markenuebertragung-chain-of-title` | Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios im Markenrecht Fashion Luxus. |
 | `marketplace-notice-action-dsa` | Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze im Markenrecht Fashion Luxus. |
 | `messe-verletzung-und-gv-einsatz` | Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG... |
-| `modehaeuser-uspto-wort-interessen-ttab` | Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `modehaeuser-uspto-wort-interessen-ttab` | Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `nyc-korrespondenz-plattform-piraterie` | Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Comm... |
 | `output-waehlen` | Output-Wahl für Markenrecht Fashion/Luxus: stimmt Adressat (Markeninhaber, Verletzer, Konkurrent), Frist (Widerspruch 3 Monate § 42 MarkenG) und Form auf den Zweck ab — typische Outputs: Anmeldung Marke, Widerspruch, Unterlassungsklage. |
 | `plattform-piraterie-donauzon` | Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation im Markenrecht Fashion Luxus. |
@@ -175,14 +174,14 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `us-trade-uspto-anmeldung-office-verfall` | US Trade Dress Protection für Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schützen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Pr... |
 | `uspto-anmeldung-und-lanham-act` | USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Good... |
 | `uspto-office-actions-und-tess-tsdr` | USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihoo... |
-| `uspto-verhandlung-vergleich-und-eskalation` | USPTO: Verhandlung, Vergleich und Eskalation. |
+| `uspto-verhandlung-vergleich-und-eskalation` | USPTO: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `verfall-nichtigkeit-und-loeschungsantrag` | Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturieren: Nichtbenutzung, absolute Schutzhindernisse, ältere Rechte, Bösgläubigkeit, DPMA/EUIPO-Verfahren, Fristen, Belege und Vergleichsoptionen im Markenrecht Fashion Luxus. |
 | `vertikale-preisbindung-vbe-vo` | Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpr... |
 | `waren-dienstleistungen-ekdb-tmclass-nizza` | Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie im Markenrecht Fashion Luxus. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Markenrecht Fashion Luxus. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
-| `wort-mehrparteien-konflikt-und-interessen` | Wort: Mehrparteienkonflikt und Interessenmatrix. |
+| `wort-mehrparteien-konflikt-und-interessen` | Wort: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `wortmarke-anmeldung-dpma` | DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebedürftigkeit, beschreibende Angabe... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

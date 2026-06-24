@@ -1,5 +1,4 @@
 # Insolvenzrecht-Plugin
-Wenn du das hier oeffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt waehlen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt wählen.
 Insolvenz- und sanierungsrechtliche Skills nach deutschem Recht (InsO, StaRUG, COVInsAG-Nachwirkungen). Zielgruppe: Insolvenzverwalter, beratende Rechtsanwälte (Insolvenz-/Sanierungsrecht), Geschäftsführer, Vorstände, Sanierungsberater, Wirtschaftsprüfer (IDW-S-11-/S-6-/S-9-Praxis).
 
 
@@ -31,10 +31,10 @@ Das ausgefuellte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures
 
 | Format | Direkt-Download |
 | --- | --- |
-| **Word (DOCX, Times New Roman, 12 pt)** | [`asset-purchase-agreement-chaincortex-voracis.docx`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/insolvenz-asset-deal-chaincortex-ai-berlin/docx/asset-purchase-agreement-chaincortex-voracis.docx) |
-| **PDF (Times Roman, A4)** | [`asset-purchase-agreement-chaincortex-voracis.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/insolvenz-asset-deal-chaincortex-ai-berlin/pdfs/asset-purchase-agreement-chaincortex-voracis.pdf) |
-| Markdown-Volltext (zum Lesen auf GitHub) | [`09_asset-purchase-agreement-text.md`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
-| Gesamte Testakte als ZIP (34 Dateien, 7 Formate) | [`testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
+| **Word (DOCX, Times New Roman, 12 pt)** | [`zahlungsunfaehigkeit-pruefung-17-inso`]() |
+| **PDF (Times Roman, A4)** | [`ueberschuldung-pruefung-19-inso`]() |
+| Markdown-Volltext (zum Lesen auf GitHub) | [`liquiditaetsvorschau-insolvenzrechtlich`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
+| Gesamte Testakte als ZIP (34 Dateien, 7 Formate) | [`antragspflicht-15a-inso`]() |
 
 Das Template umfasst 11 Paragraphen (Praeambel, Vertragsgegenstand mit DSGVO- und $ 613a-Bausteinen, Kaufpreis [400.000 EUR], Vollzugsvoraussetzungen, eIDAS-2.0-Signatur-Klausel, Haftung mit $ 60 InsO-Ausschluss, LkSG-Klarstellung, HinSchG-Compliance-Klausel, Schlussbestimmungen) plus sechs Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste und Kaufpreis erforderlich; Live-Verifikation der Rspr.-Anker (Bonprix-EuGH, BGH IX. Zivilsenat).
 
@@ -80,7 +80,7 @@ Doppellizenziert unter Apache License, Version 2.0 ODER MIT License, nach Wahl d
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 98 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 97 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -126,7 +126,6 @@ Automatisch generierte Komplett-Liste aller 98 Skills in diesem Plugin. Beschrei
 | `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` | Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-fuer-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungs... |
 | `insolvenzgeld-165-sgb-iii` | Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Prüfraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolven... |
 | `insolvenzrecht-behoerden-gericht-und-registerweg` | Insolvenzrecht: Behörden-, Gerichts- oder Registerweg im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzba... |
-| `insolvenzrecht-schnellstart` | 'Kompakter Arbeitsmodus für Insolvenzrecht-Plugin. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `insolvenzrechtliche-livecheck-red-team` | Insolvenzrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und dir... |
 | `insolvenzreife-antragspflicht-und-haftung` | Insolvenzreife, Antragspflicht und Haftung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Insolvenzrecht. |
 | `internationales-drittstaaten-konzerninsolvenz` | Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine Chapter-15-Logik, sondern Anerkennung nach §§ 335 ff., 343 InsO und praktische Inzidentprüfung durch Notar, Grundbuchamt, Registergericht, Bank oder Vertragspartner im Insol... |

@@ -1,5 +1,4 @@
 # Steuerrecht – Steuerberater und Anwälte
-Wenn du das hier oeffnest, willst du einen Steuerbescheid pruefen und Einspruch oder Klage tragfaehig begruenden.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen Steuerbescheid prüfen und Einspruch oder Klage tragfaehig begründen.
 > **Hinweis: Dieses Plugin deckt zugleich den vollständigen Fachbereich des Fachanwalts für Steuerrecht ab.**
 >
 > Es gibt **kein eigenes Plugin `fachanwalt-steuerrecht`** – dieser frühere Pfad ist als Redirect erhalten. Die gesamten Skills, Vorlagen und Workflows sind hier gebündelt, weil sich anwaltliche und steuerberatende Sicht im Mandat überlappen und ein gemeinsames Plugin Doppelpflege erspart. Die Skills decken sämtliche **FAO-§-9-Bereiche** ab – vom materiellen Steuerrecht über Steuerverfahrensrecht und Steuerstrafrecht bis zu Bilanz- und Buchführungsrecht.
@@ -122,7 +122,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **Power-Plugin Liquidität:** Die vollständige Power-Version der Liquiditätsvorschau (BGH-Schema Passiva II, Excel-Vorlage, HTML-Padlet, insolvenzrechtliche Stichtagsbilanz) lebt im Plugin [`liquiditaetsplanung`](../liquiditaetsplanung/). Die `stb-`-Skills hier sind die Steuerberater-Sicht zur Krisenfrüherkennung und triggern die Power-Version bei tiefergehender Begutachtung.
+> **Power-Plugin Liquidität:** Die vollständige Power-Version der Liquiditätsvorschau (BGH-Schema Passiva II, Excel-Vorlage, HTML-Padlet, insolvenzrechtliche Stichtagsbilanz) lebt im Plugin [`stb-`](../liquiditaetsplanung/). Die `stb-`-Skills hier sind die Steuerberater-Sicht zur Krisenfrüherkennung und triggern die Power-Version bei tiefergehender Begutachtung.
 
 ---
 
@@ -208,7 +208,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 385 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -251,7 +251,7 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `bwa-quartal` | Quartalsgespraech BWA-Übergabe. Anwendungsfall systematische Quartalskommunikation mit Mandant Ergebnisbesprechung Steuerthemen Investitionsplanung. Methodik Termin-Vorbereitung Agenda Dokumentation. Output Quartalsgespraechs-Protokoll M... |
 | `bwa-soll-ist-vergleich` | Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweic... |
 | `bwa-statische-liquiditaet-kennzahlen` | Statische Liquiditaetskennzahlen Liquiditaet 1 2 3 Grades aus BWA und Bilanz. Anwendungsfall Quartalsauswertung Bankreporting Krisenfrueherkennung. Methodik Working Capital Aufstellung Anlagendeckung Kennzahlen. Output Liquiditaets-Kennz... |
-| `bwa-sus-bilanz-pruefung` | Prüfungslinie für stb bwa sus bilanz prüfung im Steuerrecht Anwalt Und Berater. |
+| `bwa-sus-bilanz-pruefung` | Prüfungslinie für stb bwa sus bilanz prüfung im Steuerrecht Anwalt Und Berater. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bwa-vorlaeufiges-ergebnis-darstellung` | Darstellung vorläufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus gescha... |
 | `bwa-zeitlicher-vergleich-jahresvergleich` | Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Gegenüberstellung Vorjahres-Periode kumulierter Jahresvergleich Abweichungs-Analyse Trendaussage. Methodik gleicher Zeitraum gleiches Geschäftsmo... |
 | `bwa-zeitvergleich-vorjahr-darstellung` | Zeitvergleich Vorjahr in der BWA grafisch und tabellarisch. Anwendungsfall optische Aufbereitung der Vorjahresvergleichsdaten für Mandantengespraech mit Liniendiagrammen Balkengrafik. Methodik Standard-Tabelle plus Visualisierung. Output... |
@@ -564,7 +564,6 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `stberg-vereinbare-taetigkeit` | Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausuebung des Steuerberaters — was ist mit dem Beruf vereinbar was widerspricht der Berufsethik. Anwendungsfall Steuerberater plant Treuhandtaetigkeit Hausverwaltung Beteiligu... |
 | `steuerbescheid-analyse` | Steuerbescheid strukturiert auswerten und Angriffspunkte für Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Änderungsbescheid Scha... |
 | `steuerhinterziehung-370-ao` | Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerverkuerzung Steuervorteil Konkurrenzen Versuchsstrafbarkeit und besonders schwere Faelle. Anwendungsfall Mandant erhaelt Vorladung Durchsuchungsbeschluss oder Anklage wegen St... |
-| `steuerrecht-anwalt-und-berater-schnellstart` | 'Kompakter Arbeitsmodus für Steuerrecht – Steuerberater und Anwälte. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `steuerstrafverteidigung-verstaendigung` | Prüfungslinie für anw steuerstrafverteidigung verstaendigung im Steuerrecht Anwalt Und Berater. |
 | `stundung-erlass-227-ao` | Praxis-Skill für Stundungs- Niederschlagungs- und Erlassantraege — von der sachlichen Unbilligkeit ueber persönliche Haerte bis zur Liquiditaetsanalyse. Anwendungsfall Mandant kann faellige Steuer nicht zahlen oder die Festsetzung enthae... |
 | `stundung-erlass-vollstreckungsaufschub` | Anträge auf Stundung Erlass und Vollstreckungsaufschub bei Zahlungsproblemen stellen. Anwendungsfall Mandant kann fällige Steuerschulden vorueber-gehend oder dauerhaft nicht zahlen Vollstreckung droht. Stundung erhebliche Haerte § 222 AO... |

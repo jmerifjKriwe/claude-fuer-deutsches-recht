@@ -32,7 +32,7 @@ Frage nur, was den Weg ändert. Wenn die Information schon im Material steht, fa
 
 Wähle einen dieser Wege und sage dem Nutzer, welchen Weg du nimmst.
 
-1. **Schnellscan:** Für eine erste Einschätzung. Nutze `zeugnisart-erkennung`, `zeugnis-ueberblick-extraktion`, `zufriedenheitsformel-decodierung` und `schlussformel-bewertung`.
+1. **Schnellscan:** Für eine erste Einschätzung. Nutze `zeugnisart-erkennung`, `zeugnis-überblick-extraktion`, `zufriedenheitsformel-decodierung` und `schlussformel-bewertung`.
 2. **Vollanalyse:** Für belastbare Mandatsarbeit. Nutze zusätzlich `notenrelevante-saetze-identifizieren`, `satzweise-notenmatrix`, `leistungsbeurteilung-analyse`, `verhaltensbeurteilung-analyse`, `steigerungsadverbien-katalog`, `bereichs-drift-detektor`, `widerspruechliche-bewertungen` und `gesamtnoten-aggregation`.
 3. **Verhandlung:** Wenn ein besseres Zeugnis erreicht werden soll. Nutze `verbesserungsvorschlaege-formulieren`, `mandantenbericht-zeugnisanalyse` und danach `aufforderungsschreiben-arbeitgeber`.
 4. **Klageprüfung:** Wenn der Arbeitgeber nicht korrigiert oder ein Vergleich gescheitert ist. Nutze `rechtliche-bewertung-bag-rechtsprechung` und `klage-strategie-zeugnisberichtigung`.
@@ -42,7 +42,7 @@ Wähle einen dieser Wege und sage dem Nutzer, welchen Weg du nimmst.
 
 | Befund | Nächster Skill | Warum |
 |---|---|---|
-| Zeugnisart oder Kopfdaten unklar | `zeugnisart-erkennung`, `zeugnis-ueberblick-extraktion` | Erst wissen, welches Dokument geprüft wird. |
+| Zeugnisart oder Kopfdaten unklar | `zeugnisart-erkennung`, `zeugnis-überblick-extraktion` | Erst wissen, welches Dokument geprüft wird. |
 | Hauptnote unklar | `zufriedenheitsformel-decodierung`, `satzweise-notenmatrix` | Die Kernformel allein reicht oft nicht. |
 | Viele scheinbar gute Sätze, aber komisches Gefühl | `bereichs-drift-detektor`, `widerspruechliche-bewertungen` | Schaufenster-Sätze und Brüche im Gesamtbild erkennen. |
 | Fehlendes Bedauern, knapper Dank, kalter Schluss | `schlussformel-bewertung` | Signalwirkung und rechtliche Durchsetzbarkeit getrennt bewerten. |
@@ -54,8 +54,8 @@ Wähle einen dieser Wege und sage dem Nutzer, welchen Weg du nimmst.
 
 ## Juristische Leitplanken
 
-- **§ 109 GewO:** Anspruch auf einfaches oder qualifiziertes Zeugnis; bei qualifiziertem Zeugnis Angaben zu Leistung und Verhalten.
-- **§ 16 BBiG:** Ausbildungszeugnis; auf Verlangen auch Angaben zu Verhalten und Leistung.
+- **Paragraf 109 GewO:** Anspruch auf einfaches oder qualifiziertes Zeugnis; bei qualifiziertem Zeugnis Angaben zu Leistung und Verhalten.
+- **Paragraf 16 BBiG:** Ausbildungszeugnis; auf Verlangen auch Angaben zu Verhalten und Leistung.
 - **Wahrheit vor Wohlwollen:** Ein gutes Zeugnis darf nicht unwahr sein. Wohlwollen steuert die Ausdrucksweise, ersetzt aber keine Tatsachen.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -130,7 +130,7 @@ Für Schulung und Regression eignet sich die Arbeitsakte `arbeitszeugnis-analyse
 
 ## Sofortstart und Rueckfrage-Disziplin
 
-**Der haeufigste Fall ist der einfachste: jemand fuegt ein Zeugnis ein - sonst nichts.** Dann gilt:
+**Der häufigste Fall ist der einfachste: jemand fuegt ein Zeugnis ein - sonst nichts.** Dann gilt:
 
 1. **Sofort loslegen.** Fuegt der Nutzer nur ein Zeugnis ein (Text, PDF, Foto), ohne Anweisung, laeuft ohne Nachfrage die **Vollanalyse**: Kopfdaten, Einschaetzungsmatrix, Drift-/Auslassungspruefung, Gesamtnotenspanne, Handlungsempfehlung.
 2. **Fehlende Angaben sind kein Blocker.** Was das Intake nicht hergibt, wird aus dem Zeugnis selbst abgeleitet (Position, Branche, Beendigungsanlass, Zeugnisart) und als **gekennzeichnete Annahme** gefuehrt ("Annahme: Vertriebsposition mit Kundenkontakt - bitte korrigieren, falls falsch.").

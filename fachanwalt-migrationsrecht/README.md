@@ -1,5 +1,4 @@
 # Fachanwalt Migrationsrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin Fachanwalt für Migrationsrecht als großer Praxis-Kompass mit über 200 Skills: Aufenthaltstitel, Blaue Karte EU, Fachkräfte, Chancenkarte, Studium/Ausbildung, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Duldung, Abschiebungsabwehr, Ausweisung, Visumverfahren, Staatenlosigkeit, Gebietsstatus, Länderquellen und ein Staaten-/Gebietscheck für nahezu jeden relevanten Herkunfts-, Transit- oder Zielstaat einschließlich Palästina, Nordzypern und Westsahara. Der Einstiegsskill kann auf Wunsch auch spanisch und in einfacher Sprache erklären.
 
 ## Installation in der Plugin-Umgebung
@@ -47,7 +47,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 461 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 460 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -112,7 +112,6 @@ Automatisch generierte Komplett-Liste aller 461 Skills in diesem Plugin. Beschre
 | `fachanwalt-migrationsrecht-familiennachzug` | Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren. Prüfraster §§ 27-36 AufenthG Familiennachzug Lebensunterhalt Wohnraum Sprachkenntnisse A1. Beschleunigtes Visum-Verfahren Fami... |
 | `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024` | GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsqu... |
 | `fachanwalt-migrationsrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StA... |
-| `fachanwalt-migrationsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Migrationsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `familiennachzug` | Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren: Prüfraster §§ 27-36 AufenthG Famili... |
 | `familiennachzug-ehegatte` | Ehegattennachzug: Fachmodul im Migrationsrecht: prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `familiennachzug-kind` | Kindernachzug: Fachmodul im Migrationsrecht: prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
@@ -143,7 +142,7 @@ Automatisch generierte Komplett-Liste aller 461 Skills in diesem Plugin. Beschre
 | `migr-einbuergerung-mehrstaatigkeit-spezial` | Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaatigkeit, besondere Integrationsleistung: Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaati... |
 | `migr-einfuehrung-aufenthaltszwecke` | Migrationsrecht einfuehrend: Aufenthaltszwecke Studium, Ausbildung, Beschäftigung (Blaue Karte EU, Chancenkarte, Fachkraefte), Familiennachzug, humanitaere Gruende, Niederlassungserlaubnis, Daueraufenthalt EU: Migrationsrecht einfuehrend... |
 | `migr-fachkraefteeinwanderung-praxis` | Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung: Fachkraefteeinwanderung in der Praxis: Schritte vom V... |
-| `migr-sonderfall-edge-case` | Migr: Sonderfall und Edge-Case-Prüfung: Migr: Sonderfall und Edge-Case-Prüfung. |
+| `migr-sonderfall-edge-case` | Migr: Sonderfall und Edge-Case-Prüfung: Migr: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `migration-selbststaendige` | Selbstständige Migration: Fachmodul im Migrationsrecht: prüft wirtschaftliches Interesse, Finanzierung, Businessplan, Altersvorsorge; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `migrationsrecht-tatbestand-beweis-und-belege` | Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `minderjaehrige-unbegleitet` | Unbegleitete Minderjährige: Fachmodul im Migrationsrecht: prüft Alter, Jugendamt, Vormund, Dublin, Kindeswohl; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |

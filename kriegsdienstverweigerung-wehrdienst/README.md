@@ -1,5 +1,4 @@
 # Kriegsdienstverweigerung und Wehrdienst
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Praxisplugin für Kriegsdienstverweigerung aus Gewissensgründen nach Art. 4 Abs. 3 GG und KDVG. Es ist ausdrücklich kein Plugin für Totalverweigerung, Dienstflucht, Befehlsboykott oder politische Leistungsverweigerung. Es behandelt die verfassungsrechtlich loyale Inanspruchnahme eines Grundrechts: Wer nicht gegen sein Gewissen Kriegsdienst mit der Waffe leisten kann, stellt sich nicht außerhalb der Ordnung, sondern beruft sich auf eine ihrer zentralen Gewissensgarantien.
 
 Das Plugin führt von der ersten inneren Klärung über den Antrag beim Bundesamt für das Personalmanagement der Bundeswehr bis zur BAFzA-Entscheidung, Anhörung, Nachreichung, Anerkennung, Ablehnung, Widerspruch, Untätigkeitsklage und Eilrechtsschutz. Es berücksichtigt den Stand 2026 nach dem Wehrdienstmodernisierungsgesetz, insbesondere § 13 KDVG n. F. für ungediente Wehrpflichtige, die vor dem 01.01.2010 geboren wurden.
@@ -73,7 +73,7 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 137 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 136 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -82,7 +82,7 @@ Automatisch generierte Komplett-Liste aller 137 Skills in diesem Plugin. Beschre
 | `adressat-und-versandwege` | Prüft Post, Fax, E-Mail, Unterschrift und Zugangsnachweis im Kriegsdienstverweigerung Wehrdienst. |
 | `akte-fuer-gericht-aufbauen` | Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest im Kriegsdienstverweigerung Wehrdienst. |
 | `akteneinsicht-kdv-aktenvernichtung-kdvg` | Routet Akteneinsicht bei BAFzA, BAPersBw und Gericht im Kriegsdienstverweigerung Wehrdienst. |
-| `aktenvernichtung-kdvg-12` | Erklärt Aufbewahrung und Löschung von KDV-Akten. |
+| `aktenvernichtung-kdvg-12` | Erklärt Aufbewahrung und Löschung von KDV-Akten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `aktive-soldaten-prioritaet` | Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst im Kriegsdienstverweigerung Wehrdienst. |
 | `aktuelle-lage-2026` | Prüft keine aktive Einberufung, fortbestehendes KDV-Recht und WDModG-Änderungen im Kriegsdienstverweigerung Wehrdienst. |
 | `anerkennung-und-dienstfolgen` | Ordnet Folgen der Anerkennung für Wehrpflichtige, Soldaten und Reservisten im Kriegsdienstverweigerung Wehrdienst. |
@@ -157,7 +157,6 @@ Automatisch generierte Komplett-Liste aller 137 Skills in diesem Plugin. Beschre
 | `klage-ohne-berufung` | Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist im Kriegsdienstverweigerung Wehrdienst. |
 | `kommunikation-familie-kosten-auslagen` | Erklärt KDV ruhig gegenüber Familie und Umfeld ohne private Überoffenbarung im Kriegsdienstverweigerung Wehrdienst. |
 | `kosten-und-auslagen-anhoerung` | Prüft Auslagen, Entgeltfortzahlung und notwendige Aufwendungen bei Anhörung im Kriegsdienstverweigerung Wehrdienst. |
-| `kriegsdienstverweigerung-wehrdienst-schnellstart` | 'Kompakter Arbeitsmodus für Kriegsdienstverweigerung und Wehrdienst. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `lebensfuehrung-und-plausibilitaet` | Prüft, welche Lebensstationen die Gewissensentscheidung stützen oder erklären im Kriegsdienstverweigerung Wehrdienst. |
 | `lebenslauf-luecken-und-widersprueche` | Bearbeitet frühere Waffenaffinität, Bundeswehrbewerbung oder Lebenslauflücken ehrlich im Kriegsdienstverweigerung Wehrdienst. |
 | `mehrsprachige-orientierung` | Hilft Nicht-Muttersprachlern mit deutschen KDV-Begriffen ohne falsche Übersetzungssicherheit im Kriegsdienstverweigerung Wehrdienst. |
@@ -166,7 +165,7 @@ Automatisch generierte Komplett-Liste aller 137 Skills in diesem Plugin. Beschre
 | `musterung-verweigert-ablehnung` | Erklärt Ablehnungsrisiko bei Musterungsverweigerung im Kriegsdienstverweigerung Wehrdienst. |
 | `musterungen-und-eignung` | Erklärt, warum KDV-Antrag Musterung grundsätzlich nicht ersetzt und wie § 13 wirkt im Kriegsdienstverweigerung Wehrdienst. |
 | `musterungsbescheid-bestandskraft` | Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung im Kriegsdienstverweigerung Wehrdienst. |
-| `nachreichung-fehlender-unterlagen` | Formuliert fristwahrende Nachreichungen nach behördlicher Aufforderung. |
+| `nachreichung-fehlender-unterlagen` | Formuliert fristwahrende Nachreichungen nach behördlicher Aufforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `notfallplan-dienstantritt-parteivernehmung` | Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt im Kriegsdienstverweigerung Wehrdienst. |
 | `parteivernehmung-vorbereiten` | Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor im Kriegsdienstverweigerung Wehrdienst. |
 | `personalakte-und-datenschutz-soldaten` | Prüft Personalaktenzuleitung und Datenschutz bei Soldaten-KDV im Kriegsdienstverweigerung Wehrdienst. |
@@ -201,7 +200,7 @@ Automatisch generierte Komplett-Liste aller 137 Skills in diesem Plugin. Beschre
 | `untaetigkeitsklage-vwgo-75` | Prüft Rechtsschutz bei Nichtbescheidung und grenzt diffuse Untätigkeitsbeschwerde ab. |
 | `unterlagenmappe-kdv-verwaltungsakt` | Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide im Kriegsdienstverweigerung Wehrdienst. |
 | `verwaltungsakt-oder-informelles-schreiben` | Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail im Kriegsdienstverweigerung Wehrdienst. |
-| `verwaltungsgericht-kdvg-10` | Routet Klage und gerichtliche Besonderheiten in KDV-Sachen. |
+| `verwaltungsgericht-kdvg-10` | Routet Klage und gerichtliche Besonderheiten in KDV-Sachen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `vollstaendiger-lebenslauf` | Erstellt einen vollständigen, datensparsamen Lebenslauf mit gewissensrelevanten Stationen im Kriegsdienstverweigerung Wehrdienst. |
 | `vollstaendigkeit-kdvg-2` | Prüft Anschreiben, Art.-4-Berufung, Lebenslauf und persönliche Begründung im Kriegsdienstverweigerung Wehrdienst. |
 | `waffenbesitz-jagd-wahrheitspflicht` | Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe im Kriegsdienstverweigerung Wehrdienst. |

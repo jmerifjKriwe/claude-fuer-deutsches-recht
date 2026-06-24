@@ -1,5 +1,4 @@
 # Krisenfrüherkennung und StaRUG-Management
-Wenn du das hier oeffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt waehlen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt wählen.
 **Plugin-Slug:** `krisenfrueherkennung-starug`
 **Version:** 3.2.1
 **Autor:** Klotzkette
@@ -127,68 +127,67 @@ Alle in diesem Plugin verwendeten Personen, Kanzleinamen und Mandantennamen sind
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `ampelsystem-beweislast-und-darlegungslast` | Ampelsystem: Beweislast, Darlegungslast und Substantiierung. |
+| `ampelsystem-beweislast-und-darlegungslast` | Ampelsystem: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anschluss-routing` | Anschluss-Routing für Krisenfrüherkennung StaRUG: wählt den nächsten Spezial-Skill nach Engpass (Frühzeitige Indikatoren, Liquiditätsplan, Frühwarn-Indikatoren, Sanierungskonzept IDW S 6), dokumentiert Router-Entscheidung mit Begründung. |
-| `berater-drohende-fruehwarnsystem` | Berater: Verhandlung, Vergleich und Eskalation. |
+| `berater-drohende-fruehwarnsystem` | Berater: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `cross-class-cram-down-und-absolute-priority` | Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obst... |
 | `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` | Krisenprotokollierung der Geschäftsführung für Haftungsschutz: GmbH-Geschäftsführer oder AG-Vorstand will Entscheidungen in der Krise dokumentieren. Normen: § 43 GmbHG (Sorgfaltspflicht und Haftung), § 93 Abs. 2 S. 2 AktG (Beweislastumke... |
 | `dokumente-intake` | Dokumentenintake für Krisenfrüherkennung StaRUG: sortiert Liquiditätsplan, Frühwarn-Indikatoren, Sanierungskonzept IDW S 6, prüft Datum, Absender, Frist und Beweiswert (Forderungen offen, Bankenrunde-Protokolle); markiert Lücken; berücks... |
-| `drohende-zahlen-schwellen-und-berechnung` | Drohende: Zahlen, Schwellenwerte und Berechnung. |
+| `drohende-zahlen-schwellen-und-berechnung` | Drohende: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `drohende-zahlungsunfaehigkeit` | Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater oder GF prüft ob StaRUG-Zugangsberechtigung besteht. Normen: § 18 InsO (drohende ZU), § 17 InsO (aktuelle ZU), § 19 InsO (Überschuldung), § 1 StaRUG (Zugangsberechtigung).... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Krisenfrüherkennung StaRUG: ordnet Rolle (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)), markiert Frist (Frühzeitige Indikatoren), wählt Norm (StaRUG § 1 Krisenfrüherkennung, § 18 InsO drohende ZU) un... |
 | `fortbestehensprognose-zweistufig` | Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist möglicherweise ueberschuldet und braucht positive Fortführungsprognose. Normen: § 19 InsO (Überschuldungsbegriff modifiziert), IDW S 11 (Fortbestehensprognose-Sta... |
 | `fruehwarnsystem-architektur-zwei-jahres-horizont` | StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architektieren: Unternehmen will § 1 StaRUG Krisenfrueherkennung implementieren. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW S 6 (Sanierungsstandard), IDW PS 340 n.F. (Risikoma... |
-| `fruehwarnsystem-behoerden-gericht-und-registerweg` | Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg. |
+| `fruehwarnsystem-behoerden-gericht-und-registerweg` | Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `geschaeftsfuehrerhaftung-quellenkarte-check` | Geschäftsführerhaftung Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` | Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2... |
 | `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` | Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (F... |
-| `integrierte-interessen-kennzahlenset` | Integrierte: Mehrparteienkonflikt und Interessenmatrix. |
+| `integrierte-interessen-kennzahlenset` | Integrierte: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `integrierte-planung-kennzahlenset-ampelsystem` | Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresa... |
-| `kennzahlenset-mandantenentscheidung` | Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage. |
+| `kennzahlenset-mandantenentscheidung` | Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `kennzahlenset-und-ampelsystem-starug-konform` | StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Prüfraster: Liquiditaetsrei... |
 | `kfe-fruherkennungssystem-bauleiter` | Bauleiter Frueherkennungssystem § 1 StaRUG: Risikolandkarte, Indikatoren, Eskalationsstufen, Berichtswege an Geschäftsleitung und Aufsichtsorgan. Prüfraster für mittelstaendische GmbH im Krisenfrueherkennung Starug. |
 | `kfe-krisenstab-cross-class` | Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeiter / Mandanten, Treasury, Liquiditaetssteuerung. Prüfraster für Geschäftsleitung im Krisenfrueherkennung Starug. |
 | `kfe-krisenstab-massnahmen-leitfaden` | Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeiter / Mandanten, Treasury, Liquiditaetssteuerung. Pruefraster fuer Geschaeftsleitung. |
 | `kfe-restrukturierungsbeauftragter` | Spezialfall Restrukturierungsbeauftragter §§ 73 ff. StaRUG: Bestellung, Aufgaben, Haftung, Kosten. Prüfraster für Geschäftsleitung und Gläubigerausschuss im Krisenfrueherkennung Starug. |
 | `kfe-stabilisierungsanordnung-spezial` | Spezialfall Stabilisierungsanordnung §§ 49 ff. StaRUG: Verwertungs- und Vollstreckungssperre, Voraussetzungen, Befristung. Prüfraster für Antragsteller und betroffene Gläubiger im Krisenfrueherkennung Starug. |
-| `konform-sonderfall-und-edge-case` | Konform: Sonderfall und Edge-Case-Prüfung. |
-| `krisenfrueherkennung-krisenmanagement-monats` | Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel. |
-| `krisenfrueherkennung-starug-schnellstart` | 'Kompakter Arbeitsmodus für Krisenfrüherkennung und StaRUG-Management. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
-| `krisenmanagement-tatbestand-beweis-und-belege` | Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `krisenstadien-fristennotiz-starug-gf-haftung` | Krisenstadien: Fristennotiz und nächster Schritt. |
+| `konform-sonderfall-und-edge-case` | Konform: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `krisenfrueherkennung-krisenmanagement-monats` | Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `krisenmanagement-tatbestand-beweis-und-belege` | Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `krisenstadien-fristennotiz-starug-gf-haftung` | Krisenstadien: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` | IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Maßnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetsk... |
 | `mandantenbrief-warnung-paragraph-starug` | Mandantenbrief Warnung Paragraph 102 StaRUG Template: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Krisenfrueherkennung Starug. |
 | `mandantenkommunikation-redteam` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Krisenfrueherkennung Starug. |
-| `monats-risikoampel-und-gegenargumente` | Monats: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `monats-risikoampel-und-gegenargumente` | Monats: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `output-waehlen` | Output-Wahl für Krisenfrüherkennung StaRUG: stimmt Adressat (Geschäftsführung, Aufsichtsrat, Berater (WP, RA)), Frist (Frühzeitige Indikatoren) und Form auf den Zweck ab — typische Outputs: Frühwarn-Indikatoren-Set, Restrukturierungsplan... |
 | `paragraph-1-starug-pflichten-und-24-monats-horizont` | § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Prüfr... |
 | `paragraph-102-starug-warnpflicht-bei-rechtsberatern` | Paragraph 102 StaRUG Warnpflicht Bei Rechtsberatern: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Krisenfrueherkennung Starug. |
-| `pflicht-planung-restrukturierungsplan` | Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `pflicht-planung-restrukturierungsplan` | Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `pflichtenkollision-shift-restructuring-lounge` | Pflichtenkollision Und Shift Of Fiduciary Duties: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Krisenfrueherkennung Starug. |
-| `planung-internationaler-bezug-und-schnittstellen` | Planung: Internationaler Bezug und Schnittstellen. |
+| `planung-internationaler-bezug-und-schnittstellen` | Planung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `quellen-livecheck` | Quellen-Live-Check für Krisenfrüherkennung StaRUG: prüft Normen (StaRUG § 1 Krisenfrüherkennung, § 18 InsO drohende ZU) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Restrukturierungsgericht und Quellenhygiene n... |
 | `restructuring-lounge-impulsvortrag-toolkit` | Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG: Foliensatz-Gliederung, Talking-Points, juristische Kernbotschaften, Q-und-A-Fallnetz, Formathinweise für Veranstaltungen wie Branchenlounge-Formate im Krisenfrueherkennung Sta... |
 | `restrukturierungsbeauftragter-und-sachwalter` | Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter)... |
 | `restrukturierungsplan-architektur-rollierende` | StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant außergerichtliche Sanierung unter StaRUG. Normen: §§ 7 ff. StaRUG (Planbestandteile), § 9 StaRUG (Gruppenbildung), § 25 StaRUG (Mehrheitserfor... |
-| `restrukturierungsplan-formular-portal-und-einreichung` | Restrukturierungsplan: Formular, Portal und Einreichungslogik. |
+| `restrukturierungsplan-formular-portal-und-einreichung` | Restrukturierungsplan: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `rollierende-liquiditaetsplanung-24-monate-template` | Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), Fortbestehensprognose, Sanierungskonzept. Prüfraster: Woechentliche Granul... |
 | `spezial-geschaeftsfuehrerhaftung-livequellen-check` | Geschaeftsfuehrerhaftung: Livequellen- und Rechtsprechungscheck. |
 | `stabilisierungsanordnung-und-vollstreckungssperre` | Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung: Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantra... |
-| `stakeholder-warnpflicht-zahlungsunfaehigkeit` | Stakeholder: Abschlussprodukt und Übergabe. |
+| `stakeholder-warnpflicht-zahlungsunfaehigkeit` | Stakeholder: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Krisenfrueherkennung Starug-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan.... |
-| `starug-fristen-form-und-zustaendigkeit` | StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `starug-fristen-form-und-zustaendigkeit` | StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `starug-stabilisierungsanordnung-vollstreckungsstopp` | Stabilisierungsanordnung: Red-Team und Qualitätskontrolle: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sank... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Krisenfrüherkennung StaRUG: trennt fehlende Tatsachen von fehlenden Belegen (Liquiditätsplan, Frühwarn-Indikatoren, Sanierungskonzept IDW S 6), nennt pro Lücke Beweisthema, Beschaffungsweg (Restrukturier... |
-| `warnpflicht-schriftsatz-brief-und-memo-bausteine` | Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `warnpflicht-schriftsatz-brief-und-memo-bausteine` | Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Krisenfrueherkennung Starug. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Krisenfrueherkennung Starug. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Krisenfrueherkennung Starug. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
-| `zahlungsunfaehigkeit-compliance-dokumentation-und-akte` | Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk. |
+| `zahlungsunfaehigkeit-compliance-dokumentation-und-akte` | Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

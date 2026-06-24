@@ -1,5 +1,4 @@
 # Legistik-Werkstatt
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Vollständige Werkstatt für Legistinnen und Legisten in Bundesministerien, Bundestag, Fraktionen, Oppositionsarbeit, Landesministerien, Landtagen sowie kommunalen und kammerlichen Normgebern. Vom politischen Auftrag über Startbahn, Normhierarchie, Kompetenzprüfung, Normenkartierung und Terminologie zu Referentenentwurf, Kabinettsmappe, Gesetzentwurf aus der Mitte des Bundestages oder Landtages, Änderungsantrag, Entschließungsantrag, Antrag, Formulierungshilfe, Rechtsverordnung und Satzung. Mit Querschnittsprüfungen Verfassungsrecht Europarecht Folgenabschätzung Goldplating Bestimmtheit Zirkelschluss. Erzeugt am Ende ein DOCX und PDF im passenden offiziellen Layout - ministerieller Referentenentwurf-Stil, BT-/Landtagsdrucksachen-Stil oder Arbeitsfassung für Fraktion, Ausschuss und Normgeber.
 
 ## Installation in der Plugin-Umgebung
@@ -130,7 +130,7 @@ Dieses Plugin ist ein Werkzeug zur Beschleunigung legistischer Arbeit. Es ersetz
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 254 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -144,7 +144,7 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `aa-sanktionsumsetzung-und-internationale-abkommen` | Sachbereich Sanktionsumsetzung und internationale Abkommen im Geschäftsbereich AA: Normbestand (AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.); Akteure (AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.); EU-Bezug (EU-Sanktionsregime gegen D... |
 | `aa-voelkerrecht-und-vertragsgesetzgebung` | Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschäftsbereich AA: Normbestand (GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.); Akteure (AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bunde... |
 | `aenderungs-formular-portal-einreichungslogik` | Änderungs: Formular, Portal und Einreichungslogik im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellu... |
-| `aenderungs-formular-portal-und-einreichung` | Änderungs: Formular, Portal und Einreichungslogik. |
+| `aenderungs-formular-portal-und-einreichung` | Änderungs: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anschluss-routing` | Anschluss-Routing für Legistik-Werkstatt (Gesetzgebung): wählt den nächsten Spezial-Skill nach Engpass (Beteiligungsfristen, Referentenentwurf, Kabinettvorlage, BR-Drucksache), dokumentiert Router-Entscheidung mit Begründung. |
 | `baut-quellenkarte` | Baut Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `begruendung-allgemein-und-besonders` | Zweiteilige Begründung zu einem Gesetzesentwurf oder einer Verordnung verfassen. Anwendungsfall Referentenentwurf oder Kabinettsentwurf ist fertig und Begründung muss nach HdR-Schema aufgebaut werden. Allgemeiner Teil A Anlass und Ziel B... |
@@ -260,7 +260,7 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `bmz-menschenrechte-in-lieferketten-lksg` | Sachbereich Menschenrechte in Lieferketten (LkSG) im Geschäftsbereich BMZ: Normbestand (LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.); Akteure (BAFA; BMZ; BMWE; BMJV.); EU-Bezug (EU-CSDDD; UNGP; OECD-Leitsaetze.... |
 | `bmz-menschenrechte-multilaterale` | Sachbereich Menschenrechte in Lieferketten (LkSG) im Geschäftsbereich BMZ: Normbestand (LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.); Akteure (BAFA; BMZ; BMWE; BMJV.); EU-Bezug (EU-CSDDD; UNGP; OECD-Leitsaetze.... |
 | `bmz-multilaterale-zusammenarbeit-und-eu` | Sachbereich Multilaterale Zusammenarbeit und EU im Geschäftsbereich BMZ: Normbestand (UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.); Akteure (BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.); EU-Bezug (NDICI; EFAD-Arch... |
-| `bundestag-fristen-form-und-zustaendigkeit` | Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `bundestag-fristen-form-und-zustaendigkeit` | Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bundestag-fristen-form-zustaendigkeit` | Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zust... |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich legistik-werkstatt: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `dokumente-intake` | Dokumentenintake für Legistik-Werkstatt (Gesetzgebung): sortiert Referentenentwurf, Kabinettvorlage, BR-Drucksache, prüft Datum, Absender, Frist und Beweiswert (Folgenabschätzung, Stellungnahmen Verbände); markiert Lücken; berücksichtigt... |
@@ -274,7 +274,7 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `folgenabschaetzung-nachhaltigkeit` | Weitere Folgen und Nachhaltigkeitsprüfung für Gesetzesentwurf erstellen. Anwendungsfall Referentenentwurf benoetigt Vorblatt Abschnitt G und Begründung A.VI.6 zu Nachhaltigkeitsfolgen. UN-SDGs prüfen welche betroffen Bewertung positiv ne... |
 | `formulierungshilfe-bauen` | Formulierungshilfen, Änderungsantraege, Gesetzentwuerfe aus der Mitte des Bundestages oder Landtages, Entschliessungsantraege und parlamentarische Antraege bauen. Anwendungsfall Bundesministerium liefert fachlich zu, Koalitionsfraktion w... |
 | `fraktionen-dokumentenmatrix-lueckenliste` | Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist... |
-| `fraktionen-dokumentenmatrix-und-lueckenliste` | Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `fraktionen-dokumentenmatrix-und-lueckenliste` | Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich legistik-werkstatt: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `gesetzesentwurf-kabinett` | Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden.... |
 | `gesetzesentwurf-kabinett-aa-voelkerrecht` | Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden.... |
@@ -283,41 +283,40 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `goldplating-vermeiden` | Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprü... |
 | `goldplating-vermeiden-inkrafttreten` | Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprü... |
 | `inkrafttreten-uebergangsrecht` | Inkrafttretens- und Übergangsregelung für Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Übergangsrecht muessen noch ergaenzt werden. Standardformel Stichtagsregelung Altfaell... |
-| `kabinettsentwuerfe-compliance-dokumentation-und-akte` | Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk. |
+| `kabinettsentwuerfe-compliance-dokumentation-und-akte` | Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Legistik Werkstatt-Plugin für Bundesministerien, Bundestag, Fraktionen, Landesministerien, Landtage und sonstige Normgeber. Fragt Startbahn, Institution, Bundesland, Ressort, Fraktion, Verfahren... |
 | `laender-behoerden-gerichts-registerweg` | Länder: Behörden-, Gerichts- oder Registerweg im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung,... |
-| `laender-landtage-legistik-ministerien` | Länder: Behörden-, Gerichts- oder Registerweg. |
+| `laender-landtage-legistik-ministerien` | Länder: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `landtage-schriftsatz-brief-memo-bausteine` | Landtage: Schriftsatz-, Brief- und Memo-Bausteine im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellu... |
-| `landtage-schriftsatz-brief-und-memo-bausteine` | Landtage: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `landtage-schriftsatz-brief-und-memo-bausteine` | Landtage: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `legistik-auftragsaufnahme` | Legistischen Auftrag strukturiert aufnehmen und in operationale Regelungsziele umwandeln. Anwendungsfall Erstkontakt zu einem neuen Vorhaben aus Bundesministerium, Bundestag, Fraktion, Landesministerium, Landtag, Kommune, Kammer oder Hoc... |
-| `legistik-erstpruefung-und-mandatsziel` | Legistik: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `legistik-erstpruefung-und-mandatsziel` | Legistik: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `legistik-europarechtskonformitaet-notifizierung` | Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht prüfen. Anwendungsfall Referent oder Verband fragt ob nationales Vorhaben mit EU-Recht vereinbar ist oder ob Notifizierungspflicht besteht. Primaerrecht EUV AEUV Grundrechtec... |
 | `legistik-kabinettsentwurf-ressortabstimmung` | Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Fri... |
 | `legistik-normenkartierung-aenderungsbefehle` | Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Änderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert w... |
-| `legistik-werkstatt-schnellstart` | 'Kompakter Arbeitsmodus für Legistik-Werkstatt. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `legw-bmi-auslaender-und-staatsangehoerigkeitsrecht` | Sachbereich Auslaender- und Staatsangehoerigkeitsrecht im Geschaeftsbereich BMI: Normbestand (AufenthG; AsylG; StAG; FreizuegG/EU; AZRG; AsylbLG (mit BMAS).); Akteure (BAMF; Auslaenderbehoerden; Bundespolizei.); EU-Bezug (GEAS; Dublin-VO... |
 | `legw-bmleh-agrar-und-foerderungsrecht-gak-gap` | Sachbereich Agrar- und Foerderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BM... |
 | `legw-bmwe-aussenwirtschaft-und-investitionspruefung` | Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektora... |
 | `legw-rmap-evaluierung-und-aenderung` | Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zustaendigkeiten; Auslaufd... |
 | `lesefassung-konsolidiert` | Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Änderung aussieht ohne Änderungsmarkierungen. Einheitlich lesba... |
-| `ministerien-tatbestand-beweis-und-belege` | Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `ministerien-tatbestand-beweis-und-belege` | Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `ministerien-tatbestandsmerkmale-beweisfragen` | Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Fris... |
 | `mitte-internationaler-bezug-schnittstellen` | Mitte: Internationaler Bezug und Schnittstellen im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung... |
-| `mitte-internationaler-bezug-und-schnittstellen` | Mitte: Internationaler Bezug und Schnittstellen. |
+| `mitte-internationaler-bezug-und-schnittstellen` | Mitte: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `normenkartierung-normenkontrollrat-kmu` | Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Änderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert w... |
 | `normenkontrollrat-kmu-check` | Vorlage an Nationalen Normenkontrollrat NKR vorbereiten und KMU-Check durchführen. Anwendungsfall Referentenentwurf muss vor Kabinettsbefassung dem NKR vorgelegt werden. Standard-Kostenmodell SKK Buerokratiekosten. KMU-Aspekt mittelstand... |
 | `normgeber-verhandlung-vergleich-eskalation` | Normgeber: Verhandlung, Vergleich und Eskalation im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellun... |
-| `normgeber-verhandlung-vergleich-und-eskalation` | Normgeber: Verhandlung, Vergleich und Eskalation. |
+| `normgeber-verhandlung-vergleich-und-eskalation` | Normgeber: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `normhierarchie-routing` | Richtige Startbahn und Normebene für ein legistisches Vorhaben bestimmen: Bundesgesetz, Landesgesetz, Rechtsverordnung, Satzung, Verwaltungsvorschrift, parlamentarischer Antrag oder Entschliessungsantrag. Anwendungsfall politische Vorgab... |
 | `normtext-begruendung-synopse` | Normtext, Begründung und Synopse als Gesetzgebungswerkstatt: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `normtext-begruendung-und-synopse` | Normtext, Begründung und Synopse als Gesetzgebungswerkstatt: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Legistik. |
 | `opposition-risikoampel-gegenargumente` | Opposition: Risikoampel, Gegenargumente und Verteidigungslinien im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche F... |
-| `opposition-risikoampel-und-gegenargumente` | Opposition: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `opposition-risikoampel-und-gegenargumente` | Opposition: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `output-waehlen` | Output-Wahl für Legistik-Werkstatt (Gesetzgebung): stimmt Adressat (Ressort, Bundesrat, Bundestag), Frist (Beteiligungsfristen) und Form auf den Zweck ab — typische Outputs: Normtext nach HdR, Begründung, Erfüllungsaufwand-Schätzung. |
 | `quellen-livecheck` | Quellen-Live-Check für Legistik-Werkstatt (Gesetzgebung): prüft Normen (GGO Bundesregierung, Handbuch der Rechtsförmlichkeit (HdR)) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BMJ und Quellenhygiene nach refer... |
 | `rechtsbereinigung-spezial` | Spezialfall Rechtsbereinigung und Entbuerokratisierung: Wegfallpruefung, Konsolidierung, Befristung Sunset-Klausel. Prüfraster für Ministerien. |
 | `rechtsfolgenabschaetzung-leitfaden` | Leitfaden Gesetzesfolgenabschaetzung GFA: monetaer, nicht monetaer, KMU-Test, Nachhaltigkeitspruefung. Prüfraster für Ressort und Verband. |
-| `referenten-vorlagen-interessen-synopse` | Referenten: Zahlen, Schwellenwerte und Berechnung. |
+| `referenten-vorlagen-interessen-synopse` | Referenten: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `referenten-zahlen-schwellenwerte-berechnung` | Referenten: Zahlen, Schwellenwerte und Berechnung im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellu... |
 | `referentenentwurf-bauen` | Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen, Startbahn und Normebene sind bestimmt und ein Bundes- oder Landesministerium braucht Entwurfstext und Begründung. Klaer... |
 | `ressort-aa` | Heranfuehrung Ressort AA (Auswaertiges Amt). Schwerpunkt: Voelkerrecht; konsularische Aufgaben; Aussenwirtschaftsdimension; EU-Verfahren; Sanktionsumsetzung. Kernnormen: GG Art. 32 und Art. 59; WVK; KonsG; PassG; AWG; AWV; EUZBLG; IntZG.... |
@@ -384,7 +383,7 @@ Automatisch generierte Komplett-Liste aller 255 Skills in diesem Plugin. Beschre
 | `verfassungsmaessigkeit-quercheck` | Querschnittsprüfung Verfassungsmäßigkeit eines Gesetzesentwurfs oder einer Verordnung. Anwendungsfall Entwurf soll vor Ressortabstimmung oder NKR-Vorlage verfassungsrechtlich abgesichert werden oder Verband prüft eingegangenen Entwurf. G... |
 | `verordnungsermaechtigung-art80` | Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rechtsverordnung entworfen wird. Anwendungsfall geplante Rechtsverordnung und Anwalt oder Referent fragt ob Ermaechtigungsgrundlage genuegend bestimmt ist. Bestimmtheitstrias I... |
 | `vorlagen-interessen` | Vorlagen: Mehrparteienkonflikt und Interessenmatrix im Legistik (Gesetzgebungstechnik): 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustel... |
-| `vorlagen-mehrparteien-konflikt-und-interessen` | Vorlagen: Mehrparteienkonflikt und Interessenmatrix. |
+| `vorlagen-mehrparteien-konflikt-und-interessen` | Vorlagen: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `xml-paralleldarstellung` | Maschinenlesbare Paralleldarstellung eines Gesetzesentwurfs in LegalDocML.de oder eNorm-XML erstellen. Anwendungsfall eGesetzgebung BMJ Bundesgesetzblatt online oder automatisierte Weiterverarbeitung erfordert strukturierte XML-Ausgabe.... |

@@ -1,5 +1,4 @@
 # DSA, DMA und Digitalregulierung der EU
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin für die anwaltliche Praxis im Recht der digitalen Märkte und Dienste.
 
 ## Abgedeckte Rechtsakte
@@ -61,60 +61,59 @@ Stand: 2026. DSA voll anwendbar seit 17.02.2024. DMA-Gatekeeper-Designation seit
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `account-internationaler-bezug-und-schnittstellen` | Account: Internationaler Bezug und Schnittstellen. |
+| `account-internationaler-bezug-und-schnittstellen` | Account: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` | Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Dsa Dma Digitalregulierung. |
 | `anschluss-routing` | Anschluss-Routing für DSA/DMA Digitalregulierung: wählt den nächsten Spezial-Skill nach Engpass (DSA Risikoberichte jährlich, AGB, Risikobewertung, Transparenzberichte), dokumentiert Router-Entscheidung mit Begründung. |
 | `bussgeldverteidigung` | Verteidigung gegen Bussgelder nach DSA und DMA: bis 6 Prozent (DSA) und 10 Prozent (DMA) des weltweiten Jahresumsatzes. Verfahrensgang vor EU-Kommission und Klage Art. 263 AEUV. Akteneinsicht, Anhörung, Settlements. Beweislast, Verhältni... |
 | `dark-patterns-internes-beschwerdesystem` | Dark Patterns nach Art. 25 DSA prüfen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review für... |
-| `data-digitalregulierung-dora` | Data: Dokumentenmatrix, Lückenliste und Nachforderung. |
-| `digitalregulierung-erstpruefung-und-mandatsziel` | Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `data-digitalregulierung-dora` | Data: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `digitalregulierung-erstpruefung-und-mandatsziel` | Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` | Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plat... |
 | `dma-anti-steering-app-store-design` | Anti-Steering Pflichten Art. 5 Abs. 4 DMA für App-Stores: Entwickler duerfen ausserhalb des Stores informieren, ueber alternative Preise und Zahlwege. Prüfraster: keine Behinderung, keine Strafgebuehr, kein Linkverbot. Apple- und Google-... |
 | `dma-business-user-gatekeeper` | Spezialfall Business-User-Zugang zu Daten und Tools Art. 6 Abs. 9 ff. DMA: Datenportabilitaet in Echtzeit, FRAND-Zugang zu Schnittstellen und Funktionen, Reporting. Prüfraster für Drittanbieter und Verhandlung mit Gatekeeper im Dsa Dma D... |
-| `dma-fristen-form-und-zustaendigkeit` | DMA: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `dma-fristen-form-und-zustaendigkeit` | DMA: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dma-gatekeeper-schwellen-und-kernplattformdienste` | Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernpl... |
 | `dma-interoperabilitaet-messenger-art-7` | Interoperabilitaet von Messengerdiensten nach Art. 7 DMA: Pflicht der Gatekeeper (WhatsApp, iMessage), interoperable Schnittstellen anzubieten. Stufenmodell: 1:1 zuerst, dann Gruppen, dann Sprache/Video. Technische Spezifikationen, Versc... |
 | `dma-pflichten-dsa-art-forschungsdatenzugang` | Pflichtenuebersicht DMA für benannte Gatekeeper: Interoperabilitaet Messenger Art. 7, Datenportabilitaet Art. 6 Abs. 9 DMA, Selbstbevorzugungsverbot Art. 6 Abs. 5 DMA, Anti-Steering Art. 5 Abs. 4 DMA, FRAND-Bedingungen Art. 6 Abs. 12 DMA... |
 | `dokumente-intake` | Dokumentenintake für DSA/DMA Digitalregulierung: sortiert AGB, Risikobewertung, Transparenzberichte, prüft Datum, Absender, Frist und Beweiswert (Compliance-Tickets, Audit-Reports); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a... |
-| `dora-risikoampel-und-gegenargumente` | Dora: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `dora-risikoampel-und-gegenargumente` | Dora: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dsa-art-34-systemische-risikobewertung` | Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte... |
 | `dsa-art-40-forschungsdatenzugang-algorithmen` | Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung), Delegierte VO (EU)... |
-| `dsa-dma-digitalregulierung-schnellstart` | 'Kompakter Arbeitsmodus für DSA, DMA und Digitalregulierung der EU. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
-| `dsa-eidas-einordnung` | DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `dsa-eidas-einordnung` | DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dsa-internes-beschwerdesystem-aufbau` | Internes Beschwerdesystem nach Art. 20 DSA aufbauen: Beschwerden gegen Inhaltsentscheidungen, Sperrungen, Kontosperren, Demonetarisierung. Fristen, Begruendungspflichten, menschliche Prüfung, Statement of Reasons. Technische Anforderunge... |
 | `dsa-krisenreaktionsmechanismus-art-36` | Krisenreaktionsmechanismus Art. 36 DSA: Aktivierung durch EU-Kommission bei aussergewoehnlichen Umstaenden (Krieg, Pandemie, Terroranschlag). Pflichten der VLOP zur Risikobewertung und Massnahmen, Reporting, Dauer max. 3 Monate verlaenge... |
 | `dsa-pflichten-pyramide-uebersicht` | Pflichtenpyramide DSA einfuehrend erklaeren: alle Vermittlungsdienste (Art. 11 ff. DSA), Hosting-Dienste, Online-Plattformen, VLOP (very large online platforms ab 45 Mio. EU-Nutzer). Jede Stufe baut auf der vorigen auf. Tabelle mit Pflic... |
 | `dsa-systemic-risk-assessment-pruefen` | Spezialfall Systemic-Risk-Assessment Art. 34 DSA: Methode der VLOP-Risikobewertung prüfen, vier Kategorien (illegale Inhalte, Grundrechte, Wahlen, Wohlbefinden Minderjaehriger), Independent Audit Art. 37. Prüfraster und Mustertext im Dsa... |
 | `dsa-trusted-flagger-anerkennung` | Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deuts... |
 | `dsa-vlop-vlose-einordnung-und-pflichten` | VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation Kommission), Art. 24 Abs. 3 (M... |
-| `eidas-behoerden-gericht-und-registerweg` | Eidas: Behörden-, Gerichts- oder Registerweg. |
-| `einordnung-zahlen-schwellen-und-berechnung` | Einordnung: Zahlen, Schwellenwerte und Berechnung. |
+| `eidas-behoerden-gericht-und-registerweg` | Eidas: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `einordnung-zahlen-schwellen-und-berechnung` | Einordnung: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `einstieg-routing` | Einstieg, Triage und Routing für DSA/DMA Digitalregulierung: ordnet Rolle (Plattform/VLOP, Nutzer, DSC), markiert Frist (DSA Risikoberichte jährlich), wählt Norm (DSA EU 2022/2065, DMA EU 2022/1925, P2B EU 2019/1150) und Zuständigkeit (E... |
-| `erstellung-forschungsdatenzugang` | Erstellung: Abschlussprodukt und Übergabe. |
-| `forschungsdatenzugang-mehrparteienkonflikt` | Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix. |
-| `gatekeeper-schriftsatz-brief-und-memo-bausteine` | Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine. |
-| `kernplattformdienste-sonderfall-klagewege` | Kernplattformdienste: Sonderfall und Edge-Case-Prüfung. |
+| `erstellung-forschungsdatenzugang` | Erstellung: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `forschungsdatenzugang-mehrparteienkonflikt` | Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `gatekeeper-schriftsatz-brief-und-memo-bausteine` | Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `kernplattformdienste-sonderfall-klagewege` | Kernplattformdienste: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `klage-gegen-vlop-einordnung-art-263-aeuv` | Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art.... |
-| `klagewege-mandantenkommunikation-entscheidungsvorlage` | Klagewege: Mandantenkommunikation und Entscheidungsvorlage. |
+| `klagewege-mandantenkommunikation-entscheidungsvorlage` | Klagewege: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Dsa Dma Digitalregulierung. |
 | `out-court-pflichten-pyramide-systemic-risk` | Out-of-Court-Streitbeilegung nach Art. 21 DSA praktisch nutzen: Bekanntmachung der zertifizierten Stellen, Verfahrensgang, Bindungswirkung, Kostenverteilung. Prüfraster für Nutzer und Plattform-Strategie im Dsa Dma Digitalregulierung. |
 | `output-waehlen` | Output-Wahl für DSA/DMA Digitalregulierung: stimmt Adressat (Plattform/VLOP, Nutzer, DSC), Frist (DSA Risikoberichte jährlich) und Form auf den Zweck ab — typische Outputs: DSA-Compliance-Memo, Risk Assessment, T&C-Update. |
 | `pyramide-check-dsgvo-p2b-anti-steering` | Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, D... |
 | `quellen-livecheck` | Quellen-Live-Check für DSA/DMA Digitalregulierung: prüft Normen (DSA EU 2022/2065, DMA EU 2022/1925, P2B EU 2019/1150) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt EU-Kommission und Quellenhygiene nach referenc... |
 | `regulierung-start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im DSA DMA Digitalregulierung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan.... |
-| `risikobewertung-compliance-dokumentation-und-akte` | Risikobewertung: Compliance-Dokumentation und Aktenvermerk. |
-| `sperre-formular-portal-und-einreichung` | Sperre: Formular, Portal und Einreichungslogik. |
-| `sperre-vertreter-beweislast` | Schwellen: Verhandlung, Vergleich und Eskalation. |
+| `risikobewertung-compliance-dokumentation-und-akte` | Risikobewertung: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `sperre-formular-portal-und-einreichung` | Sperre: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `sperre-vertreter-beweislast` | Schwellen: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `spezial-vlop-livequellen-und-rechtsprechungscheck` | Vlop: Livequellen- und Rechtsprechungscheck. |
 | `spezial-zustellung-red-team-und-qualitaetskontrolle` | Zustellung: Red-Team und Qualitätskontrolle. |
 | `transparenzbericht-erstellung-trusted-flagger` | Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behördenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommissio... |
-| `transparenzbericht-fristennotiz-dsa-dma` | Transparenzbericht: Fristennotiz und nächster Schritt. |
+| `transparenzbericht-fristennotiz-dsa-dma` | Transparenzbericht: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für DSA/DMA Digitalregulierung: trennt fehlende Tatsachen von fehlenden Belegen (AGB, Risikobewertung, Transparenzberichte), nennt pro Lücke Beweisthema, Beschaffungsweg (EU-Kommission), Frist und Ersatznach... |
-| `vertreter-beweislast-und-darlegungslast` | Vertreter: Beweislast, Darlegungslast und Substantiierung. |
+| `vertreter-beweislast-und-darlegungslast` | Vertreter: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `vlop-quellenkarte` | Vlop Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `werbearchiv-aufbauen-klage-gegen-account` | Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap für VLOP zur technischen Umsetzung i... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Dsa Dma Digitalregulierung. |

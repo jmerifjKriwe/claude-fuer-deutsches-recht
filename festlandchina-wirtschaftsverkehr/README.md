@@ -1,5 +1,4 @@
 # Festlandchina Wirtschaftsverkehr
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 China-Geschäft ohne Illusionen und ohne Reflexe: freiheitsbewusst, regelgebunden, de-risked, dokumentiert und wirtschaftlich handlungsfähig.
 
 Dieses Plugin führt durch **Festlandchina Wirtschaftsverkehr** und erzeugt je nach Bedarf Memos, Quellenmatrizen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
@@ -48,7 +48,7 @@ Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Li
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 199 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 198 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -194,7 +194,6 @@ Automatisch generierte Komplett-Liste aller 199 Skills in diesem Plugin. Beschre
 | `exporteur-deutschland-nach-china` | Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten,... |
 | `fabrikbetrieb-in-china` | Rechtlicher und operativer Rahmen für Fabrikbetrieb in der VR China: Betriebsgenehmigungen, Umweltauflagen (chinesisches Umweltschutzgesetz), Arbeitssicherheit (Work Safety Law CN), Datenlokalisierung (Cybersecurity Law Art. 37), LkSG-So... |
 | `factory-lease-and-land-use-rights` | Fabrikmiete und Bodennutzungsrechte in China: Unterschied Grundstückseigentum (staatlich) vs. Bodennutzungsrecht (Land Use Right), Gewerbliche LUR-Laufzeiten (50 Jahre), Mietvertrag Fabrik (Industriezone), Genehmigungen Umbau/Erweiterung... |
-| `festlandchina-wirtschaftsverkehr-schnellstart` | 'Kompakter Arbeitsmodus für Festlandchina Wirtschaftsverkehr. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `force-majeure-and-change-in-law` | Force Majeure und Change-in-Law-Klauseln im China-Kontext: CN-Civil-Code Art. 180 Force Majeure, CISG Art. 79, Exportverbot als Force-Majeure-Ereignis (streitig), Change-in-Law-Klauseln bei Exportkontrollen/Sanktionen, Vertragsanpassung... |
 | `forced-labour-risk-xinjiang` | Zwangsarbeit-Risiko Xinjiang/XUAR: EU-Forced-Labour-VO 2024/3015 Marktverbot-Tatbestand, XUAR-Sektoren (Baumwolle/Polysilizium/Tomaten/Aluminium), Beweislastumkehr gem. VO 2024/3015 Art. 5, LkSG § 5 Risikoindikator Zwangsarbeit, Due-Dili... |
 | `free-economy-and-human-rights-positioning` | Unternehmenspositionierung: Freiheitliche Wirtschaft und Menschenrechte im China-Kontext: Grenzen des Engagements in VR China, Werte-Compliance vs. Marktzugang, LkSG-Pflichten als Mindestrahmen, OECD-Leitsätze, Investorenerwartungen ESG,... |

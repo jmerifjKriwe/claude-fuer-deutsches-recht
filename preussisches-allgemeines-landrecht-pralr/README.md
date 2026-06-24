@@ -1,5 +1,4 @@
 # Preußisches Allgemeines Landrecht (PrALR)
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Das PrALR-Plugin macht das **Allgemeine Landrecht für die Preußischen Staaten** arbeitsfähig: als historische Quelle, als Kodifikationsprojekt, als rechtsgeschichtliche Vergleichsfolie und in den seltenen Fällen, in denen Altrecht oder der Aufopferungsgedanke heute noch sauber hergeleitet werden muss.
 
 Es nimmt ausdrücklich ernst, dass Digitalisate, OCR-Fassungen und PDFs aus unterschiedlichen Jahren oder Drucktraditionen stammen können. Der erste Schritt ist deshalb immer: **Welcher Textzeuge liegt vor?** Danach kommen Systemstelle, Geltungsraum, heutige Fortwirkung und Output.
@@ -30,8 +30,8 @@ Es nimmt ausdrücklich ernst, dass Digitalisate, OCR-Fassungen und PDFs aus unte
 
 Für die Arbeit am PrALR sollen Digitalisate offen benannt und gegeneinander geprüft werden. Besonders nützlich sind:
 
-- Internet Archive: [Allgemeines Landrecht für die Preußischen Staaten, Drucktradition 1794](https://archive.org/details/11750101bsb/page/n1/mode/2up)
-- Staatsbibliothek zu Berlin: [Digitalisat PPN646281704](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN646281704&PHYSID=PHYS_0184&view=fulltext-endless)
+- Internet Archive: [Allgemeines Landrecht für die Preußischen Staaten, Drucktradition 1794]()
+- Staatsbibliothek zu Berlin: [Digitalisat PPN646281704]()
 
 Arbeitsregel: 1794-, 1804- und spätere Textzeugen dürfen nie blind gleichgesetzt werden. Der Normnavigator erzeugt für jede einzelne Fundstelle eine Normkarte mit Teil, Titel, Paragraph, Textzeuge, OCR-Risiko, möglicher Abweichung und heutiger Anschlussfrage. Das ersetzt nicht die Einzelprüfung, macht aber jede Norm praktisch auffindbar.
 
@@ -475,7 +475,6 @@ Automatisch generierte Komplett-Liste aller 463 Skills in diesem Plugin. Beschre
 | `pralr-normblock-19801-19900` | PrALR-Normblock §§ 19801-19900: jede Vorschrift im Block einzeln als Normkarte mit Teil/Titel/Paragraph, Textzeuge 1794/1804, OCR-Risiko, historischer Bedeutung und heutiger Anschlussfrage prüfen. |
 | `pralr-normblock-19901-20000` | PrALR-Normblock §§ 19901-20000: jede Vorschrift im Block einzeln als Normkarte mit Teil/Titel/Paragraph, Textzeuge 1794/1804, OCR-Risiko, historischer Bedeutung und heutiger Anschlussfrage prüfen. |
 | `pralr-spez-zwitterrecht-historisch-medizinisch-rechtsfolgen` | Zwitterrecht ALR — historisch-medizinische Dimension: Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen für Eheschliessung Erbrecht Wehrdienst. Li... |
-| `preussisches-allgemeines-landrecht-pralr-schnellstart` | 'Kompakter Arbeitsmodus für Preußisches Allgemeines Landrecht (PrALR). Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `prozessrecht-ago-1793` | Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Skill behandelt die AGO 1793 die als Vorlaeufer der ZPO gilt das Verfahrensprinzip die Beweisregelung und die Fortwirkung zur CPO/ZPO. Liefert Quellenmatrix. |
 | `quellenkritik-fraktur-ocr` | PrALR: Fraktur-, Antiqua-, OCR- und Transkriptionsfehler erkennen, protokollieren und entschärfen. |
 | `quellenmatrix-erstellen` | PrALR: Quellenmatrix aus Digitalisat, Edition, OCR, Sekundärhinweis und heutiger Anschlussnorm erstellen. |
@@ -510,6 +509,7 @@ Automatisch generierte Komplett-Liste aller 463 Skills in diesem Plugin. Beschre
 | `uebergang-zum-bgb-1900` | PrALR: Ablösung durch BGB, Fortgeltungsreste, Überleitung und historischer Vergleich bis 1900. |
 | `unterricht-seminar-mueller-arnold` | PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `unterricht-und-seminar` | PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen. |
+| `v392-lesefreude-preussisches-allgemeines-landrecht-pralr` | Didaktischer Lesefreude-Skill für Preußisches Allgemeines Landrecht: historische Einordnung, Begriffskern, anschauliche Fallvignette, Rezeptionslinie und heutige Grenze werden verständlich zusammengeführt. |
 | `vergleich-abgb-code-civil-bgb` | PrALR: Vergleich mit ABGB, Code civil und BGB nach Funktion, Systematik, Sprache und Freiheitsgrad. |
 | `vergleich-roemisches-recht-gemeines-recht` | PrALR: Verhältnis zu römischem Recht, gemeinem Recht, Naturrecht und preußischer Kodifikationstechnik prüfen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `vergleich-sachsenspiegel-landrechte` | PrALR: ältere Landrechte, Sachsenspiegel, Partikularrecht und preußische Vereinheitlichungsambition einordnen. |

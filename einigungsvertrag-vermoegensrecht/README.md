@@ -1,5 +1,4 @@
 # Einigungsvertrag und Vermögensrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin ordnet die langen Schatten der deutschen Einheit: Einigungsvertrag, Art. 21/22, Treuhand, Vermögensgesetz, Bodenreform, Mauergrundstücke, offene Vermögensfragen und heutige Register-/Restitutionsprobleme.
 
 ## Start
@@ -46,7 +46,7 @@ Beginne mit `einigungsvertrag-vermoegensrecht-allgemein`. Das Plugin fragt zuers
 
 ## Quellenhygiene
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
+Siehe [`description`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
 
 ## Lizenz
 
@@ -56,7 +56,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 123 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -104,7 +104,6 @@ Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschre
 | `einigungsvertrag-bodenreform-landwirtschaft` | Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Anspruchspfad prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `einigungsvertrag-kommunalvermoegen-zuordnung` | Einigungsvertrag und Vermögensrecht: Kommunalvermögen: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
 | `einigungsvertrag-treuhandprivatisierung` | Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. |
-| `einigungsvertrag-vermoegensrecht-schnellstart` | 'Kompakter Arbeitsmodus für Einigungsvertrag und Vermögensrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `erbfolge-und-berechtigtenkette` | Einigungsvertrag und Vermögensrecht: Erbfolge und Berechtigtenkette. Erbfolge und Berechtigtenkette im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im E... |
 | `grundbuchberichtigung-behoerde-historische` | Einigungsvertrag und Vermögensrecht: Grundbuchberichtigung prüfen. Grundbuchberichtigung prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einig... |
 | `historische-akte-quellenkritisch-lesen` | Einigungsvertrag und Vermögensrecht: Historische Akte quellenkritisch lesen. Historische Akte quellenkritisch lesen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat... |

@@ -1,5 +1,4 @@
 # Plugin: status-navigator-step-plan
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 **Status-Navigator und Step-Plan-Macher**.
 
 ## Was dieses Plugin ist — und was es ausdruecklich nicht ist
@@ -32,7 +32,7 @@ Alle uebrigen Plugins des Repos arbeiten mit verifizierten Norm- und Rechtsprech
 
 ## Worum es geht
 
-Anwaeltinnen und Anwaelte aus Restrukturierung, Finanzierung, Gesellschaftsrecht und Transaktionen kennen das Problem: ein Riesenklumpatsch aus Dokumenten faellt ins Mandat. Ungeordnet, disparat, teils widerspruechlich. Zwei Fragen stellen sich immer:
+Anwaeltinnen und Anwaelte aus Restrukturierung, Finanzierung, Gesellschaftsrecht und Transaktionen kennen das Problem: ein Riesenklumpatsch aus Dokumenten faellt ins Mandat. Ungeordnet, disparat, teils widersprüchlich. Zwei Fragen stellen sich immer:
 
 1. **Was ist eigentlich los?**
 2. **Was muss jetzt geschehen?**
@@ -48,14 +48,14 @@ Das Herzstueck ist eine mehrseitige Excel-Arbeitsmappe (nicht eine Chatfenster-T
 | 1 Überblick / Statuslage | Gesamtsituation auf einen Blick: Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Partei, Rechtsgrundlage, Zweck |
 | 2 Vorhandene Dokumente | Detailliste aller vorhandenen Dokumente mit Status und Anmerkungen |
 | 3 Fehlende Dokumente | Auflistung der noch fehlenden Dokumente und Nachweise mit Beschaffungspfad |
-| 4 Workflow / Next Steps | Konkreter Step-Plan: Schritte in Reihenfolge, Rechtsgrundlage, Unterschrift, Empfaenger |
+| 4 Workflow / Next Steps | Konkreter Step-Plan: Schritte in Reihenfolge, Rechtsgrundlage, Unterschrift, Empfänger |
 
 Optional erweiterbar um Fristen, Beteiligte, Rangfolge, Sicherheiten und Hyperlinks zur Dokumentenablage.
 
 ## Was der Status-Navigator konkret leistet
 
 1. **Dokumententypen erkennen und einordnen** (Verträge, Erklaerungen, Beschlüsse, Cap Tables, Korrespondenz).
-2. **Unterschriften und Vollstaendigkeit prüfen.**
+2. **Unterschriften und Vollständigkeit prüfen.**
 3. **Diskrepanzen und Copy-Paste-Fehler aufdecken.**
 4. **Versand- und Zustellungsstatus erfassen.**
 5. **Luecken und Fehler in den Tabellen direkt notifizieren.**
@@ -118,7 +118,7 @@ Neben der Excel-Arbeitsmappe kann der Status-Navigator denselben Step-Plan als P
 ## Wichtiger Hinweis vor der Nutzung
 
 - **Rechtliche Prüfung bleibt anwaltliche Aufgabe.** Der Status-Navigator erfasst und strukturiert — er bewertet nicht abschliessend. Ob eine Kuendigung wirksam, ein Zugang erfolgt, ein Formerfordernis erfuellt ist, muss der Anwalt selbst prüfen.
-- **Vollstaendigkeitskontrolle.** Die KI kann Dokumente oder Zusammenhaenge uebersehen. Jede generierte Tabelle muss anhand der Originaldokumente überprüft werden.
+- **Vollständigkeitskontrolle.** Die KI kann Dokumente oder Zusammenhaenge übersehen. Jede generierte Tabelle muss anhand der Originaldokumente überprüft werden.
 - **Diskrepanz-Hinweise sind Hinweise, keine Befunde.**
 - **Datenschutz und Berufsrecht.** Finanzierungs- und Gesellschaftsdokumente enthalten hochsensible Daten. Die Nutzung ist nur mit einem System zulässig, das DSGVO, § 203 StGB und §§ 43a, 43e BRAO erfuellt.
 - **Eigenverantwortung.** Sie tragen die Verantwortung für jede Information und jeden Schritt.
@@ -141,7 +141,7 @@ Dieselbe Datenbasis lässt sich auch als Padlet-Shelf ausspielen (vier Spalten);
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 36 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 35 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -171,7 +171,6 @@ Automatisch generierte Komplett-Liste aller 36 Skills in diesem Plugin. Beschrei
 | `padlet-spalte-3-fehlend` | Baut die dritte Padlet-Spalte als Pendant zu Reiter 3 der Step-Plan-Excel. Fehlende Dokumente mit Frist im Untertitel, Beschaffungsweg in zwei Absaetzen und Restzeit-Ampel (gruen mehr als 30 Tage, gelb 8 bis 30, rot bis 7). |
 | `padlet-spalte-4-workflow` | Baut die vierte Padlet-Spalte als Pendant zu Reiter 4 der Step-Plan-Excel. Workflow-Karten mit nummerierten Checkbox-Schritten, Rechtsgrundlage, Tags fuer Unterzeichner und Empfaenger sowie Fortschritts-Sortierung. |
 | `status-navigator-einstieg` | Einstiegs-Skill fuer den Status-Navigator: nimmt einen ungeordneten Dokumentenklumpatsch entgegen und liefert die ersten Antworten auf die zwei Kernfragen — was ist eigentlich los und was muss als Naechstes geschehen. Setzt den Rahmen fu... |
-| `status-navigator-step-plan-schnellstart` | 'Kompakter Arbeitsmodus für status-navigator-step-plan. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `szenario-cap-table-bereinigung` | Anwendungsszenario Bereinigung mehrerer widerspruechlicher Cap Tables. Status-Navigator vergleicht die Cap Tables miteinander und mit den zugrundeliegenden Vertraegen. Zeigt Abweichungen und Wandlungsbedarf auf. |
 | `szenario-due-diligence` | Anwendungsszenario Due Diligence. Status-Navigator strukturiert eine grosse disparate Dokumentensammlung im Rahmen einer Transaktion. Prüft auf Vollstaendigkeit und Diskrepanzen. Vorbereitung der Datenraum-Indexierung fuer das Targetunte... |
 | `szenario-faelligstellung-vollstreckung` | Anwendungsszenario gescheiterte Finanzierung mit Vorbereitung von Faelligstellung und Vollstreckung. Status-Navigator erfasst Darlehensvertraege, Kuendigungs- und Faelligstellungsschreiben, Zustellungsnachweise und Sicherheiten. Workflow... |

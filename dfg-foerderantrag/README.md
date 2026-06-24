@@ -1,5 +1,4 @@
 # DFG-Förderantrag
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin für die praktische Antragstellung bei der Deutschen Forschungsgemeinschaft: Sachbeihilfe, elan-Formalia, Projektbeschreibung, Finanzplan, Forschungsdaten, Ethik-/KI-Check, Reviewer-Perspektive, Wiedereinreichung und strategische Entscheidung zwischen kleinem schnellen Antrag und großem Prestigeprojekt.
 
 Der Stil ist bewusst nicht bürokratisch. Das Plugin fragt zuerst: Was ist wissenschaftlich stark, was ist realistisch förderbar, was kann schneller entschieden werden und wo ist der große Antrag zwar verführerisch, aber prozessual zäher? Es arbeitet adaptiv: Anfänger bekommen eine geführte Mini-Roadmap; erfahrene Antragsteller bekommen direkt Red-Team, Kürzungsrisiko und Programmstrategie.
@@ -71,25 +71,24 @@ Typische Startpunkte:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 84 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `adaptive-dokumentenmatrix-lueckenliste` | Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustell... |
-| `adaptive-dokumentenmatrix-und-lueckenliste` | Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. |
-| `anfaenger-antraege-dfg` | Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `adaptive-dokumentenmatrix-und-lueckenliste` | Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `anfaenger-antraege-dfg` | Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `anfaenger-risikoampel-gegenargumente` | Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zu... |
 | `anschluss-routing` | Anschluss-Routing für DFG-Förderantrag: wählt den nächsten Spezial-Skill nach Engpass (Antragsfrist Ausschreibungstermin, Projektbeschreibung, Finanzierungsplan, Lebenslauf), dokumentiert Router-Entscheidung mit Begründung. |
-| `antraege-zahlen-schwellen-und-berechnung` | Antraege: Zahlen, Schwellenwerte und Berechnung. |
+| `antraege-zahlen-schwellen-und-berechnung` | Antraege: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `antraege-zahlen-schwellenwerte-berechnung` | Antraege: Zahlen, Schwellenwerte und Berechnung im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwe... |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Bereich dfg-foerderantrag: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `dfg-bis-200k-begutachtung-light` | Kleine und mittlere DFG-Anträge bis 200.000 Euro begutachtungsfreundlich bauen: klare Kernfrage, schlanker Finanzplan, ein Gutachten möglich, schnelle Lesbarkeit, Fortsetzungsfähigkeit. |
 | `dfg-eigenanteil-und-grundausstattung` | Eigenanteil und Grundausstattung der Hochschule sauber von DFG-Förderung abgrenzen: Was muss die Hochschule stellen (Buero, Standardrechner, Sekretariat, Bibliothek), was darf die DFG finanzieren (projektspezifische Geraete, Personal ueb... |
 | `dfg-eigene-vorarbeiten-darstellen` | Eigene Vorarbeiten in DFG-Antrag richtig darstellen: bisher publizierte Ergebnisse, eigene Methodik-Beitraege, Pilotdaten. Reviewer-Perspektive: Anknuepfungsfaehigkeit prüfen, keine Selbstplagiat-Prüfung. Mustertext für 2-Seiten-Kapitel. |
 | `dfg-erstantragsteller-besondere-checks` | Erstantragsteller-Spezialcheck: Promotion abgeschlossen, gute eigene Vorarbeit (Publikationen Erst- und Letztautor), Anbindung an erfahrene Person ohne Co-Antragstellung wenn moeglich, Lebenslauf mit Eltern- und Pflegezeiten transparent,... |
-| `dfg-erstpruefung-und-mandatsziel` | DFG: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `dfg-erstpruefung-und-mandatsziel` | DFG: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dfg-finanzplan-module-personal-geraete` | DFG-Finanzplan und Modulbegründung erstellen: Personal, Geräte, Verbrauchsmittel, Reisen, Workshops, Mercator Fellow, Chancengleichheit, Öffentlichkeitsarbeit, Kostenlogik und Kürzungsabwehr. |
-| `dfg-foerderantrag-schnellstart` | 'Kompakter Arbeitsmodus für DFG-Förderantrag. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `dfg-foerderstrategie-schnell-oder-gross` | Strategischer DFG-Router: entscheidet zwischen kleiner schneller Sachbeihilfe, normalem Antrag über 200.000 Euro, Koselleck ab 500.000 Euro oder anderem DFG-Programm. Enthält Spatz-in-der-Hand-Logik, Kürzungsrisiko, Begutachtungsdichte u... |
 | `dfg-grossgeraete-und-cluster-antrag` | Grossgeraete und Cluster-Geraete in DFG-Antrag: Geraete ab 50.000 Euro mit zusaetzlicher Wirtschaftlichkeit, Auslastungsplan, technische Anschlussbedingungen, Wartungsvertrag, Folgekosten. Eigene Geraetekommission der DFG. Prüfraster für... |
 | `dfg-grundsystem-foerderlinien` | Grundsystem der DFG-Foerderlinien einfuehrend erklaeren: Sachbeihilfe (Einzelantrag), Emmy Noether, Heisenberg, Reinhart Koselleck, SFB, GRK, Forschergruppen, Schwerpunktprogramme. Pro Linie: Zielgruppe, Hoehe, Dauer, Antragsweg, Begutac... |
@@ -113,48 +112,48 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Beschrei
 | `dokumente-intake` | Dokumentenintake für DFG-Förderantrag: sortiert Projektbeschreibung, Finanzierungsplan, Lebenslauf, prüft Datum, Absender, Frist und Beweiswert (Publikationsverzeichnis, Vorarbeiten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43... |
 | `eigene-vorarbeiten-erstantragsteller` | Eigene Vorarbeiten in DFG-Antrag richtig darstellen: bisher publizierte Ergebnisse, eigene Methodik-Beitraege, Pilotdaten. Reviewer-Perspektive: Anknuepfungsfaehigkeit prüfen, keine Selbstplagiat-Prüfung. Mustertext für 2-Seiten-Kapitel... |
 | `einstieg-routing` | Einstieg, Triage und Routing für DFG-Förderantrag: ordnet Rolle (Antragsteller, DFG-Gutachter, Universitätsleitung), markiert Frist (Antragsfrist Ausschreibungstermin), wählt Norm (DFG-Verwendungsrichtlinien, Wissenschaftsfreiheit Art. 5... |
-| `elan-ethik-finanzplan` | Elan: Formular, Portal und Einreichungslogik. |
+| `elan-ethik-finanzplan` | Elan: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `elan-formular-portal-einreichungslogik` | Elan: Formular, Portal und Einreichungslogik im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle... |
 | `erstantrag-projektlogik` | Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche F... |
 | `erstpruefung-rollenklaerung-mandatsziel` | DFG: Erstprüfung, Rollenklärung und Mandatsziel im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwe... |
 | `ethik-abschlussprodukt-uebergabe` | Ethik: Abschlussprodukt und Übergabe im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlun... |
-| `ethik-abschlussprodukt-und-uebergabe` | Ethik: Abschlussprodukt und Übergabe. |
+| `ethik-abschlussprodukt-und-uebergabe` | Ethik: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `finanzplan-mandantenkommunikation` | Finanzplan: Mandantenkommunikation und Entscheidungsvorlage im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zuste... |
-| `finanzplan-mandantenkommunikation-entscheidungsvorlage` | Finanzplan: Mandantenkommunikation und Entscheidungsvorlage. |
-| `foerderantragssteller-formalia-red-fuehrung` | Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `finanzplan-mandantenkommunikation-entscheidungsvorlage` | Finanzplan: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `foerderantragssteller-formalia-red-fuehrung` | Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `foerderstrategie-schnell-grossgeraete-cluster` | Strategischer DFG-Router: entscheidet zwischen kleiner schneller Sachbeihilfe, normalem Antrag über 200.000 Euro, Koselleck ab 500.000 Euro oder anderem DFG-Programm. Enthält Spatz-in-der-Hand-Logik, Kürzungsrisiko, Begutachtungsdichte u... |
 | `formalia-fehlerkatalog` | Formalia Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `formalia-red-team-und-qualitaetskontrolle` | Formalia: Red-Team und Qualitätskontrolle. |
+| `formalia-red-team-und-qualitaetskontrolle` | Formalia: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `forschungsdaten-fristennotiz-naechster` | Forschungsdaten: Fristennotiz und nächster Schritt im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Sc... |
-| `forschungsdaten-fristennotiz-und-naechster-schritt` | Forschungsdaten: Fristennotiz und nächster Schritt. |
+| `forschungsdaten-fristennotiz-und-naechster-schritt` | Forschungsdaten: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `fristen-und-risikoampel` | Fristen- und Risikoampel im Bereich dfg-foerderantrag: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `fuehrung-schriftsatz-brief-memo-bausteine` | Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Sch... |
-| `fuehrung-schriftsatz-brief-und-memo-bausteine` | Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `fuehrung-schriftsatz-brief-und-memo-bausteine` | Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `grosse-compliance-dokumentation-aktenvermerk` | Grosse: Compliance-Dokumentation und Aktenvermerk im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Sch... |
-| `grosse-kleine-koselleck-interessen` | Grosse: Compliance-Dokumentation und Aktenvermerk. |
+| `grosse-kleine-koselleck-interessen` | Grosse: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `internationale-kooperation-ki-ethik-kollegen` | Internationale Kooperation in DFG-Antrag aufbauen: D-A-CH-Lead-Agency-Verfahren (DACH, SNF, FWF), Bilateral mit DFG-Partnerorganisationen (NSF, JSPS, ISF, NSFC). Kooperationszusagen, Mittelverteilung, Hauptantragsteller, Co-Antragsteller... |
 | `kaltstart-triage` | Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeit... |
 | `kleine-verhandlung-vergleich-eskalation` | Kleine: Verhandlung, Vergleich und Eskalation im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwell... |
-| `kleine-verhandlung-vergleich-und-eskalation` | Kleine: Verhandlung, Vergleich und Eskalation. |
+| `kleine-verhandlung-vergleich-und-eskalation` | Kleine: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `koselleck-interessen` | Koselleck: Mehrparteienkonflikt und Interessenmatrix im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung,... |
-| `koselleck-mehrparteien-konflikt-und-interessen` | Koselleck: Mehrparteienkonflikt und Interessenmatrix. |
+| `koselleck-mehrparteien-konflikt-und-interessen` | Koselleck: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mandantenkommunikation` | Mandantenkommunikation im Bereich dfg-foerderantrag: aktenbasierter Arbeitsgang mit Tatsachen-/Belegmatrix, Fristen- und Formcheck, passenden Fachankern, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `output-waehlen` | Output-Wahl für DFG-Förderantrag: stimmt Adressat (Antragsteller, DFG-Gutachter, Universitätsleitung), Frist (Antragsfrist Ausschreibungstermin) und Form auf den Zweck ab — typische Outputs: Projektbeschreibung, Finanzierungsplan, Begrün... |
 | `profi-behoerden-gerichts-registerweg` | Profi: Behörden-, Gerichts- oder Registerweg im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle... |
-| `profi-reviewer-beweislast-strategien` | Profi: Behörden-, Gerichts- oder Registerweg. |
+| `profi-reviewer-beweislast-strategien` | Profi: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `publikationsstrategie-projekt` | Publikationsstrategie für das beantragte Projekt: realistische Zahl Publikationen, geplante Zeitschriften mit Impact und Open-Access-Status, DFG-Open-Access-Politik, Praeprints, Datenpublikation. Im Antrag muss Publikationsplan zu Arbeit... |
 | `quellen-livecheck` | Quellen-Live-Check für DFG-Förderantrag: prüft Normen (DFG-Verwendungsrichtlinien, Wissenschaftsfreiheit Art. 5 III GG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Deutsche Forschungsgemeinschaft und Quellenhy... |
 | `redteam-qualitygate` | Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand |
 | `reviewer-beweislast-darlegungslast` | Reviewer: Beweislast, Darlegungslast und Substantiierung im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellu... |
-| `reviewer-beweislast-und-darlegungslast` | Reviewer: Beweislast, Darlegungslast und Substantiierung. |
-| `sachbeihilfe-bis-200k-eigenanteil` | Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `reviewer-beweislast-und-darlegungslast` | Reviewer: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `sachbeihilfe-bis-200k-eigenanteil` | Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `sachbeihilfe-fristen-form-zustaendigkeit` | Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellu... |
 | `schnelle-quellenkarte` | Schnelle Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `spezial-grosse-compliance-dokumentation-und-akte` | Grosse: Compliance-Dokumentation und Aktenvermerk. |
 | `spezial-schnelle-livequellen-und-rechtsprechungscheck` | Schnelle: Livequellen- und Rechtsprechungscheck. |
 | `start-chronologie-fristen` | Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeit... |
 | `strategien-internationaler-bezug` | Strategien: Internationaler Bezug und Schnittstellen im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung,... |
-| `strategien-internationaler-bezug-und-schnittstellen` | Strategien: Internationaler Bezug und Schnittstellen. |
+| `strategien-internationaler-bezug-und-schnittstellen` | Strategien: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `team-sonderfall-edge-case` | Team: Sonderfall und Edge-Case-Prüfung im DFG-Förderantragstellung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahl... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für DFG-Förderantrag: trennt fehlende Tatsachen von fehlenden Belegen (Projektbeschreibung, Finanzierungsplan, Lebenslauf), nennt pro Lücke Beweisthema, Beschaffungsweg (Deutsche Forschungsgemeinschaft), Fri... |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |

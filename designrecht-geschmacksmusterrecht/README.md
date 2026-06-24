@@ -1,5 +1,4 @@
 # designrecht-geschmacksmusterrecht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin führt durch das Designrecht, also das frühere Geschmacksmusterrecht, vom ersten Produktfoto bis zur Anmeldung, Registerstrategie, Verletzungsprüfung, Nichtigkeit und gerichtlichen Durchsetzung. Es ist bewusst praktisch gebaut: erst Bild, Produkt, Offenbarung und Frist klären, dann Schutzweg und Risiko bestimmen, dann den verwertbaren Output liefern.
 
 ## Arbeitsmodus
@@ -57,7 +57,7 @@ Der Einstieg ist bewusst niedrigschwellig: Uploads, Bilder, Verträge oder bloß
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -75,7 +75,6 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `designnichtigkeit-dpma` | Designnichtigkeit beim DPMA vorbereiten: fehlende Schutzfähigkeit, ältere Designs, technische Bedingtheit, Rechte Dritter, Antrag, Belege und Kostenrisiko im Designrecht Geschmacksmusterrecht. |
 | `designportfolio-startup-designrecherche` | Designportfolio für Start-ups und KMU aufbauen: schnelle Anmeldung, Budget, Offenbarung, Investorenfähigkeit, Registerpflege und Copycat-Monitoring im Designrecht Geschmacksmusterrecht. |
 | `designrecherche-dpmaregister-euipo-wipo` | Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität im Designrecht Geschmacksmusterrecht. |
-| `designrecht-geschmacksmusterrecht-schnellstart` | 'Kompakter Arbeitsmodus für designrecht-geschmacksmusterrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `designrechtliche-freedom-designreform-eu` | Designrechtliche Freedom-to-Operate-Prüfung: Wettbewerberdesigns, Produktlaunch, Ähnlichkeitsrisiko, Registerstand, Design-around und Markteintritt im Designrecht Geschmacksmusterrecht. |
 | `designreform-eu-2024-check` | EU-Designreform 2024 in laufenden Fällen berücksichtigen: neue Terminologie EU-Design, digitale Produkte, Reparaturthemen, Gebühren- und Verfahrensänderungen im Designrecht Geschmacksmusterrecht. |
 | `designuebertragung-portfolio-designverletzung` | Designübertragung und Portfolio-Transaktion prüfen: Asset Deal, Konzernumbau, Sicherheiten, Registerumschreibung, Prioritäten, Lizenzen und streitige Rechte im Designrecht Geschmacksmusterrecht. |

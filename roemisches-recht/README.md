@@ -1,5 +1,4 @@
 # Römisches Recht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Römisches Recht als begriffliche Werkstatt: Zwölftafelgesetz, klassische Institute, justinianische Kompilation und byzantinische Fortbildung verstehen, Falltypen trennen und moderne Dogmatik nicht vorschnell hineindeuten. Der Grundton ist praktisch: Nicht zuerst ein abstraktes Gesetzbuch suchen, sondern fragen, welche **actio**, **exceptio**, Formel oder prätorische Schutztechnik den Fall trägt.
 
 Dieses Plugin führt durch **Römisches Recht** von der archaischen Zwölftafeltradition über Klassik und Justinian bis zum byzantinischen Recht. Es erzeugt je nach Bedarf Memos, Quellenmatrizen, Synopsen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
@@ -103,10 +103,10 @@ Automatisch generierte Komplett-Liste aller 284 Skills in diesem Plugin. Beschre
 | `024-roemisches-recht-und-byzantinisches-sachenrecht` | Römisches Recht: Römisches Recht und byzantinisches Sachenrecht im Römisches Recht. |
 | `025-roemisches-griechischer-sprache` | Römisches Recht: Römisches Recht in griechischer Sprache Terminologie im Römisches Recht: Bearbeite Römisches Recht in griechischer Sprache Terminologie im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die... |
 | `025-roemisches-recht-in-griechischer-sprache-terminologi` | Römisches Recht: Römisches Recht in griechischer Sprache Terminologie im Römisches Recht. |
-| `026-epigraphische-quellen-juristisch` | Römisches Recht: Epigraphische Quellen juristisch auswerten im Römisches Recht. |
+| `026-epigraphische-quellen-juristisch` | Römisches Recht: Epigraphische Quellen juristisch auswerten im Römisches Recht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `027-archaisches-formularrecht-legis-actiones-vertiefen` | Römisches Recht: Archaisches Formularrecht legis actiones vertiefen im Römisches Recht. |
 | `028-pontifikalrecht-kalender` | Römisches Recht: Pontifikalrecht Kalender und Rechtszugang im Römisches Recht: Bearbeite Pontifikalrecht Kalender und Rechtszugang im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortie... |
-| `028-pontifikalrecht-kalender-und-rechtszugang` | Römisches Recht: Pontifikalrecht Kalender und Rechtszugang im Römisches Recht. |
+| `028-pontifikalrecht-kalender-und-rechtszugang` | Römisches Recht: Pontifikalrecht Kalender und Rechtszugang im Römisches Recht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `029-zwoelftafelrecht-heutiger` | Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Römisches Recht: Bearbeite Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern... |
 | `029-zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsic` | Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Römisches Recht. |
 | `030-red-team-antike-quelle-modern` | Rom Red Team Antike Quelle Modern Ueberdehnt im Römisches Recht im Römisches Recht. |
@@ -255,7 +255,6 @@ Automatisch generierte Komplett-Liste aller 284 Skills in diesem Plugin. Beschre
 | `restitutio-integrum-seehandel-lex-fenus` | Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und... |
 | `rezeption-in-deutschland` | Römisches Recht: Rezeption In Deutschland. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `roemische-obligationenlehre` | Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters im Römisches Recht. |
-| `roemisches-recht-schnellstart` | 'Kompakter Arbeitsmodus für Römisches Recht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `rom-001-kaltstart-institutionensystem` | Römisches Recht: Kaltstart Institutionensystem. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-081-lateinische-rechtsmaximen-pruefen` | Römisches Recht: Lateinische Rechtsmaximen Pruefen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-085-roemisches-recht-fuer-anfaenger` | Römisches Recht: Roemisches Recht Fuer Anfaenger. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
@@ -335,6 +334,7 @@ Automatisch generierte Komplett-Liste aller 284 Skills in diesem Plugin. Beschre
 | `ungerechtfertigte-bereicherung-condictiones` | Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa im Römisches Recht. |
 | `usucapio-ersitzung` | Römisches Recht: Usucapio Ersitzung. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `usus-modernus` | Römisches Recht: Usus Modernus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
+| `v392-lesefreude-roemisches-recht` | Didaktischer Lesefreude-Skill für Römisches Recht: historische Einordnung, Begriffskern, anschauliche Fallvignette, Rezeptionslinie und heutige Grenze werden verständlich zusammengeführt. |
 | `vergebung-vererbung-vergabe-begriffsklaerung` | Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Ver... |
 | `versicherung-und-risiko-im-roemischen-recht` | Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefe... |
 | `vertragstypen-konsens-real-verbal-litteral` | Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualverträge, Realverträge, Verbalverträge/Stipulation und Litteralkontrakte; mit Kauf, mutuum, Zinsstipulation, Darlehen und moderner Rezeptionswarnung im Römisches Recht. |

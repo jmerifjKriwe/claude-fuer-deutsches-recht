@@ -1,5 +1,4 @@
 # Fachanwalt Insolvenz- und Sanierungsrecht
-Wenn du das hier oeffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt waehlen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,17 +21,18 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du Eroeffnungsgrund und Fortbestehensprognose belastbar bestimmen und den naechsten Verfahrensschritt wählen.
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
 Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
-Zustaendigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
+Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
 Norm-Radar, Leitentscheidungs-Anker und genau eine Rueckfrage - bei
 klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
 
-Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
-| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
-| Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
+Konvention: [`insolvenzrecht`](../references/anwalts-dashboard-konvention.md)
+| Quellen-Anker: [`steuerrecht-anwalt-und-berater`](../references/leitentscheidungen-anker.md)
+| Quellenhygiene: [`inso-p...`](../references/quellenhygiene.md).
 
 
 Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14 (idF nach Aufnahme StaRUG-Bereiche). Orientierung, Gläubigerantrag, Restrukturierungsplan StaRUG, Insolvenzanfechtung. Schnittstellen zum Plugin `insolvenzrecht` (operativ) und `steuerrecht-anwalt-und-berater`.
@@ -51,10 +51,10 @@ Das ausgefuellte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures
 
 | Format | Direkt-Download |
 | --- | --- |
-| **Word (DOCX, Times New Roman, 12 pt)** | [`asset-purchase-agreement-chaincortex-voracis.docx`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/insolvenz-asset-deal-chaincortex-ai-berlin/docx/asset-purchase-agreement-chaincortex-voracis.docx) |
-| **PDF (Times Roman, A4)** | [`asset-purchase-agreement-chaincortex-voracis.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/insolvenz-asset-deal-chaincortex-ai-berlin/pdfs/asset-purchase-agreement-chaincortex-voracis.pdf) |
-| Markdown-Volltext (zum Lesen auf GitHub) | [`09_asset-purchase-agreement-text.md`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
-| Gesamte Testakte als ZIP (34 Dateien, 7 Formate) | [`testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
+| **Word (DOCX, Times New Roman, 12 pt)** | [`fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan`]() |
+| **PDF (Times Roman, A4)** | [`fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung`]() |
+| Markdown-Volltext (zum Lesen auf GitHub) | [`inso-p001-...`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
+| Gesamte Testakte als ZIP (34 Dateien, 7 Formate) | [`inso-p359-...`]() |
 
 Das Template umfasst 11 Paragraphen (Praeambel, Vertragsgegenstand mit DSGVO- und $ 613a-Bausteinen, Kaufpreis [400.000 EUR], Vollzugsvoraussetzungen, eIDAS-2.0-Signatur-Klausel, Haftung mit $ 60 InsO-Ausschluss, LkSG-Klarstellung, HinSchG-Compliance-Klausel, Schlussbestimmungen) plus sechs Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste und Kaufpreis erforderlich; Live-Verifikation der Rspr.-Anker (Bonprix-EuGH, BGH IX. Zivilsenat).
 
@@ -83,7 +83,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 506 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 505 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -113,7 +113,6 @@ Automatisch generierte Komplett-Liste aller 506 Skills in diesem Plugin. Beschre
 | `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag` | Workflow-Skill zu fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-insolvenz-sanierungsrecht-orientierung` | Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltsprüfung vor. Normen §§ 17-19 InsO Eroeffnu... |
 | `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` | Workflow-Skill zu fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-insolvenz-sanierungsrecht-schnellstart` | 'Kompakter Arbeitsmodus für Fachanwalt Insolvenz- und Sanierungsrecht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `fao-dokumentenmatrix-und-lueckenliste` | FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse... |
 | `glaeubigerantrag` | Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: ordnet Normen, Nutzer... |
 | `glaeubigerantrag-verhandlung-vergleich-und-eskalation` | Gläubigerantrag: Verhandlung, Vergleich und Eskalation im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbrems... |

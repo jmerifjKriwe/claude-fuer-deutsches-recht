@@ -1,5 +1,4 @@
 # Rechtstheorie und Rechtsphilosophie
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Dieses Plugin übersetzt große rechtstheoretische, rechtsphilosophische und rechtsmethodologische Denkfiguren in praktische juristische Arbeitsroutinen. Es ist kein Literaturkommentar und keine Namenssammlung. Es fragt: Was macht eine juristische Begründung tragfähig, redlich, demokratisch rückgebunden und praktisch brauchbar?
 
 Das Plugin hilft bei Grundsatzgutachten, Methodenstreit, Rechtsfortbildung, Präjudizienarbeit, Abwägung, Gesetzesbindung, Rechtsrealismus, Systemkritik, Machtkritik und rechtspolitischer Selbstkontrolle. Es eignet sich für Kanzleivermerke, wissenschaftsnahe Memos, strategische Schriftsätze, Gesetzgebungsvorbereitung und Red-Team-Prüfungen.
@@ -107,7 +107,6 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `rechtsbegriff-und-geltung` | Prüft, was in einer Argumentation als Recht gilt: Gesetz, Rechtsprechung, Dogmatik, Verwaltungspraxis, Gewohnheit, Vertrag, Satzung oder soft law. |
 | `rechtsrealismus-und-entscheidungsprognose` | Nutzen realistischer Perspektiven: Wie entscheiden Institutionen tatsaechlich, welche Folgen hat das für Beratung, Prozessstrategie und Begründung? |
 | `rechtssicherheit-vertrauen-rueckwirkung` | Prüft Rechtssicherheit, Vertrauensschutz, Rückwirkung und Vorhersehbarkeit bei neuer Rechtsprechung oder neuer Auslegung. |
-| `rechtstheorie-rechtsphilosophie-schnellstart` | 'Kompakter Arbeitsmodus für Rechtstheorie und Rechtsphilosophie. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `regeln-prinzipien-abwaegung` | Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist. |
 | `regeln-tacit-knowledge-kognitive-entlastung` | Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine. |
 | `regeln-tacit-knowledge-und-kognitive-entlastung` | Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine: Prüft Regeln als gespeichertes Erfahrungswissen: tacit knowle... |
@@ -122,6 +121,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `theorie-memo-output` | Erstellt aus rechtstheoretischer Analyse ein nutzbares Memo mit These, Begriffsarbeit, Methodenpfad, Gegenargument und Praxisfolge. |
 | `unionsrecht-autonomie-nationales-recht` | Prüft die rechtstheoretische Spannung zwischen autonomem Unionsrecht, nationaler Demokratie, Effektivität und loyaler Zusammenarbeit. |
 | `unrecht-und-grenzen-des-gehorsams` | Prüft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren. |
+| `v392-lesefreude-rechtstheorie-rechtsphilosophie` | Didaktischer Lesefreude-Skill für Rechtstheorie und Rechtsphilosophie: historische Einordnung, Begriffskern, anschauliche Fallvignette, Rezeptionslinie und heutige Grenze werden verständlich zusammengeführt. |
 | `verwaltungsaufgaben-versus-rechtsformen` | Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz. |
 | `wirtschaftsprivatrecht-dogmatik` | Prüft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert. |
 | `wissensproblem-dezentrale-information` | Prüft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma. |

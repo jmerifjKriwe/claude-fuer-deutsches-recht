@@ -1,5 +1,4 @@
 # Handelsrecht HGB
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG.
 
 Das Plugin ist bewusst **kein** Gesellschaftsrechts-Fachanwaltsplugin, sondern ein schneller HGB-Arbeitsbegleiter: Es erklärt Einsteigern den Handelsrechtsmechanismus und liefert Profis sofort Register-, Vertrags-, Prozess- und Beweisoutputs.
@@ -49,7 +49,7 @@ Das Plugin ist bewusst **kein** Gesellschaftsrechts-Fachanwaltsplugin, sondern e
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -64,7 +64,6 @@ Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschrei
 | `handelskauf-fristenampel-hgb` | Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise im Handelsrecht Hgb. |
 | `handelskauf-paragraphen-handelsmakler` | Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf, Untersuchungs- und Rügeobliegenheit im Handelsrecht Hgb. |
 | `handelsmakler-paragraphen-93-104-hgb` | Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung im Handelsrecht Hgb. |
-| `handelsrecht-hgb-schnellstart` | 'Kompakter Arbeitsmodus für Handelsrecht HGB. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `handelsregister-paragraphen-8-16-hgb` | Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung im Handelsrecht Hgb. |
 | `handelsvertreter-paragraph-provision` | Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler im Handelsrecht Hgb. |
 | `handelsvertreter-provision` | Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung im Handelsrecht Hgb. |
@@ -78,11 +77,11 @@ Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschrei
 | `kaltstart-triage` | Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG, Handelskauf und Handelsbücher. |
 | `kannkaufmann-paragraphen-kaufmaennisches` | Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft im Handelsrecht Hgb. |
 | `kaufmaennisches-bestaetigungsschreiben` | Prüft Voraussetzungen und Wirkung des kaufmännischen Bestätigungsschreibens im Handelsrecht Hgb. |
-| `kaufmann-paragraph-kg-begriff` | Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang im Handelsrecht Hgb. |
+| `kaufmann-paragraph-kg-begriff` | Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang im Handelsrecht Hgb. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `kg-begriff-kommanditist` | Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme im Handelsrecht Hgb. |
 | `kg-haftung-ohg-vertretung` | Prüft Außenhaftung, Einlage, Rückzahlung, Registerpublizität und Wiederaufleben im Handelsrecht Hgb. |
 | `kommission-paragraphen-ladenvollmacht` | Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht im Handelsrecht Hgb. |
-| `ladenvollmacht-paragraph-56-hgb` | Prüft Laden-/Warenlagerangestellte und Verkehrsschutz im Handelsrecht Hgb. |
+| `ladenvollmacht-paragraph-56-hgb` | Prüft Laden-/Warenlagerangestellte und Verkehrsschutz im Handelsrecht Hgb. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `lagergeschaeft-paragraphen-maengelruege` | Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht im Handelsrecht Hgb. |
 | `livequellen-hgb` | Zwingt HGB-Normen und Rechtsprechung vor Ausgabe zu aktueller freier Quellenprüfung. |
 | `maengelruege-paragraph-377-hgb` | Prüft beim beiderseitigen Handelskauf die Untersuchungs- und Rügeobliegenheit nach § 377 HGB, Wareneingangskontrolle, Beweislast für Mangel bei Gefahrübergang, offene und verdeckte Mängel, Rechtsverlust und die klare Abgrenzung zur nur i... |

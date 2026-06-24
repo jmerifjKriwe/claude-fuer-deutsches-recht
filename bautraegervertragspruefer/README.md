@@ -1,41 +1,62 @@
-# Bautraegervertragspruefer
+# Bauträgervertragspruefer
 
-Wenn du das hier oeffnest, willst du einen deutschen Bautraegervertrag verbraucherseitig pruefen: Ratenplan, Sicherheiten, Baubeschreibung, Abnahme, Bauzeit, Preisanpassung, Teilungserklaerung — und am Ende ein Gutachten plus ein Aufforderungsschreiben an Bautraeger und Notar in der Hand haben.
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Was ist das hier?
+
+Dies ist eines von 232 Plugins dieser Sammlung. Jedes Plugin enthält eine Familie zusammenhängender Skills (`SKILL.md`-Dateien), passende Hilfsdateien, Prüfraster, Vorlagen und in vielen Fällen eine eigene Arbeitsakte. Der vorgesehene Hauptweg ist die Installation über den Marketplace, alternativ als einzelnes Plugin-ZIP. Dann läuft das Plugin mit seinen Skills, Werkzeugen und Testdaten in der dafür vorgesehenen Plugin-Umgebung.
+
+Damit das Plugin auch ohne Plugin-Setup brauchbar bleibt, gibt es zusätzlich zwei reine Markdown-Prompts: einen ausführlichen Werkstatt-Prompt und einen kompakten Schnellstart-Prompt. Beide sind einzelne `.md`-Dateien, die man in eine geeignete Arbeitsumgebung ziehen, einfügen oder per Copy-and-Paste verwenden kann.
+
+## Downloads
+
+In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Markdown-Alternativen, am Schluss die zugehörigen Testakten.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`bautraegervertragspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertragspruefer.zip) |
+| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md" download><code>bauträgervertragspruefer-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertragspruefer/bautraegervertragspruefer-schnellstart.md" download><code>bauträgervertragspruefer-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
+
+> Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
+<!-- END direkt-loslegen (autogen) -->
+
+Wenn du das hier öffnest, willst du einen deutschen Bauträgervertrag verbraucherseitig prüfen: Ratenplan, Sicherheiten, Baubeschreibung, Abnahme, Bauzeit, Preisanpassung, Teilungserklaerung — und am Ende ein Gutachten plus ein Aufforderungsschreiben an Bauträger und Notar in der Hand haben.
 
 ## Wenn du das brauchst
 
-- **Verbraucher** hat einen Bautraegervertrag erhalten und will vor der notariellen Beurkundung wissen, welche Klauseln unwirksam sind und welche Streichungen er fordern muss.
-- **Fachanwalt fuer Bau- und Architektenrecht** prueft einen Bautraegervertrag im Mandat und braucht eine vollstaendige Klauselmatrix mit MaBV-Pruefung und AGB-Kontrolle.
+- **Verbraucher** hat einen Bauträgervertrag erhalten und will vor der notariellen Beurkundung wissen, welche Klauseln unwirksam sind und welche Streichungen er fordern muss.
+- **Fachanwalt für Bau- und Architektenrecht** prüft einen Bauträgervertrag im Mandat und braucht eine vollständige Klauselmatrix mit MaBV-Prüfung und AGB-Kontrolle.
 - **Notar** will den Entwurf gegen die Pflichten aus Paragraf 14 BNotO und gegen die MaBV-Schutzstruktur durchsehen.
-- **Finanzierende Bank** prueft den Vertrag auf Auszahlungsrisiken nach dem Ratenplan und auf die Werthaltigkeit der Sicherheiten.
+- **Finanzierende Bank** prüft den Vertrag auf Auszahlungsrisiken nach dem Ratenplan und auf die Werthaltigkeit der Sicherheiten.
 
 ## Was du am Ende in der Hand hast
 
-Eine Klauselmatrix Satz fuer Satz mit Ampel-Einschaetzung (rot, orange, gruen), ein Mandantengutachten mit paragraphenbezogener Begruendung, ein Aufforderungsschreiben an Bautraeger und Notar mit konkreter richtiger Fassung pro beanstandeter Klausel sowie eine Verhandlungsstrategie mit Gegenargument-Antwort.
+Eine Klauselmatrix Satz für Satz mit Ampel-Einschaetzung (rot, orange, gruen), ein Mandantengutachten mit paragraphenbezogener Begründung, ein Aufforderungsschreiben an Bauträger und Notar mit konkreter richtiger Fassung pro beanstandeter Klausel sowie eine Verhandlungsstrategie mit Gegenargument-Antwort.
 
 ## Der Weg dorthin
 
-Vertrag und Anlagen einlesen → Fall-Fingerabdruck erstellen (Parteien, Einheit, Projekt, Preis, Ratenplan, Sicherheiten) → MaBV-Ratenplan und Sicherheiten pruefen → AGB-Kontrolle Klausel fuer Klausel → Baubeschreibung gegen Bausoll und anerkannte Regeln der Technik halten → Abnahme Gemeinschaftseigentum und Schlussrate pruefen → Bauzeit, Preisanpassung, Teilungserklaerung kontrollieren → Mandantengutachten und Aufforderungsschreiben ausgeben.
+Vertrag und Anlagen einlesen → Fall-Fingerabdruck erstellen (Parteien, Einheit, Projekt, Preis, Ratenplan, Sicherheiten) → MaBV-Ratenplan und Sicherheiten prüfen → AGB-Kontrolle Klausel für Klausel → Baubeschreibung gegen Bausoll und anerkannte Regeln der Technik halten → Abnahme Gemeinschaftseigentum und Schlussrate prüfen → Bauzeit, Preisanpassung, Teilungserklaerung kontrollieren → Mandantengutachten und Aufforderungsschreiben ausgeben.
 
 ## Workflows
 
 Drei Modi zur Wahl:
 
 - **Schnellpruefung**: Top-Zehn-Auffaelligkeiten, geschaetztes Risikoprofil, Empfehlung in wenigen Saetzen.
-- **Vollpruefung**: Fall-Fingerabdruck, Klauselmatrix, AGB-Kontrolle, MaBV-Pruefung, Mandantengutachten.
-- **Verhandlungspfad**: Vollpruefung plus Aufforderungsschreiben an Bautraeger und Notar mit konkreter richtiger Fassung pro Klausel und Verhandlungsstrategie.
+- **Vollpruefung**: Fall-Fingerabdruck, Klauselmatrix, AGB-Kontrolle, MaBV-Prüfung, Mandantengutachten.
+- **Verhandlungspfad**: Vollpruefung plus Aufforderungsschreiben an Bauträger und Notar mit konkreter richtiger Fassung pro Klausel und Verhandlungsstrategie.
 
 ## Direkt-Downloads
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Werkstatt-Prompt (autarker grosser Prompt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md" download>bautraegervertragspruefer-werkstatt.md</a> |
-| Schnellstart-Prompt (max 7500 Zeichen) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertragspruefer/bautraegervertragspruefer-schnellstart.md" download>bautraegervertragspruefer-schnellstart.md</a> |
-| Megaprompt-Original (Quelle aus dem Ursprungs-Repo) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertragspruefer/bautraegervertragspruefer-megaprompt-original.md" download>bautraegervertragspruefer-megaprompt-original.md</a> |
+| Werkstatt-Prompt (autarker großer Prompt) | Markdown | <a href="" download>bautraegervertragspruefer-werkstatt.md</a> |
+| Schnellstart-Prompt (max 7500 Zeichen) | Markdown | <a href="" download>bautraegervertragspruefer-schnellstart.md</a> |
+| Megaprompt-Original (Quelle aus dem Ursprungs-Repo) | Markdown | <a href="" download>bautraegervertragspruefer-megaprompt-original.md</a> |
 
-## Was dich aufhaelt
+## Was dich aufhält
 
-- **MaBV-Ratenplan**: Ueberhoehte Vorleistungen, falsche Verteilung der Raten auf Bauabschnitte, fehlende Sicherheit nach Paragraf 7 MaBV.
+- **MaBV-Ratenplan**: Überhoehte Vorleistungen, falsche Verteilung der Raten auf Bauabschnitte, fehlende Sicherheit nach Paragraf 7 MaBV.
 - **Verbraucherbauvertrag**: Paragrafen 650u und 650v BGB, Baubeschreibung als Pflichtinhalt, verbindliche Angabe zum Bauzeitende.
 - **AGB-Kontrolle**: Notarielle Beurkundung schliesst AGB-Kontrolle nicht aus; geltungserhaltende Reduktion findet bei unwirksamen Verbraucher-AGB nicht statt.
 - **Abnahme Gemeinschaftseigentum**: Verklammerung der Abnahme mit der Schlussrate gefaehrdet die werthaltige Sicherung.
@@ -43,14 +64,56 @@ Drei Modi zur Wahl:
 
 ## Rechtlicher Anker
 
-- Paragrafen 650u und 650v BGB (Bautraegervertrag, Baubeschreibung)
+- Paragrafen 650u und 650v BGB (Bauträgervertrag, Baubeschreibung)
 - Paragrafen 305 bis 310 BGB (AGB-Kontrolle)
-- Makler- und Bautraegerverordnung (MaBV), insbesondere Paragrafen 3, 7
+- Makler- und Bauträgerverordnung (MaBV), insbesondere Paragrafen 3, 7
 - Paragraf 14 BNotO (Belehrungspflichten Notar)
 - Wohnungseigentumsgesetz (Teilungserklaerung, Abnahme Gemeinschaftseigentum)
 - HOAI (Leistungsphasen Objektueberwachung)
-- BGH-Leitentscheidungen zu Bautraegervertrag, MaBV und Abnahmeklauseln (im Werkstatt-Prompt ausfuehrlich)
+- BGH-Leitentscheidungen zu Bauträgervertrag, MaBV und Abnahmeklauseln (im Werkstatt-Prompt ausführlich)
 
 ## Hinweise
 
-Generischer Pruefstand, alle Angaben ohne Gewaehr. Jede Nutzerin und jeder Nutzer prueft den Pruefbericht auf Plausibilitaet und Eignung im konkreten Einzelfall. Keine Rechtsberatung. Keine Garantie fuer Vollstaendigkeit oder Aktualitaet der Rechtsprechung. Bei streitigen Faellen Fachanwalt fuer Bau- und Architektenrecht oder Notar hinzuziehen.
+Generischer Pruefstand, alle Angaben ohne Gewähr. Jede Nutzerin und jeder Nutzer prüft den Pruefbericht auf Plausibilität und Eignung im konkreten Einzelfall. Keine Rechtsberatung. Keine Garantie für Vollständigkeit oder Aktualität der Rechtsprechung. Bei streitigen Fällen Fachanwalt für Bau- und Architektenrecht oder Notar hinzuziehen.
+
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `abnahme-gemeinschaftseigentum` | Prueft Abnahmeklauseln fuer das Gemeinschaftseigentum. Dem einzelnen Erwerber darf durch AGB nicht sein Recht entzogen werden, das Gemeinschaftseigentum selbst zu pruefen und die Abnahme zu erklaeren. Abnahme durch Erstverwalter, Tochter... |
+| `abnahme-sondereigentum-paragraf-640` | Prueft die Abnahme des Sondereigentums nach Paragraf 640 BGB: persoenliche Abnahme mit Protokoll, Wirkung der Abnahme auf Faelligkeit, Gefahruebergang und Beweislastumkehr, Verbot der Schluesseluebergabe-Fiktion, Anforderungen an die Abn... |
+| `agb-kontrolle-klauseln` | Prueft vorformulierte Bautraegervertragsklauseln nach Paragrafen 305 bis 309 BGB. Deckt typische Klauselkategorien ab: Bauzeitstrafe, Aufrechnung, Gerichtsstand, Sonderwuensche, Selbstvornahme-Ausschluss, Wohnflaechentoleranz und Energie... |
+| `aufforderungsschreiben-bautraeger-und-notar` | Erstellt das aussergerichtliche Aufforderungsschreiben an Bautraeger und Notar mit Streichungs-, Ergaenzungs- und Korrekturforderungen. Jede Forderung nennt Originalproblem, kurze Begruendung und konkrete richtige Fassung. Ton ist bestim... |
+| `auflassungsvormerkung-und-grundbuch` | Prueft Auflassungsvormerkung und Freistellung als dingliche Sicherung des Erwerbers gegen Mehrfachverkauf und Bautraeger-Insolvenz. Rang, Freistellungsmechanik, Loeschungsvollmachten und Notaranderkonto nach BGH VII ZB 28/20 werden separ... |
+| `baubeschreibung-bausoll-pruefen` | Prueft Baubeschreibung und Bausoll nach Paragraf 650k BGB und Artikel 249 EGBGB auf Vollstaendigkeit, Datierung, Mitbeurkundung und Eindeutigkeit. Unklare oder lueckenhafte Klauseln werden gegen den Verwender ausgelegt. Pauschalformulier... |
+| `bautraegervertrag-qualifikation` | Qualifiziert den Vertragstyp nach Paragraf 650u und 650v BGB: liegt ein Bautraegervertrag vor oder ein reiner Kauf- oder Werkvertrag? Entscheidet welche Normen anwendbar oder ausgeschlossen sind und ob MaBV und Paragraf 650m Absatz 2 BGB... |
+| `bauzeitenplan-verzug` | Prueft Fertigstellungstermin, Verzugseintritt und bauablaufbezogene Darlegungspflichten des Bautraegers. Bewertet Hoehere-Gewalt-Klauseln, pauschalierte Verzugsschulden und Vertragsstrafen. Mahnung ist bei kalendarischem Termin nach Para... |
+| `drei-dokumente-paket-erzeugen` | Erzeugt das Drei-Dokumente-Paket aus Uebersendungsschreiben an den Mandanten, ausfuehrlichem Mandantengutachten und aussergerichtlichem Aufforderungsschreiben an Bautraeger und Notar. Alle drei Dokumente beruhen auf denselben Befunden un... |
+| `faelligkeitsmitteilung-pruefen` | Prueft ob eine Faelligkeitsmitteilung des Bautraegers die kumulativen Voraussetzungen nach Paragraf 3 MaBV erfuellt. Vor jeder Zahlung sind Vormerkung, Freistellung, Baugenehmigung und tatsaechlicher Baufortschritt zu verifizieren. Einse... |
+| `fall-fingerabdruck-erstellen` | Erstellt den Fall-Fingerabdruck eines Bautraegervertrags aus Urkunde, Parteien, Einheit, Projekt, Preis, Ratenplan, Sicherheiten, Baubeschreibung, Teilungserklaerung und Baugrund als zwingende Grundlage jeder weiteren Bewertung. Ohne Fin... |
+| `fertigstellungssicherheit-650m-pruefen` | Prueft die Pflicht des Bautraegers zur Gewaehrung einer Sicherheit von fuenf Prozent nach Paragraf 650m Absatz 2 BGB bei der ersten Abschlagszahlung. Paragraf 650u Absatz 2 BGB schliesst diese Norm nicht aus. Fehlt oder reduziert die Sic... |
+| `gemeinschaft-zieht-maengelrechte-an-sich` | Prueft die gemeinschaftliche Geltendmachung von Maengelrechten am Gemeinschaftseigentum durch die Gemeinschaft der Wohnungseigentuemer als gekorene Prozessstandschafterin. Beschlusserfordernis, Wirkung fuer alle Erwerber, Verjaehrungshem... |
+| `gesamtnichtigkeit-paragraf-306-bgb` | Prueft Rechtsfolgen unwirksamer AGB-Klauseln nach Paragraf 306 BGB. Regelfolge ist Klauselwegfall und Eintreten der gesetzlichen Lage, keine geltungserhaltende Reduktion zugunsten des Verwenders. Gesamtnichtigkeit nach Paragraf 139 BGB n... |
+| `hoai-bauueberwachung-private-bauueberwachung` | Prueft HOAI-Leistungsphasen als Planungs- und Ueberwachungsraster beim Bautraegervertrag. Schwerpunkt Leistungsphase 8 Objektueberwachung und Dokumentation. Erwerber darf eigene Sachverstaendige hinzuziehen; Klauseln die private Baukontr... |
+| `insolvenzrisiken-bautraeger` | Prueft Insolvenzrisiken beim Bautraeger: Vormerkungsschutz nach Paragraf 106 Insolvenzordnung, Freistellungsmechanik, Eigentumsumschreibung, Sicherheitenschichten und Wahlrecht des Insolvenzverwalters nach Paragraf 103 Insolvenzordnung.... |
+| `mabv-ratenplan-pruefen` | Prueft den Ratenplan eines Bautraegervertrags gegen Paragraf 3 Absatz 2 MaBV. Kontrolliert bis zu sieben Teilbetraege nach tatsaechlichem Baufortschritt, Einhaltung der Prozentsaetze und Vollstaendigkeit der allgemeinen Faelligkeitsvorau... |
+| `mabv-sicherheit-paragraf-7-pruefen` | Prueft die alternative Sicherung nach Paragraf 7 MaBV: alle Rueckgewaehr- und Auszahlungsansprueche des Erwerbers muessen abgesichert sein bis Paragraf 3 Absatz 1 MaBV erfuellt und das Objekt vollstaendig fertiggestellt ist. Vermischungs... |
+| `maengelrechte-633-634-bgb` | Prueft Maengelrechte des Erwerbers nach Paragrafen 633 und 634 BGB: Nacherfuellung, Selbstvornahme, Minderung, Ruecktritt und Schadensersatz. Trennt die einzelnen Rechte, prueft formularmassige Beschraenkungen und zeigt die Beweislastver... |
+| `mandantengutachten-aufbau` | Strukturiert das ausfuehrliche Mandantengutachten fuer Bautraegervertraege mit Sachverhalt, Quellenstand, Klauselmatrix, rechtlicher und technischer Wuerdigung, Ampelbefunden, Gegenargumenten und konkreten Aenderungszielen. Jeder rote Be... |
+| `mittlere-art-und-guete-und-din` | Prueft den werkvertraglichen Mindeststandard: anerkannte Regeln der Technik zum Zeitpunkt der Abnahme als Pflichtmassstaab nach Paragraf 633 BGB. DIN-Normen sind keine automatischen anerkannten Regeln der Technik. Klauseln die den Sticht... |
+| `notarbelehrung-paragraf-14-bnoto-17-beurkg` | Prueft Belehrungs- und Pruefpflichten des Notars nach Paragraf 17 BeurkG und Paragraf 14 BNotO bei Bautraegervertraegen: rechtzeitige Entwurfsuebersendung, Belehrung ueber MaBV, Sicherheiten, Abnahme und Preisanpassung, Dokumentation von... |
+| `paragraf-308-nr-4-bgb-leistungsaenderung` | Prueft Leistungsaenderungsvorbehalte des Bautraegers nach Paragraf 308 Nummer 4 BGB. Klauseln die dem Bautraeger pauschale Aenderungen an Bausoll, Grundriss, Ausstattung, Energiestandard oder Teilungserklaerung erlauben sind unwirksam we... |
+| `paragraf-309-nr-12-bgb-tatsachenbestaetigung` | Prueft Bautraegervertragsklauseln auf Verstoss gegen Paragraf 309 Nummer 12 BGB. Klauseln die Beweislast fuer Umstaende im Verantwortungsbereich des Bautraegers auf den Erwerber verschieben oder pauschale Tatsachenbestaetigungen enthalte... |
+| `preisanpassung-und-sonderwuensche` | Prueft Preisanpassungsklauseln auf AGB-Wirksamkeit nach Paragraf 309 Nummer 1 BGB und Paragraf 307 BGB: keine kurzfristige Erhoehung in den ersten vier Monaten, Saldierungsgrundsatz, Loesungsrecht des Erwerbers ab Schwelle. Sonderwuensch... |
+| `teilungserklaerung-gemeinschaftsordnung` | Prueft Teilungserklaerung und Gemeinschaftsordnung auf Aenderungsvollmachten, Aufteilungsplan, Abgeschlossenheitsbescheinigung, Sondernutzungsrechte und Kostenverteilung. Pauschale nachtraegliche Aenderungsrechte des Bautraegers sind nac... |
+| `verbraucherstatus-pruefen` | Prueft ob der Erwerber eines Bautraegervertrags Verbraucher nach Paragraf 13 BGB ist. Abgrenzung zu Paragraf 14 BGB bei Gewerbeeinheiten und privater Vermoegensverwaltung. Bei zutreffendem Verbraucherstatus greifen MaBV-Schutz, AGB-Kontr... |
+| `verjaehrung-634a-bgb-hemmung` | Prueft Beginn und Hemmung der fuenfjaehrigen Maengelanspruchs-Verjaehrung nach Paragraf 634a BGB. Thematisiert Hemmung durch Verhandlungen und selbstaendiges Beweisverfahren, die Folgen unwirksamer Abnahmeklauseln fuer den Verjaehrungsbe... |
+| `weg-beschluss-anfechtung` | Prueft WEG-Beschluesse auf Beschlusskompetenz und ordnungsgemaesse Verwaltung nach Paragrafen 18 und 45 WEG. Zeigt Anfechtungsfristen, Beschlussmaengel, Nichtigkeitsgrenzen und die Unterscheidung zwischen anfechtbaren und nichtigen Besch... |
+| `wohnflaeche-pruefen` | Prueft die vereinbarte Wohnflaeche nach Wohnflaechenverordnung oder DIN 277 auf Toleranzgrenzen, fehlende Berechnungsmethode und Minderungsanspruch bei Unterschreitung. Formularmassige Toleranzklauseln ueber den Bagatellbereich hinaus en... |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->

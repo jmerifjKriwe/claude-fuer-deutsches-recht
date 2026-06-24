@@ -1,5 +1,4 @@
 # Strafzumessung
-Wenn du das hier oeffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,11 +21,12 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
 Plugin für die **Strafzumessung nach deutschem Strafrecht** — vom Strafbefehl bis zur großen Strafkammer. Adressaten: Strafverteidiger und Staatsanwaltschaft.
 
 ## Worum geht es?
 
-Strafzumessung ist die zentrale richterliche Aufgabe nach Schuldspruch: Bestimmung von Strafart und Strafhoehe innerhalb des gesetzlichen Strafrahmens auf Grundlage der **Schuld** (§ 46 Abs. 1 Satz 1 StGB), unter Beruecksichtigung der **praeventiven Wirkungen** (§ 46 Abs. 1 Satz 2 StGB), nach den **Strafzumessungstatsachen** des § 46 Abs. 2 StGB und unter Beachtung des **Doppelverwertungsverbots** (§ 46 Abs. 3 StGB).
+Strafzumessung ist die zentrale richterliche Aufgabe nach Schuldspruch: Bestimmung von Strafart und Strafhoehe innerhalb des gesetzlichen Strafrahmens auf Grundlage der **Schuld** (§ 46 Abs. 1 Satz 1 StGB), unter Berücksichtigung der **praeventiven Wirkungen** (§ 46 Abs. 1 Satz 2 StGB), nach den **Strafzumessungstatsachen** des § 46 Abs. 2 StGB und unter Beachtung des **Doppelverwertungsverbots** (§ 46 Abs. 3 StGB).
 
 Das Plugin deckt die Strafzumessung vom Strafbefehlsverfahren über die Hauptverhandlung bis zur Vollstreckung ab, inklusive Bewaehrung, Strafmilderung, Regelbeispielen, Gesamtstrafenbildung, Verstaendigung und Jugendstrafrecht.
 
@@ -70,7 +70,7 @@ Das Plugin deckt die Strafzumessung vom Strafbefehlsverfahren über die Hauptver
 ### Block F — Hauptverhandlung und Verstaendigung
 - `verstaendigung-257c-stpo-strafzumessung` — § 257c StPO; BVerfG 2 BvR 2628/10; BGH 1 StR 525/11.
 - `gestaendnis-und-strafmilderung` — Gestaendnis als Strafmilderungsgrund.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Strafurteil-Begruendung.
+- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Strafurteil-Begründung.
 
 ### Block G — Gesamtstrafenbildung
 - `gesamtstrafenbildung-53-54-stgb-erste-instanz` — §§ 53, 54 StGB.
@@ -101,7 +101,7 @@ Das Plugin deckt die Strafzumessung vom Strafbefehlsverfahren über die Hauptver
 
 - 05/2026.
 - §§ 38 ff. StGB, §§ 407 ff. StPO, JGG, BtMG.
-- Aktualitaetspruefung jaehrlich empfohlen.
+- Aktualitätspruefung jaehrlich empfohlen.
 
 ## Lizenz
 
@@ -112,30 +112,30 @@ Apache-2.0 OR MIT (siehe Plugin-Root).
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 61 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `153a-stpo-iii-bewaehrung-stgb` | Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein öffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schad... |
 | `anschluss-routing` | Anschluss-Routing für Strafzumessung: wählt den nächsten Spezial-Skill nach Engpass (Revision 1 Woche/1 Monat § 341 StPO, Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR), dokumentiert Router-Entscheidung mit Begründung. |
-| `besonders-formular-portal-und-einreichung` | Besonders: Formular, Portal und Einreichungslogik im Strafzumessung. |
+| `besonders-formular-portal-und-einreichung` | Besonders: Formular, Portal und Einreichungslogik im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bewaehrung-56-stgb-positive-sozialprognose` | Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; besondere Umstaende Abs. 2 bis 2 Jahre; Verteidigung der Rechtsordnung Abs. 3. Prognose-Faktoren Vorleben, soziale Bin... |
 | `bewaehrung-auflagen-bewaehrungswiderruf-56f` | Auflagen § 56b StGB und Weisungen § 56c StGB im Bewaehrungsbeschluss. Auflagen dienen der Genugtuung Wiedergutmachung Geldzahlung gemeinnuetzige Arbeit. Weisungen lenken kuenftiges Verhalten Aufenthalt Beruf Therapie Kontaktverbot. Bewae... |
-| `bewaehrung-interessen-deutschem` | Bewaehrung: Mehrparteienkonflikt und Interessenmatrix im Strafzumessung. |
+| `bewaehrung-interessen-deutschem` | Bewaehrung: Mehrparteienkonflikt und Interessenmatrix im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `bewaehrungswiderruf-56f-stgb` | Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhältnismäßigkeitspruefung. Beschluss-Verfahren... |
-| `deutschem-tatbestand-beweis-und-belege` | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Strafzumessung. |
+| `deutschem-tatbestand-beweis-und-belege` | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Strafzumessung: sortiert Anklageschrift, Urteilsentwurf, Vorverurteilungen BZR, prüft Datum, Absender, Frist und Beweiswert (BZR-Auszug, Persönlichkeitsgutachten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 4... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Strafzumessung: ordnet Rolle (Angeklagter, Verteidiger, Staatsanwaltschaft), markiert Frist (Revision 1 Woche/1 Monat § 341 StPO), wählt Norm (§ 46 StGB, §§ 47-50 StGB Strafmilderung/-schärfung, BGH-Straf... |
-| `freiheitsstrafe-compliance-dokumentation-und-akte` | Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk im Strafzumessung. |
+| `freiheitsstrafe-compliance-dokumentation-und-akte` | Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `freiheitsstrafe-ohne-bewaehrung-vollstreckung` | Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung... |
 | `freiheitsstrafe-strafmass-geldstrafe` | Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen prüfen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typis... |
 | `freiheitsstrafe-strafmass-pruefen` | Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte fuer typ... |
-| `geldstrafe-grossen-rechtsmittel` | Geldstrafe: Zahlen, Schwellenwerte und Berechnung im Strafzumessung. |
+| `geldstrafe-grossen-rechtsmittel` | Geldstrafe: Zahlen, Schwellenwerte und Berechnung im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `geldstrafe-tagessatzanzahl-bestimmen` | Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoe... |
 | `geldstrafe-vs-freiheitsstrafe-47-stgb` | Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhältnis Geldstrafe + Freih... |
 | `gesamtstrafenbildung-stgb-gestaendnis` | Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§ 53 und 54 StGB. Einzelstrafen werden zuerst gebildet; danach Gesamtstrafe aus der hoechsten Einzelstrafe (Einsatzstrafe) plus angemessener Erhoehung. Obergrenze § 54 Abs. 2 StGB... |
 | `gestaendnis-und-strafmilderung` | Gestaendnis als Strafmilderungsgrund. Umfang Reichweite Glaubhaftigkeit. Differenzierung schlankes Gestaendnis vs. qualifiziertes Gestaendnis. Verbindung zu Reue und Wiedergutmachung. Wirkung in der Strafzumessung praktisch 25 bis 33 Pro... |
-| `grossen-risikoampel-und-gegenargumente` | Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Strafzumessung. |
+| `grossen-risikoampel-und-gegenargumente` | Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung` | Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck... |
 | `iii-stpo-begruendungsanforderungen-strafurteil` | Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Stra... |
 | `jgg-jugendstrafe-minder-schwerer` | Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Maßnahmen-Trio: Erziehungsmassregeln §§ 9-12 JGG, Zuchtmittel §§ 13-16 JGG, Jugendstrafe §§ 17-18 JGG. Voraussetzung Jugendstrafe schaedliche Neigungen oder Schwere der Schul... |
@@ -147,25 +147,24 @@ Automatisch generierte Komplett-Liste aller 61 Skills in diesem Plugin. Beschrei
 | `quellen-livecheck` | Quellen-Live-Check für Strafzumessung: prüft Normen (§ 46 StGB, §§ 47-50 StGB Strafmilderung/-schärfung, BGH-Strafzumessungsleitlinien) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Strafgericht (Amts-/Landgeric... |
 | `rechtsmittel-und-gesamtstrafenfolgen` | Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Strafzumessung. |
 | `regelbeispiele-rechtsprechung` | Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermögensverlust, Anschlag auf das Vermoegen, Wirtschaft... |
-| `regelbeispiele-stgb-strafbefehl` | Regelbeispiele: Internationaler Bezug und Schnittstellen im Strafzumessung. |
+| `regelbeispiele-stgb-strafbefehl` | Regelbeispiele: Internationaler Bezug und Schnittstellen im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `regelbeispiele-strafrahmenwahl` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Strafzumessung. |
 | `schwerer-fehlerkatalog` | Schwerer Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `spezial-grossen-risikoampel-und-gegenargumente` | Grossen: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `spezial-schwerer-red-team-und-qualitaetskontrolle` | Schwerer: Red-Team und Qualitätskontrolle. |
 | `spezial-tagessatz-livequellen-und-rechtsprechungscheck` | Tagessatz: Livequellen- und Rechtsprechungscheck. |
-| `stgb-schriftsatz-brief-und-memo-bausteine` | Stgb: Schriftsatz-, Brief- und Memo-Bausteine im Strafzumessung. |
-| `strafbefehl-dokumentenmatrix-und-lueckenliste` | Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung im Strafzumessung. |
+| `stgb-schriftsatz-brief-und-memo-bausteine` | Stgb: Schriftsatz-, Brief- und Memo-Bausteine im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `strafbefehl-dokumentenmatrix-und-lueckenliste` | Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `strafbefehl-stpo-strafmilderung-stgb` | Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schae... |
-| `strafkammer-strafzumessung` | Strafkammer: Behörden-, Gerichts- oder Registerweg im Strafzumessung. |
+| `strafkammer-strafzumessung` | Strafkammer: Behörden-, Gerichts- oder Registerweg im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `strafmilderung-49-stgb-zwingend-fakultativ` | Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfael... |
 | `strafrahmen-und-strafzumessungsstufen` | Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 A... |
-| `strafrecht-verfahrensstadium-strafbefehl` | Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Strafzumessung. |
+| `strafrecht-verfahrensstadium-strafbefehl` | Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `strafz-aufklaerungshilfe-kronzeuge` | Spezialfall Aufklaerungshilfe Kronzeugenregelung § 46b StGB: Voraussetzungen, BGH-Rechtsprechung, Verteidigung. Prüfraster für Verteidiger und Staatsanwalt im Strafzumessung. |
 | `strafz-sicherungsverwahrung-spezial` | Spezialfall Sicherungsverwahrung §§ 66 ff. StGB: formell und materiell, Vorbehalts- und nachtraegliche Sicherungsverwahrung, EGMR. Prüfraster für Verteidiger im Strafzumessung. |
 | `strafz-strafrahmenmilderung-leitfaden` | Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Prüfraster für Verteidiger im Strafzumessung. |
 | `strafz-strafzumessungstatsachen` | Bauleiter Strafzumessungstatsachen § 46 StGB: Schwere der Tat, Schuld, Vorleben, Nachtatverhalten. Prüfraster für Plaedoyer und Urteil im Strafzumessung. |
-| `strafzumessung-erstpruefung-und-mandatsziel` | Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel im Strafzumessung. |
-| `strafzumessung-schnellstart` | 'Kompakter Arbeitsmodus für Strafzumessung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
+| `strafzumessung-erstpruefung-und-mandatsziel` | Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `strafzumessungs-tatsachen-46-ii-stgb` | Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persoenliche und wirt... |
 | `strafzumessungstatsachen-vergleich-eskalation` | Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation im Strafzumessung. |
 | `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` | Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiedergutmachung gegenueber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2... |

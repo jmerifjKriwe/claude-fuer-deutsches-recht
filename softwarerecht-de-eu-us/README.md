@@ -1,5 +1,4 @@
 # Softwarerecht Deutschland/EU/International/USA
-Wenn du das hier oeffnest, willst du einen IT- oder Softwarevertrag pruefen und Leistungspflichten sowie Haftung sauber fassen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
 Großes Praxis-Plugin für Softwarerecht: Entwicklung, Rechtekette, Arbeitnehmer- und Freelancer-Code, § 69b UrhG, US work made for hire, SaaS, On-Prem-Lizenzen, Open Source, SBOM, Datenschutz, Cybersecurity, Data Act, Cyber Resilience Act, AI-Code, Softwarepatente, Trade Secrets, Exportkontrolle, M&A und Litigation.
 
 ## Wofür dieses Plugin da ist
@@ -39,7 +39,7 @@ Das Plugin soll eine komplette Software-Suite rechtlich durchdeklinieren können
 
 ## Quellenanker
 
-Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Konkrete Normen, Guidance und Rechtsprechung immer live prüfen; keine Blindzitate.
+Siehe [`description`](./references/QUELLEN.md). Konkrete Normen, Guidance und Rechtsprechung immer live prüfen; keine Blindzitate.
 
 ## Lizenz
 
@@ -50,7 +50,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -72,6 +72,7 @@ Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschre
 | `data-act-export-control-freelancer-code` | Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses im Softwarerecht De Eu Us. |
 | `data-license-training` | Prüft Datenlizenzen für Softwaretraining, Analytics, Benchmarking, KI, Produktverbesserung und Weitergabe im Softwarerecht De Eu Us. |
 | `data-protection-dpa-software` | Prüft AVV/DPA, Rollen, Subprozessoren, TOMs, Drittlandtransfer, Telemetrie und Produktdaten im Softwarerecht De Eu Us. |
+| `datenabruf-api-bedingungen` | Prüft automatisierten Datenabruf, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use im Softwarerecht De Eu Us. |
 | `datenbank-und-softwaredaten` | Prüft Datenbanken, Logdaten, Trainingsdaten, Telemetrie, Data Act und Rechte an Softwaredaten im Softwarerecht De Eu Us. |
 | `dekompilierung-interoperabilitaet-devops` | Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede im Softwarerecht De Eu Us. |
 | `devops-cloud-control` | Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit im Softwarerecht De Eu Us. |
@@ -129,7 +130,6 @@ Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschre
 | `reseller-oem-sbom-software-datenabruf-api` | Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette im Softwarerecht De Eu Us. |
 | `saas-vertrag-b2b` | Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung im Softwarerecht De Eu Us. |
 | `sbom-software-composition` | Erstellt SBOM- und Software-Composition-Workflows für OSS, Security, CRA, Kundenverträge und M&A im Softwarerecht De Eu Us. |
-| `datenabruf-api-bedingungen` | Prüft automatisierten Datenabruf, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use im Softwarerecht De Eu Us. |
 | `secure-development-contract` | Entwirft Security-by-Design-Pflichten in Entwicklungsverträgen: SSDLC, threat modeling, secure coding, tests und remediation im Softwarerecht De Eu Us. |
 | `software-copyright-infringement` | Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung im Softwarerecht De Eu Us. |
 | `software-dokumentation-gui-api-schutz` | Prüft Schutz von Dokumentation, GUI, API-Spezifikation, Handbüchern, Screens und Datenmodellen neben dem Programmcode im Softwarerecht De Eu Us. |
@@ -139,7 +139,6 @@ Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschre
 | `software-policy-legal-engineering` | Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases im Softwarerecht De Eu Us. |
 | `software-scope-und-rechtsgebiet-router` | Ordnet ein Softwaremandat in Urheberrecht, Vertragsrecht, Datenschutz, Produktsicherheit, Patente, Open Source und Export ein im Softwarerecht De Eu Us. |
 | `software-sicherungskopie-bestimmungsgemaesse` | Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen im Softwarerecht De Eu Us. |
-| `softwarerecht-de-eu-us-schnellstart` | 'Kompakter Arbeitsmodus für Softwarerecht Deutschland/EU/International/USA. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `source-code-escrow` | Entwirft und prüft Source-Code-Escrow für kritische Software, Trigger, Verifikation, Buildfähigkeit und Herausgabe im Softwarerecht De Eu Us. |
 | `subcontractors-cloud-support-maintenance` | Prüft Cloud-Subunternehmer, Hosting, Reseller, Managed Services, Flow-downs und Daten-/Security-Verantwortung im Softwarerecht De Eu Us. |
 | `support-maintenance-sla` | Prüft Wartung, Updates, Patches, Support-Level, Reaktionszeiten, Credits und End-of-Life im Softwarerecht De Eu Us. |

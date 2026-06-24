@@ -1,5 +1,4 @@
 # Parteienrecht und Parteiorganisation
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Formales Organisationsplugin für politische Parteien und ihre Gebietsverbände. Es ist ausdrücklich nicht politisch-programmatisch, sondern hilft, Satzung, Parteiengesetz, Wahlrecht, Parteifinanzen und Verfahrensformalitäten sauber einzuhalten.
 
 ## Arbeitsidee
@@ -46,7 +46,7 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -113,7 +113,6 @@ Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Beschre
 | `parteienrecht-ordnungsmassnahmen-verfahren` | Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage. |
 | `parteienrecht-parteiausschluss-parteigericht` | Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit. |
 | `parteienrecht-parteigruendung-satzung-programm` | Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website. |
-| `parteienrecht-parteiorganisation-schnellstart` | 'Kompakter Arbeitsmodus für Parteienrecht und Parteiorganisation. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `parteienrecht-rechenschaftsbericht-pruefung` | Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung. |
 | `parteienrecht-unterstuetzungsunterschriften-wahl` | Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen. |
 | `parteienrecht-vertreterversammlung-delegierte` | Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation. |

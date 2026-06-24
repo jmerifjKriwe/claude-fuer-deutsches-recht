@@ -1,5 +1,4 @@
 # US Copyright Act und Registrierung für deutsche Verlage
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Schutzfähigkeit, Rechtekette, Registrierung, Fair Use, DMCA, Musik, Software, AI, Litigation Readiness, Lizenzierung und Verlagsworkflow.
 
 ## Wofür dieses Plugin da ist
@@ -72,7 +72,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -169,7 +169,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `supplementary-registration-templates-open` | Fehlerkorrektur und Supplementary Registration: falsche Titel, Claimants, Publication-Daten, AI-Angaben oder Rechteketten sauber nacharbeiten im Us Copyright Registrierung Verlag. |
 | `templates-open-cases-save-for-later` | Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik im Us Copyright Registrierung Verlag. |
 | `termination-203-304-recapture` | Prüft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD im Us Copyright Registrierung Verlag. |
-| `us-copyright-registrierung-verlag-schnellstart` | 'Kompakter Arbeitsmodus für US Copyright Act und Registrierung für deutsche Verlage. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `useful-articles-separability` | Prüft angewandte Gestaltung, Produktdesign, Fashion, Möbel, Verpackung und separierbare expressive Elemente nach US-Recht im Us Copyright Registrierung Verlag. |
 | `vara-visual-verlags-batchplan-versand` | Prüft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen im Us Copyright Registrierung Verlag. |
 | `verlags-batchplan-serien-und-backlist` | Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness im Us Copyright Registrierung Verlag. |

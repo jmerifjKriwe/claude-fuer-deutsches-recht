@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Arbeitszeugnisrecht: GewO § 109, BGB §§ 195/199 sowie 241 Abs. 2 und 280; arbeitsvertragliche Ausschlussfristen und ArbGG-Fristen aktenbasiert sortieren, ohne unnötige Rückfragen."
+description: "Fristen- und Risikoampel im Arbeitszeugnisrecht: GewO Paragraf 109, BGB Paragrafen 195/199 sowie 241 Abs. 2 und 280; arbeitsvertragliche Ausschlussfristen und ArbGG-Fristen aktenbasiert sortieren, ohne unnötige Rückfragen."
 ---
 
 # Fristen- und Risikoampel Arbeitszeugnis
@@ -11,10 +11,10 @@ Ordne eine Zeugnisakte sofort nach Frist, Risiko und nächstem sicheren Schritt.
 
 ## Normenanker
 
-- GewO § 109: Anspruch auf klares, wahres und wohlwollendes Zeugnis.
-- BGB §§ 195, 199: regelmäßige Verjährung; Beginn erst bei Anspruchsentstehung und Kenntnis.
-- BGB §§ 241 Abs. 2, 280: Rücksichtnahme- und Schadensersatzrisiken bei unrichtigem Zeugnis.
-- ArbGG §§ 61a, 64, 66: arbeitsgerichtlicher Ablauf und Rechtsmittelkontext.
+- GewO Paragraf 109: Anspruch auf klares, wahres und wohlwollendes Zeugnis.
+- BGB Paragrafen 195, 199: regelmäßige Verjährung; Beginn erst bei Anspruchsentstehung und Kenntnis.
+- BGB Paragrafen 241 Abs. 2, 280: Rücksichtnahme- und Schadensersatzrisiken bei unrichtigem Zeugnis.
+- ArbGG Paragrafen 61a, 64, 66: arbeitsgerichtlicher Ablauf und Rechtsmittelkontext.
 - Arbeits- oder Tarifvertrag: Ausschlussfristen, Textform, Fälligkeit und Geltendmachung streng am Dokument prüfen.
 
 ## Ausgabe

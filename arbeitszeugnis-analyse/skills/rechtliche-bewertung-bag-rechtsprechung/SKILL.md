@@ -1,13 +1,13 @@
 ---
 name: rechtliche-bewertung-bag-rechtsprechung
-description: "Rechtliche Einordnung von Zeugnisansprüchen nach § 109 GewO und BAG-Rechtsprechung für die anwaltliche Praxis. Anwendungsfall Anwalt benoetigt Beweislastverteilung und Rechtsgrundlagen für Zeugnisstreit oder Klagebegründung. Normen § 109 GewO Anspruchsgrundlage § 611a BGB § 241 Abs. 2 BGB Wohlwollenspflicht BAG-Linie zur Beweislast. Prüfraster Anspruch auf qualifiziertes Zeugnis Beweislast bei Zeugnisstreit Grenzen Wahrheitspflicht Verjährung. Output Rechtliche Einordnung mit BAG-Nachweisen für Klagebegründung oder Verhandlungsstrategie. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
+description: "Rechtliche Einordnung von Zeugnisansprüchen nach Paragraf 109 GewO und BAG-Rechtsprechung für die anwaltliche Praxis. Anwendungsfall Anwalt benötigt Beweislastverteilung und Rechtsgrundlagen für Zeugnisstreit oder Klagebegründung. Normen Paragraf 109 GewO Anspruchsgrundlage Paragraf 611a BGB Paragraf 241 Abs. 2 BGB Wohlwollenspflicht BAG-Linie zur Beweislast. Prüfraster Anspruch auf qualifiziertes Zeugnis Beweislast bei Zeugnisstreit Grenzen Wahrheitspflicht Verjährung. Output Rechtliche Einordnung mit BAG-Nachweisen für Klagebegründung oder Verhandlungsstrategie. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
 ---
 
 # Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 611a, §§ 1, §§ 14.
+- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -15,16 +15,16 @@ description: "Rechtliche Einordnung von Zeugnisansprüchen nach § 109 GewO und 
 
 | Rechtsproblem | Rechtsgrundlage | Handlungsempfehlung |
 |---|---|---|
-| Anspruch auf qualifiziertes Zeugnis | § 109 Abs. 1 Satz 3 GewO | Schriftlich verlangen |
+| Anspruch auf qualifiziertes Zeugnis | Paragraf 109 Abs. 1 Satz 3 GewO | Schriftlich verlangen |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Geheimcodeformeln in Zeugnis | Anspruch auf wohlwollendes Zeugnis | Berichtigung verlangen |
-| Zeugnis nach BAG-Recht zu berichtigen | § 109 GewO | Klage ArbG, kein Fristproblem |
-| Codewort verstößt gegen Klarheit oder Wohlwollen | § 109 Abs. 2 GewO, BAG-Linie | Berichtigung verlangen, Kontext begründen |
+| Zeugnis nach BAG-Recht zu berichtigen | Paragraf 109 GewO | Klage ArbG, kein Fristproblem |
+| Codewort verstößt gegen Klarheit oder Wohlwollen | Paragraf 109 Abs. 2 GewO, BAG-Linie | Berichtigung verlangen, Kontext begründen |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Drift im selben Themenbereich | Wohlwollensgebot | Aufwertung der schwachen Sätze verlangen |
 | Streitwert Berichtigungsklage | Rechtsprechung Landesarbeitsgerichte | ein Monatsbruttogehalt |
-| Verjährung des Berichtigungsanspruchs | §§ 195, 199 BGB | drei Jahre ab Schluss des Jahres |
-| Verwirkung trotz nicht abgelaufener Verjährung | Treu und Glauben § 242 BGB | Berichtigung innerhalb weniger Monate stellen |
+| Verjährung des Berichtigungsanspruchs | Paragrafen 195, 199 BGB | drei Jahre ab Schluss des Jahres |
+| Verwirkung trotz nicht abgelaufener Verjährung | Treu und Glauben Paragraf 242 BGB | Berichtigung innerhalb weniger Monate stellen |
 
 ## Beispiele
 
@@ -65,8 +65,8 @@ description: "Rechtliche Einordnung von Zeugnisansprüchen nach § 109 GewO und 
 | **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 21.09.1999 - 9 AZR 893/98** | Aeussere Form: zweimaliges Falten zulässig, wenn Original kopierfaehig bleibt und Knicke nicht durchschlagen. Wer mit Maschinenname unterzeichnet, muss eigenhaendig unterschreiben. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 27.04.2021 - 9 AZR 262/20** | Tabellarische Ankreuz-/Schulnotenformulare erfuellen $ 109 GewO regelmaessig nicht - individuelle Hervorhebung verlangt Fliesstext. | bundesarbeitsgericht.de / dejure.org |
-| **LAG Hamm, Beschl. v. 14.11.2016 - 12 Ta 475/16** | Ironisch ueberzogenes Lob ist unzulaessig; Arbeitnehmer hat Anspruch auf geschaeftsuebliche Unterschrift des Ausstellers; quer-laufende Unterschrift weckt Zweifel an Ernsthaftigkeit. | nrwe.de / justiz.nrw.de |
+| **LAG Hamm, Beschl. v. 14.11.2016 - 12 Ta 475/16** | Ironisch überzogenes Lob ist unzulaessig; Arbeitnehmer hat Anspruch auf geschaeftsuebliche Unterschrift des Ausstellers; quer-laufende Unterschrift weckt Zweifel an Ernsthaftigkeit. | nrwe.de / justiz.nrw.de |
 | **ArbG Kiel, Urt. v. 18.04.2013 - 5 Ca 80 b/13** | In die Unterschrift eingearbeiteter Smiley mit herabgezogenen Mundwinkeln ist ein unzulaessiges Geheimzeichen ($ 109 II 2 GewO). | frei publiziert / dejure-Suche |
-| **BAG, Beschl. v. 07.05.2026 - 8 AZB 25/25** | Im gerichtlichen Vergleich uebernommene Pflicht, Zeugnis nach dem ENTWURF des Arbeitnehmers zu erteilen mit Abweichungs-Vorbehalt aus wichtigem Grund, hat vollstreckungsfaehigen Inhalt. | bundesarbeitsgericht.de / dejure.org (vor Schriftsatzverwendung live verifizieren - Entscheidung aus 2026) |
+| **BAG, Beschl. v. 07.05.2026 - 8 AZB 25/25** | Im gerichtlichen Vergleich übernommene Pflicht, Zeugnis nach dem ENTWURF des Arbeitnehmers zu erteilen mit Abweichungs-Vorbehalt aus wichtigem Grund, hat vollstreckungsfaehigen Inhalt. | bundesarbeitsgericht.de / dejure.org (vor Schriftsatzverwendung live verifizieren - Entscheidung aus 2026) |
 | **BAG, Urt. v. 08.03.1995 - 5 AZR 848/93** | Zeugniserteilung ist Holschuld ($ 269 BGB): Arbeitnehmer holt im Betrieb ab; nur ausnahmsweise (Unzumutbarkeit, $ 242 BGB) Schickschuld. | bundesarbeitsgericht.de / dejure.org |
 

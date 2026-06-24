@@ -1,5 +1,4 @@
 # Gesellschaftsrechtliche Treuepflicht
-Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rechtssicher beschliessen und dokumentieren.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschliessen und dokumentieren.
 Dieses Plugin prüft gesellschaftsrechtliche Treuepflicht nicht als wolkiges Gerechtigkeitsgefühl, sondern als präzise Interessen-, Rollen- und Rechtsfolgenprüfung. Es hilft, aus Konfliktstoff gerichtsfeste Argumente, Verteidigungslinien und Vergleichsoptionen zu bauen.
 
 ## Startworkflow
@@ -47,7 +47,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -84,7 +84,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `gesellschafterdarlehen` | Gesellschaftsrechtliche Treuepflicht: Gesellschafterdarlehen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gesellschafterversammlungsstrategie` | Gesellschaftsrechtliche Treuepflicht: Gesellschafterversammlungsstrategie; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gesellschaftsform-und-rollen` | Gesellschaftsrechtliche Treuepflicht: Gesellschaftsform Und Rollen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
-| `gesellschaftsrechtliche-treuepflicht-schnellstart` | 'Kompakter Arbeitsmodus für Gesellschaftsrechtliche Treuepflicht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `gmbh-ausschluss-blockade-einziehung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Ausschluss; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gmbh-blockade` | Gesellschaftsrechtliche Treuepflicht: Gmbh Blockade; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gmbh-einziehung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Einziehung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |

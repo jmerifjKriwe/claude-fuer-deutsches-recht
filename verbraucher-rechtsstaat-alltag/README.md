@@ -1,5 +1,4 @@
 # Verbraucher im Rechtsstaat Alltag
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren.
 
 ## Worum es geht
@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 66 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -117,7 +117,6 @@ Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschrei
 | `strom-gas-preiserhoehung` | Strom- und Gaspreiserhöhung: führt Laien durch Energievertrag, Preisänderung, Grundversorgung, Sonderkündigung und Abschläge. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im... |
 | `telefon-internet-stoerung` | Telefon und Internet Störung: führt Laien durch Ausfall, Minderungsrechte, Technikertermine, Rufnummernportierung und Anbieterwechsel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sp... |
 | `unfall-fahrrad-verbraucherschlichtung` | Kleiner Unfall Fahrrad und Auto: führt Laien durch Bagatellunfall, Haftpflicht, Personenschaden, Schuldanerkenntnis und Beweissicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer... |
-| `verbraucher-rechtsstaat-alltag-schnellstart` | 'Kompakter Arbeitsmodus für Verbraucher im Rechtsstaat Alltag. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `verbraucherschlichtung` | Verbraucherschlichtung: erklärt Schlichtungsstelle, Ombudsmann, Kosten und Erfolgsaussichten in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Ve... |
 | `vergleichsangebot-pruefen` | Vergleichsangebot prüfen: führt Laien durch Vergleich, Ratenzahlung, Verzicht, Erledigungsklausel und Kostenfolge. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher... |
 | `versicherung-lehnt-vorladung-polizei-zahnarzt` | Versicherung lehnt ab: führt Laien durch Ablehnung von Hausrat, Haftpflicht, Rechtsschutz oder Berufsunfähigkeit im Alltag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Ve... |

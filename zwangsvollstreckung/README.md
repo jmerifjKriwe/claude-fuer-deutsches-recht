@@ -1,5 +1,4 @@
 # Zwangsvollstreckung
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Freistehendes Cowork-Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO aus allen Titelarten. Es ist ein vollständiger Arbeitsraum für Gläubigeranwalt, Inkasso, Hausverwaltung, Kreditbearbeitung und Insolvenzverwaltung: Titel prüfen, Klausel besorgen, Zustellung organisieren, Mahn- oder Vollstreckungsbescheid online beantragen, PfÜB gegen Bank, Arbeitgeber, Mieter oder Finanzamt entwerfen, Kontensuche § 802l ZPO und Vermögensauskunft beim Gerichtsvollzieher steuern, Mobiliar- und Räumungsaufträge erteilen, aus notarieller Urkunde § 800 ZPO oder Tabellenauszug § 201 InsO vollstrecken, ZVG-Antrag stellen und Schuldnerschutz auf Erinnerung, Vollstreckungsschutz und P-Konto-Bescheinigung beantworten.
 
 ## Wofür das Plugin gedacht ist
@@ -93,34 +93,34 @@ Das Plugin trifft keine unüberprüfte Vollstreckungsentscheidung und ersetzt ke
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `765a-fehlerkatalog` | 765a Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `802l-verhandlung-vergleich-und-eskalation` | 802L: Verhandlung, Vergleich und Eskalation im Zwangsvollstreckung. |
+| `802l-verhandlung-vergleich-und-eskalation` | 802L: Verhandlung, Vergleich und Eskalation im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `abwehr-schuldner` | Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrk... |
 | `anschluss-routing` | Anschluss-Routing für Zwangsvollstreckung: wählt den nächsten Spezial-Skill nach Engpass (Erinnerung § 766 ZPO 2 Wochen, Vollstreckungstitel, Pfändungs- und Überweisungsbeschluss (PfÜB), Gerichtsvollzieher-Protokoll), dokumentiert Router... |
-| `arbeit-schriftsatz-brief-und-memo-bausteine` | Arbeit: Schriftsatz-, Brief- und Memo-Bausteine im Zwangsvollstreckung. |
-| `bank-haertefall-inso` | Bank: Behörden-, Gerichts- oder Registerweg im Zwangsvollstreckung. |
+| `arbeit-schriftsatz-brief-und-memo-bausteine` | Arbeit: Schriftsatz-, Brief- und Memo-Bausteine im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `bank-haertefall-inso` | Bank: Behörden-, Gerichts- oder Registerweg im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Zwangsvollstreckung: sortiert Vollstreckungstitel, Pfändungs- und Überweisungsbeschluss (PfÜB), Gerichtsvollzieher-Protokoll, prüft Datum, Absender, Frist und Beweiswert (Titel mit Klausel, Zustellungsnachweis); mark... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Zwangsvollstreckung: ordnet Rolle (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)), markiert Frist (Erinnerung § 766 ZPO 2 Wochen), wählt Norm (ZPO §§ 704-945 (Vollstreckung), GVGA, InsO) und Zu... |
 | `elektronische-zustellung-eu` | Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlungs... |
 | `eu-kontenpfaendung-655-2014` | Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsl... |
 | `haertefall-mandantenkommunikation-entscheidungsvorlage` | Haertefall: Mandantenkommunikation und Entscheidungsvorlage im Zwangsvollstreckung. |
-| `inso-internationaler-bezug-und-schnittstellen` | InsO: Internationaler Bezug und Schnittstellen im Zwangsvollstreckung. |
+| `inso-internationaler-bezug-und-schnittstellen` | InsO: Internationaler Bezug und Schnittstellen im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `kommandocenter` | Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing z... |
-| `kontenpfaendung-notar-interessen-online` | Kontenpfaendung: Formular, Portal und Einreichungslogik im Zwangsvollstreckung. |
+| `kontenpfaendung-notar-interessen-online` | Kontenpfaendung: Formular, Portal und Einreichungslogik im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `kontensuche-drittschuldner` | Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO.... |
 | `kontensuche-quellenkarte` | Kontensuche Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `mahn-fristen-form-und-zustaendigkeit` | Mahn: Fristen, Form, Zuständigkeit und Rechtsweg im Zwangsvollstreckung. |
-| `mahnbescheid-fristennotiz-zv-titel-zv` | Mahnbescheid: Fristennotiz und nächster Schritt im Zwangsvollstreckung. |
+| `mahn-fristen-form-und-zustaendigkeit` | Mahn: Fristen, Form, Zuständigkeit und Rechtsweg im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `mahnbescheid-fristennotiz-zv-titel-zv` | Mahnbescheid: Fristennotiz und nächster Schritt im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `mahnbescheid-online-mobiliar-gv` | Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjähru... |
 | `mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Zwangsvollstreckung. |
 | `mobiliar-gv-auftrag` | Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Prüfraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschäftsräume Unpfaendbarkeitskatalo... |
-| `notar-mehrparteien-konflikt-und-interessen` | Notar: Mehrparteienkonflikt und Interessenmatrix im Zwangsvollstreckung. |
+| `notar-mehrparteien-konflikt-und-interessen` | Notar: Mehrparteienkonflikt und Interessenmatrix im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `notarielle-urkunde-grundschuld` | Gläubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notarieller Urkunde. Prüfraster: Unterwerfungsklausel dinglich und persoenlich Klauselumschreibung § 727 ZPO bei Abtretung... |
-| `online-abschlussprodukt-und-uebergabe` | Online: Abschlussprodukt und Übergabe im Zwangsvollstreckung. |
+| `online-abschlussprodukt-und-uebergabe` | Online: Abschlussprodukt und Übergabe im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `output-waehlen` | Output-Wahl für Zwangsvollstreckung: stimmt Adressat (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)), Frist (Erinnerung § 766 ZPO 2 Wochen) und Form auf den Zweck ab — typische Outputs: Vollstreckungsantrag, PfÜB, Erinnerung §... |
 | `pfaendungstabelle-pfueb-arbeitsentgelt` | Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungss... |
 | `pfueb-802l-arbeit` | Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankeng... |
@@ -128,7 +128,7 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `pfueb-bank` | Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektron... |
 | `pfueb-raeumung-schuldnerschutz-beweislast` | Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien im Zwangsvollstreckung. |
 | `quellen-livecheck` | Quellen-Live-Check für Zwangsvollstreckung: prüft Normen (ZPO §§ 704-945 (Vollstreckung), GVGA, InsO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Vollstreckungsgericht und Quellenhygiene nach references/quelle... |
-| `raeumung-compliance-dokumentation-und-akte` | Raeumung: Compliance-Dokumentation und Aktenvermerk im Zwangsvollstreckung. |
+| `raeumung-compliance-dokumentation-und-akte` | Raeumung: Compliance-Dokumentation und Aktenvermerk im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `raeumung-tabellenauszug-inso` | Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a... |
 | `schuldnerschutz-beweislast-und-darlegungslast` | Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung im Zwangsvollstreckung. |
 | `spezial-765a-red-team-und-qualitaetskontrolle` | 765A: Red-Team und Qualitätskontrolle. |
@@ -143,16 +143,15 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `vollstreckungsbescheid-dokumentenmatrix-und-lueckenliste` | Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung im Zwangsvollstreckung. |
 | `vollstreckungsbescheid-zv` | Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Ti... |
 | `vollstreckungsschutz-haertefall-765a` | Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaell... |
-| `vollstreckungstitel-sonderfall-und-edge-case` | Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung im Zwangsvollstreckung. |
+| `vollstreckungstitel-sonderfall-und-edge-case` | Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Zwangsvollstreckung. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Zwangsvollstreckung. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Zwangsvollstreckung. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
-| `zpo-zwangsvollstreckung-zv-abwehr` | ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage im Zwangsvollstreckung. |
+| `zpo-zwangsvollstreckung-zv-abwehr` | ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `zvg-antrag-glaeubiger` | Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorher... |
 | `zwangsvollstreckung-erstpruefung-und-mandatsziel` | Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Zwangsvollstreckung. |
-| `zwangsvollstreckung-schnellstart` | 'Kompakter Arbeitsmodus für Zwangsvollstreckung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `zwv-pfaendung-konto-vollstreckungsschutz` | Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Prüfraster für Gläubiger und Schuldner im Zwangsvollstreckung. |
 | `zwv-vollstreckungsschutz-billigkeit-spezial` | Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Prüfraster für Schuldner und Sozialberatung im Zwangsvollstreckung. |
 | `zwv-vollstreckungstitel-bauleiter` | Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Prüfraster für Vollstreckungs- und Klauselerteilung im Zwangsvollstreckung. |

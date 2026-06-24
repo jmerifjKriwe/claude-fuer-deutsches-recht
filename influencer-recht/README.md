@@ -1,5 +1,4 @@
 # Influencer-Recht
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Das Plugin übersetzt Creator-Alltag in Recht: Kooperation, Geschenk, Affiliate-Link, Story, Livestream, Gewinnspiel, Musik, Minderjährige, Agenturvertrag und Steuer werden als zusammenhängender Workflow geprüft.
 
 ## Arbeitsweise
@@ -47,7 +47,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 130 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 129 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -143,7 +143,6 @@ Automatisch generierte Komplett-Liste aller 130 Skills in diesem Plugin. Beschre
 | `infl-067-internationaler-creator-wohnsitz-und-wegzug` | Influencer-Recht: Internationaler Creator Wohnsitz und Wegzug mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `infl-068-qualitaetsgate-veroeffentlichung` | Influencer-Recht: Qualitätsgate Veröffentlichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `influencer-beauty-filter-medienanstalt` | Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken im Influencer-Recht. |
-| `influencer-recht-schnellstart` | 'Kompakter Arbeitsmodus für Influencer-Recht. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `internationaler-creator-wohnsitz-und-wegzug` | Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen im Influencer-Recht. |
 | `jahresabschluss-creator-risiken` | Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale im Influencer-Recht. |
 | `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittex... |

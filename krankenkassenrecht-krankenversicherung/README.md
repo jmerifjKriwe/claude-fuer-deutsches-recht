@@ -1,5 +1,4 @@
 # Krankenkassenrecht und Krankenversicherung
-Wenn du das hier oeffnest, willst du einen Deckungsanspruch pruefen und gegen die Ablehnung des Versicherers durchsetzen.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du einen Deckungsanspruch prüfen und gegen die Ablehnung des Versicherers durchsetzen.
 Dieses Plugin erklärt Krankenversicherung so, dass Betroffene, Arbeitgeber, Kanzleien und Leistungsabteilungen die Akte sortieren können: Wer muss zahlen, welche Unterlagen fehlen, welche Frist läuft und welcher Rechtsweg ist richtig?
 
 ## Arbeitsweise
@@ -47,7 +47,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 161 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 160 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -81,7 +81,6 @@ Automatisch generierte Komplett-Liste aller 161 Skills in diesem Plugin. Beschre
 | `krankenhausabrechnung-drg-zuzahlung-und-md-pruefung` | Krankenhausabrechnung im DRG-System: Kodierung, Zuzahlungspflicht, MD-Prüfverfahren, Kürzungen und Widerspruchsstrategien im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege u... |
 | `krankenkasse-und-insolvenz-beitragsschuld` | Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolvenzforderungen, Masseverbindlichkeiten, Restschuldbefreiung und Verhalten der Kasse im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsme... |
 | `krankenkassenfusion-und-bestandsschutz` | Fusion von Krankenkassen nach §§ 171a ff. SGB V: Rechtsfolgen für Versicherte, Bestandsschutz für Tarife und Wahlarife, Schließung und Insolvenz im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerk... |
-| `krankenkassenrecht-krankenversicherung-schnellstart` | 'Kompakter Arbeitsmodus für Krankenkassenrecht und Krankenversicherung. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `krankenkassenregress-behandlungsfehler-und-erstattung` | Regressansprüche der GKV gegen Leistungserbringer bei Behandlungsfehlern (§ 116 SGB X): Voraussetzungen, Höhe, Verjährung und Verhältnis zum Patientenanspruch im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen T... |
 | `krankenversicherung-arbeitgeberzuschuss-pkv-entgeltabrechnung` | AG-Zuschuss zur PKV nach § 257 SGB V: Höhe, Berechnung, Sozialversicherungsfreiheit, falsche Abrechnung und Rückforderungsrisiken im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,... |
 | `krankenversicherung-arztbrief-anspruchsbegruendung-uebersetzen` | Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege u... |

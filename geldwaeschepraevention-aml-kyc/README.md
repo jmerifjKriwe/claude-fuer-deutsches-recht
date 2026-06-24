@@ -1,5 +1,4 @@
 # Geldwäscheprävention, AML und KYC
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Großes, freistehendes Plugin für Geldwäscheprävention, AML/CFT, KYC, GwG-Risikomanagement, wirtschaftlich Berechtigte, PEP, Sanktionsscreening, Verdachtsmeldungen, Transparenzregister, interne Sicherungsmaßnahmen, Schulung, Audit, Behördenverfahren, Bußgeld und Reputationskrisen.
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine besondere Kanzlei- oder Compliance-Software. Wenn kein KYC-Tool, Screening-Tool, goAML-Zugang, Transparenzregisterzugang, CRM, ERP oder DMS angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.
@@ -87,17 +87,17 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 
 ## Offizielle Startquellen
 
-- [GwG auf gesetze-im-internet](https://www.gesetze-im-internet.de/gwg_2017/)
-- [GwG § 5 Risikoanalyse](https://www.gesetze-im-internet.de/gwg_2017/__5.html)
-- [GwG § 10 Allgemeine Sorgfaltspflichten](https://www.gesetze-im-internet.de/gwg_2017/__10.html)
-- [GwG § 43 Meldepflicht](https://www.gesetze-im-internet.de/gwg_2017/__43.html)
-- [BaFin Geldwäscheprävention und AuA](https://www.bafin.de/DE/Aufsicht/Geldwaeschepraevention/Rechtsquellen/BaFin_Vorgaben/BaFin_Vorgaben_node.html)
-- [FIU goAML Portal](https://goaml.fiu.bund.de/home)
-- [Zoll/FIU Verdachtsmeldungen](https://www.zoll.de/DE/FIU/Fachliche-Informationen/Verdachtsmeldungen/verdachtsmeldungen_node.html)
-- [Transparenzregister](https://www.transparenzregister.de/treg/ueberuns)
-- [EU-Sanktionsressourcen](https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/overview-sanctions-and-related-resources_en)
-- [AMLA](https://www.amla.europa.eu/about-amla_en)
-- [FATF Risk-Based Approach](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Risk-based-approach-banking-sector.html)
+- [GwG auf gesetze-im-internet]()
+- [GwG § 5 Risikoanalyse]()
+- [GwG § 10 Allgemeine Sorgfaltspflichten]()
+- [GwG § 43 Meldepflicht]()
+- [BaFin Geldwäscheprävention und AuA]()
+- [FIU goAML Portal]()
+- [Zoll/FIU Verdachtsmeldungen]()
+- [Transparenzregister]()
+- [EU-Sanktionsressourcen]()
+- [AMLA]()
+- [FATF Risk-Based Approach]()
 
 ## Freistehende Leitplanken
 
@@ -112,7 +112,7 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -121,8 +121,8 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `aml-trade-based-money-laundering-spezial` | Spezialfall Trade-Based-Money-Laundering: Over- und Underinvoicing, mehrfache Rechnungsstellung, Phantomgueter. Prüfraster für Handelsfinanzierung im Geldwaeschepraevention Aml Kyc. |
 | `aml-verdachtsmeldung-fiu-leitfaden` | Leitfaden Verdachtsmeldung an FIU: goAML, Schwellen, Tippoff-Verbot, Schutz der Mitarbeitern. Prüfraster für Geldwaeschebeauftragten im Geldwaeschepraevention Aml Kyc. |
 | `anschluss-routing` | Anschluss-Routing für Geldwäscheprävention AML/KYC: wählt den nächsten Spezial-Skill nach Engpass (Verdachtsmeldung unverzüglich § 43 GwG, KYC-Akte, Risk Assessment, Compliance-Manual), dokumentiert Router-Entscheidung mit Begründung. |
-| `awareness-zahlen-schwellen-und-berechnung` | Awareness: Zahlen, Schwellenwerte und Berechnung. |
-| `behoerdenverfahren-schriftsatz-brief-und-memo-bausteine` | Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `awareness-zahlen-schwellen-und-berechnung` | Awareness: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `behoerdenverfahren-schriftsatz-brief-und-memo-bausteine` | Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `dokumente-intake` | Dokumentenintake für Geldwäscheprävention AML/KYC: sortiert KYC-Akte, Risk Assessment, Compliance-Manual, prüft Datum, Absender, Frist und Beweiswert (Dokumente wirtschaftlich Berechtigter, Transaction Logs); markiert Lücken; berücksicht... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Geldwäscheprävention AML/KYC: ordnet Rolle (Verpflichteter (Bank, Anwalt, Notar), Kunde, FIU), markiert Frist (Verdachtsmeldung unverzüglich § 43 GwG), wählt Norm (GwG, FATF 40 Recommendations, EU-AMLD VI... |
 | `geldwaesche-audit-internal-datenqualitaet` | Interne Revision und Audit der AML/KYC-Kontrollen nach GwG. Anwendungsfall Compliance-Beauftragter oder externer Prüfer will AML-Kontrollsystem auf Wirksamkeit prüfen. Normen § 4 GwG interne Sicherungsmassnahmen § 6 GwG Risikomanagement... |
@@ -145,29 +145,28 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `geldwaesche-transparenzregister` | Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwendungsfall wirtschaftlich Berechtigte muessen im Transparenzregister geprüft oder Unstimmigkeit gemeldet werden. Normen § 20 GwG Meldepflicht § 23 GwG Einsicht... |
 | `geldwaesche-ubo-wirtschaftlich-berechtigte` | Ermittlung wirtschaftlich Berechtigter UBO Kontrollketten und Trust-Stiftungsstrukturen nach GwG. Anwendungsfall neue Geschäftsbeziehung mit Unternehmen und wirtschaftlich Berechtigte muessen identifiziert werden. Normen § 3 GwG wirtscha... |
 | `geldwaesche-verdachtsmeldung-verpflichteten` | Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG über goAML-Portal an die FIU. Anwendungsfall Sachverhalt mit Verdacht auf Geldwäsche oder Terrorismusfinanzierung ist festgestellt und Meldung muss erstattet werden. Norme... |
-| `geldwaesche-verhandlung-vergleich-und-eskalation` | Geldwaesche: Verhandlung, Vergleich und Eskalation. |
+| `geldwaesche-verhandlung-vergleich-und-eskalation` | Geldwaesche: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `geldwaesche-verpflichteten-check` | Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkata... |
-| `geldwaeschepraevention-aml-kyc-schnellstart` | 'Kompakter Arbeitsmodus für Geldwäscheprävention, AML und KYC. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
-| `geldwaeschepraevention-erstpruefung-und-mandatsziel` | Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel. |
-| `goaml-gwg-spezial-kommandocenter` | Goaml: Risikoampel, Gegenargumente und Verteidigungslinien. |
-| `gwg-tatbestand-beweis-und-belege` | GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `kommandocenter-compliance-dokumentation-und-akte` | Kommandocenter: Compliance-Dokumentation und Aktenvermerk. |
-| `livecheck-red-risikoanalyse` | Livecheck: Red-Team und Qualitätskontrolle. |
+| `geldwaeschepraevention-erstpruefung-und-mandatsziel` | Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `goaml-gwg-spezial-kommandocenter` | Goaml: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `gwg-tatbestand-beweis-und-belege` | GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `kommandocenter-compliance-dokumentation-und-akte` | Kommandocenter: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `livecheck-red-risikoanalyse` | Livecheck: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `onboarding-bauleiter-trade-based` | Bauleiter KYC-Onboarding: Identifizierung natuerliche und juristische Personen, wirtschaftlich Berechtigter, PEP-Prüfung, Sanktionslistenabgleich. Prüfraster für Verpflichtete im Geldwaeschepraevention Aml Kyc. |
 | `output-waehlen` | Output-Wahl für Geldwäscheprävention AML/KYC: stimmt Adressat (Verpflichteter (Bank, Anwalt, Notar), Kunde, FIU), Frist (Verdachtsmeldung unverzüglich § 43 GwG) und Form auf den Zweck ab — typische Outputs: KYC-Dossier, SAR-Entwurf, Risi... |
 | `quellen-livecheck` | Quellen-Live-Check für Geldwäscheprävention AML/KYC: prüft Normen (GwG, FATF 40 Recommendations, EU-AMLD VI) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt FIU und Quellenhygiene nach references/quellenhygiene.md. |
 | `rechtsquellen` | Rechtsquellen: Quellenprüfung; Formular, Portal und Einreichungslogik: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `risikoanalyse-geldwaesche-bussgeld` | Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `risikoanalyse-geldwaesche-bussgeld` | Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `risikoanalyse-und-verdachtsmeldeweiche` | GwG-Risikoanalyse und Verdachtsmeldeweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Geldwaeschepraevention Aml Kyc. |
-| `sanktionen-geldwaesche-gruppenweite-aml` | Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `sanktionen-geldwaesche-gruppenweite-aml` | Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `schulung-quellenkarte` | Schulung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `simulation-mandantenkommunikation-entscheidungsvorlage` | Simulation: Mandantenkommunikation und Entscheidungsvorlage. |
-| `sonderfall-edge-geldwaesche` | Chronologie: Sonderfall und Edge-Case-Prüfung. |
+| `simulation-mandantenkommunikation-entscheidungsvorlage` | Simulation: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `sonderfall-edge-geldwaesche` | Chronologie: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `spezial-behoerdenverfahren-schriftsatz-brief-und-memo-bausteine` | Behoerdenverfahren: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `spezial-schulung-livequellen-und-rechtsprechungscheck` | Schulung: Livequellen- und Rechtsprechungscheck. |
-| `testlauf-beweislast-transaktionsmonitoring` | Testlauf: Beweislast, Darlegungslast und Substantiierung. |
-| `transaktionsmonitoring-international-schnittstellen` | Transaktionsmonitoring: Internationaler Bezug und Schnittstellen. |
-| `transparenzregister-behoerden-gericht-und-registerweg` | Transparenzregister: Behörden-, Gerichts- oder Registerweg. |
+| `testlauf-beweislast-transaktionsmonitoring` | Testlauf: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `transaktionsmonitoring-international-schnittstellen` | Transaktionsmonitoring: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
+| `transparenzregister-behoerden-gericht-und-registerweg` | Transparenzregister: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Geldwäscheprävention AML/KYC: trennt fehlende Tatsachen von fehlenden Belegen (KYC-Akte, Risk Assessment, Compliance-Manual), nennt pro Lücke Beweisthema, Beschaffungsweg (FIU), Frist und Ersatznachweis. |
 | `verdachtsmeldung-mehrparteien-konflikt-und-interessen` | Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix: Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Geldwaeschepraevention Aml Kyc. |

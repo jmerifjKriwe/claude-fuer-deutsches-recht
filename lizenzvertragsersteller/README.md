@@ -1,5 +1,4 @@
 # Lizenzvertragsersteller
-Wenn du das hier oeffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen pruefen und ein verwertbares Arbeitsprodukt erhalten.
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
@@ -22,6 +21,7 @@ In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Mar
 > Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
 <!-- END direkt-loslegen (autogen) -->
 
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Baukastensystem für IP-Lizenzvertraege nach deutschem und internationalem Recht. Pro Rolle, IP-Typ und Klauselbaustein ein Skill — die Skills greifen ineinander, vom Mandats-Intake bis zum unterschriftsreifen Vertrag in DE, EN oder bilingual.
 
 ## Was deckt das Plugin ab?
@@ -49,7 +49,7 @@ Baukastensystem für IP-Lizenzvertraege nach deutschem und internationalem Recht
 - Reporting, Audit, Strafzinsen
 - Sub-Lizenzen
 - Verbesserungen / Grant-Back
-- Haftung / Gewaehrleistung / Indemnification
+- Haftung / Gewährleistung / Indemnification
 - Rechtswahl + Gerichtsstand + Schiedsklausel (DE/EN/Schiedsinstitute)
 - Vertragsdauer + Kuendigung + Folgen
 - Vertraulichkeit + NDA-Interimsphase
@@ -103,14 +103,14 @@ Konvention: siehe `references/quellenhygiene.md`, `references/zitierweise.md`, `
 
 ## Lizenz
 
-Apache-2.0 OR MIT — Auswahl beim Empfaenger.
+Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 33 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -138,7 +138,6 @@ Automatisch generierte Komplett-Liste aller 33 Skills in diesem Plugin. Beschrei
 | `lizenz-marke-markeng` | Markenrechtslizenzen nach MarkenG $ 30: Qualitaetskontrolle, Bezeichnungspflicht, Eintragungspflicht im DPMA-Register $ 30 III, Erloeschen nicht-genutzter Marken $ 26, EU-Marken EUIPO. Mit Klauselbausteinen Qualitaetskontrolle. |
 | `lizenz-patent-patg` | Patentlizenzen nach PatG und EPUe: $$ 9 und 15 PatG Lizenz; Erfinderbenennung $ 63 PatG; ArbnErfG Arbeitnehmererfindergesetz; Zwangslizenz $ 24 PatG; Patent-Pool und FRAND-Lizenz; TT-GVO als Kartellfreistellung. |
 | `lizenz-urheberrecht-und-software-urhg` | Urheberrechts- und Software-Lizenzen nach UrhG: $ 31 ff. UrhG einfache und ausschliessliche Nutzungsrechte, $ 32 angemessene Verguetung, $ 32a Bestseller-Klausel, $ 69a-g UrhG Computerprogramme, $ 137l UrhG unbekannte Nutzungsarten. Mit... |
-| `lizenzvertragsersteller-schnellstart` | 'Kompakter Arbeitsmodus für Lizenzvertragsersteller. Er beginnt mit den vorhandenen Dateien, wählt die passenden Skill-Stationen und liefert ein ausformuliertes Ergebnis mit Quellen- und Stop-Kontrolle.' |
 | `mandat-intake-und-konfliktpruefung` | Mandatsannahme fuer Lizenzvertragsersteller: Konfliktcheck (mehrseitige Vertretung im IP-Verkehr ist Standardrisiko), Mandantenbasisdaten, Ziel- und Eilfristanalyse, Vorvertragspruefung (NDA, LOI, MOU), Dokumenten-Intake-Liste. |
 | `output-vertrag-deutsch-fertigentwurf` | Output: vollstaendiger Lizenzvertragsentwurf in deutscher Sprache. Praeambel; 19 Paragraphen; Anlagen A-E; Unterschriftenseite. Aus den Klausel-Bausteinen zusammengestellt; modular je nach IP-Typ und Konstellation. |
 | `output-vertrag-englisch-fertigentwurf` | Output: vollstaendiger Lizenzvertrag in englischer Sprache (Licence Agreement). Standard-Klauseln in English Law / German-Law-Variante; Royalty / Sublicensing / Indemnification / Governing Law / Arbitration. Bilingual-faehig. |
