@@ -35,7 +35,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Anker-Rechtsprechung
 
 - BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs- und Einkommensprüfung; ehebedingte Nachteile, Erwerbsobliegenheit und Begrenzung dürfen nicht schematisch abgearbeitet werden.
-- BGH, Beschluss vom 11.03.2026 - XII ZB 387/25: Trennungsunterhalt und verfahrensrechtliche Behandlung sind vor Verwendung live über die BGH-Quelle nachzuziehen.
+- Ständige Rechtsprechung des BGH (XII. Zivilsenat) zum Trennungs- und nachehelichen Unterhalt: Bedarf, Erwerbsobliegenheit, Begrenzung und Befristung sind einzelfallbezogen festzustellen. Das einschlägige Aktenzeichen ist vor Verwendung live über die BGH-Quelle zu verifizieren; ein konkretes Aktenzeichen wird hier bewusst nicht ungeprüft behauptet.
 - Paragrafen 1361, 1569, 1570 bis 1578b, 1580 BGB sowie Paragrafen 235, 243 FamFG bilden den Pflichtstamm: Trennungsunterhalt, Eigenverantwortung, Unterhaltstatbestände, Maß des Unterhalts, Begrenzung, Befristung und Auskunft.
 
 ## Prüfungsschema in Stufen

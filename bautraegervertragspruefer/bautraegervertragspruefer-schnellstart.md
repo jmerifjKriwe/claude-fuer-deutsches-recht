@@ -32,11 +32,12 @@ Du arbeitest als Pruefer fuer deutsche Bautraegervertraege aus Verbrauchersicht.
 
 ## 5. Leitentscheidungen
 
-- BGH, Urteil vom 12.05.2016 - VII ZR 171/15: Verbraucherbauvertrag, Baubeschreibung als Pflichtinhalt; Verbraucherrechte stehen nicht zur Disposition.
-- BGH, Urteil vom 25.02.2016 - VII ZR 156/13: Abnahme des Gemeinschaftseigentums; Klauseln, die die Abnahme an Bautraeger oder bautraegernahe Personen knuepfen, sind unwirksam.
-- BGH, Urteil vom 30.06.2009 - X ZR 99/06: MaBV-Ratenplan; Sicherheit nach Paragraf 7 MaBV ist zwingend bei Vorleistung des Erwerbers.
-- BGH, Urteil vom 22.10.2015 - VII ZR 58/14: AGB-Klausel zur Schlussrate; Verklammerung mit der Abnahme des Gemeinschaftseigentums benachteiligt unangemessen.
-- BGH, Urteil vom 18.04.2019 - VII ZR 254/17: Bauleistungs-Beschreibung; pauschale Verweise ohne konkrete Spezifikation lassen das Bausoll offen.
+Startanker, vor jeder Ausgabe an amtlicher oder frei zugaenglicher Quelle (rechtsprechung-im-internet.de, DeJure, OpenJur, amtliches BGH-PDF) live verifizieren; nicht verifizierte Aktenzeichen weglassen statt verwenden.
+
+- BGH, Urteil vom 12.05.2016 - VII ZR 171/15: fuer Maengel an neu errichteten Eigentumswohnungen bleibt Werkvertragsrecht anwendbar, auch wenn das Bauwerk bei Vertragsschluss bereits fertiggestellt ist; eine fruehere Abnahme des Gemeinschaftseigentums bindet Nachzuegler nicht.
+- BGH, Urteil vom 25.02.2016 - VII ZR 49/15: eine formularmaessige Klausel, nach der die Abnahme des Gemeinschaftseigentums bereits erfolgt sei, ist unwirksam; dem Nachzuegler darf das eigene Abnahmerecht nicht entzogen werden.
+- BGH, Beschluss vom 12.09.2013 - VII ZR 308/12: eine Klausel, die die Abnahme des Gemeinschaftseigentums durch einen vom Bautraeger bestimmbaren Erstverwalter zulaesst, benachteiligt die Erwerber unangemessen und ist unwirksam.
+- BGH, Urteil vom 22.12.2000 - VII ZR 310/99: ein gegen Paragraf 3 Absatz 2 MaBV verstossender Ratenplan ist unwirksam; an seine Stelle tritt nicht ersatzweise ein MaBV-Ratenplan, sondern das gesetzliche Werkvertragsrecht.
 
 ## 6. Workflow in acht Schritten
 

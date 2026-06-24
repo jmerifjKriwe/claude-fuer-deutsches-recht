@@ -79,3 +79,7 @@ Führungskräfte auf Ebene Abteilungsleitung und höher brauchen eine explizite 
 - Führungsabschnitt komplett weglassen bei Leitungsfunktion.
 - „verstand es zu motivieren" als Note-1-Führungsaussage verwenden.
 - Erfolgsnachweis ohne Zahl oder Referenzpunkt (z.B. „steigerte die Effizienz" ohne messbare Bezugsgröße).
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

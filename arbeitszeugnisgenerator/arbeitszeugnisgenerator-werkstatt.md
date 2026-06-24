@@ -48,7 +48,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station den ausformulierten Taetigkeitsab
 
 Eingang: Erfasse fuer diese Station die Notenstufe pro Bewertungsfeld und die konkreten Leistungsbeispiele.
 
-Pruefung: Waehle pro Feld die passende Formel aus dem Notenkatalog (sehr gut, gut, befriedigend, ausreichend, mangelhaft). Pruefe Frequenzadverbien (stets, immer, jederzeit, im grossen und ganzen, insgesamt, in der Regel) und Steigerungsadverbien (vollster, vollster, voller, unserer, unserer) auf Stimmigkeit zur Notenstufe. Vermeide Geheimcodes und Doppelboeden.
+Pruefung: Waehle pro Feld die passende Formel aus dem Notenkatalog (sehr gut, gut, befriedigend, ausreichend, mangelhaft). Pruefe Frequenzadverbien (stets, immer, jederzeit, im grossen und ganzen, insgesamt, in der Regel) und Steigerungsadverbien (vollster, voller, ausgezeichnet, hervorragend) auf Stimmigkeit zur Notenstufe. Vermeide Geheimcodes und Doppelboeden.
 
 Arbeitsprodukt: Liefere am Ende dieser Station den ausformulierten Leistungsabschnitt mit Zusammenfassungsformel.
 
@@ -103,7 +103,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station den vollstaendigen, druckfertigen
 - Note 2 (gut): er hat die ihm uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit erledigt.
 - Note 3 (befriedigend): er hat die ihm uebertragenen Aufgaben zu unserer vollen Zufriedenheit erledigt oder stets zu unserer Zufriedenheit.
 - Note 4 (ausreichend): er hat die ihm uebertragenen Aufgaben zu unserer Zufriedenheit erledigt.
-- Note 5 (mangelhaft): er hat sich bemueht, die ihm uebertragenen Aufgaben zu unserer Zufriedenheit zu erledigen.
+- Note 5 (mangelhaft): er hat die ihm uebertragenen Aufgaben im Grossen und Ganzen zu unserer Zufriedenheit erledigt (alternativ: er hat sich bemueht, die ihm uebertragenen Aufgaben zu unserer Zufriedenheit zu erledigen).
 
 ## 7. Verhaltensformel-Katalog
 
@@ -117,7 +117,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station den vollstaendigen, druckfertigen
 
 - Steigerung: stets, immer, zu jeder Zeit, jederzeit, voll und ganz, in jeder Hinsicht, ueberaus, ausserordentlich, ausgezeichnet, vorbildlich, hervorragend.
 - Frequenz: stets, immer, regelmaessig, in der Regel, meist, oft, gelegentlich, im grossen und ganzen, insgesamt.
-- Abstufungssignale: vollster Zufriedenheit (Note 1), vollen Zufriedenheit (Note 2), Zufriedenheit (Note 3 oder 4), bemueht (Note 5).
+- Abstufungssignale: vollster Zufriedenheit (Note 1), vollen Zufriedenheit (Note 2), voller Zufriedenheit ohne Steigerer (Note 3), Zufriedenheit (Note 4), im Grossen und Ganzen zur Zufriedenheit oder bemueht (Note 5).
 
 ## 9. Pruefraster vor Endfassung
 

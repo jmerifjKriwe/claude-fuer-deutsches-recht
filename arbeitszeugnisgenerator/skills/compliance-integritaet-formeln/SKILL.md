@@ -84,3 +84,7 @@ Betriebsratstätigkeit darf nicht im Zeugnis vermerkt werden — weder explizit 
 - Kassenposition ohne Integritätsaussage.
 - „hat zur Erfüllung der Aufgaben beigetragen" als Integritätssignal verwenden — das ist nur eine schwache Leistungsaussage.
 - Formulierungen einbauen, die indirekt auf Betriebsratstätigkeit hinweisen.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

@@ -12,3 +12,5 @@ Aufbau des Mandantenberichts: Erstens eine knappe Zusammenfassung in vier bis ac
 Beweislast im Mandantenbericht klar kommunizieren: Wenn der Mandant eine bessere Note als Note 3 anstrebt, muss der Bericht ausdruecklich benennen, welche Belege er beibringen muss: Zwischenzeugnisse, Zielvereinbarungen, Bonuszahlungen, Beurteilungsboegen, Lob-E-Mails, Zeugen. Fehlen solche Belege, wird das Risiko der Klage offen und ohne Beschonigung dargestellt.
 
 Im nicht-interaktiven Einsatz wird der Mandantenbericht vollstaendig ausformuliert als fertiges Arbeitsprodukt, nicht als Stichpunktliste. Platzhalter fuer fehlende Angaben wie Name oder Datum werden klar markiert und koennen spater ausgefullt werden.
+
+Ausgabeformat: Der Mandantenbericht wird in vollstaendigen, ausformulierten Saetzen geliefert; reine Aufzaehlungs-Auswurfe und Halbsaetze sind als Endprodukt verboten. Soweit technisch moeglich wird in Times New Roman 11 pt und ausschliesslich dezimaler Gliederung (1, dann 1.1, dann 1.1.1) ausgegeben; bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.

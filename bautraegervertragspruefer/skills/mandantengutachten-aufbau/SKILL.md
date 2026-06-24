@@ -45,19 +45,19 @@ Vollständiges Mandantengutachten nach dem 15-Abschnitte-Schema mit Ampeltabelle
 ```text
 MANDANTENGUTACHTEN
 
-A. Sachverhalt und geprüfte Unterlagen
+1 Sachverhalt und geprüfte Unterlagen
 Vorliegende Unterlagen: Vertragsentwurf UR-Nr. [X] vom [Datum], Baubeschreibung Version [X] vom [Datum], [weitere].
 Fehlende Unterlagen: [Freistellungserklärung / Baugrundgutachten / Teilungserklärung-Nachtrag / ...] — Prüfvorbehalt.
 
-B. Quellenstand
+2 Quellenstand
 Normen geprüft auf gesetze-im-internet.de: Paragrafen 3, 7, 12 MaBV; Paragrafen 305 bis 309, 633, 634, 640, 650k, 650m, 650u, 650v BGB; Paragrafen 9a, 18, 19, 44, 45 WEG.
 Rechtsprechungsanker verifiziert: [Auflistung mit URLs].
 
-C. Fall-Fingerabdruck
+3 Fall-Fingerabdruck
 [ausgefüllte Fingerabdruck-Tabelle]
 
-[Abschnitte D bis O nach Prüfraster]
+[Abschnitte 4 bis 15 nach Prüfraster]
 
-O. Gesamteinschätzung
+15 Gesamteinschätzung
 [beurkundungsfähig nach Korrektur folgender Punkte / ...]
 ```

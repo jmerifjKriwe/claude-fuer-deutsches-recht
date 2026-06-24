@@ -71,3 +71,7 @@ Beim Langzeit-Verhältnis ist der Beendigungsgrund besonders signalstark:
 - Standardzeugnis ohne Anpassung für besondere Dauer verwenden.
 - Betriebszugehörigkeit nicht explizit nennen.
 - Karge Schlussformel bei langjähriger Betriebszugehörigkeit.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

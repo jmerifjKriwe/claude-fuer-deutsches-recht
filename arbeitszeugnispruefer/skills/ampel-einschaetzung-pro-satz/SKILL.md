@@ -1,6 +1,6 @@
 ---
 name: ampel-einschaetzung-pro-satz
-description: Aufbau der satzweisen Einschaetzungsmatrix als Herzstuck der Zeugnispruefung mit Spalten fuer Originalwortlaut, decodierte Aussage, Notentendenz, Ampelfarbe in Worten und Katalogfundstelle.
+description: Aufbau der satzweisen Einschaetzungsmatrix als Herzstueck der Zeugnispruefung mit Spalten fuer Originalwortlaut, decodierte Aussage, Notentendenz, Ampelfarbe in Worten und Katalogfundstelle.
 ---
 
 # Ampel-Einschaetzung pro Satz
