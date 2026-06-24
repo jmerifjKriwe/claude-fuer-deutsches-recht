@@ -1,3 +1,10 @@
+# v390.0.0 — Handkurierte Feinarbeit fuer Arbeitsrecht, Familienrecht, Familiengericht und Amtsanwaltschaft
+
+- Arbeitsrecht, Fachanwalt Familienrecht, Richter Familiengericht und Staatsanwaltschaft Amtsanwaltschaft als handkuratierte Prompt-Flaggschiffe vor Generator-Ueberschreibung geschuetzt.
+- Werkstatt- und Schnellstart-Prompts dieser vier Plugins auf konkrete Stationen, Arbeitsprodukte, Pruefraster, Pflichtnormen und belastbare Leitentscheidungen verdichtet.
+- Je Fokus-Plugin drei Schluessel-Skills sprachlich und strukturell nachgeschaerft, mit Ziel, Eingang, Pruefraster, Arbeitsprodukt, Stolpersteinen und Anti-Mustern.
+- Repo-Versionen auf v390.0.0 fortgeschrieben.
+
 # v389.0.0 — Sanity-Fix: Oeffnungssatz direkt unter H1 und HTML-Download-Korrektur erhalten
 
 - Plugin-READMEs nach dem Oeffnungssatzlauf formal geglaettet: der Satz steht jetzt unmittelbar unter der H1, ohne Leerzeile, und bleibt wortgleich mit Werkstatt- und Schnellstart-Prompt.

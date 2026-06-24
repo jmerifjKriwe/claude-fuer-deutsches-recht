@@ -1,85 +1,59 @@
 ---
 name: 03-ermittlungsfuehrung-und-ermittlungsanweisung
-description: "Sachleitungsbefugnis der Staatsanwaltschaft (Paragrafen 161 und 163 StPO), Ermittlungsanweisungen an Polizei und Ermittlungspersonen (Paragraf 152 GVG), Ermittlungsplan, Beweisthemen, Aktenfuehrung"
+description: "Führt Ermittlungen staatsanwaltschaftlich: Anfangsverdacht, Beweisthema, belastende und entlastende Umstände, konkrete Ermittlungsaufträge, Fristen, Verwertbarkeit und nächste Abschlussentscheidung."
 ---
 
-# 03 Ermittlungsfuehrung und Ermittlungsanweisung
+# Ermittlungsführung und Ermittlungsanweisung
 
-## Zweck
+## Ziel
 
-Sachleitungsbefugnis der Staatsanwaltschaft (Paragrafen 161 und 163 StPO), Ermittlungsanweisungen an Polizei und Ermittlungspersonen (Paragraf 152 GVG), Ermittlungsplan, Beweisthemen, Aktenfuehrung
+Dieser Skill macht aus Anzeige, Polizeivorgang oder Aktenvermerk eine sachleitende Ermittlungsverfügung. Er trennt Tatvorwurf, Beweisthema, Beweismittel, offene Lücken, Verwertbarkeitsfragen und nächste Abschlussentscheidung.
 
-## Rolle
+## Eingang
 
+- Anzeige, Strafantrag, polizeiliche Kurzmitteilung, Zeugenangaben, Beschuldigtenangaben und Anlagen.
+- Tatzeit, Tatort, Handlung, Schaden, Verletzung, Vorstrafen, Beziehung der Beteiligten und Fristen.
+- Bereits erledigte Ermittlungen, offene Beweismittel, digitale Spuren, Video, Urkunden und ärztliche Unterlagen.
 
-Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
+## Prüfraster
 
-## Rechtsrahmen
+1. Anfangsverdacht nach StPO Paragraf 152 Absatz 2 konkretisieren: Welche Tatsache trägt welchen Straftatbestand.
+2. Beweisthemen bilden: Tatbestand, Vorsatz, Rechtswidrigkeit, Schuld, Schaden und Strafantrag getrennt behandeln.
+3. Belastendes und Entlastendes nach StPO Paragraf 160 Absatz 2 gleichrangig erfassen.
+4. Ermittlungsaufträge so formulieren, dass Polizei oder Ermittlungsperson weiß, wer was bis wann tun soll.
+5. Verwertbarkeit prüfen: Belehrung, Beschlagnahme, Einwilligung, Durchsuchung, digitale Daten und Zeugnisverweigerungsrechte markieren.
+6. Fristen und Priorität setzen: Haft, Verjährung, Strafantrag, Jugendsache, Gewaltschutz und Wiederholungsgefahr besonders kennzeichnen.
+7. Abschlussrichtung festhalten: Einstellung, Strafbefehl, Anklage, weitere Ermittlungen oder Abgabe.
 
-StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
+## Pflichtnormen
 
-## Pflichtschritte
+- StPO Paragraf 152 Absatz 2: Anfangsverdacht.
+- StPO Paragraf 160 Absatz 1 und Absatz 2: Ermittlungsauftrag und Objektivität.
+- StPO Paragraf 161: Auskunfts- und Ermittlungsbefugnisse.
+- StPO Paragraf 163: Aufgaben der Polizei im Ermittlungsverfahren.
+- GVG Paragraf 152: Stellung der Staatsanwaltschaft.
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Pruefungsschema anwenden, Tatbestandsmerkmale und Verfahrensvoraussetzungen durchpruefen.
-4. Be- und entlastende Punkte herausarbeiten (Paragraf 160 Abs. 2 StPO); ggf. Hinweise und Antraege formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur dezernatlichen Pruefung markieren.
-6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
+## Leitentscheidungen
 
-## Output
+- BGH, Beschluss vom 30.07.1999, 1 StR 618/98: Beweiswürdigung muss tragfähig und widerspruchsfrei sein.
+- BGH, Urteil vom 29.07.1998, 1 StR 94/98: Aussage-gegen-Aussage-Konstellationen verlangen besondere Sorgfalt bei Entstehung, Konstanz und Belastungsmotiv.
 
-Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
+## Arbeitsprodukt
 
-## Normen & Rechtsprechung
+- Ermittlungsverfügung mit nummerierten Aufträgen, Fristen und Beweisthemen.
+- Beweismittelmatrix mit Belastung, Entlastung, Quelle, Verwertbarkeit und offenem Schritt.
+- Zwischenvermerk zur Abschlussreife oder zur nächsten Ermittlungsmaßnahme.
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+## Stolpersteine
 
-## Prüf- und Arbeitslogik
+- Anzeigeinhalt ungeprüft als Tatnachweis behandeln.
+- Entlastende Ermittlungsansätze nicht dokumentieren.
+- Ermittlungsauftrag ohne Frist oder Beweisthema formulieren.
+- Verwertbarkeitsfragen erst bei Anklageentwurf bemerken.
+- Strafantrag und Verjährung nicht als Eingangsvoraussetzung prüfen.
 
-1. Ermittlungsfuehrung und Ermittlungsanweisung: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
-2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
-3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
-4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
-5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
+## Anti-Muster
 
-## Typische Fallstricke
-
-- Ermittlungsanweisungen bleiben unbestimmt, sodass die Polizei das Beweisthema selbst auslegen muss.
-- Entlastende Ermittlungsansaetze werden nicht beauftragt, obwohl Paragraf 160 Abs. 2 StPO sie gebietet.
-- Eilbeduerftige Spurensicherung wird hinter Routineermittlungen zurueckgestellt.
-- Akteninhalte gelangen wegen Paragraf 353b StGB und Paragraf 37 BeamtStG in nicht freigegebene Werkzeuge.
-
-## Antrags- bzw. Verfügungs-Bausteine
-
-### Baustein A
-
-```text
-Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
-```
-
-### Baustein B
-
-```text
-Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `02-zustaendigkeit-sta-und-amtsanwaltschaft` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Ermittlungsfuehrung und Ermittlungsanweisung trägt.
-- **Danach**: `04-durchsuchung-und-beschlagnahme-antrag` - Folgeskill nutzen, sobald Ermittlungsfuehrung und Ermittlungsanweisung entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Staatsanwaltschaftliches Arbeitsprodukt und Vorlagegrenzen
-
-- Rolle: Amtsanwalt und staatsanwaltschaftlicher Sitzungsvertreter im amtsgerichtlichen Bereich. Der Skill denkt aus der objektiven Legalitäts- und Sachleitungsrolle, nicht aus Verteidiger- oder Opfervertreterperspektive.
-- Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
-- Arbeitsprodukt: Bußgeld- oder Strafverfahrensvermerk, Sitzungsverfügung, Strafbefehlsantrag, Einstellungsverfügung oder Rechtsmittelvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
-- Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
-- Stop-Kriterium: Bei Aktengeheimnis, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.
+- Keine Sammelverfügung „weiter ermitteln“ ohne konkrete Aufträge.
+- Keine Abschlussentscheidung ohne Beweismittelmatrix.
+- Keine Schuldthese ohne Gegenhypothese.

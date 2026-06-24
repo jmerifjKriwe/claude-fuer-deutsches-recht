@@ -1,166 +1,63 @@
 ---
 name: fachanwalt-familienrecht-versorgungsausgleich
-description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), Paragrafen 1 und 10 VersAusglG (Hin- und Herrechnung), Paragraf 17 VersAusglG (externe Teilung), Paragraf 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen."
+description: "Bereitet den Versorgungsausgleich im Scheidungsverbund vor: Ehezeit, Versorgungsträgerauskünfte, interne und externe Teilung, Ausgleichswert, Geringfügigkeit, Härte, Vereinbarung und Beschlussvorschlag."
 ---
 
 # Versorgungsausgleich
 
-## Zweck
+## Ziel
 
-Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgungs-Anrechte. Standard im Scheidungsverbund.
+Dieser Skill macht die Renten- und Versorgungsdaten im Scheidungsverbund entscheidungsreif. Er prüft Ehezeit, Versorgungsträgerauskünfte, interne oder externe Teilung, Geringfügigkeit, Vereinbarung und Härteeinwand und bereitet eine anwaltliche Stellungnahme oder einen Beschlussvorschlag vor.
 
-## 1) Eingangs-Abfrage
+## Eingang
 
-1. Ehezeit (Eheschliessung bis Rechtshaengigkeit Scheidung)?
-2. Beide Eheleute Versorgungs-Anrechte (DRV, betriebliche, private)?
-3. Beamten-Status?
-4. Eheschliessung im Ausland?
-5. Ausgleichs-Anspruch Verzicht in Ehevertrag?
-6. Höhe Anrechte (Renten-Punkte)?
+- Heiratsdatum, Zustellung des Scheidungsantrags, Trennungsdatum und Aktenzeichen.
+- Auskünfte der Versorgungsträger mit Ehezeitanteil, Ausgleichswert, korrespondierendem Kapitalwert und Teilungskosten.
+- Betriebliche Altersversorgung, private Renten, Beamtenversorgung, gesetzliche Renten, ausländische Anrechte und laufende Renten.
+- Vereinbarungen der Ehegatten, notarielle Urkunden, Ausgleichszahlungen und Härtegründe.
 
-## 2) Rechtsgrundlagen
+## Prüfraster
 
-- **VersAusglG 2009** (Versorgungsausgleichsgesetz seit 1.9.2009)
-- Vorher: Splitting / Quasi-Splitting -> heute Halbteilung
-- **Paragraf 1 VersAusglG**: Pflicht zur Halbteilung
-- **Paragraf 6 VersAusglG**: Vertragliche Modifikationen (Ehevertrag)
-- **Paragraf 27 VersAusglG**: Härteklausel
+1. Ehezeit bestimmen: VersAusglG Paragraf 3 auf den ersten Tag des Monats der Eheschließung bis zum letzten Tag des Monats vor Zustellung anwenden.
+2. Anrechte erfassen: Jedes Anrecht mit Träger, Art, Ehezeitanteil, Ausgleichswert und vorgeschlagener Teilungsform listen.
+3. Teilungsart prüfen: Interne Teilung nach VersAusglG Paragraf 10 als Regelfall; externe Teilung nur bei gesetzlicher Zulässigkeit und Zielversorgung.
+4. Geringfügigkeit prüfen: VersAusglG Paragraf 18 nicht schematisch, sondern mit gerichtlichem Ermessen und Versorgungswirkung anwenden.
+5. Härte prüfen: VersAusglG Paragraf 27 nur bei grober Unbilligkeit und tragfähigem Sachverhalt.
+6. Vereinbarung prüfen: Form, Inhaltskontrolle und Ausgleichswirkung einer Vereinbarung nach VersAusglG Paragrafen 6 bis 8 prüfen.
+7. Beschluss vorbereiten: Tenor für jedes Anrecht getrennt und vollstreckungsfest formulieren.
 
-## 3) Ehezeit-Begriff Paragraf 3 VersAusglG
+## Pflichtnormen
 
-- **Beginn**: 1. des Monats der Eheschliessung
-- **Ende**: letzter Tag des Monats der Rechtshaengigkeit Scheidung
-- Beispiel: Ehe 12.5.2010, Scheidung rechtshaengig 7.3.2025
-- Ehezeit: 1.5.2010 - 31.2.2025
+- VersAusglG Paragraf 1: Grundsatz der Halbteilung.
+- VersAusglG Paragraf 3: Ehezeit.
+- VersAusglG Paragraf 10: interne Teilung.
+- VersAusglG Paragraf 14: externe Teilung.
+- VersAusglG Paragraf 18: Geringfügigkeit.
+- VersAusglG Paragraf 27: grobe Unbilligkeit.
 
-## 4) Anrechte-Arten
+## Leitentscheidungen
 
-### Gesetzliche Rentenversicherung
+- BGH, Beschluss vom 01.02.2017, XII ZB 601/15: Versorgungsausgleich verlangt eine anrechtsbezogene Prüfung und darf Geringfügigkeit nicht mechanisch behandeln.
+- BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Ausgleichswert und Teilungsform müssen aus der Versorgungsträgerauskunft nachvollziehbar abgeleitet werden.
+- BGH, Beschluss vom 24.07.2013, XII ZB 340/11: Härtekorrektur im Versorgungsausgleich bleibt Ausnahme und verlangt konkrete grobe Unbilligkeit.
 
-- Auskunft DRV mit Renten-Punkten
-- Halbteilung der während Ehezeit erworbenen Punkte
+## Arbeitsprodukt
 
-### Beamten-Versorgung
+- Anrechtsmatrix mit Träger, Anrecht, Ehezeitanteil, Ausgleichswert, Teilungsart und offenem Punkt.
+- Anwaltliche Stellungnahme zur Teilung oder zum Einwand.
+- Beschlussvorschlag mit getrenntem Tenor je Versorgungsträger.
+- Nachforderungsliste für fehlende oder widersprüchliche Auskünfte.
 
-- Berechnung nach BeamtVG
-- Quasi-interne Teilung
+## Stolpersteine
 
-### Betriebliche Altersversorgung
+- Gesamtwert statt Ehezeitanteil ausgleichen.
+- Teilungskosten übernehmen, ohne ihre Berücksichtigung auszuweisen.
+- Externe Teilung formulieren, ohne Zielversorgung und Zahlungsweg zu klären.
+- Härte behaupten, ohne konkreten Billigkeitskern.
+- Ausländische oder private Anrechte nicht gesondert behandeln.
 
-- Direktzusage: typisch interne Teilung
-- Pensionskasse / Pensionsfonds: extern möglich
-- Direktversicherung: typisch externe Teilung
+## Anti-Muster
 
-### Private Renten (Riester, Ruerup, klassische LV)
-
-- Auskunft Versicherer
-- Interne oder externe Teilung
-
-## 5) Interne vs. externe Teilung
-
-### Interne Teilung Paragraf 10 VersAusglG
-
-- Im selben Versorgungs-System
-- Ausgleichs-Berechtigter erhaelt eigenen Anspruch
-- Standardform
-
-### Externe Teilung Paragraf 14 VersAusglG
-
-- Bei kleinem Wert (< 84 EUR/Monat Rente, Stand 2024)
-- Auf Antrag des Versorgungs-Trägers
-- Ausgleichswert wird in Ziel-Versorgung übertragen (DRV oder eigene Wahl)
-- BGH-Linie 2020 zur Verzinsung bei externer Teilung
-
-## 6) Berechnung
-
-### Ausgleichswert
-
-- Pro Anrecht: Halftung des während Ehezeit erworbenen Wertes
-- Korrespondierender Kapitalwert nach Bewertungsregeln
-
-### Mehrwert-Faktor
-
-- Bei externer Teilung: Verzinsung des Ausgleichswerts
-- Korrigiert Inflations-Verluste
-
-## 7) Verzicht / Modifikation
-
-### Ehevertrag Paragraf 6 VersAusglG
-
-- Notarielle Form
-- Kontrolle Paragraf 138 BGB (Sittenwidrigkeit)
-- BGH-Linie zur Wirksamkeitsprüfung bei Inkompetenz / Druck
-
-### Härteklausel Paragraf 27 VersAusglG
-
-- Grobe Unbilligkeit bei kurzer Ehe (< 3 Jahre)
-- Bei wesentlicher Wert-Disproportion
-- Bei Mitschuldigkeit
-
-## 8) Workflow
-
-### Phase 1 — Auskunfts-Verfahren
-
-- FamG fordert von beiden Eheleuten Versorgungs-Auskunft
-- Eheleute reichen Formular V10 ein
-- Versorgungs-Träger antwortet binnen 3-6 Monaten
-
-### Phase 2 — Berechnung
-
-- FamG erstellt VA-Beschluss-Entwurf
-- Beide Anwälte überprüfen Auskuenfte
-- Bei Streit: Sachverständiger
-
-### Phase 3 — Beschluss
-
-- FamG beschließt Aufteilung
-- Im Scheidungsverbund Teil des Endbeschlusses
-
-### Phase 4 — Vollzug
-
-- Mitteilung an Versorgungs-Träger
-- Eintragung der Anrechte beim Ausgleichs-Berechtigten
-
-## 9) Anwalts-Strategie
-
-### Bei vermeintlich kurzem Ehe-Verlauf
-
-- Prüfen ob VA-Ausschluss durch Paragraf 27 sinnvoll
-- Bei höheren Anrechten: VA-Ausschluss bringt Verlust
-
-### Bei selbstständigem Mandanten
-
-- Versicherungs-Verträge identifizieren
-- Bei DRV: minimale Anrechte ggf. nicht ausgleichs-relevant
-
-### Bei Auslandsbezug
-
-- Versorgungen aus EU oder Drittstaaten
-- Bei EU: VO (EU) 883/2004 Sozialversicherungs-Abkommen
-
-## 10) Typische Fehler
-
-1. **Versorgungs-Auskunft übersehen** -> falsche Berechnung
-2. **Ehezeit falsch berechnet** -> Falschberechnung
-3. **Interne vs. externe Teilung nicht optimiert** -> wirtschaftlicher Verlust
-4. **Härte-Antrag Paragraf 27 versäumt** -> ungewollte Aufteilung
-5. **Ehevertrag-Prüfung übersprungen** -> Paragraf 138 BGB-Streit später
-
-## 11) BGH-Linien
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Anschluss
-
-- `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — bei Unterhalts-Frage
-- `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag` — bei Konflikt
-- `bav-strategie-konzern` — bei komplexer betrieblicher AV
-
-<!-- AUDIT 27.05.2026 | Bundle 022 | Task 2
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Status: WRONG_TOPIC
-Kindesunterhalt und Immobilienfinanzierung (Tilgungsraten bis Wohnwert berücksichtigbar,
-Paragraf 1603 Abs. 2 BGB) – nicht den Mehrwert-Faktor im Versorgungsausgleich.
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Maßnahme: Zeile aus BGH-Linien (Abschnitt 11) gelöscht.
--->
+- Keine Sammeltenorierung mehrerer Anrechte in einem unklaren Satz.
+- Keine Halbteilung ohne Anrechtsmatrix.
+- Keine Zustimmung zu Vereinbarungen ohne Inhaltskontrolle.

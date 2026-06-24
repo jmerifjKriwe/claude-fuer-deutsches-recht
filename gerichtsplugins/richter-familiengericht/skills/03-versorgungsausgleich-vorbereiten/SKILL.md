@@ -1,97 +1,62 @@
 ---
 name: 03-versorgungsausgleich-vorbereiten
-description: "Versorgungsausgleich nach VersAusglG: Auskuenfte der Versorgungstraeger einholen, Ehezeit feststellen Paragraf 3 VersAusglG, Anrechte ausgleichen Paragrafen 9-17 VersAusglG, Geringfuegigkeit Paragraf 18, Beschlussentwurf"
+description: "Bereitet den Versorgungsausgleich richterlich vor: Ehezeit, Versorgungsträgerauskünfte, interne und externe Teilung, Geringfügigkeit, Härte, Anhörung, Nachforderung und tenorierungsfähiger Beschluss."
 ---
 
-# 03 Versorgungsausgleich Vorbereiten
+# Versorgungsausgleich vorbereiten
 
-## Zweck
+## Ziel
 
-Versorgungsausgleich nach VersAusglG: Auskuenfte der Versorgungstraeger einholen, Ehezeit feststellen Paragraf 3 VersAusglG, Anrechte ausgleichen Paragrafen 9-17 VersAusglG, Geringfuegigkeit Paragraf 18, Beschlussentwurf
+Dieser Skill führt den Familienrichter von der Scheidungsakte zum beschlussreifen Versorgungsausgleich. Er prüft Ehezeit, Beteiligte, Versorgungsträgerauskünfte, Teilungsart, Geringfügigkeit und Härteeinwände und erzeugt Verfügung, Nachforderung oder Beschlussentwurf.
 
-## Rolle
+## Eingang
 
+- Scheidungsantrag, Zustellungsdatum, Heiratsdatum, Beteiligte und Versorgungsausgleichsformulare.
+- Auskünfte der Versorgungsträger mit Ehezeitanteil, Ausgleichswert, korrespondierendem Kapitalwert und Teilungskosten.
+- Stellungnahmen der Beteiligten, Vereinbarungen, Ausschlussanträge und Hinweise auf ausländische Anrechte.
 
-Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, Paragraf 111 FamFG: Ehe, Kindschaft, Abstammung, Adoption, Versorgungsausgleich, Lebenspartnerschaft). Verbundverfahren, einstweilige Anordnung, Gewaltschutz.
+## Prüfraster
 
-## Rechtsrahmen
+1. Ehezeit nach VersAusglG Paragraf 3 bestimmen und im Beschlusskopf notieren.
+2. Alle Versorgungsträger beteiligen und fehlende Auskünfte durch Verfügung nachfordern.
+3. Jedes Anrecht einzeln in eine Anrechtsmatrix aufnehmen: Träger, Art, Ehezeitanteil, Ausgleichswert, Teilungsform, Kosten.
+4. Interne Teilung nach VersAusglG Paragraf 10 als Regelfall prüfen; externe Teilung nach VersAusglG Paragraf 14 nur mit Zielversorgung und Zahlweg.
+5. Geringfügigkeit nach VersAusglG Paragraf 18 als Ermessensfrage abarbeiten, nicht automatisch ausblenden.
+6. Härte nach VersAusglG Paragraf 27 nur bei grober Unbilligkeit und tragfähigem Tatsachenvortrag erwägen.
+7. Tenor je Anrecht getrennt, vollstreckbar und ohne Sammelunklarheit formulieren.
 
-FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
+## Pflichtnormen
 
-## Pflichtschritte
+- VersAusglG Paragraf 1: Halbteilungsgrundsatz.
+- VersAusglG Paragraf 3: Ehezeit.
+- VersAusglG Paragraf 10: interne Teilung.
+- VersAusglG Paragraf 14: externe Teilung.
+- VersAusglG Paragraf 18: Geringfügigkeit.
+- VersAusglG Paragraf 27: Härtefall.
+- FamFG Paragraf 220: Auskünfte der Versorgungsträger.
 
-1. Verfahrensgegenstand und Verfahrensart einordnen (Familienstreitsache oder Verfahren der freiwilligen Gerichtsbarkeit nach FamFG).
-2. Erforderliche Beteiligte und Mitwirkende einbinden (Verfahrensbeistand Paragraf 158 FamFG, Jugendamt, Sachverständige).
-3. Termin und Anhörungen durchführen (Kindesanhörung Paragraf 159 FamFG, Anhörung der Eltern); Amtsermittlung (Paragraf 26 FamFG) wahren.
-4. Kindeswohl, Unterhalt, Versorgungsausgleich oder Gewaltschutz nach dem einschlägigen materiellen Recht prüfen.
-5. Beschluss mit Begründung fassen; Kosten (FamGKG), Wirksamkeit und Vollstreckung regeln.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+## Leitentscheidungen
 
-## Output
+- BGH, Beschluss vom 01.02.2017, XII ZB 601/15: Geringfügigkeit verlangt eine einzelfallbezogene Ermessensprüfung.
+- BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Ausgleichswert und Teilungsform müssen für jedes Anrecht nachvollziehbar aus der Auskunft hervorgehen.
+- BGH, Beschluss vom 24.07.2013, XII ZB 340/11: Ausschluss oder Korrektur wegen grober Unbilligkeit bleibt Ausnahme.
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+## Arbeitsprodukt
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+- Richterliche Verfügung zur Nachforderung fehlender Auskünfte.
+- Anrechtsmatrix für die Akte.
+- Beschlussentwurf mit Tenor je Anrecht, Gründen, Kosten und Rechtsmittelbelehrung.
 
-## Anker-Rechtsprechung
+## Stolpersteine
 
-- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: Versorgungsausgleich ist auf gleichmäßige Teilhabe an den in der Ehezeit erworbenen Anrechten ausgerichtet; interne und externe Teilung sind nicht austauschbar.
-- BGH, Beschluss vom 29.03.2017 - XII ZB 336/16: Bagatell- und Teilungskostenfragen sind an der gesetzlichen Systematik des Versorgungsausgleichsgesetzes und nicht an bloßer Praktikabilität auszurichten.
-- Paragrafen 1, 3, 5, 10, 14, 18, 27 und 31 VersAusglG sowie Paragrafen 220 bis 224 FamFG bilden den Pflichtstamm: Ehezeit, Ausgleichswert, Teilungsform, Auskunft, Tenor und Ausschluss.
+- Nicht alle Versorgungsträger sind beteiligt.
+- Ehezeitende wird mit Trennungsdatum verwechselt.
+- Ehezeitanteil und Gesamtwert werden vertauscht.
+- Geringfügigkeit wird ohne Ermessen angewandt.
+- Externe Teilung wird ohne Zielversorgung tenoriert.
 
-## Prüfungsschema in Stufen
+## Anti-Muster
 
-1. Ehezeit exakt bestimmen.
-   - Beginn ist der erste Tag des Monats der Eheschließung; Ende ist der letzte Tag des Monats vor Zustellung des Scheidungsantrags.
-2. Auskünfte vollständig machen.
-   - Jeder Versorgungsträger muss Ehezeitanteil, Ausgleichswert, korrespondierenden Kapitalwert, Teilungskosten und Teilungsvorschlag ausweisen.
-3. Teilungsart auswählen.
-   - Interne Teilung ist Regelfall; externe Teilung braucht gesetzliche Grundlage, Zielversorgung und konkrete Zahlungsanordnung.
-4. Korrekturen prüfen.
-   - Geringfügigkeit, kurze Ehezeit, grobe Unbilligkeit, Tod eines Beteiligten, ausländische Anrechte und nicht ausgleichsreife Anrechte getrennt behandeln.
-5. Tenor kontrollieren.
-   - Jeder Tenor nennt Versorgungsträger, Vertragsnummer, Ausgleichswert, Bezugszeitpunkt und Teilungsrichtung.
-
-## Typische Fallstricke
-
-- Gesamtanwartschaft wird mit Ehezeitanteil verwechselt; dadurch wird zu viel oder zu wenig übertragen.
-- Teilungskosten werden im Tenor nicht nachvollziehbar berücksichtigt.
-- Externe Teilung wird tenoriert, obwohl Zielversorgung, Kapitalbetrag oder Zahlungsadressat fehlen.
-- Geringfügigkeit wird pauschal angenommen, ohne alle Anrechte und die beiderseitige Versorgungslage zu vergleichen.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Im Wege der internen Teilung wird zulasten des Anrechts des Antragstellers bei [Versorgungsträger], Vertragsnummer [Nummer], zugunsten der Antragsgegnerin ein Anrecht in Höhe von [Ausgleichswert] bezogen auf den [Ehezeitende] übertragen.
-```
-
-### Baustein B
-
-```text
-Der Versorgungsträger [Name] wird aufgefordert, binnen drei Wochen eine ergänzte Auskunft vorzulegen, aus der Ehezeitanteil, Ausgleichswert, korrespondierender Kapitalwert und Teilungskosten getrennt hervorgehen.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `02-ehesache-scheidung-paragraf-1565` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Versorgungsausgleich Vorbereiten trägt.
-- **Danach**: `04-kindschaftssache-elterliche-sorge` - Folgeskill nutzen, sobald Versorgungsausgleich Vorbereiten entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Familiengericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Hinweis, Anhörungsverfügung, einstweilige Anordnung, Endbeschluss oder Vergleichsprotokoll; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 26, 38, 113, 155, 156, 158, 159, 243 FamFG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstation, Antragsgegnerstation, Kindeswohl- oder Unterhaltsachse, Belegen, Anhörungen und Beschlussformel. Er markiert Auskunftslücken, fehlende Einkommensbelege, Anhörungsbedarf und die Frage, ob ein Hinweis, eine einstweilige Anordnung oder ein Endbeschluss vorzubereiten ist.
+- Kein Sammeltenor über mehrere Anrechte.
+- Keine Entscheidung ohne aktuelle Versorgungsträgerauskunft.
+- Keine Härtekorrektur ohne konkreten Tatsachenkern.
