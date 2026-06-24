@@ -1,16 +1,16 @@
 # staatsanwaltschaft-praxis-einstieg
 
-**142 Skills** · Stand `v394.0.0`
+**143 Skills** · Stand `v395.0.0`
 
-- [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
+- [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/README.md)
 
-## ⬇️ Downloads
+## Downloads
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [staatsanwaltschaft-praxis-einstieg-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [staatsanwaltschaft-praxis-einstieg-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-schnellstart.md) |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg-werkstatt.md" download><code>staatsanwaltschaft-praxis-einstieg-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg-schnellstart.md" download><code>staatsanwaltschaft-praxis-einstieg-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [staatsanwaltschaft-praxis-einstieg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg.zip) |
 
@@ -19,15 +19,16 @@
 Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-System.
 
 - **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
-- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausfuehrlichen Arbeitsmodus verwenden.
-- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
-- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.
+- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewünschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` öffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfügen.
 - **`[Raw .md]`** zeigt den Rohtext direkt — als echter Download.
 
 ## Skills in diesem Plugin
 
 | Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
+| [`99-finale-entscheidung-volltext`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/99-finale-entscheidung-volltext/SKILL.md) | Erzeugt die finale entscheidung als volltext (abschlussverfuegung staatsanwaltschaft) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/99-finale-entscheidung-volltext/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/99-finale-entscheidung-volltext/SKILL.md) |
 | [`abschlussverfuegung-anfaengerfehler`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/abschlussverfuegung-anfaengerfehler/SKILL.md) | Abschlussverfügung: Anfängerfehler vermeiden: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/abschlussverfuegung-anfaengerfehler/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/abschlussverfuegung-anfaengerfehler/SKILL.md) |
 | [`aktengeheimnis-und-ki-nutzung-staatsanwaelte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/aktengeheimnis-und-ki-nutzung-staatsanwaelte/SKILL.md) | Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/aktengeheimnis-und-ki-nutzung-staatsanwaelte/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/aktengeheimnis-und-ki-nutzung-staatsanwaelte/SKILL.md) |
 | [`anfangsverdacht-und-verfahrenseinleitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/anfangsverdacht-und-verfahrenseinleitung/SKILL.md) | Anfangsverdacht und Verfahrenseinleitung: Praxis-Skill für neue Staatsanwälte zu Anfangsverdacht, Anzeige, Strafantrag, Offizialdelikt und erste Verfügung trennen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/anfangsverdacht-und-verfahrenseinleitung/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/anfangsverdacht-und-verfahrenseinleitung/SKILL.md) |

@@ -1,16 +1,16 @@
 # urteilsbauer-relationsmacher
 
-**83 Skills** · Stand `v394.0.0`
+**84 Skills** · Stand `v395.0.0`
 
-- [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
+- [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/README.md)
 
-## ⬇️ Downloads
+## Downloads
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [urteilsbauer-relationsmacher-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [urteilsbauer-relationsmacher-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-schnellstart.md) |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher-werkstatt.md" download><code>urteilsbauer-relationsmacher-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher-schnellstart.md" download><code>urteilsbauer-relationsmacher-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [urteilsbauer-relationsmacher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher.zip) |
 
@@ -19,15 +19,16 @@
 Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-System.
 
 - **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
-- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausfuehrlichen Arbeitsmodus verwenden.
-- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
-- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.
+- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewünschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` öffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfügen.
 - **`[Raw .md]`** zeigt den Rohtext direkt — als echter Download.
 
 ## Skills in diesem Plugin
 
 | Skill | Beschreibung | Browser-Ansicht |
 | --- | --- | --- |
+| [`99-finale-entscheidung-volltext`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/skills/99-finale-entscheidung-volltext/SKILL.md) | Erzeugt die finale entscheidung als volltext (urteil oder beschluss universell) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/skills/99-finale-entscheidung-volltext/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/urteilsbauer-relationsmacher/skills/99-finale-entscheidung-volltext/SKILL.md) |
 | [`aktenintake-schriftsatz-brief-und-memo-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/skills/aktenintake-schriftsatz-brief-und-memo-bausteine/SKILL.md) | Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/skills/aktenintake-schriftsatz-brief-und-memo-bausteine/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/urteilsbauer-relationsmacher/skills/aktenintake-schriftsatz-brief-und-memo-bausteine/SKILL.md) |
 | [`aktenintake-zivil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/skills/aktenintake-zivil/SKILL.md) | Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche Hinweispflicht). Prüfraster: Klagschrift mit Anträgen, Str... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/skills/aktenintake-zivil/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/urteilsbauer-relationsmacher/skills/aktenintake-zivil/SKILL.md) |
 | [`amts-aktenintake-zivil-anspruchsgrundlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/skills/amts-aktenintake-zivil-anspruchsgrundlagen/SKILL.md) | Amts: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urteilsbauer-relationsmacher/skills/amts-aktenintake-zivil-anspruchsgrundlagen/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/urteilsbauer-relationsmacher/skills/amts-aktenintake-zivil-anspruchsgrundlagen/SKILL.md) |

@@ -39,22 +39,22 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 232 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 26051 — [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 26068 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 225 |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v395.0.0` — [latest Release auf GitHub]() |
+| **Plugin-Version / Arbeitsstand** | `v395.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
 
 | Paket | Download | Inhalt |
 | --- | --- | --- |
-| **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip]() | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
-| **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip]() | Reine `SKILL.md`-Dateien aller Plugins plus die plugin-lokalen Werkstatt- und Schnellstart-Prompts. Einzelne Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
-| **Alle Testakten als ZIP** | [alle-testakten.zip]() | Alle Testaktenordner in Originalstruktur mit PDF, DOCX, XLSX, JPEG, EML, Markdown und jeweiligem Gesamt-PDF. |
-| **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip]() | Jede Testakte mit jeder einzelnen Unterlage als separater, sauber gerenderter PDF im Originalordnerlayout. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
-| **Alles komplett als ZIP** | [alles-komplettpaket.zip]() | Alle Plugin-ZIPs, alle Skill-Markdown-ZIPs, alle Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien in einem Archiv. Werkstatt- und Schnellstart-Prompts sind als Markdown-Dateien innerhalb der Plugin-Ordner enthalten und werden zusätzlich pro Plugin als Markdown-Direkt-Download verlinkt. |
-| **SHA-256-Prüfsummen** | [checksums-sha256.txt]() | Maschinenlesbare Prüfsummen für Release-Assets; die Release-Pipeline gleicht Größen und Hashes nach dem Upload gegen GitHub ab. |
+| **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
+| **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | Reine `SKILL.md`-Dateien aller Plugins plus die plugin-lokalen Werkstatt- und Schnellstart-Prompts. Einzelne Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
+| **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Alle Testaktenordner in Originalstruktur mit PDF, DOCX, XLSX, JPEG, EML, Markdown und jeweiligem Gesamt-PDF. |
+| **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Jede Testakte mit jeder einzelnen Unterlage als separater, sauber gerenderter PDF im Originalordnerlayout. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
+| **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Skill-Markdown-ZIPs, alle Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien in einem Archiv. Werkstatt- und Schnellstart-Prompts sind als Markdown-Dateien innerhalb der Plugin-Ordner enthalten und werden zusätzlich pro Plugin als Markdown-Direkt-Download verlinkt. |
+| **SHA-256-Prüfsummen** | [checksums-sha256.txt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | Maschinenlesbare Prüfsummen für Release-Assets; die Release-Pipeline gleicht Größen und Hashes nach dem Upload gegen GitHub ab. |
 | **Klotzkettes Juristische Promptliste** | [PROMPTLISTE.md](./PROMPTLISTE.md) | Kuratierte Übersichtsseite praxistauglicher Prompt-Bausteine — sortiert nach Fachanwaltschaften, zum Kopieren in ChatGPT, Claude, Gemini, Perplexity oder beliebige andere Tools. Mit großem Disclaimer. |
 | **Werkstatt- und Schnellstart-Coverage** | [docs/werkstatt-und-schnellstart-coverage.md](./docs/werkstatt-und-schnellstart-coverage.md) | Prüfliste, welches Plugin welche Werkstatt- und Schnellstart-Markdown-Dateien besitzt, mit Markdown-Direkt-Download-Links. |
 
@@ -82,7 +82,7 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 /plugin install <plugin-name>@klotzkette-german-legal-skills
 ```
 
-> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 232 Plugins, 26051 Skills und 225 Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release]():
+> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 232 Plugins, 26068 Skills und 225 Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
 >
 > - `<plugin>.zip` — installierbares Plugin für Claude Code / Claude Desktop / Cowork.
 > - `alle-skills-markdown.zip` — reine `SKILL.md`-Dateien aller Plugins plus Werkstatt- und Schnellstart-Prompts.
@@ -91,9 +91,9 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 >
 > Vorteil: viel kleinerer Download, schnellerer Start, kein Overhead durch ungenutzte Plugins.
 
-> ⏱️ **Geduld beim ersten `marketplace add`.** Claude Code klont beim Hinzufügen das **komplette Repository** in den lokalen Plugin-Cache — inklusive der 225 Testakten mit über 600 PDFs (rund 150 MB) und der Git-History. Das sind insgesamt etwa **600 MB**, die einmalig über die GitHub-Leitung gezogen werden. Auf normaler DSL dauert das nach unserer Einschätzung **circa 2 bis 3 Minuten**, je nach Verbindung und GitHub-Edge auch mal etwas länger. Das ist kein Fehler — bitte einfach durchlaufen lassen, bis Claude die Marketplace-Übersicht öffnet. Folge-Updates (`/plugin marketplace update`) sind danach deutlich schneller, weil nur noch der Delta-Pull über die Leitung geht. Wer nur einzelne Plugins ohne Testakten will, kann alternativ einzelne Plugin-ZIPs aus dem [aktuellen Release]() laden — siehe nächster Absatz.
+> ⏱️ **Geduld beim ersten `marketplace add`.** Claude Code klont beim Hinzufügen das **komplette Repository** in den lokalen Plugin-Cache — inklusive der 225 Testakten mit über 600 PDFs (rund 150 MB) und der Git-History. Das sind insgesamt etwa **600 MB**, die einmalig über die GitHub-Leitung gezogen werden. Auf normaler DSL dauert das nach unserer Einschätzung **circa 2 bis 3 Minuten**, je nach Verbindung und GitHub-Edge auch mal etwas länger. Das ist kein Fehler — bitte einfach durchlaufen lassen, bis Claude die Marketplace-Übersicht öffnet. Folge-Updates (`/plugin marketplace update`) sind danach deutlich schneller, weil nur noch der Delta-Pull über die Leitung geht. Wer nur einzelne Plugins ohne Testakten will, kann alternativ einzelne Plugin-ZIPs aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden — siehe nächster Absatz.
 
-Alternativ: über die Claude-Desktop-/Cowork-GUI unter **Customize → Skills / Plugins** → ZIP aus dem [aktuellen Release]() hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart), [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung) und besonders für Mac-Probleme in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
+Alternativ: über die Claude-Desktop-/Cowork-GUI unter **Customize → Skills / Plugins** → ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart), [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung) und besonders für Mac-Probleme in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
 
 ## 🚨 KEINE Aussage über Berufsrecht, Datenschutz, KI-VO oder Beschlagnahmeverbote
 
@@ -209,7 +209,7 @@ Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbar
 >
 > Diese Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte sie zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
 
-> 🧪 **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen mehrere umfangreiche, anonymisierte Arbeitsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und Mandantennotizen — bewusst unstrukturiert benannt wie ein realer Datenraum. Eine Akte pro typischem Anwendungsfall: Fluggastrechte (Familie Bräutigam-Zaytuna), Betreuung (Frau Sauer, 87, Demenz; Schmalfeld, Kontodaten und verdächtige Verträge), Einfache/Leichte Sprache, Sozialrecht, Fortbestehensprognose, Grundsteuer-Bescheidkette, Grunderwerbsteuer-Share-Deal-Closing und Kanzlei-Lebenszyklus-Alltag. Jede Akte ist als eigenes ZIP am Release angehängt und wird **nicht** mit den Plugins ausgeliefert; zusätzlich gibt es [alle-testakten.zip]() als Sammelarchiv. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
+> 🧪 **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen mehrere umfangreiche, anonymisierte Arbeitsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und Mandantennotizen — bewusst unstrukturiert benannt wie ein realer Datenraum. Eine Akte pro typischem Anwendungsfall: Fluggastrechte (Familie Bräutigam-Zaytuna), Betreuung (Frau Sauer, 87, Demenz; Schmalfeld, Kontodaten und verdächtige Verträge), Einfache/Leichte Sprache, Sozialrecht, Fortbestehensprognose, Grundsteuer-Bescheidkette, Grunderwerbsteuer-Share-Deal-Closing und Kanzlei-Lebenszyklus-Alltag. Jede Akte ist als eigenes ZIP am Release angehängt und wird **nicht** mit den Plugins ausgeliefert; zusätzlich gibt es [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) als Sammelarchiv. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
 
 Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deutschen Beratungspraxis, alphabetisch sortiert. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); für **Gerichts- und Staatsanwaltsperspektive** gibt es den Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) (15 experimentelle Plugins, eine Zeile in der Tabelle unten unter "Gerichts-Plugins"); für **Insolvenz, Sanierung und Krisenarbeit** gibt es die Sammelseite [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/), die zuerst nach Mandatssituation routet und dann auf das passende Einzelplugin verweist (eine Zeile in der Tabelle unten unter "Insolvenz-Plugins").
 
@@ -428,9 +428,9 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 
 Dieses Skill-Set lässt sich auf drei Wegen einbinden. Empfohlen ist **Weg 1** über die grafische Oberfläche; **Weg 2** für gezielten ZIP-Upload einer bestimmten Version; **Weg 3** für Claude Code im Terminal.
 
-> 📆 **Release- vs. main-Stand.** Den **letzten Release-Tag** findest du auf der Seite [Releases](). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
+> 📆 **Release- vs. main-Stand.** Den **letzten Release-Tag** findest du auf der Seite [Releases](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
 
-> 💡 **Findest du in Cowork kein Feld für den GitHub-Pfad oder macht der Mac beim ZIP-Upload Ärger?** Dann ist in deiner Oberfläche der Marketplace-Weg vermutlich noch nicht freigeschaltet oder macOS hat die ZIP anders behandelt als erwartet. Lade die Plugin-ZIPs einzeln aus dem [Release]() herunter und installiere sie über denselben Dialog, mit dem du z. B. "Legal Plugin" installierst. Mac-Hinweise zu Safari-Auto-Entpacken, iCloud-Platzhaltern, MegaZIP vs. Einzel-ZIP und Terminal-Check: **[INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md)**.
+> 💡 **Findest du in Cowork kein Feld für den GitHub-Pfad oder macht der Mac beim ZIP-Upload Ärger?** Dann ist in deiner Oberfläche der Marketplace-Weg vermutlich noch nicht freigeschaltet oder macOS hat die ZIP anders behandelt als erwartet. Lade die Plugin-ZIPs einzeln aus dem [Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) herunter und installiere sie über denselben Dialog, mit dem du z. B. "Legal Plugin" installierst. Mac-Hinweise zu Safari-Auto-Entpacken, iCloud-Platzhaltern, MegaZIP vs. Einzel-ZIP und Terminal-Check: **[INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md)**.
 
 ### Voraussetzungen
 
@@ -594,7 +594,7 @@ Aktivierung in Cowork: `Customize → Skills → Persönliche Plugins → +` und
 
 1. **Einen Claude-Account** (kostenlos oder Pro) – Registrierung unter https://claude.ai
 2. **Claude Desktop** (empfohlen) oder **Claude Code** – Download: https://claude.com/download
-3. **Für GUI-Installation:** ein einzelnes Plugin-ZIP aus dem [aktuellen Release](). **Für Entwickler:** dieses Repository mit Git klonen.
+3. **Für GUI-Installation:** ein einzelnes Plugin-ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). **Für Entwickler:** dieses Repository mit Git klonen.
 
 ### Installation in Claude Desktop (für absolute Einsteiger)
 
@@ -606,7 +606,7 @@ Aktivierung in Cowork: `Customize → Skills → Persönliche Plugins → +` und
 
 **Schritt 2: Plugin-ZIP herunterladen**
 
-1. Öffne den [aktuellen Release]().
+1. Öffne den [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest).
 2. Lade **ein einzelnes Plugin-ZIP** herunter, z. B. `arbeitsrecht.zip`, `vertragsrecht.zip` oder `liquiditaetsplanung.zip`.
 3. Auf dem Mac darauf achten: die ZIP nicht entpacken; falls Safari sie automatisch entpackt, erneut als ZIP laden oder die Safari-Auto-Entpackung deaktivieren.
 

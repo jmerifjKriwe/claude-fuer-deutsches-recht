@@ -1,16 +1,16 @@
 # richter-familiengericht
 
-**11 Skills** · Stand `v394.0.0`
+**12 Skills** · Stand `v395.0.0`
 
-- [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
+- [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/README.md)
 
-## ⬇️ Downloads
+## Downloads
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [richter-familiengericht-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/richter-familiengericht-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [richter-familiengericht-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/richter-familiengericht-schnellstart.md) |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht-werkstatt.md" download><code>richter-familiengericht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht-schnellstart.md" download><code>richter-familiengericht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [richter-familiengericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht.zip) |
 
@@ -19,9 +19,9 @@
 Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-System.
 
 - **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
-- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausfuehrlichen Arbeitsmodus verwenden.
-- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
-- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.
+- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewünschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` öffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfügen.
 - **`[Raw .md]`** zeigt den Rohtext direkt — als echter Download.
 
 ## Skills in diesem Plugin
@@ -38,4 +38,5 @@ Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-Sy
 | [`08-gewaltschutz-und-eilanordnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/08-gewaltschutz-und-eilanordnung/SKILL.md) | Gewaltschutzverfahren GewSchG: Schutzanordnungen Paragraf 1 (Abstand, Naehe, Kontakt), Wohnungszuweisung Paragraf 2, Eilbeschluss Paragraf 214 FamFG, sofortige Wirksamkeit Paragraf 209 FamFG, Strafbewehrung Paragraf 4 GewSchG | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/08-gewaltschutz-und-eilanordnung/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/skills/08-gewaltschutz-und-eilanordnung/SKILL.md) |
 | [`09-beschluss-familiensache-paragraf-38-famfg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/09-beschluss-familiensache-paragraf-38-famfg/SKILL.md) | Erstellt richterliche Beschlüsse in Familiensachen nach Paragraf 38 FamFG mit Rubrum, Tenor, Gründen, Kosten, Vollstreckbarkeit, Rechtsmittelbelehrung und sauberer Nummerierung. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/09-beschluss-familiensache-paragraf-38-famfg/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/skills/09-beschluss-familiensache-paragraf-38-famfg/SKILL.md) |
 | [`10-entscheidungsvorschlag-familienrichter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/10-entscheidungsvorschlag-familienrichter/SKILL.md) | Strukturierter Entscheidungsvorschlag für den Familienrichter: Tenor-Skizze (Scheidungsausspruch, Folgesachen, Sorge/Umgang/Unterhalt), Kindeswohlerwaegungen, Risikohinweise (insbesondere bei Eilanordnungen), ausdrücklich zur richterlichen Prüfung markiert | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/10-entscheidungsvorschlag-familienrichter/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/skills/10-entscheidungsvorschlag-familienrichter/SKILL.md) |
+| [`99-finale-entscheidung-volltext`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/99-finale-entscheidung-volltext/SKILL.md) | Erzeugt die finale entscheidung als volltext (beschluss familiengericht) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/99-finale-entscheidung-volltext/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/skills/99-finale-entscheidung-volltext/SKILL.md) |
 | [`v392-praxisraster-richter-familiengericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/v392-praxisraster-richter-familiengericht/SKILL.md) | Praxisraster für Familiengericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-familiengericht/skills/v392-praxisraster-richter-familiengericht/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/skills/v392-praxisraster-richter-familiengericht/SKILL.md) |

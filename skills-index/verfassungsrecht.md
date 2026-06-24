@@ -1,16 +1,16 @@
 # verfassungsrecht
 
-**67 Skills** · Stand `v394.0.0`
+**67 Skills** · Stand `v395.0.0`
 
-- [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
+- [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/README.md)
 
-## ⬇️ Downloads
+## Downloads
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | [verfassungsrecht-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/verfassungsrecht-werkstatt.md) |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [verfassungsrecht-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/verfassungsrecht-schnellstart.md) |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verfassungsrecht-werkstatt.md" download><code>verfassungsrecht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verfassungsrecht-schnellstart.md" download><code>verfassungsrecht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [verfassungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verfassungsrecht.zip) |
 
@@ -19,9 +19,9 @@
 Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-System.
 
 - **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
-- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausfuehrlichen Arbeitsmodus verwenden.
-- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewuenschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
-- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` oeffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfuegen.
+- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.
+- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewünschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.
+- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` öffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfügen.
 - **`[Raw .md]`** zeigt den Rohtext direkt — als echter Download.
 
 ## Skills in diesem Plugin
@@ -30,8 +30,8 @@ Skills sind reine Markdown-Prompts und funktionieren in jedem geeigneten Chat-Sy
 | --- | --- | --- |
 | [`acht-zahlen-schwellen-und-berechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/acht-zahlen-schwellen-und-berechnung/SKILL.md) | Acht: Zahlen, Schwellenwerte und Berechnung im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/acht-zahlen-schwellen-und-berechnung/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/skills/acht-zahlen-schwellen-und-berechnung/SKILL.md) |
 | [`anschluss-routing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/anschluss-routing/SKILL.md) | Anschluss-Routing für Verfassungsrecht: wählt den nächsten Spezial-Skill nach Engpass (§ 93 BVerfGG 1 Monat Verfassungsbeschwerde, Letzter fachgerichtl. Beschluss, Verfassungsbeschwerde-Schriftsatz, Vorlagebeschluss), dokumentiert Router-Entscheidung mit Begründung. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/anschluss-routing/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/skills/anschluss-routing/SKILL.md) |
-| [`art-12-berufsfreiheit-regulierungsdichte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/art-12-berufsfreiheit-regulierungsdichte/SKILL.md) | Art. 12 GG in Berufs- und Wirtschaftsregulierung: Berufsausübung, subjektive und objektive Zulassung, Altersgrenzen, sektorale Verbote, Einschätzungsspielraum und Verhältnismäßigkeit nach aktueller BVerfG-Linie. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/art-12-berufsfreiheit-regulierungsdichte/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/skills/art-12-berufsfreiheit-regulierungsdichte/SKILL.md) |
 | [`art-5-meinung-presse-mehrdeutigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/art-5-meinung-presse-mehrdeutigkeit/SKILL.md) | Art. 5 GG für Meinungs-, Presse- und Rundfunkfreiheit: Meinungsbegriff, Tatsachenbehauptung, Schmähkritik, mehrdeutige Äußerung, strafgerichtliche Deutung, Lebensmittelkontrolle und Wechselwirkungslehre. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/art-5-meinung-presse-mehrdeutigkeit/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/skills/art-5-meinung-presse-mehrdeutigkeit/SKILL.md) |
+| [`art-12-berufsfreiheit-regulierungsdichte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/art-12-berufsfreiheit-regulierungsdichte/SKILL.md) | Art. 12 GG in Berufs- und Wirtschaftsregulierung: Berufsausübung, subjektive und objektive Zulassung, Altersgrenzen, sektorale Verbote, Einschätzungsspielraum und Verhältnismäßigkeit nach aktueller BVerfG-Linie. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/art-12-berufsfreiheit-regulierungsdichte/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/skills/art-12-berufsfreiheit-regulierungsdichte/SKILL.md) |
 | [`bundesverfassungsgericht-quellenkarte-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/bundesverfassungsgericht-quellenkarte-check/SKILL.md) | BVerfG-Quellenkarte für tragende verfassungsrechtliche Aussagen: amtliche Entscheidung, Aktenzeichen, Entscheidungsform, Datum, Randnummer, Tenorbindung nach § 31 BVerfGG und Übertragbarkeit auf den konkreten Fall. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/bundesverfassungsgericht-quellenkarte-check/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/skills/bundesverfassungsgericht-quellenkarte-check/SKILL.md) |
 | [`bverfg-eilantrag-paragraf-32-doppelhypothese`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/bverfg-eilantrag-paragraf-32-doppelhypothese/SKILL.md) | Einstweilige Anordnung vor dem Bundesverfassungsgericht nach § 32 BVerfGG: Doppelhypothese, Folgenabwägung, Hauptsacheoffenheit, irreversible Nachteile, Tenorierung und Anlagenpaket für Verfassungsbeschwerde, Organstreit oder Normenkontrolle. | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/bverfg-eilantrag-paragraf-32-doppelhypothese/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/skills/bverfg-eilantrag-paragraf-32-doppelhypothese/SKILL.md) |
 | [`bverfg-prozessarten-navigator-parteien-antraege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/bverfg-prozessarten-navigator-parteien-antraege/SKILL.md) | BVerfG-Prozessarten vollständig routen: Verfassungsbeschwerde, § 32 BVerfGG, Organstreit, Bund-Länder-Streit, abstrakte/konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Präsidentenanklage, Richteranklage, Völkerrechtsregelprü... | [Markdown](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verfassungsrecht/skills/bverfg-prozessarten-navigator-parteien-antraege/SKILL.md) · [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verfassungsrecht/skills/bverfg-prozessarten-navigator-parteien-antraege/SKILL.md) |

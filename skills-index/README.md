@@ -1,10 +1,10 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v394.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v395.0.0`.
 
-Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
+Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstürzt oder die Seite endlos neu lädt.
 
-- [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
+- [← Zurück zur Gesamtübersicht](../SKILLS.md)
 
 ## Alle Detailseiten
 
@@ -170,24 +170,24 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (59 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (65 Skills)
 - [regulatorisches-recht](./regulatorisches-recht.md) (61 Skills)
-- [relationstechnik-zivilrecht](./relationstechnik-zivilrecht.md) (20 Skills)
+- [relationstechnik-zivilrecht](./relationstechnik-zivilrecht.md) (21 Skills)
 - [rentenpruefer](./rentenpruefer.md) (51 Skills)
-- [richter-amtsgericht-handelsregister](./richter-amtsgericht-handelsregister.md) (10 Skills)
-- [richter-amtsgericht-insolvenz-restrukturierung](./richter-amtsgericht-insolvenz-restrukturierung.md) (10 Skills)
-- [richter-amtsgericht-straf](./richter-amtsgericht-straf.md) (11 Skills)
-- [richter-amtsgericht-zivil](./richter-amtsgericht-zivil.md) (11 Skills)
-- [richter-arbeitsgericht](./richter-arbeitsgericht.md) (11 Skills)
-- [richter-bverfg-verfassungsbeschwerden](./richter-bverfg-verfassungsbeschwerden.md) (10 Skills)
-- [richter-familiengericht](./richter-familiengericht.md) (11 Skills)
-- [richter-finanzgericht](./richter-finanzgericht.md) (11 Skills)
-- [richter-landgericht-strafkammer](./richter-landgericht-strafkammer.md) (11 Skills)
-- [richter-landgericht-zivilkammer](./richter-landgericht-zivilkammer.md) (11 Skills)
-- [richter-sozialgericht](./richter-sozialgericht.md) (11 Skills)
-- [richter-verwaltungsgericht](./richter-verwaltungsgericht.md) (11 Skills)
+- [richter-amtsgericht-handelsregister](./richter-amtsgericht-handelsregister.md) (11 Skills)
+- [richter-amtsgericht-insolvenz-restrukturierung](./richter-amtsgericht-insolvenz-restrukturierung.md) (11 Skills)
+- [richter-amtsgericht-straf](./richter-amtsgericht-straf.md) (12 Skills)
+- [richter-amtsgericht-zivil](./richter-amtsgericht-zivil.md) (12 Skills)
+- [richter-arbeitsgericht](./richter-arbeitsgericht.md) (12 Skills)
+- [richter-bverfg-verfassungsbeschwerden](./richter-bverfg-verfassungsbeschwerden.md) (11 Skills)
+- [richter-familiengericht](./richter-familiengericht.md) (12 Skills)
+- [richter-finanzgericht](./richter-finanzgericht.md) (12 Skills)
+- [richter-landgericht-strafkammer](./richter-landgericht-strafkammer.md) (12 Skills)
+- [richter-landgericht-zivilkammer](./richter-landgericht-zivilkammer.md) (12 Skills)
+- [richter-sozialgericht](./richter-sozialgericht.md) (12 Skills)
+- [richter-verwaltungsgericht](./richter-verwaltungsgericht.md) (12 Skills)
 - [robotik-recht](./robotik-recht.md) (212 Skills)
 - [roemisch-katholisches-kirchenrecht](./roemisch-katholisches-kirchenrecht.md) (1877 Skills)
 - [roemisches-recht](./roemisches-recht.md) (284 Skills)
-- [schoeffen-handelsrichter-praxis](./schoeffen-handelsrichter-praxis.md) (80 Skills)
+- [schoeffen-handelsrichter-praxis](./schoeffen-handelsrichter-praxis.md) (81 Skills)
 - [schriftform-und-textform-bgb](./schriftform-und-textform-bgb.md) (59 Skills)
 - [schulrecht-laender](./schulrecht-laender.md) (100 Skills)
 - [seerecht-schifffahrtsrecht](./seerecht-schifffahrtsrecht.md) (238 Skills)
@@ -196,8 +196,8 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [softwarerecht-de-eu-us](./softwarerecht-de-eu-us.md) (105 Skills)
 - [solo-selbststaendige-praxis](./solo-selbststaendige-praxis.md) (201 Skills)
 - [sozialversicherungsstatus-pruefer](./sozialversicherungsstatus-pruefer.md) (101 Skills)
-- [staatsanwaltschaft-amtsanwaltschaft](./staatsanwaltschaft-amtsanwaltschaft.md) (29 Skills)
-- [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (142 Skills)
+- [staatsanwaltschaft-amtsanwaltschaft](./staatsanwaltschaft-amtsanwaltschaft.md) (30 Skills)
+- [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (143 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (111 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (35 Skills)
 - [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (385 Skills)
@@ -213,7 +213,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [umweltrecht](./umweltrecht.md) (58 Skills)
 - [umweltschutzverband-verbandsklage](./umweltschutzverband-verbandsklage.md) (112 Skills)
 - [urheberrecht-de-eu](./urheberrecht-de-eu.md) (64 Skills)
-- [urteilsbauer-relationsmacher](./urteilsbauer-relationsmacher.md) (83 Skills)
+- [urteilsbauer-relationsmacher](./urteilsbauer-relationsmacher.md) (84 Skills)
 - [us-bankruptcy-code](./us-bankruptcy-code.md) (100 Skills)
 - [us-copyright-registrierung-verlag](./us-copyright-registrierung-verlag.md) (100 Skills)
 - [venture-capital-geber](./venture-capital-geber.md) (105 Skills)

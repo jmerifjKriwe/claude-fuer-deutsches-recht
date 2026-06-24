@@ -11,9 +11,9 @@ Bestehende, manuell gepflegte Skills-Sektionen werden NICHT angetastet.
 
 from __future__ import annotations
 
-import os
 import re
 import sys
+import json
 from pathlib import Path
 
 BEGIN = "<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->"
@@ -73,14 +73,25 @@ def read_description(skill_md: Path) -> str:
     return desc
 
 
+def natural_key(text: str) -> list[object]:
+    normalized = text.lower()
+    if re.match(r"^lph\d", normalized):
+        normalized = f"lphz-{normalized}"
+    normalized = re.sub(r"(?<=[a-z])(?=\d)", "-", normalized)
+    return [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", normalized)]
+
+
 def build_overview(plugin_dir: Path) -> str:
     skills_dir = plugin_dir / "skills"
     if not skills_dir.is_dir():
         return ""
     skills = sorted(
-        d.name
-        for d in skills_dir.iterdir()
-        if d.is_dir() and (d / "SKILL.md").is_file()
+        (
+            d.name
+            for d in skills_dir.iterdir()
+            if d.is_dir() and (d / "SKILL.md").is_file()
+        ),
+        key=natural_key,
     )
     if not skills:
         return ""
@@ -130,14 +141,15 @@ def update_readme(readme: Path, overview: str) -> bool:
 
 def main() -> int:
     repo = Path(__file__).resolve().parent.parent
-    os.chdir(repo)
+    marketplace = json.loads((repo / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8"))
     changed = 0
     total = 0
-    for plugin_json in sorted(repo.glob("*/.claude-plugin/plugin.json")):
-        plugin_dir = plugin_json.parent.parent
+    for plugin in marketplace["plugins"]:
+        source = plugin.get("source") or f"./{plugin['name']}"
+        plugin_dir = repo / source.removeprefix("./")
         readme = plugin_dir / "README.md"
         if not readme.is_file():
-            print(f"  SKIP {plugin_dir.name}: keine README.md")
+            print(f"  SKIP {plugin['name']}: keine README.md")
             continue
         overview = build_overview(plugin_dir)
         if not overview:
