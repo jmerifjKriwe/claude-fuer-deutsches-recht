@@ -1,6 +1,6 @@
 ---
 name: pruefung-red-team-und-qualitaetskontrolle
-description: "Prüfung: Red-Team und Qualitätskontrolle im Vertragsrecht."
+description: "Prüfung: Red-Team und Qualitätskontrolle im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Prüfung: Red-Team und Qualitätskontrolle

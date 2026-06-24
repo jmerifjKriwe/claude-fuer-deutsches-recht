@@ -1,6 +1,6 @@
 ---
 name: case-dpia-drift
-description: "Case: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Case: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Case: Tatbestandsmerkmale, Beweisfragen und Beleglage

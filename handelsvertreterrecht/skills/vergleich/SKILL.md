@@ -1,6 +1,6 @@
 ---
 name: vergleich
-description: "Entwirft Vergleich im Vertreterstreit."
+description: "Entwirft Vergleich im Vertreterstreit. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vergleich

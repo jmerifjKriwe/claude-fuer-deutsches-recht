@@ -1,6 +1,6 @@
 ---
 name: fristen-mehrparteien-konflikt-und-interessen
-description: "Fristen: Mehrparteienkonflikt und Interessenmatrix."
+description: "Fristen: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fristen: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: vendor-red-team-und-qualitaetskontrolle
-description: "Vendor: Red-Team und Qualitätskontrolle."
+description: "Vendor: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vendor: Red-Team und Qualitätskontrolle

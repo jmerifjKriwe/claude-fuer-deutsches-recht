@@ -1,6 +1,6 @@
 ---
 name: abgrenzung-adaptiver-antrag
-description: "Abgrenzung: Compliance-Dokumentation und Aktenvermerk."
+description: "Abgrenzung: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Abgrenzung: Compliance-Dokumentation und Aktenvermerk

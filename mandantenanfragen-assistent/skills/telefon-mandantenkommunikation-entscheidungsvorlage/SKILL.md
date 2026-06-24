@@ -1,6 +1,6 @@
 ---
 name: telefon-mandantenkommunikation-entscheidungsvorlage
-description: "Telefon: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Telefon: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Telefon: Mandantenkommunikation und Entscheidungsvorlage

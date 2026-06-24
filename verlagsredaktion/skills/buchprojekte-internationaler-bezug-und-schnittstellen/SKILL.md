@@ -1,6 +1,6 @@
 ---
 name: buchprojekte-internationaler-bezug-und-schnittstellen
-description: "Buchprojekte: Internationaler Bezug und Schnittstellen im Verlagsredaktion."
+description: "Buchprojekte: Internationaler Bezug und Schnittstellen im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Buchprojekte: Internationaler Bezug und Schnittstellen

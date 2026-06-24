@@ -1,6 +1,6 @@
 ---
 name: klage-beweislast-nachbarrecht
-description: "Klage: Beweislast, Darlegungslast und Substantiierung."
+description: "Klage: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Klage: Beweislast, Darlegungslast und Substantiierung

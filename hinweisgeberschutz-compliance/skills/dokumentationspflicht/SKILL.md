@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflicht
-description: "Prüft Dokumentation eingehender Meldungen im Hinweisgeberschutz Compliance."
+description: "Prüft Dokumentation eingehender Meldungen im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dokumentationspflicht

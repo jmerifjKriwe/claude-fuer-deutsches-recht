@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Unternehmen und Grundstücksdaten sind anonymisiert. Die Akte gehört fachlich zum Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers`.
+Arbeitsakte zum Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers`.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: beruht-verhandlung-vergleich-und-eskalation
-description: "Beruht: Verhandlung, Vergleich und Eskalation."
+description: "Beruht: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beruht: Verhandlung, Vergleich und Eskalation

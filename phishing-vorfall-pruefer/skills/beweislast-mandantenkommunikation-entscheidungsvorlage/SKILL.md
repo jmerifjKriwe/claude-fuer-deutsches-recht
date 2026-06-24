@@ -1,6 +1,6 @@
 ---
 name: beweislast-mandantenkommunikation-entscheidungsvorlage
-description: "Beweislast: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Beweislast: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beweislast: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: bewerber-ehemalige
-description: "Prüft Bewerber und ehemalige Beschäftigte im Hinweisgeberschutz Compliance."
+description: "Prüft Bewerber und ehemalige Beschäftigte im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bewerber Ehemalige

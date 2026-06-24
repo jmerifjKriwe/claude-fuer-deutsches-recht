@@ -1,6 +1,6 @@
 ---
 name: erstellung-forschungsdatenzugang
-description: "Erstellung: Abschlussprodukt und Übergabe."
+description: "Erstellung: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Erstellung: Abschlussprodukt und Übergabe

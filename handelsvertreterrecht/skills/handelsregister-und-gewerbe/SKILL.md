@@ -1,6 +1,6 @@
 ---
 name: handelsregister-und-gewerbe
-description: "Prüft Gewerbe, Register und Auftreten."
+description: "Prüft Gewerbe, Register und Auftreten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Handelsregister Und Gewerbe

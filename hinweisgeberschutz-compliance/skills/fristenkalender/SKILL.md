@@ -1,6 +1,6 @@
 ---
 name: fristenkalender
-description: "Erzeugt Fristenkalender für Hinweisfälle im Hinweisgeberschutz Compliance."
+description: "Erzeugt Fristenkalender für Hinweisfälle im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fristenkalender

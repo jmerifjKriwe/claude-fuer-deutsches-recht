@@ -1,6 +1,6 @@
 ---
 name: rechtsgebietsneutral-sachverhalt-satz
-description: "Rechtsgebietsneutral: Abschlussprodukt und Übergabe."
+description: "Rechtsgebietsneutral: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rechtsgebietsneutral: Abschlussprodukt und Übergabe

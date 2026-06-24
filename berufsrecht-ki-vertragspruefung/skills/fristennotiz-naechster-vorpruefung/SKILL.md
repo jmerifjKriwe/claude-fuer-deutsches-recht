@@ -1,6 +1,6 @@
 ---
 name: fristennotiz-naechster-vorpruefung
-description: "Vertragspruefung: Fristennotiz und nächster Schritt."
+description: "Vertragspruefung: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vertragspruefung: Fristennotiz und nächster Schritt

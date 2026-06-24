@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-meldung-geschaeftsgeheimnis
-description: "Verbindet Hinweis mit GwG/FIU-Pflichten im Hinweisgeberschutz Compliance."
+description: "Verbindet Hinweis mit GwG/FIU-Pflichten im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Geldwaesche Meldung

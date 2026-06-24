@@ -1,6 +1,6 @@
 ---
 name: alleinvertreter
-description: "Prüft Alleinvertretung und Exklusivität."
+description: "Prüft Alleinvertretung und Exklusivität. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Alleinvertreter

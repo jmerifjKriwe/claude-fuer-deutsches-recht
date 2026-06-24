@@ -1,6 +1,6 @@
 ---
 name: online-risikoampel-und-gegenargumente
-description: "Online: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Online: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Online: Risikoampel, Gegenargumente und Verteidigungslinien

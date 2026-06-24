@@ -1,6 +1,6 @@
 ---
 name: stil-abschlussprodukt-und-uebergabe
-description: "Stil: Abschlussprodukt und Übergabe."
+description: "Stil: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Stil: Abschlussprodukt und Übergabe

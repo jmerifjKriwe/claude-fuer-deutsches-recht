@@ -1,6 +1,6 @@
 ---
 name: nennt-sachverhalt-telefon
-description: "Nennt: Zahlen, Schwellenwerte und Berechnung."
+description: "Nennt: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Nennt: Zahlen, Schwellenwerte und Berechnung

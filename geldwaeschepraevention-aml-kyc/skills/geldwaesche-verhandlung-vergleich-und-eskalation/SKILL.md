@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verhandlung-vergleich-und-eskalation
-description: "Geldwaesche: Verhandlung, Vergleich und Eskalation."
+description: "Geldwaesche: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Geldwaesche: Verhandlung, Vergleich und Eskalation

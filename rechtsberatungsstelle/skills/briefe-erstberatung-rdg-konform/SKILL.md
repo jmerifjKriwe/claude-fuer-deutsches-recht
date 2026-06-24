@@ -1,6 +1,6 @@
 ---
 name: briefe-erstberatung-rdg-konform
-description: "Briefe: Zahlen, Schwellenwerte und Berechnung im Rechtsberatungsstelle."
+description: "Briefe: Zahlen, Schwellenwerte und Berechnung im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Briefe: Zahlen, Schwellenwerte und Berechnung

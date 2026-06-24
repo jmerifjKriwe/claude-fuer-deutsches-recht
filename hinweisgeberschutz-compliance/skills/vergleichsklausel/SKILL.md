@@ -1,6 +1,6 @@
 ---
 name: vergleichsklausel
-description: "Entwirft Vergleichsklauseln hinweisgeberfest im Hinweisgeberschutz Compliance."
+description: "Entwirft Vergleichsklauseln hinweisgeberfest im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vergleichsklausel

@@ -1,6 +1,6 @@
 ---
 name: tatbestand-formular-portal-und-einreichung
-description: "Tatbestand: Formular, Portal und Einreichungslogik."
+description: "Tatbestand: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Tatbestand: Formular, Portal und Einreichungslogik

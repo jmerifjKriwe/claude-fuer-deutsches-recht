@@ -1,6 +1,6 @@
 ---
 name: versteigerungsteilnahme-mehrparteienkonflikt
-description: "Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix."
+description: "Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix

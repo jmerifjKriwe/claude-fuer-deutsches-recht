@@ -1,6 +1,6 @@
 ---
 name: opposition-risikoampel-und-gegenargumente
-description: "Opposition: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Opposition: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Opposition: Risikoampel, Gegenargumente und Verteidigungslinien

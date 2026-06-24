@@ -15,7 +15,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Unternehmen und Behördendetails sind fiktiv und dienen ausschließlich Demonstrationszwecken. Die Akte gehört fachlich zum Plugin `fachanwalt-internationales-wirtschaftsrecht`.
+Arbeitsakte zum Plugin `fachanwalt-internationales-wirtschaftsrecht`.
 
 ---
 

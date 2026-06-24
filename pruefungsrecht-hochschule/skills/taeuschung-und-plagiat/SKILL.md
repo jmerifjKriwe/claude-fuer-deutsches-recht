@@ -1,6 +1,6 @@
 ---
 name: taeuschung-und-plagiat
-description: "Prüft Täuschung, Plagiat und Sanktionen im Prüfungsrecht Hochschule."
+description: "Prüft Täuschung, Plagiat und Sanktionen im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Taeuschung Und Plagiat

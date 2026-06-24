@@ -1,6 +1,6 @@
 ---
 name: einspruch-dokumentenmatrix-und-lueckenliste
-description: "Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung

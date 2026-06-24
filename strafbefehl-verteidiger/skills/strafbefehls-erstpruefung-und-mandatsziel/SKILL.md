@@ -1,6 +1,6 @@
 ---
 name: strafbefehls-erstpruefung-und-mandatsziel
-description: "Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel

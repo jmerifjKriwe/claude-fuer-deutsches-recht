@@ -1,6 +1,6 @@
 ---
 name: loesungsschemata-mehrparteien-konflikt-und-interessen
-description: "Loesungsschemata: Mehrparteienkonflikt und Interessenmatrix im Jurastudium."
+description: "Loesungsschemata: Mehrparteienkonflikt und Interessenmatrix im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Loesungsschemata: Mehrparteienkonflikt und Interessenmatrix

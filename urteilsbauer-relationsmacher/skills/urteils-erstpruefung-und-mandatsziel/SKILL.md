@@ -1,6 +1,6 @@
 ---
 name: urteils-erstpruefung-und-mandatsziel
-description: "Urteils: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Urteils: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Urteils: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: wcag-risikoampel-und-gegenargumente
-description: "Wcag: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Wcag: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wcag: Risikoampel, Gegenargumente und Verteidigungslinien

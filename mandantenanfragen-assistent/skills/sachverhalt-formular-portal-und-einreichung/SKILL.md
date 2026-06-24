@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-formular-portal-und-einreichung
-description: "Sachverhalt: Formular, Portal und Einreichungslogik."
+description: "Sachverhalt: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sachverhalt: Formular, Portal und Einreichungslogik

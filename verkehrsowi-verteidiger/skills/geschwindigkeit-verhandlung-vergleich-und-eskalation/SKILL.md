@@ -1,6 +1,6 @@
 ---
 name: geschwindigkeit-verhandlung-vergleich-und-eskalation
-description: "Geschwindigkeit: Verhandlung, Vergleich und Eskalation."
+description: "Geschwindigkeit: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Geschwindigkeit: Verhandlung, Vergleich und Eskalation

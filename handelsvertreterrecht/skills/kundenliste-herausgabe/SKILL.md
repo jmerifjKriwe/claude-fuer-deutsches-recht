@@ -1,6 +1,6 @@
 ---
 name: kundenliste-herausgabe
-description: "Prüft Herausgabe und Nutzung von Kundenlisten."
+description: "Prüft Herausgabe und Nutzung von Kundenlisten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kundenliste Herausgabe

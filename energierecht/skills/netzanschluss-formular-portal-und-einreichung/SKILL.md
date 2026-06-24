@@ -1,6 +1,6 @@
 ---
 name: netzanschluss-formular-portal-und-einreichung
-description: "Netzanschluss: Formular, Portal und Einreichungslogik im Energierecht."
+description: "Netzanschluss: Formular, Portal und Einreichungslogik im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Netzanschluss: Formular, Portal und Einreichungslogik

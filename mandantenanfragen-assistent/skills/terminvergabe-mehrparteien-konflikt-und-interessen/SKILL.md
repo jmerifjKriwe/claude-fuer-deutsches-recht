@@ -1,6 +1,6 @@
 ---
 name: terminvergabe-mehrparteien-konflikt-und-interessen
-description: "Terminvergabe: Mehrparteienkonflikt und Interessenmatrix."
+description: "Terminvergabe: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Terminvergabe: Mehrparteienkonflikt und Interessenmatrix

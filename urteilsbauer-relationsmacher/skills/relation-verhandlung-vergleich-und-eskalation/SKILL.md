@@ -1,6 +1,6 @@
 ---
 name: relation-verhandlung-vergleich-und-eskalation
-description: "Relation: Verhandlung, Vergleich und Eskalation."
+description: "Relation: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Relation: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: builder-zahlen-schwellen-und-berechnung
-description: "Builder: Zahlen, Schwellenwerte und Berechnung."
+description: "Builder: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Builder: Zahlen, Schwellenwerte und Berechnung

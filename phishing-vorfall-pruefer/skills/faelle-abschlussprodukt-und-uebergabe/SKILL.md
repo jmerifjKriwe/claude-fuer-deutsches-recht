@@ -1,6 +1,6 @@
 ---
 name: faelle-abschlussprodukt-und-uebergabe
-description: "Faelle: Abschlussprodukt und Übergabe."
+description: "Faelle: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Faelle: Abschlussprodukt und Übergabe

@@ -1,6 +1,6 @@
 ---
 name: triage-haftung-versicherung-anwendungsfall
-description: "Triage: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Triage: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Triage: Fristen, Form, Zuständigkeit und Rechtsweg

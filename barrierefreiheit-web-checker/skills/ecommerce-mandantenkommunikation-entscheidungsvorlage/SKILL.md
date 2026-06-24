@@ -1,6 +1,6 @@
 ---
 name: ecommerce-mandantenkommunikation-entscheidungsvorlage
-description: "Ecommerce: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Ecommerce: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ecommerce: Mandantenkommunikation und Entscheidungsvorlage

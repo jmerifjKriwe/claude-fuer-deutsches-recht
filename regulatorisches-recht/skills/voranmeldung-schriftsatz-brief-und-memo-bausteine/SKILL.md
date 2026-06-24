@@ -1,6 +1,6 @@
 ---
 name: voranmeldung-schriftsatz-brief-und-memo-bausteine
-description: "Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine

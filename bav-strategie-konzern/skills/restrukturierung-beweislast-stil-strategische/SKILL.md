@@ -1,6 +1,6 @@
 ---
 name: restrukturierung-beweislast-stil-strategische
-description: "Restrukturierung: Beweislast, Darlegungslast und Substantiierung."
+description: "Restrukturierung: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Restrukturierung: Beweislast, Darlegungslast und Substantiierung

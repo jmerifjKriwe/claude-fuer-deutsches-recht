@@ -1,6 +1,6 @@
 ---
 name: sanktionen-geldwaesche-gruppenweite-aml
-description: "Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung

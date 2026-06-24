@@ -1,6 +1,6 @@
 ---
 name: bgb-mehrparteien-konflikt-und-interessen
-description: "BGB: Mehrparteienkonflikt und Interessenmatrix."
+description: "BGB: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # BGB: Mehrparteienkonflikt und Interessenmatrix

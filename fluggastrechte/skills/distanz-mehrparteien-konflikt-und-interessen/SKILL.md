@@ -1,6 +1,6 @@
 ---
 name: distanz-mehrparteien-konflikt-und-interessen
-description: "Distanz: Mehrparteienkonflikt und Interessenmatrix im Fluggastrechte."
+description: "Distanz: Mehrparteienkonflikt und Interessenmatrix im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Distanz: Mehrparteienkonflikt und Interessenmatrix

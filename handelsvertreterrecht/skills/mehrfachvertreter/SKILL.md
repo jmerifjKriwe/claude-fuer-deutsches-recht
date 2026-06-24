@@ -1,6 +1,6 @@
 ---
 name: mehrfachvertreter
-description: "Prüft Mehrfachvertretung und Interessenkonflikte."
+description: "Prüft Mehrfachvertretung und Interessenkonflikte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mehrfachvertreter

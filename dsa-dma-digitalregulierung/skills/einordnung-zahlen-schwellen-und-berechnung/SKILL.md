@@ -1,6 +1,6 @@
 ---
 name: einordnung-zahlen-schwellen-und-berechnung
-description: "Einordnung: Zahlen, Schwellenwerte und Berechnung."
+description: "Einordnung: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einordnung: Zahlen, Schwellenwerte und Berechnung

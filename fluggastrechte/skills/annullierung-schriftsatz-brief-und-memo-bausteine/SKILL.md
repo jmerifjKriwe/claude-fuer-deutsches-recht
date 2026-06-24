@@ -1,6 +1,6 @@
 ---
 name: annullierung-schriftsatz-brief-und-memo-bausteine
-description: "Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Fluggastrechte."
+description: "Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Annullierung: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: semesterende-verhandlung-vergleich-und-eskalation
-description: "Semesterende: Verhandlung, Vergleich und Eskalation im Rechtsberatungsstelle."
+description: "Semesterende: Verhandlung, Vergleich und Eskalation im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Semesterende: Verhandlung, Vergleich und Eskalation

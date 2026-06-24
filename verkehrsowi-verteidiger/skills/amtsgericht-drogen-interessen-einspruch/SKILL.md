@@ -1,6 +1,6 @@
 ---
 name: amtsgericht-drogen-interessen-einspruch
-description: "Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage

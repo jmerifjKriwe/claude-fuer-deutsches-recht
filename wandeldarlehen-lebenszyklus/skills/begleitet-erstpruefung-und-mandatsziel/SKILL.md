@@ -1,6 +1,6 @@
 ---
 name: begleitet-erstpruefung-und-mandatsziel
-description: "Begleitet: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Begleitet: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Begleitet: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Finaler Red-Team-Check gegen Repressalien, NDA-Fallen und Papierprozesse."
+description: "Finaler Red-Team-Check gegen Repressalien, NDA-Fallen und Papierprozesse. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Redteam Qualitygate

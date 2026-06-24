@@ -1,6 +1,6 @@
 ---
 name: grobe-online-phishing
-description: "Grobe: Formular, Portal und Einreichungslogik."
+description: "Grobe: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Grobe: Formular, Portal und Einreichungslogik

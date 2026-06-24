@@ -1,6 +1,6 @@
 ---
 name: hochschulwahlen
-description: "Prüft Hochschulwahlen und Wahlprüfung im Hochschulrecht Länder."
+description: "Prüft Hochschulwahlen und Wahlprüfung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hochschulwahlen

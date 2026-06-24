@@ -1,6 +1,6 @@
 ---
 name: emotionale-fristen-form-und-zustaendigkeit
-description: "Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: technik-formular-portal-und-einreichung
-description: "Technik: Formular, Portal und Einreichungslogik im Patentrecherche."
+description: "Technik: Formular, Portal und Einreichungslogik im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Technik: Formular, Portal und Einreichungslogik

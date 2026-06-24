@@ -1,6 +1,6 @@
 ---
 name: antragsbefugnis-red-team-und-qualitaetskontrolle
-description: "Antragsbefugnis: Red-Team und Qualitätskontrolle."
+description: "Antragsbefugnis: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Antragsbefugnis: Red-Team und Qualitätskontrolle

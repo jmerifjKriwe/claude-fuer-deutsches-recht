@@ -1,6 +1,6 @@
 ---
 name: questions-fristennotiz-und-naechster-schritt
-description: "Questions: Fristennotiz und nächster Schritt."
+description: "Questions: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Questions: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: berichte-beschlagnahme-mietverwaltung-besitz
-description: "Berichte: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Berichte: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Berichte: Schriftsatz-, Brief- und Memo-Bausteine

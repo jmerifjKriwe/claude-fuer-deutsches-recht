@@ -1,6 +1,6 @@
 ---
 name: insolvenzlage-red-team-und-qualitaetskontrolle
-description: "Insolvenzlage: Red-Team und Qualitätskontrolle."
+description: "Insolvenzlage: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Insolvenzlage: Red-Team und Qualitätskontrolle

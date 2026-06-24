@@ -1,6 +1,6 @@
 ---
 name: transparenzbericht-fristennotiz-dsa-dma
-description: "Transparenzbericht: Fristennotiz und nächster Schritt."
+description: "Transparenzbericht: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Transparenzbericht: Fristennotiz und nächster Schritt

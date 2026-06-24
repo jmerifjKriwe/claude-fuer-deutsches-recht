@@ -1,6 +1,6 @@
 ---
 name: consideration-behoerden-gericht-und-registerweg
-description: "Consideration: Behörden-, Gerichts- oder Registerweg."
+description: "Consideration: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Consideration: Behörden-, Gerichts- oder Registerweg

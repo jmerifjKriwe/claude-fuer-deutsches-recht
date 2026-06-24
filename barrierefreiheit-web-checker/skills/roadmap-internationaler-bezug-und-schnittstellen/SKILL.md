@@ -1,6 +1,6 @@
 ---
 name: roadmap-internationaler-bezug-und-schnittstellen
-description: "Roadmap: Internationaler Bezug und Schnittstellen."
+description: "Roadmap: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Roadmap: Internationaler Bezug und Schnittstellen

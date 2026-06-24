@@ -1,6 +1,6 @@
 ---
 name: chronologie-red-team-und-qualitaetskontrolle
-description: "Chronologie: Red-Team und Qualitätskontrolle im Produktrecht."
+description: "Chronologie: Red-Team und Qualitätskontrolle im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Chronologie: Red-Team und Qualitätskontrolle

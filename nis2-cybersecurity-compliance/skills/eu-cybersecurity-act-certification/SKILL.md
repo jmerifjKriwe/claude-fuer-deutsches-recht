@@ -1,6 +1,6 @@
 ---
 name: eu-cybersecurity-act-certification
-description: "Prüft EU-Cybersecurity-Act und Zertifizierung im Nis2 Cybersecurity Compliance."
+description: "Prüft EU-Cybersecurity-Act und Zertifizierung im Nis2 Cybersecurity Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # EU Cybersecurity Act Certification

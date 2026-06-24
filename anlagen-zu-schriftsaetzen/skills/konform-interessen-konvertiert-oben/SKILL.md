@@ -1,6 +1,6 @@
 ---
 name: konform-interessen-konvertiert-oben
-description: "Konform: Mehrparteienkonflikt und Interessenmatrix."
+description: "Konform: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Konform: Mehrparteienkonflikt und Interessenmatrix

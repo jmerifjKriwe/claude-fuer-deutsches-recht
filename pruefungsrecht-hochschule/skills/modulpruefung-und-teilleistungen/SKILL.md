@@ -1,6 +1,6 @@
 ---
 name: modulpruefung-und-teilleistungen
-description: "Prüft Modulprüfung und Teilleistungen im Prüfungsrecht Hochschule."
+description: "Prüft Modulprüfung und Teilleistungen im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Modulpruefung Und Teilleistungen

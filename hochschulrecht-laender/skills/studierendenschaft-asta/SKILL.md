@@ -1,6 +1,6 @@
 ---
 name: studierendenschaft-asta
-description: "Prüft Studentennschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder."
+description: "Prüft Studentennschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Studentennschaft AStA

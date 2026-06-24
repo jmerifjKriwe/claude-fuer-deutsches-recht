@@ -1,6 +1,6 @@
 ---
 name: grundgesetz-fristen-form-und-zustaendigkeit
-description: "Grundgesetz: Fristen, Form, Zuständigkeit und Rechtsweg im Verfassungsrecht."
+description: "Grundgesetz: Fristen, Form, Zuständigkeit und Rechtsweg im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Grundgesetz: Fristen, Form, Zuständigkeit und Rechtsweg

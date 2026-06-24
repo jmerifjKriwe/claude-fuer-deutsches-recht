@@ -1,6 +1,6 @@
 ---
 name: vaterschaftsanfechtung-frist-paragraf-1600b-bgb-bverfg
-description: "Vaterschaftsanfechtung Frist Paragraf 1600b BGB mit BVerfG 1 BvR 2007/10."
+description: "Vaterschaftsanfechtung Frist Paragraf 1600b BGB mit BVerfG 1 BvR 2007/10. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vaterschaftsanfechtung Frist Paragraf 1600b BGB BVerfG

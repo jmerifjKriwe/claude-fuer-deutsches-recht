@@ -1,6 +1,6 @@
 ---
 name: gmbh-vollstaendigen
-description: "GmbH: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "GmbH: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # GmbH: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: faehige-risikoampel-und-gegenargumente
-description: "Faehige: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Faehige: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Faehige: Risikoampel, Gegenargumente und Verteidigungslinien

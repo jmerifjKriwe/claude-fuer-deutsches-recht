@@ -1,6 +1,6 @@
 ---
 name: verteidiger-beweislast-verkehrsowi
-description: "Verteidiger: Beweislast, Darlegungslast und Substantiierung."
+description: "Verteidiger: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verteidiger: Beweislast, Darlegungslast und Substantiierung

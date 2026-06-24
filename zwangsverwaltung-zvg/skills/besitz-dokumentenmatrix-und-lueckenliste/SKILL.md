@@ -1,6 +1,6 @@
 ---
 name: besitz-dokumentenmatrix-und-lueckenliste
-description: "Besitz: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Besitz: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Besitz: Dokumentenmatrix, Lückenliste und Nachforderung

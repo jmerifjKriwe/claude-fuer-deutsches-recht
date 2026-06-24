@@ -1,6 +1,6 @@
 ---
 name: freiheitsstrafe-compliance-dokumentation-und-akte
-description: "Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk im Strafzumessung."
+description: "Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk

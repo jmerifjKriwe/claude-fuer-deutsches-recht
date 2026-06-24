@@ -1,6 +1,6 @@
 ---
 name: mappen-zahlen-schwellen-und-berechnung
-description: "Mappen: Zahlen, Schwellenwerte und Berechnung im Vertragsausfueller."
+description: "Mappen: Zahlen, Schwellenwerte und Berechnung im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mappen: Zahlen, Schwellenwerte und Berechnung

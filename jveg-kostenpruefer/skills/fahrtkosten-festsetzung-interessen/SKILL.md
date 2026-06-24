@@ -1,6 +1,6 @@
 ---
 name: fahrtkosten-festsetzung-interessen
-description: "Fahrtkosten: Behörden-, Gerichts- oder Registerweg."
+description: "Fahrtkosten: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fahrtkosten: Behörden-, Gerichts- oder Registerweg

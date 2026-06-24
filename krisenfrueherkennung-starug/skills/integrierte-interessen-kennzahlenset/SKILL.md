@@ -1,6 +1,6 @@
 ---
 name: integrierte-interessen-kennzahlenset
-description: "Integrierte: Mehrparteienkonflikt und Interessenmatrix."
+description: "Integrierte: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Integrierte: Mehrparteienkonflikt und Interessenmatrix

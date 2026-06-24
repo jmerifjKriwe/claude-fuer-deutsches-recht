@@ -1,6 +1,6 @@
 ---
 name: rollenmodell-use-case-vendor
-description: "Rollenmodell: Formular, Portal und Einreichungslogik."
+description: "Rollenmodell: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rollenmodell: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: pflegt-erstpruefung-und-mandatsziel
-description: "Pflegt: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Pflegt: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Pflegt: Erstprüfung, Rollenklärung und Mandatsziel

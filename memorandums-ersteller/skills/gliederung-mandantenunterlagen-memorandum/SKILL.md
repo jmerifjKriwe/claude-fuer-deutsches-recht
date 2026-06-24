@@ -1,6 +1,6 @@
 ---
 name: gliederung-mandantenunterlagen-memorandum
-description: "Gliederung: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Gliederung: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gliederung: Schriftsatz-, Brief- und Memo-Bausteine

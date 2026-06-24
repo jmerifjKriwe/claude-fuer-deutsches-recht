@@ -1,6 +1,6 @@
 ---
 name: live-sonderfall-machen-mahnung-red-team-korrektur
-description: "Live: Sonderfall und Edge-Case-Prüfung im Fluggastrechte."
+description: "Live: Sonderfall und Edge-Case-Prüfung im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Live: Sonderfall und Edge-Case-Prüfung

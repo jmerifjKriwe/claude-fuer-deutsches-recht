@@ -127,4 +127,4 @@ Gerichtsverfahren erhalten zusätzlich das gerichtliche Aktenzeichen, z. B.:
 
 ---
 
-*Dokument KZ-2026-INST-001 — Erstellt: 20.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Testdaten.*
+*Dokument KZ-2026-INST-001 — Erstellt: 20.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Aktenstand.*

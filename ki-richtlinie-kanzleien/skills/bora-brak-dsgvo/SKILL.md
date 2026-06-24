@@ -1,6 +1,6 @@
 ---
 name: bora-brak-dsgvo
-description: "Bora: Zahlen, Schwellenwerte und Berechnung."
+description: "Bora: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bora: Zahlen, Schwellenwerte und Berechnung

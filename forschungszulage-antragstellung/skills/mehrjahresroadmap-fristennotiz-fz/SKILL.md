@@ -1,6 +1,6 @@
 ---
 name: mehrjahresroadmap-fristennotiz-fz
-description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt."
+description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mehrjahresroadmap: Fristennotiz und nächster Schritt

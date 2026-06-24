@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Adressen, Aktenzeichen, Volumina sind fiktiv und anonymisiert. Die Akte gehoert fachlich zum Plugin `normenkontrollrat-nkr`.
+Arbeitsakte zum Plugin `normenkontrollrat-nkr`.
 
 ## Kurzbild
 

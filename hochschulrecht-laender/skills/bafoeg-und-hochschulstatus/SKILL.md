@@ -1,6 +1,6 @@
 ---
 name: bafoeg-und-hochschulstatus
-description: "Prüft BAföG-Schnittstellen zu Hochschulstatus im Hochschulrecht Länder."
+description: "Prüft BAföG-Schnittstellen zu Hochschulstatus im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # BAföG Und Hochschulstatus

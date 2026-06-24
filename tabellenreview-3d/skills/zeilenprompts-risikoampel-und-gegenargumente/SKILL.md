@@ -1,6 +1,6 @@
 ---
 name: zeilenprompts-risikoampel-und-gegenargumente
-description: "Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien

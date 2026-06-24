@@ -1,6 +1,6 @@
 ---
 name: rolle-abschlussprodukt-und-uebergabe
-description: "Rolle: Abschlussprodukt und Übergabe."
+description: "Rolle: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rolle: Abschlussprodukt und Übergabe

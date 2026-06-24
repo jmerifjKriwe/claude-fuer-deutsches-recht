@@ -1,6 +1,6 @@
 ---
 name: testlauf-beweislast-transaktionsmonitoring
-description: "Testlauf: Beweislast, Darlegungslast und Substantiierung."
+description: "Testlauf: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Testlauf: Beweislast, Darlegungslast und Substantiierung

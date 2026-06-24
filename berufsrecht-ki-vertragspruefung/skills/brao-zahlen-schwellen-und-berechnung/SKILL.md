@@ -1,6 +1,6 @@
 ---
 name: brao-zahlen-schwellen-und-berechnung
-description: "Brao: Zahlen, Schwellenwerte und Berechnung."
+description: "Brao: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Brao: Zahlen, Schwellenwerte und Berechnung

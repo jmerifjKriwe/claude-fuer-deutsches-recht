@@ -1,6 +1,6 @@
 ---
 name: foerderantragssteller-formalia-red-fuehrung
-description: "Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage

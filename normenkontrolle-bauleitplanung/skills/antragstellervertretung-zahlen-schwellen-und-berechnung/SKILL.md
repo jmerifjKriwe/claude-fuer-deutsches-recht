@@ -1,6 +1,6 @@
 ---
 name: antragstellervertretung-zahlen-schwellen-und-berechnung
-description: "Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung."
+description: "Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: luxus-agb-haendlervertrag-rechtsabteilung
-description: "Luxus: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Luxus: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Luxus: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: syndikus-schriftsatz-brief-und-memo-bausteine
-description: "Syndikus: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Syndikus: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Syndikus: Schriftsatz-, Brief- und Memo-Bausteine

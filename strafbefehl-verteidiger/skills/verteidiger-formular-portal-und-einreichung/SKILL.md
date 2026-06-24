@@ -1,6 +1,6 @@
 ---
 name: verteidiger-formular-portal-und-einreichung
-description: "Verteidiger: Formular, Portal und Einreichungslogik."
+description: "Verteidiger: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verteidiger: Formular, Portal und Einreichungslogik

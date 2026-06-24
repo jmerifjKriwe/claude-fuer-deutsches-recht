@@ -1,6 +1,6 @@
 ---
 name: anrede-anwaltskanzleien-bittet
-description: "Anrede: Verhandlung, Vergleich und Eskalation."
+description: "Anrede: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anrede: Verhandlung, Vergleich und Eskalation

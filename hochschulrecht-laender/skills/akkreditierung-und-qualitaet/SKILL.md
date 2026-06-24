@@ -1,6 +1,6 @@
 ---
 name: akkreditierung-und-qualitaet
-description: "Prüft Akkreditierung und Qualitätssicherung im Hochschulrecht Länder."
+description: "Prüft Akkreditierung und Qualitätssicherung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Akkreditierung Und Qualitaet

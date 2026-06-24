@@ -1,6 +1,6 @@
 ---
 name: bebauungsplaenen-kommunalabgaben
-description: "Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: reviews-internationaler-bezug-und-schnittstellen
-description: "Reviews: Internationaler Bezug und Schnittstellen."
+description: "Reviews: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Reviews: Internationaler Bezug und Schnittstellen

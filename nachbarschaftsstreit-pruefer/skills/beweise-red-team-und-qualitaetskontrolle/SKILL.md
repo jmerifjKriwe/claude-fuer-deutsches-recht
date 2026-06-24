@@ -1,6 +1,6 @@
 ---
 name: beweise-red-team-und-qualitaetskontrolle
-description: "Beweise: Red-Team und Qualitätskontrolle."
+description: "Beweise: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beweise: Red-Team und Qualitätskontrolle

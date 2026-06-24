@@ -1,6 +1,6 @@
 ---
 name: besold-familienzuschlag-kinder
-description: "Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im Beamtenrecht."
+description: "Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft

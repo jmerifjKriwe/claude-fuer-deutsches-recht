@@ -1,6 +1,6 @@
 ---
 name: formelle-mehrparteien-konflikt-und-interessen
-description: "Formelle: Mehrparteienkonflikt und Interessenmatrix im Verfassungsrecht."
+description: "Formelle: Mehrparteienkonflikt und Interessenmatrix im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Formelle: Mehrparteienkonflikt und Interessenmatrix

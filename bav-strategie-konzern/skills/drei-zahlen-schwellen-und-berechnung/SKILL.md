@@ -1,6 +1,6 @@
 ---
 name: drei-zahlen-schwellen-und-berechnung
-description: "Drei: Zahlen, Schwellenwerte und Berechnung."
+description: "Drei: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Drei: Zahlen, Schwellenwerte und Berechnung

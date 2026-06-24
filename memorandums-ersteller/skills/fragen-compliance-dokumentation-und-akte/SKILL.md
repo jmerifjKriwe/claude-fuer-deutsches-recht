@@ -1,6 +1,6 @@
 ---
 name: fragen-compliance-dokumentation-und-akte
-description: "Fragen: Compliance-Dokumentation und Aktenvermerk."
+description: "Fragen: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fragen: Compliance-Dokumentation und Aktenvermerk

@@ -115,4 +115,4 @@ Folgende Angaben fehlen noch und müssen vor der echten DATEV-Übermittlung erg�
 
 ---
 
-*Dokument BUCH-2026-0004 — Erstellt: 20.05.2026 — Jana Reuter / Mara Klein, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Testdaten — keine echte DATEV-Buchung.*
+*Dokument BUCH-2026-0004 — Erstellt: 20.05.2026 — Jana Reuter / Mara Klein, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Aktenstand — keine echte DATEV-Buchung.*

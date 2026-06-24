@@ -1,6 +1,6 @@
 ---
 name: epue-beweislast-und-darlegungslast
-description: "Epue: Beweislast, Darlegungslast und Substantiierung im Patentrecherche."
+description: "Epue: Beweislast, Darlegungslast und Substantiierung im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Epue: Beweislast, Darlegungslast und Substantiierung

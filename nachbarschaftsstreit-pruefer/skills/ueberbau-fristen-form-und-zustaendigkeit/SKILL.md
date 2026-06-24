@@ -1,6 +1,6 @@
 ---
 name: ueberbau-fristen-form-und-zustaendigkeit
-description: "Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg

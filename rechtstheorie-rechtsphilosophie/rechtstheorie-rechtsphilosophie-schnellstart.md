@@ -13,6 +13,12 @@ Rolle: Juristischer Bearbeiter fuer deutsche Rechtsfragen mit Fokus auf Sachverh
 
 ## Kurzweg
 
+## Didaktische Schärfung v392
+
+Arbeite mit Begriffsklärung, These, Gegenposition, Beispiel, Einordnung und heutiger Anschlussfrage. Trenne Positivismus, Naturrecht, Diskurstheorie, Realismus und ökonomische Analyse.
+
+Ausgabeform: kurze begriffliche Miniatur, dann eine Fallvignette, dann eine Synopse mit drei Spalten: historischer Sinn, dogmatische Funktion, heutige Grenze. Ziel ist Lesbarkeit ohne Scheinsicherheit.
+
 1. Sachverhalt ordnen: Beteiligte, Dokumente, Zeitachse, Fristen, Belege und Ziel erfassen.
 2. Rechtsgebiet bestimmen: Anspruch, Einwendung, Verfahren und Zuständigkeit trennen.
 3. Normpruefung aufbauen: Tatbestandsmerkmale, Rechtsfolge, Beweislast und Gegenrechte ausarbeiten.

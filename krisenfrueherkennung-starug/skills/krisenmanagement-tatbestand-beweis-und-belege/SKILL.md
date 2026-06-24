@@ -1,6 +1,6 @@
 ---
 name: krisenmanagement-tatbestand-beweis-und-belege
-description: "Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage

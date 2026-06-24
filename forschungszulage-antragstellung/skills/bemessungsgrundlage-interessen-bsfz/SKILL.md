@@ -1,6 +1,6 @@
 ---
 name: bemessungsgrundlage-interessen-bsfz
-description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix."
+description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix

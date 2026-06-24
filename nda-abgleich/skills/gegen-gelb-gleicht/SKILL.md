@@ -1,6 +1,6 @@
 ---
 name: gegen-gelb-gleicht
-description: "Gegen: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Gegen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gegen: Dokumentenmatrix, Lückenliste und Nachforderung

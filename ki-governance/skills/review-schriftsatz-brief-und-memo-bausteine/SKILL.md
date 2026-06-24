@@ -1,6 +1,6 @@
 ---
 name: review-schriftsatz-brief-und-memo-bausteine
-description: "Review: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Review: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Review: Schriftsatz-, Brief- und Memo-Bausteine

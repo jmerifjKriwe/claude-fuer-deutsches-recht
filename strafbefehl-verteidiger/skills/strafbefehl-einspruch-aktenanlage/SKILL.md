@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-einspruch-aktenanlage
-description: "Gegen: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Gegen: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gegen: Fristen, Form, Zuständigkeit und Rechtsweg

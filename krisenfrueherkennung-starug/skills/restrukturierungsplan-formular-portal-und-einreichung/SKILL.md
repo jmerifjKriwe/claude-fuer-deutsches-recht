@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-formular-portal-und-einreichung
-description: "Restrukturierungsplan: Formular, Portal und Einreichungslogik."
+description: "Restrukturierungsplan: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Restrukturierungsplan: Formular, Portal und Einreichungslogik

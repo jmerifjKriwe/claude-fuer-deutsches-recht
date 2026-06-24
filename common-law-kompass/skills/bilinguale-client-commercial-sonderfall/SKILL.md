@@ -1,6 +1,6 @@
 ---
 name: bilinguale-client-commercial-sonderfall
-description: "Bilinguale: Compliance-Dokumentation und Aktenvermerk."
+description: "Bilinguale: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bilinguale: Compliance-Dokumentation und Aktenvermerk

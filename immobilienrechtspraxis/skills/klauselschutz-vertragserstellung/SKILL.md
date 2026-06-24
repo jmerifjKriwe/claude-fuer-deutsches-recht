@@ -1,6 +1,6 @@
 ---
 name: klauselschutz-vertragserstellung
-description: "Klauselschutz: Behörden-, Gerichts- oder Registerweg im Immobilienrechtspraxis."
+description: "Klauselschutz: Behörden-, Gerichts- oder Registerweg im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Klauselschutz: Behörden-, Gerichts- oder Registerweg

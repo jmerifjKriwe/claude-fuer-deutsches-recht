@@ -1,6 +1,6 @@
 ---
 name: deployment-eigenen-einsteiger
-description: "Deployment: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Deployment: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Deployment: Schriftsatz-, Brief- und Memo-Bausteine

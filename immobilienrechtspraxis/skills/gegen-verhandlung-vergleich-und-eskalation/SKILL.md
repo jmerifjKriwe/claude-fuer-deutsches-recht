@@ -1,6 +1,6 @@
 ---
 name: gegen-verhandlung-vergleich-und-eskalation
-description: "Gegen: Verhandlung, Vergleich und Eskalation im Immobilienrechtspraxis."
+description: "Gegen: Verhandlung, Vergleich und Eskalation im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gegen: Verhandlung, Vergleich und Eskalation

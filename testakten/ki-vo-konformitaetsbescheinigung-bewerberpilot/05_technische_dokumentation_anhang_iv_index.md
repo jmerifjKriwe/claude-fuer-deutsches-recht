@@ -12,7 +12,7 @@ Dieser Index folgt der Reihenfolge des Anhangs IV der KI-VO und ordnet jeder Anf
 | TD-02 | Architekturdiagramm und Datenflüsse | Anhang IV Nr. 2 lit. a) und b) | Gelb | Architekturordner, Diagramm v0.9 vom 22.04.2026 |
 | TD-03 | Modellbeschreibung Merkmalsextraktion | Anhang IV Nr. 2 lit. c) | Grün | Model Card Extractor v2.4 |
 | TD-04 | GPAI-Komponente LexiCore (Lieferanteninformation) | Anhang IV Nr. 2 lit. c) + Lieferantenklausel | Gelb | Supplier Attestation 2026-05 (knapp), Modellversion fehlt |
-| TD-05 | Trainings-, Validierungs- und Testdaten | Art. 10, Anhang IV Nr. 2 lit. d) | Gelb/Rot | Data Governance Ordner; D-Train-2024-HR nicht vollständig dokumentiert |
+| TD-05 | Trainings-, Validierungs- und Prüfdatensätze | Art. 10, Anhang IV Nr. 2 lit. d) | Gelb/Rot | Data Governance Ordner; D-Train-2024-HR nicht vollständig dokumentiert |
 | TD-06 | Risikomanagementakte | Art. 9, Anhang IV Nr. 3 | Gelb | Risk Register 2026-05 (R-01 bis R-08) |
 | TD-07 | Human-Oversight-Konzept | Art. 14, Anhang IV Nr. 4 | Gelb | Oversight SOP v0.8; Praxistest fehlt |
 | TD-08 | Logging-Konzept | Art. 12, Anhang IV Nr. 5 | Grün/Gelb | Logging Spec v1.1, Implementierung in Release Candidate |

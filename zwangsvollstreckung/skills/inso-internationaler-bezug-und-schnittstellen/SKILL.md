@@ -1,6 +1,6 @@
 ---
 name: inso-internationaler-bezug-und-schnittstellen
-description: "InsO: Internationaler Bezug und Schnittstellen im Zwangsvollstreckung."
+description: "InsO: Internationaler Bezug und Schnittstellen im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # InsO: Internationaler Bezug und Schnittstellen

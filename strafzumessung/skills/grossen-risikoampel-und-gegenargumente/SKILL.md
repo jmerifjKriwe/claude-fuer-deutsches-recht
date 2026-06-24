@@ -1,6 +1,6 @@
 ---
 name: grossen-risikoampel-und-gegenargumente
-description: "Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Strafzumessung."
+description: "Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Großen: Risikoampel, Gegenargumente und Verteidigungslinien

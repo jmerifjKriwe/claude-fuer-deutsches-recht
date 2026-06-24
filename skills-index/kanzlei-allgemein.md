@@ -1,6 +1,6 @@
 # kanzlei-allgemein
 
-**51 Skills** · Stand `v390.0.0`
+**51 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kanzlei-allgemein/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kanzlei-allgemein/kanzlei-allgemein-werkstatt.md" download>kanzlei-allgemein-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kanzlei-allgemein/kanzlei-allgemein-schnellstart.md" download>kanzlei-allgemein-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [kanzlei-allgemein-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kanzlei-allgemein/kanzlei-allgemein-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [kanzlei-allgemein-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kanzlei-allgemein/kanzlei-allgemein-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [kanzlei-allgemein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-allgemein.zip) |
 

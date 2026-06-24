@@ -15,7 +15,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Schulen und Unternehmen sind anonymisiert. Die Akte gehört fachlich zum Plugin `kindeswohlgefaehrdung-eilantrag`.
+Arbeitsakte zum Plugin `kindeswohlgefaehrdung-eilantrag`.
 
 ---
 

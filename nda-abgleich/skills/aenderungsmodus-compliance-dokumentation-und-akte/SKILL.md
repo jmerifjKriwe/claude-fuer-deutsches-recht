@@ -1,6 +1,6 @@
 ---
 name: aenderungsmodus-compliance-dokumentation-und-akte
-description: "Änderungsmodus: Compliance-Dokumentation und Aktenvermerk."
+description: "Änderungsmodus: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Änderungsmodus: Compliance-Dokumentation und Aktenvermerk

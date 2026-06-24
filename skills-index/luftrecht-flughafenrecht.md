@@ -1,6 +1,6 @@
 # luftrecht-flughafenrecht
 
-**239 Skills** · Stand `v390.0.0`
+**239 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/luftrecht-flughafenrecht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md" download>luftrecht-flughafenrecht-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/luftrecht-flughafenrecht/luftrecht-flughafenrecht-schnellstart.md" download>luftrecht-flughafenrecht-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [luftrecht-flughafenrecht-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [luftrecht-flughafenrecht-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/luftrecht-flughafenrecht/luftrecht-flughafenrecht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [luftrecht-flughafenrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/luftrecht-flughafenrecht.zip) |
 

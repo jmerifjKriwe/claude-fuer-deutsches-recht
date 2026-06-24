@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-compliance
-description: "Erstellt Jahresbericht ohne Identitätsrisiko im Hinweisgeberschutz Compliance."
+description: "Erstellt Jahresbericht ohne Identitätsrisiko im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Jahresbericht Compliance

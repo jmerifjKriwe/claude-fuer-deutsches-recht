@@ -1,6 +1,6 @@
 ---
 name: bgb-business-einzelabrufe-sonderfall
-description: "BGB: Dokumentenmatrix, Lückenliste und Nachforderung im Vertragsrecht."
+description: "BGB: Dokumentenmatrix, Lückenliste und Nachforderung im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # BGB: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: nachvertragliche-provision
-description: "Prüft Provision für Geschäfte nach Vertragsende."
+description: "Prüft Provision für Geschäfte nach Vertragsende. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Nachvertragliche Provision

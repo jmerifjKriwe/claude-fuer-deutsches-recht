@@ -1,6 +1,6 @@
 ---
 name: aeste-risikoampel-und-gegenargumente
-description: "Aeste: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Aeste: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aeste: Risikoampel, Gegenargumente und Verteidigungslinien

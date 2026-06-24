@@ -1,6 +1,6 @@
 ---
 name: bereits-abschlussprodukt-und-uebergabe
-description: "Bereits: Abschlussprodukt und Übergabe."
+description: "Bereits: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bereits: Abschlussprodukt und Übergabe

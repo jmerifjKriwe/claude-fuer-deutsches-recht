@@ -69,7 +69,7 @@ Von 14 geprüften TOM-Bereichen sind 4 als „Ausreichend", 5 als „Mangelhaft"
 
 **Massnahme 3 — Netzwerk-Segmentierung:**
 - Vollständige Trennung Staging- und Produktionsumgebung
-- Keine Echtdaten im Staging (nur synthetische Testdaten)
+- Keine Echtdaten im Staging (nur synthetische Aktenstand)
 - Separates VPC für Produktionsdatenbank
 - Frist: 28.02.2026
 

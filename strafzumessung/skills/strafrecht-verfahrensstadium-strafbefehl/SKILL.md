@@ -1,6 +1,6 @@
 ---
 name: strafrecht-verfahrensstadium-strafbefehl
-description: "Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Strafzumessung."
+description: "Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: zeugenstrategie-mehrparteien-konflikt-und-interessen
-description: "Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix."
+description: "Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix

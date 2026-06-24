@@ -1,6 +1,6 @@
 ---
 name: driving-mehrparteien-konflikt-und-interessen
-description: "Driving: Mehrparteienkonflikt und Interessenmatrix."
+description: "Driving: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Driving: Mehrparteienkonflikt und Interessenmatrix

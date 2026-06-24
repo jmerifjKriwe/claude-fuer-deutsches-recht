@@ -1,13 +1,13 @@
 ---
-name: unterhaltsberechnung-miniprompt
-description: "Kompakter, eigenstaendiger Mini-Prompt fuer die Unterhaltsberechnung im deutschen Familienrecht. Sparversion des Unterhaltsberechnung-Megaprompts fuer den schnellen Einsatz in Chatbots ohne Plugin: Kindesunterhalt nach Duesseldorfer Tabelle mit Kindergeldanrechnung und Mangelfall, Trennungsunterhalt 1361 BGB nach Quoten- oder Differenzmethode mit Erwerbstaetigenbonus und Vorwegabzug des Kindesunterhalts sowie nachehelicher Unterhalt mit Tatbestand, Bedarf, Beduerftigkeit, Leistungsfaehigkeit und Befristung 1578b. Fuehrt knapp durch bereinigtes Nettoeinkommen, Rangfolge 1609 BGB und Selbstbehalt; Tabellenwerte, Selbstbehaltssaetze, Kindergeld und Rechtsprechung sind vor Verwendung an amtlicher Quelle zu verifizieren."
+name: unterhaltsberechnung-kompaktpruefung
+description: "Kompaktprüfung für Unterhaltsberechnung im Familienrecht: Kindesunterhalt, Trennungsunterhalt und nachehelicher Unterhalt mit bereinigtem Nettoeinkommen, Düsseldorfer Tabelle, Kindergeld, Mangelfall, Rangfolge, Selbstbehalt und verifizierten Stichtagswerten."
 ---
 
-# Mini-Prompt: Unterhaltsberechnung
+# Unterhaltsberechnung im Familienrecht: Kompaktprüfung
 
 ## Zweck und Anwendungsfall
 
-Kompakte Sparversion des Unterhaltsberechnung-Megaprompts für den schnellen Einsatz. Diese Datei ist eigenständig und lässt sich als Markdown in jedes Chat-Werkzeug kopieren, auch ohne die Plugin-Umgebung. Sie ersetzt keine anwaltliche Einzelfallprüfung.
+Kompakte Erstprüfung für die schnelle Unterhaltsberechnung im Familienrecht. Sie ersetzt keine anwaltliche Einzelfallprüfung.
 
 ## Eingaben
 

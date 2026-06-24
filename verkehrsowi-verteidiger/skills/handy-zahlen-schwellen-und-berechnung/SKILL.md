@@ -1,6 +1,6 @@
 ---
 name: handy-zahlen-schwellen-und-berechnung
-description: "Handy: Zahlen, Schwellenwerte und Berechnung."
+description: "Handy: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Handy: Zahlen, Schwellenwerte und Berechnung

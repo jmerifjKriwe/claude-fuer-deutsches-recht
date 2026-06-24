@@ -1,6 +1,6 @@
 ---
 name: auszahlung-internationaler-bezug-und-schnittstellen
-description: "Auszahlung: Internationaler Bezug und Schnittstellen."
+description: "Auszahlung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Auszahlung: Internationaler Bezug und Schnittstellen

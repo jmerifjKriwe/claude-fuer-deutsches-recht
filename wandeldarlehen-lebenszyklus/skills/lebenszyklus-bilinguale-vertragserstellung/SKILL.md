@@ -1,6 +1,6 @@
 ---
 name: lebenszyklus-bilinguale-vertragserstellung
-description: "Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg

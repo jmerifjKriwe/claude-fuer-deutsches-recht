@@ -57,3 +57,7 @@ Alle Angaben sind als Arbeitsgrundlage eingebettet. Vor Verwendung in einem Schr
 - Dem Arbeitnehmer sagen, er habe „automatisch" Anspruch auf Note 2, weil in seiner Branche Note 2 Standard ist.
 - Note 3 mit Note 4 verwechseln — die Formulierungen unterscheiden sich klar.
 - BAG-Entscheidungen ohne Verifikation in Schriftsätzen zitieren.
+
+## v392 Notenanker für die Ausgabe
+
+Bei jedem Zeugnis wird die Hauptformel mit den Einzelfeldern abgeglichen. Sehr gut verlangt durchgängige Beständigkeit, besondere Qualität und klaren Erfolg. Gut verlangt verlässlich überdurchschnittliche Leistung. Befriedigend ist nicht als Abwertung zu behandeln, sondern als mittlere Ausgangsstufe. Die Schlussformel darf die Hauptnote nicht unterlaufen: Eine sehr gute Leistungsformel mit kaltem Abschluss wird als Drift markiert; ein sehr warmer Abschluss bei schwacher Leistung wird als Wahrheitsrisiko markiert.

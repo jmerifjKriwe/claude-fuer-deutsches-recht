@@ -1,6 +1,6 @@
 ---
 name: livecheck-mehrparteien-konflikt-und-interessen
-description: "Livecheck: Mehrparteienkonflikt und Interessenmatrix."
+description: "Livecheck: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Livecheck: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: altersversorgung-boutique-fristennotiz-psv
-description: "Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg

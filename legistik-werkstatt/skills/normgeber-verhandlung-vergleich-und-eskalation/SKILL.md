@@ -1,6 +1,6 @@
 ---
 name: normgeber-verhandlung-vergleich-und-eskalation
-description: "Normgeber: Verhandlung, Vergleich und Eskalation."
+description: "Normgeber: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Normgeber: Verhandlung, Vergleich und Eskalation

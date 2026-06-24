@@ -110,4 +110,4 @@ Dieser Urlaubsantrag wird in der Personalakte Mara Klein (intern) und im Kanzlei
 
 ---
 
-*Aktenvermerk HR-2026-U-005 — Erstellt: 19.05.2026, ergänzt: 21.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Testdaten.*
+*Aktenvermerk HR-2026-U-005 — Erstellt: 19.05.2026, ergänzt: 21.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Aktenstand.*

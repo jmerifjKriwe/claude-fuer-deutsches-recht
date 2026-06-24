@@ -1,6 +1,6 @@
 ---
 name: finanzplan-mandantenkommunikation-entscheidungsvorlage
-description: "Finanzplan: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Finanzplan: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Finanzplan: Mandantenkommunikation und Entscheidungsvorlage

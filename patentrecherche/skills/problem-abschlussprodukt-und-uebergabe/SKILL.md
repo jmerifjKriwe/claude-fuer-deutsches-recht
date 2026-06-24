@@ -1,6 +1,6 @@
 ---
 name: problem-abschlussprodukt-und-uebergabe
-description: "Problem: Abschlussprodukt und Übergabe im Patentrecherche."
+description: "Problem: Abschlussprodukt und Übergabe im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Problem: Abschlussprodukt und Übergabe

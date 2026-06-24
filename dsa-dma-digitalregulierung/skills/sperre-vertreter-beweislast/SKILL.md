@@ -1,6 +1,6 @@
 ---
 name: sperre-vertreter-beweislast
-description: "Schwellen: Verhandlung, Vergleich und Eskalation."
+description: "Schwellen: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schwellen: Verhandlung, Vergleich und Eskalation

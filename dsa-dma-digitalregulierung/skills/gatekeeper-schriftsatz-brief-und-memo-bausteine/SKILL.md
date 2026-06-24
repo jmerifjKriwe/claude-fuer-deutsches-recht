@@ -1,6 +1,6 @@
 ---
 name: gatekeeper-schriftsatz-brief-und-memo-bausteine
-description: "Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine

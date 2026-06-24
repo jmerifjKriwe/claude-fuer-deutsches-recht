@@ -1,6 +1,6 @@
 ---
 name: markenarten-compliance-dokumentation-und-akte
-description: "Markenarten: Compliance-Dokumentation und Aktenvermerk."
+description: "Markenarten: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Markenarten: Compliance-Dokumentation und Aktenvermerk

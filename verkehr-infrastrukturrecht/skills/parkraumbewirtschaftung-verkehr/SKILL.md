@@ -1,6 +1,6 @@
 ---
 name: parkraumbewirtschaftung-verkehr
-description: "Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik."
+description: "Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik

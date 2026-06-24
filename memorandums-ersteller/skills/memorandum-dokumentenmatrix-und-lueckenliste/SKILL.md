@@ -1,6 +1,6 @@
 ---
 name: memorandum-dokumentenmatrix-und-lueckenliste
-description: "Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung

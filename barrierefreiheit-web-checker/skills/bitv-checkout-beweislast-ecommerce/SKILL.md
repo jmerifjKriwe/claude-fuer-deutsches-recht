@@ -1,6 +1,6 @@
 ---
 name: bitv-checkout-beweislast-ecommerce
-description: "BITV: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "BITV: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # BITV: Dokumentenmatrix, Lückenliste und Nachforderung

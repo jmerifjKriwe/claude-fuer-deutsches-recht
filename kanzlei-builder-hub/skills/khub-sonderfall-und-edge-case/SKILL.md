@@ -1,6 +1,6 @@
 ---
 name: khub-sonderfall-und-edge-case
-description: "Khub: Sonderfall und Edge-Case-Prüfung."
+description: "Khub: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Khub: Sonderfall und Edge-Case-Prüfung

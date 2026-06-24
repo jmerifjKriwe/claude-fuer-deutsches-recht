@@ -1,6 +1,6 @@
 ---
 name: qualitaetspruefung-beweislast-und-darlegungslast
-description: "Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung."
+description: "Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung

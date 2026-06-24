@@ -1,6 +1,6 @@
 ---
 name: docx-beweislast-und-darlegungslast
-description: "Docx: Beweislast, Darlegungslast und Substantiierung."
+description: "Docx: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Docx: Beweislast, Darlegungslast und Substantiierung

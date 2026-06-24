@@ -1,6 +1,6 @@
 ---
 name: sachverhaltschronologie-textbausteine
-description: "Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: krisenstadien-fristennotiz-starug-gf-haftung
-description: "Krisenstadien: Fristennotiz und nächster Schritt."
+description: "Krisenstadien: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Krisenstadien: Fristennotiz und nächster Schritt

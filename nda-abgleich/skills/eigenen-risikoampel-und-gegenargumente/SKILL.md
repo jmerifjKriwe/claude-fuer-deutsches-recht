@@ -1,6 +1,6 @@
 ---
 name: eigenen-risikoampel-und-gegenargumente
-description: "Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: strukturierter-strafprozess-modus
-description: "Strukturierter: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Strukturierter: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strukturierter: Erstprüfung, Rollenklärung und Mandatsziel

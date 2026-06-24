@@ -1,6 +1,6 @@
 ---
 name: verteilung-zwangsverwaltung-aktenanlage
-description: "Verteilung: Verhandlung, Vergleich und Eskalation."
+description: "Verteilung: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verteilung: Verhandlung, Vergleich und Eskalation

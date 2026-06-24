@@ -1,6 +1,6 @@
 ---
 name: juristisches-questions-fristennotiz
-description: "Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg

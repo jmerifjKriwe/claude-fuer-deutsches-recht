@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-international-schnittstellen
-description: "Hauptverhandlung: Internationaler Bezug und Schnittstellen."
+description: "Hauptverhandlung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hauptverhandlung: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: sprachpruefung-und-eignung
-description: "Prüft Sprach-, Eignungs- und Aufnahmeprüfungen im Prüfungsrecht Hochschule."
+description: "Prüft Sprach-, Eignungs- und Aufnahmeprüfungen im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sprachpruefung Und Eignung

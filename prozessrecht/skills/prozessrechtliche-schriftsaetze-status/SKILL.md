@@ -1,6 +1,6 @@
 ---
 name: prozessrechtliche-schriftsaetze-status
-description: "Prozessrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Prozessrecht."
+description: "Prozessrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Prozessrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

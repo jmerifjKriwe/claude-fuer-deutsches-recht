@@ -1,6 +1,6 @@
 ---
 name: patentanmeldung-fristen-form-und-zustaendigkeit
-description: "Patentanmeldung: Fristen, Form, Zuständigkeit und Rechtsweg im Patentrecht."
+description: "Patentanmeldung: Fristen, Form, Zuständigkeit und Rechtsweg im Patentrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Patentanmeldung: Fristen, Form, Zuständigkeit und Rechtsweg

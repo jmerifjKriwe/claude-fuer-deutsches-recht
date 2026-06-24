@@ -1,6 +1,6 @@
 ---
 name: elan-ethik-finanzplan
-description: "Elan: Formular, Portal und Einreichungslogik."
+description: "Elan: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Elan: Formular, Portal und Einreichungslogik

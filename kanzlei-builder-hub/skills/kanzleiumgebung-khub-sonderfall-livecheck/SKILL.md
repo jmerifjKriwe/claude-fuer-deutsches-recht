@@ -1,6 +1,6 @@
 ---
 name: kanzleiumgebung-khub-sonderfall-livecheck
-description: "Kanzleiumgebung: Verhandlung, Vergleich und Eskalation."
+description: "Kanzleiumgebung: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kanzleiumgebung: Verhandlung, Vergleich und Eskalation

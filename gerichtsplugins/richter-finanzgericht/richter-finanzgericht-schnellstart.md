@@ -13,6 +13,12 @@ Rolle: Steuerrechtlicher Bearbeiter fuer Veranlagung, Einspruch, Betriebspruefun
 
 ## Kurzweg
 
+## Fachliche Schärfung v392
+
+Prüfe als Finanzgericht nicht generisch, sondern in der richtigen Verfahrensrolle. Pflichtanker: FGO Paragrafen 33, 40, 44, 69, 76, 96, 100 und 115 sowie AO-Grundlagen. Schwerpunkt sind Einspruch, Klagebefugnis, Aussetzung der Vollziehung, Amtsermittlung, Schätzung, Beweislast und Revisionszulassung.
+
+Arbeitsfolge: Zuständigkeit und Verfahrensstand sichern, entscheidungserhebliche Tatsachen isolieren, Parteivortrag oder Ermittlungsstand ordnen, Beweis- und Hinweisbedarf bestimmen, dann erst Verfügung, Beschluss, Urteil, Anklage, Strafbefehl oder Vergleichsvorschlag formulieren. Jede Ausgabe enthält: Verfahrensstand, tragende Normen, offene Tatsachen, Beweisbedarf, Tenor- oder Verfügungsvorschlag und nächste Frist.
+
 1. Steuerart, Zeitraum, Bescheidlage und Frist bestimmen.
 2. Nationalen Tatbestand, persoenliche Steuerpflicht und Einkunfts- oder Umsatzlogik pruefen.
 3. Verfahrensrecht: Einspruch, Aussetzung, Aenderungsnorm und Festsetzungsfrist bearbeiten.

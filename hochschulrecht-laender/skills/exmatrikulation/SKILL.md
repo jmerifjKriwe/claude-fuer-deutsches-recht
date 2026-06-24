@@ -1,6 +1,6 @@
 ---
 name: exmatrikulation
-description: "Prüft Exmatrikulation und Folgen im Hochschulrecht Länder."
+description: "Prüft Exmatrikulation und Folgen im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Exmatrikulation

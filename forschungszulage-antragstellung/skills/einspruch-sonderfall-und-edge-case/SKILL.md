@@ -1,6 +1,6 @@
 ---
 name: einspruch-sonderfall-und-edge-case
-description: "Einspruch: Sonderfall und Edge-Case-Prüfung."
+description: "Einspruch: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einspruch: Sonderfall und Edge-Case-Prüfung

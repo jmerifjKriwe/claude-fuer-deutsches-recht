@@ -1,6 +1,6 @@
 ---
 name: risikobewertung-compliance-dokumentation-und-akte
-description: "Risikobewertung: Compliance-Dokumentation und Aktenvermerk."
+description: "Risikobewertung: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Risikobewertung: Compliance-Dokumentation und Aktenvermerk

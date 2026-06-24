@@ -1,6 +1,6 @@
 ---
 name: europarecht-erstpruefung-und-mandatsziel
-description: "Europarecht: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Europarecht: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Europarecht: Erstprüfung, Rollenklärung und Mandatsziel

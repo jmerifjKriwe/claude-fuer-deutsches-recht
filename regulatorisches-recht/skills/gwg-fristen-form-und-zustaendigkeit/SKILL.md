@@ -1,6 +1,6 @@
 ---
 name: gwg-fristen-form-und-zustaendigkeit
-description: "GwG: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "GwG: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # GwG: Fristen, Form, Zuständigkeit und Rechtsweg

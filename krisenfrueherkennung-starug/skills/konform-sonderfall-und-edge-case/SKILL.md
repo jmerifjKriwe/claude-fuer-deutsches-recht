@@ -1,6 +1,6 @@
 ---
 name: konform-sonderfall-und-edge-case
-description: "Konform: Sonderfall und Edge-Case-Prüfung."
+description: "Konform: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Konform: Sonderfall und Edge-Case-Prüfung

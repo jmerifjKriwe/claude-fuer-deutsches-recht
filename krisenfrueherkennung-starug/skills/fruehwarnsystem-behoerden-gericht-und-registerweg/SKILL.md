@@ -1,6 +1,6 @@
 ---
 name: fruehwarnsystem-behoerden-gericht-und-registerweg
-description: "Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg."
+description: "Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg

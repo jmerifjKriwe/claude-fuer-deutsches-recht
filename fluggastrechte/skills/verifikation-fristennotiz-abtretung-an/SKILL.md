@@ -1,6 +1,6 @@
 ---
 name: verifikation-fristennotiz-abtretung-an
-description: "Verifikation: Fristennotiz und nächster Schritt im Fluggastrechte."
+description: "Verifikation: Fristennotiz und nächster Schritt im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verifikation: Fristennotiz und nächster Schritt

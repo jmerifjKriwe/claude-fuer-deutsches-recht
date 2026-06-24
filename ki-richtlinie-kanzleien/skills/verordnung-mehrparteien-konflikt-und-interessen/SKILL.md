@@ -1,6 +1,6 @@
 ---
 name: verordnung-mehrparteien-konflikt-und-interessen
-description: "Verordnung: Mehrparteienkonflikt und Interessenmatrix."
+description: "Verordnung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verordnung: Mehrparteienkonflikt und Interessenmatrix

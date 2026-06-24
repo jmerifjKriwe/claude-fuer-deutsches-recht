@@ -1,6 +1,6 @@
 ---
 name: verfahrensart-rechtsweg
-description: "Fristen: Fristen, Form, Zuständigkeit und Rechtsweg im Prozessrecht."
+description: "Fristen: Fristen, Form, Zuständigkeit und Rechtsweg im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fristen: Fristen, Form, Zuständigkeit und Rechtsweg

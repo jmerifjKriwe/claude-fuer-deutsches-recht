@@ -1,6 +1,6 @@
 ---
 name: spaltenprompts-fristen-form-und-zustaendigkeit
-description: "Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg

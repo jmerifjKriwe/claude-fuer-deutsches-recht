@@ -1,6 +1,6 @@
 ---
 name: erfassen-behoerden-gericht-und-registerweg
-description: "Erfassen: Behörden-, Gerichts- oder Registerweg im Fluggastrechte."
+description: "Erfassen: Behörden-, Gerichts- oder Registerweg im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Erfassen: Behörden-, Gerichts- oder Registerweg

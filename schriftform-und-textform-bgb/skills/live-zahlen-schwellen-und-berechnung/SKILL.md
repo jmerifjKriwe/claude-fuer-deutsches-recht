@@ -1,6 +1,6 @@
 ---
 name: live-zahlen-schwellen-und-berechnung
-description: "Live: Zahlen, Schwellenwerte und Berechnung."
+description: "Live: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Live: Zahlen, Schwellenwerte und Berechnung

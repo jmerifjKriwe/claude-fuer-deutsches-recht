@@ -1,6 +1,6 @@
 ---
 name: zugriff-sonderfall-und-edge-case
-description: "Zugriff: Sonderfall und Edge-Case-Prüfung."
+description: "Zugriff: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zugriff: Sonderfall und Edge-Case-Prüfung

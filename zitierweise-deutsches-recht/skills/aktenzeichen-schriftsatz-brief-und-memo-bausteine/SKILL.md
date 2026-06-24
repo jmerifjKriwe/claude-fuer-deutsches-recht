@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen-schriftsatz-brief-und-memo-bausteine
-description: "Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine

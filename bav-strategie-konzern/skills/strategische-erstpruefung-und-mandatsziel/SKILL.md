@@ -1,6 +1,6 @@
 ---
 name: strategische-erstpruefung-und-mandatsziel
-description: "Strategische: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Strategische: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strategische: Erstprüfung, Rollenklärung und Mandatsziel

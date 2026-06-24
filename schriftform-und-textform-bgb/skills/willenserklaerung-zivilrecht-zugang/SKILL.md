@@ -1,6 +1,6 @@
 ---
 name: willenserklaerung-zivilrecht-zugang
-description: "Willenserklaerung: Formular, Portal und Einreichungslogik."
+description: "Willenserklaerung: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Willenserklaerung: Formular, Portal und Einreichungslogik

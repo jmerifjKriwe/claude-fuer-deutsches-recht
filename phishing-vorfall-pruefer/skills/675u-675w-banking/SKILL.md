@@ -1,6 +1,6 @@
 ---
 name: 675u-675w-banking
-description: "675U: Verhandlung, Vergleich und Eskalation."
+description: "675U: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # 675U: Verhandlung, Vergleich und Eskalation

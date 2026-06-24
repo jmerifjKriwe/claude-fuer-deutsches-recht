@@ -1,6 +1,6 @@
 # startup-hr-personalabteilung-berlin
 
-**111 Skills** · Stand `v390.0.0`
+**111 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/startup-hr-personalabteilung-berlin/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-werkstatt.md" download>startup-hr-personalabteilung-berlin-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-schnellstart.md" download>startup-hr-personalabteilung-berlin-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [startup-hr-personalabteilung-berlin-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [startup-hr-personalabteilung-berlin-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [startup-hr-personalabteilung-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin.zip) |
 

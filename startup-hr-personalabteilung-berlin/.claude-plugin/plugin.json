@@ -1,6 +1,6 @@
 {
   "name": "startup-hr-personalabteilung-berlin",
-  "version": "391.0.0",
+  "version": "392.0.0",
   "description": "Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings.",
   "keywords": [
     "startup",
@@ -18,7 +18,8 @@
   ],
   "license": "Apache-2.0 OR MIT",
   "author": {
-    "name": "Klotzkette"
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
   },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
 }

@@ -1,6 +1,6 @@
 ---
 name: dolmetscherkosten-zahlen-schwellen-und-berechnung
-description: "Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung."
+description: "Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung

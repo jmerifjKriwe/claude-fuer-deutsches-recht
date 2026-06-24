@@ -1,6 +1,6 @@
 ---
 name: anleiter-formular-portal-und-einreichung
-description: "Anleiter: Formular, Portal und Einreichungslogik im Rechtsberatungsstelle."
+description: "Anleiter: Formular, Portal und Einreichungslogik im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anleiter: Formular, Portal und Einreichungslogik

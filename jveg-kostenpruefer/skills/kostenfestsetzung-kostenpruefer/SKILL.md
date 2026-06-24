@@ -1,6 +1,6 @@
 ---
 name: kostenfestsetzung-kostenpruefer
-description: "Fristen: Compliance-Dokumentation und Aktenvermerk."
+description: "Fristen: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fristen: Compliance-Dokumentation und Aktenvermerk

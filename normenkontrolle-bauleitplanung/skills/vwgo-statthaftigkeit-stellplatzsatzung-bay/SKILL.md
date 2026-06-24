@@ -1,6 +1,6 @@
 ---
 name: vwgo-statthaftigkeit-stellplatzsatzung-bay
-description: "VwGO: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "VwGO: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # VwGO: Schriftsatz-, Brief- und Memo-Bausteine

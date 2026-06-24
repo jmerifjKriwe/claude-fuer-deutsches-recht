@@ -1,6 +1,6 @@
 ---
 name: strassenrecht-verkehrs-verkehrswende
-description: "Strassenrecht: Internationaler Bezug und Schnittstellen."
+description: "Strassenrecht: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strassenrecht: Internationaler Bezug und Schnittstellen

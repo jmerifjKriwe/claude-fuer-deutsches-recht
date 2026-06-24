@@ -1,6 +1,6 @@
 ---
 name: bewaehrung-interessen-deutschem
-description: "Bewaehrung: Mehrparteienkonflikt und Interessenmatrix im Strafzumessung."
+description: "Bewaehrung: Mehrparteienkonflikt und Interessenmatrix im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bewaehrung: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: hausrecht-campus
-description: "Prüft Hausrecht, Demonstration und Campusnutzung im Hochschulrecht Länder."
+description: "Prüft Hausrecht, Demonstration und Campusnutzung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hausrecht Campus

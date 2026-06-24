@@ -1,6 +1,6 @@
 ---
 name: krankheit-und-ruecktritt
-description: "Prüft Krankheit, Rücktritt und Prüfungsunfähigkeit im Prüfungsrecht Hochschule."
+description: "Prüft Krankheit, Rücktritt und Prüfungsunfähigkeit im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Krankheit Und Ruecktritt

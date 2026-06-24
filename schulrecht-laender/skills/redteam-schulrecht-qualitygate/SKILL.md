@@ -1,6 +1,6 @@
 ---
 name: redteam-schulrecht-qualitygate
-description: "Finaler Qualitätscheck für schulrechtliche Ausgaben."
+description: "Finaler Qualitätscheck für schulrechtliche Ausgaben. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Redteam Schulrecht Qualitygate

@@ -1,6 +1,6 @@
 ---
 name: erkennen-schriftsatz-brief-und-memo-bausteine
-description: "Erkennen: Schriftsatz-, Brief- und Memo-Bausteine im Vertragsausfueller."
+description: "Erkennen: Schriftsatz-, Brief- und Memo-Bausteine im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Erkennen: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: klausurkorrektur-formular-portal-und-einreichung
-description: "Klausurkorrektur: Formular, Portal und Einreichungslogik im Jurastudium."
+description: "Klausurkorrektur: Formular, Portal und Einreichungslogik im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Klausurkorrektur: Formular, Portal und Einreichungslogik

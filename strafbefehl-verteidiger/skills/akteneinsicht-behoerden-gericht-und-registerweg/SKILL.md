@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-behoerden-gericht-und-registerweg
-description: "Akteneinsicht: Behörden-, Gerichts- oder Registerweg."
+description: "Akteneinsicht: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Akteneinsicht: Behörden-, Gerichts- oder Registerweg

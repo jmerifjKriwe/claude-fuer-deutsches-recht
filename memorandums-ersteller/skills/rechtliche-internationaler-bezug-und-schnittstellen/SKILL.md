@@ -1,6 +1,6 @@
 ---
 name: rechtliche-internationaler-bezug-und-schnittstellen
-description: "Rechtliche: Internationaler Bezug und Schnittstellen."
+description: "Rechtliche: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rechtliche: Internationaler Bezug und Schnittstellen

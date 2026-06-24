@@ -1,6 +1,6 @@
 ---
 name: drift-verhandlung-vergleich-und-eskalation
-description: "Drift: Verhandlung, Vergleich und Eskalation."
+description: "Drift: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Drift: Verhandlung, Vergleich und Eskalation

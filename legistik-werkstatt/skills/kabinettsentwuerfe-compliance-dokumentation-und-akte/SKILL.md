@@ -1,6 +1,6 @@
 ---
 name: kabinettsentwuerfe-compliance-dokumentation-und-akte
-description: "Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk."
+description: "Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk

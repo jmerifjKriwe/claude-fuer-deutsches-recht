@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-sonderfall-und-edge-case
-description: "Dolmetscher: Sonderfall und Edge-Case-Prüfung."
+description: "Dolmetscher: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dolmetscher: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: uebersetzer-fristennotiz-jveg
-description: "Übersetzer: Fristennotiz und nächster Schritt."
+description: "Übersetzer: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Übersetzer: Fristennotiz und nächster Schritt

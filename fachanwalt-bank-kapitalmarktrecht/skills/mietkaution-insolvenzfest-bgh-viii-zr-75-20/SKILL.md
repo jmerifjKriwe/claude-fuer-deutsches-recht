@@ -1,6 +1,6 @@
 ---
 name: mietkaution-insolvenzfest-bgh-viii-zr-75-20
-description: "Mietkaution insolvenzfeste Anlage Paragraf 551 BGB mit BGH VIII ZR 75/20."
+description: "Mietkaution insolvenzfeste Anlage Paragraf 551 BGB mit BGH VIII ZR 75/20. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mietkaution Insolvenzfest BGH Viii Zr 75 20

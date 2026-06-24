@@ -1,6 +1,6 @@
 ---
 name: brao-interessen-fokus-formuliert
-description: "Brao: Mehrparteienkonflikt und Interessenmatrix."
+description: "Brao: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Brao: Mehrparteienkonflikt und Interessenmatrix

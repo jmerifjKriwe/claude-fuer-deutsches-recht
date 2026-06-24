@@ -1,6 +1,6 @@
 ---
 name: checkout-beweislast-und-darlegungslast
-description: "Checkout: Beweislast, Darlegungslast und Substantiierung."
+description: "Checkout: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Checkout: Beweislast, Darlegungslast und Substantiierung

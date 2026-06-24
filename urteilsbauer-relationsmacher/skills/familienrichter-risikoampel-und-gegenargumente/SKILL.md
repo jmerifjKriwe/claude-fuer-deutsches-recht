@@ -1,6 +1,6 @@
 ---
 name: familienrichter-risikoampel-und-gegenargumente
-description: "Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien

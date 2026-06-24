@@ -1,6 +1,6 @@
 ---
 name: review-richtlinie
-description: "Prüfung: Internationaler Bezug und Schnittstellen."
+description: "Prüfung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Prüfung: Internationaler Bezug und Schnittstellen

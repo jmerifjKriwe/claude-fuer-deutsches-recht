@@ -1,6 +1,6 @@
 ---
 name: besold-landesbesoldung-foederalismus-und-synopse
-description: "Beamtenrecht: Landesbesoldung Föderalismus und Synopse im Beamtenrecht."
+description: "Beamtenrecht: Landesbesoldung Föderalismus und Synopse im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Besold Landesbesoldung Foederalismus Und Synopse

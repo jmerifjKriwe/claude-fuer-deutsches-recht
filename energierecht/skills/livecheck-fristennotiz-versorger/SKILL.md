@@ -1,6 +1,6 @@
 ---
 name: livecheck-fristennotiz-versorger
-description: "Livecheck: Fristennotiz und nächster Schritt im Energierecht."
+description: "Livecheck: Fristennotiz und nächster Schritt im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Livecheck: Fristennotiz und nächster Schritt

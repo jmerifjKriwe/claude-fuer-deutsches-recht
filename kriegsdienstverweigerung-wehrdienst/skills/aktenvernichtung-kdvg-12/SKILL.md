@@ -1,6 +1,6 @@
 ---
 name: aktenvernichtung-kdvg-12
-description: "Erklärt Aufbewahrung und Löschung von KDV-Akten."
+description: "Erklärt Aufbewahrung und Löschung von KDV-Akten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aktenvernichtung § 12 KDVG

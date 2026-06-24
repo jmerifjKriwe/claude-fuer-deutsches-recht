@@ -1,6 +1,6 @@
 ---
 name: beschwerde-dolmetscher-sonderfall
-description: "Beschwerde: Internationaler Bezug und Schnittstellen."
+description: "Beschwerde: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beschwerde: Internationaler Bezug und Schnittstellen

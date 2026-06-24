@@ -1,6 +1,6 @@
 ---
 name: rechtsberatung-internationaler-bezug-und-schnittstellen
-description: "Rechtsberatung: Internationaler Bezug und Schnittstellen im Subsumtions Prüfer."
+description: "Rechtsberatung: Internationaler Bezug und Schnittstellen im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rechtsberatung: Internationaler Bezug und Schnittstellen

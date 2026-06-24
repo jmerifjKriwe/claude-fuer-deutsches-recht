@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrecht-erstpruefung-und-mandatsziel
-description: "Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel

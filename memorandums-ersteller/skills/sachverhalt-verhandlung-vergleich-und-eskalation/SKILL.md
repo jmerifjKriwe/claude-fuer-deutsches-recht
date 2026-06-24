@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-verhandlung-vergleich-und-eskalation
-description: "Sachverhalt: Verhandlung, Vergleich und Eskalation."
+description: "Sachverhalt: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sachverhalt: Verhandlung, Vergleich und Eskalation

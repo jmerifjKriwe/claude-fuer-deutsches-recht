@@ -112,3 +112,7 @@ Beklagtenstation: Nach dem derzeitigen Aktenstand ist [Tatsache] unstreitig, wei
 ## Beitrag zum Streitstoff in diesem Verfahren
 
 Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation bleiben getrennt. Er benennt zu jedem Streitpunkt die tragende Tatsache, den Vortrag der Gegenseite, das Beweisangebot, die Beweislast und die Rechtsfolge. Fehlt eine Station, wird nicht frei ergänzt, sondern als Lücke mit Anschlussverfügung ausgewiesen.
+
+## v392 Erheblichkeitsregel
+
+In der Beklagtenstation wird der Beklagtenvortrag als wahr unterstellt. Erheblich ist nur, was den Anspruch rechtlich hindert, vernichtet, hemmt oder ein anspruchsbegründendes Merkmal wirksam bestreitet. Bloße Rechtsmeinungen, pauschales Bestreiten und nicht entscheidungserhebliche Nebenpunkte werden ausgeschieden.

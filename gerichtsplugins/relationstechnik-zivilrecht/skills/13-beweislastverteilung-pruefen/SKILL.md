@@ -112,3 +112,7 @@ Beweisstation: Nach dem derzeitigen Aktenstand ist [Tatsache] unstreitig, weil [
 ## Beitrag zum Streitstoff in diesem Verfahren
 
 Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation bleiben getrennt. Er benennt zu jedem Streitpunkt die tragende Tatsache, den Vortrag der Gegenseite, das Beweisangebot, die Beweislast und die Rechtsfolge. Fehlt eine Station, wird nicht frei ergänzt, sondern als Lücke mit Anschlussverfügung ausgewiesen.
+
+## v392 Beweislastregel
+
+Die Beweisstation enthält nur erhebliche und streitige Tatsachen. Ordne zuerst die Tatsache ein: anspruchsbegründend, rechtshindernd, rechtsvernichtend oder rechtshemmend. Danach prüfe Sonderregeln, sekundäre Darlegungslast, Anscheinsbeweis, Beweisvereitelung und Beweisnähe. Jede Beweisfrage wird als konkrete Tatsachenfrage formuliert.

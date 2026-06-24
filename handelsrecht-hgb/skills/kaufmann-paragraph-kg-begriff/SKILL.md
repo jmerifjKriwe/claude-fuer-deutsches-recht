@@ -1,6 +1,6 @@
 ---
 name: kaufmann-paragraph-kg-begriff
-description: "Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang im Handelsrecht Hgb."
+description: "Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang im Handelsrecht Hgb. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kaufmann § 1 HGB

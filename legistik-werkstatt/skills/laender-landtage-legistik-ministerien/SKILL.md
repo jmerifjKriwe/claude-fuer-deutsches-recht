@@ -1,6 +1,6 @@
 ---
 name: laender-landtage-legistik-ministerien
-description: "Länder: Behörden-, Gerichts- oder Registerweg."
+description: "Länder: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Länder: Behörden-, Gerichts- oder Registerweg

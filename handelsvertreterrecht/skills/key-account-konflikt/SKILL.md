@@ -1,6 +1,6 @@
 ---
 name: key-account-konflikt
-description: "Prüft Key-Account-Entzug und Großkunden."
+description: "Prüft Key-Account-Entzug und Großkunden. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Key Account Konflikt

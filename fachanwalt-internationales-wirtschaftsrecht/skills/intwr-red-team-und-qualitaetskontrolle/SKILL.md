@@ -1,6 +1,6 @@
 ---
 name: intwr-red-team-und-qualitaetskontrolle
-description: "Intwr: Red-Team und Qualitätskontrolle: Intwr: Red-Team und Qualitätskontrolle."
+description: "Intwr: Red-Team und Qualitätskontrolle: Intwr: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Intwr: Red-Team und Qualitätskontrolle

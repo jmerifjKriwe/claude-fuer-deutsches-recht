@@ -1,6 +1,6 @@
 ---
 name: naturschutz-schriftsatz-brief-und-memo-bausteine
-description: "Naturschutz: Schriftsatz-, Brief- und Memo-Bausteine im Umweltrecht."
+description: "Naturschutz: Schriftsatz-, Brief- und Memo-Bausteine im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Naturschutz: Schriftsatz-, Brief- und Memo-Bausteine

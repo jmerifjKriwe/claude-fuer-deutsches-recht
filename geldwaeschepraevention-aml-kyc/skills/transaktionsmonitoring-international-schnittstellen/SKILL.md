@@ -1,6 +1,6 @@
 ---
 name: transaktionsmonitoring-international-schnittstellen
-description: "Transaktionsmonitoring: Internationaler Bezug und Schnittstellen."
+description: "Transaktionsmonitoring: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Transaktionsmonitoring: Internationaler Bezug und Schnittstellen

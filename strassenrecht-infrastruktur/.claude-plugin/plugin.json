@@ -1,6 +1,6 @@
 {
   "name": "strassenrecht-infrastruktur",
-  "version": "391.0.0",
+  "version": "392.0.0",
   "description": "Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, Widmung, Planfeststellung, Sondernutzung, Baulast und Erhaltung.",
   "keywords": [
     "strassenrecht",
@@ -17,6 +17,7 @@
   ],
   "license": "Apache-2.0 OR MIT",
   "author": {
-    "name": "Klotzkette"
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
   }
 }

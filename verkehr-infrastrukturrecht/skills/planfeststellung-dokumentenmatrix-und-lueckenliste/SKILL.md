@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-dokumentenmatrix-und-lueckenliste
-description: "Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung

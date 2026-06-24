@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Unternehmen, IBANs und sonstigen Details sind fiktiv und anonymisiert. Keine der genannten Personen oder Firmen existiert in der Realitaet. Die Akte gehoert fachlich zum Plugin `fachanwalt-strafrecht`.
+Arbeitsakte zum Plugin `fachanwalt-strafrecht`.
 
 Diese Akte demonstriert eine komplexe Wirtschaftsstrafsache aus **Verteidiger-Perspektive** mit besonderem Schwerpunkt auf:
 

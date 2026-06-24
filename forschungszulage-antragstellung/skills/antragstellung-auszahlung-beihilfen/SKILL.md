@@ -1,6 +1,6 @@
 ---
 name: antragstellung-auszahlung-beihilfen
-description: "Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage

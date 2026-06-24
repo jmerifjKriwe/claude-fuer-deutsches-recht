@@ -1,6 +1,6 @@
 ---
 name: telefonische-terminvergabe-interessen
-description: "Telefonische: Compliance-Dokumentation und Aktenvermerk."
+description: "Telefonische: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Telefonische: Compliance-Dokumentation und Aktenvermerk

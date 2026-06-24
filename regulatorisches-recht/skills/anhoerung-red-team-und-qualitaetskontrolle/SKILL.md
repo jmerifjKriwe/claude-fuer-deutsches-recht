@@ -1,6 +1,6 @@
 ---
 name: anhoerung-red-team-und-qualitaetskontrolle
-description: "Anhörung: Red-Team und Qualitätskontrolle."
+description: "Anhörung: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anhörung: Red-Team und Qualitätskontrolle

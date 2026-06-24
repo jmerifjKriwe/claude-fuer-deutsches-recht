@@ -1,6 +1,6 @@
 ---
 name: ministerien-tatbestand-beweis-und-belege
-description: "Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage

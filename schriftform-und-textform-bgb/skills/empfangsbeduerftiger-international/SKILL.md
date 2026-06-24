@@ -1,6 +1,6 @@
 ---
 name: empfangsbeduerftiger-international
-description: "Dokumentation: Verhandlung, Vergleich und Eskalation."
+description: "Dokumentation: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dokumentation: Verhandlung, Vergleich und Eskalation

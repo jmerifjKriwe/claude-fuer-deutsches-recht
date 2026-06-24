@@ -1,6 +1,6 @@
 ---
 name: friends-indemnity-quality
-description: "Friends: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Friends: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Friends: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: richtlinien-schriftsatz-brief-und-memo-bausteine
-description: "Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine

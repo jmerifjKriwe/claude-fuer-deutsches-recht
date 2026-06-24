@@ -1,6 +1,6 @@
 ---
 name: sportbefreiung-gesundheit-sprachfoerderung
-description: "Prüft Befreiung vom Sport und Gesundheitskonflikte im Schulrecht Länder."
+description: "Prüft Befreiung vom Sport und Gesundheitskonflikte im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sportbefreiung Und Gesundheit

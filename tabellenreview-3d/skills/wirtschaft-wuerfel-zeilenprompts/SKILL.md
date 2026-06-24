@@ -1,6 +1,6 @@
 ---
 name: wirtschaft-wuerfel-zeilenprompts
-description: "Wirtschaft: Zahlen, Schwellenwerte und Berechnung."
+description: "Wirtschaft: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wirtschaft: Zahlen, Schwellenwerte und Berechnung

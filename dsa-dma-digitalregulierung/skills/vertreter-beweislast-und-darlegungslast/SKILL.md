@@ -1,6 +1,6 @@
 ---
 name: vertreter-beweislast-und-darlegungslast
-description: "Vertreter: Beweislast, Darlegungslast und Substantiierung."
+description: "Vertreter: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vertreter: Beweislast, Darlegungslast und Substantiierung

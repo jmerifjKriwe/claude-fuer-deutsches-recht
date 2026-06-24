@@ -1,6 +1,6 @@
 ---
 name: konzernen-pension-pensionsmodelle
-description: "Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung

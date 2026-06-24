@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-tatbestand-beweis-und-belege
-description: "Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage

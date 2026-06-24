@@ -1,6 +1,6 @@
 ---
 name: enwg-feeds-heilmwerbg
-description: "Enwg: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Enwg: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Enwg: Dokumentenmatrix, Lückenliste und Nachforderung

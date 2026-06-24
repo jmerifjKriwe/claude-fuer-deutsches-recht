@@ -1,6 +1,6 @@
 ---
 name: pushtan-compliance-dokumentation-und-akte
-description: "Pushtan: Compliance-Dokumentation und Aktenvermerk."
+description: "Pushtan: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Pushtan: Compliance-Dokumentation und Aktenvermerk

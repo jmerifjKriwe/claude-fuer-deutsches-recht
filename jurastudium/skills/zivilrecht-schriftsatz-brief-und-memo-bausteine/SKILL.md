@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-schriftsatz-brief-und-memo-bausteine
-description: "Zivilrecht: Schriftsatz-, Brief- und Memo-Bausteine im Jurastudium."
+description: "Zivilrecht: Schriftsatz-, Brief- und Memo-Bausteine im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zivilrecht: Schriftsatz-, Brief- und Memo-Bausteine

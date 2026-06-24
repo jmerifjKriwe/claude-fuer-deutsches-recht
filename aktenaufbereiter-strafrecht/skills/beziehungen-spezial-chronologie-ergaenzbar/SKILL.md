@@ -1,6 +1,6 @@
 ---
 name: beziehungen-spezial-chronologie-ergaenzbar
-description: "Beziehungen: Zahlen, Schwellenwerte und Berechnung."
+description: "Beziehungen: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beziehungen: Zahlen, Schwellenwerte und Berechnung

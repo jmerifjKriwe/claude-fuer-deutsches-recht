@@ -66,3 +66,7 @@ Nach der Rechtsprechung des BAG kann der Arbeitnehmer auf die Erteilung eines qu
 - Dem Nutzer sagen, er „habe automatisch Note 2", weil alle in seiner Firma Note 2 bekommen.
 - Beweislasthinweis weglassen, wenn der Nutzer eine Note deutlich über 3 haben möchte ohne Belege.
 - BAG-Entscheidungen zitieren, ohne auf die Verifikationspflicht hinzuweisen.
+
+## v392 Arbeitsregel für die Entwurfspraxis
+
+Der Entwurf trennt drei Ebenen: gewünschte Note, belegte Tatsachen und gerichtliche Durchsetzbarkeit. Bei Note 1 oder Note 2 werden konkrete Träger abgefragt: Zielerreichung, Bonus, Zwischenzeugnis, Projektabschluss, Führungsfeedback oder schriftliches Lob. Bei Note 4 oder Note 5 werden Arbeitgeberbelege verlangt: Abmahnungen, dokumentierte Fehler, Beschwerden, Leistungsbeurteilungen oder belastbare Kennzahlen. Branchenübliche Freundlichkeit ersetzt keinen Tatsachenvortrag. Wenn Belege fehlen, wird eine mildere, aber tragfähige Fassung vorgeschlagen.

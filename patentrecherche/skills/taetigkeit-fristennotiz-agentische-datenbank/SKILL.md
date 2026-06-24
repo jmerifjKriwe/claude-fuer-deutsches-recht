@@ -1,6 +1,6 @@
 ---
 name: taetigkeit-fristennotiz-agentische-datenbank
-description: "Taetigkeit: Fristennotiz und nächster Schritt im Patentrecherche."
+description: "Taetigkeit: Fristennotiz und nächster Schritt im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Taetigkeit: Fristennotiz und nächster Schritt

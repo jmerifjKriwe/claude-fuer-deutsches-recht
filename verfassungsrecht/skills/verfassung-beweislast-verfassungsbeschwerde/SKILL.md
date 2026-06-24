@@ -1,6 +1,6 @@
 ---
 name: verfassung-beweislast-verfassungsbeschwerde
-description: "Verfassung: Beweislast, Darlegungslast und Substantiierung im Verfassungsrecht."
+description: "Verfassung: Beweislast, Darlegungslast und Substantiierung im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verfassung: Beweislast, Darlegungslast und Substantiierung

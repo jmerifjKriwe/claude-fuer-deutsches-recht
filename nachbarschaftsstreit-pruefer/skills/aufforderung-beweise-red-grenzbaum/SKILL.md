@@ -1,6 +1,6 @@
 ---
 name: aufforderung-beweise-red-grenzbaum
-description: "Aufforderung: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Aufforderung: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aufforderung: Mandantenkommunikation und Entscheidungsvorlage

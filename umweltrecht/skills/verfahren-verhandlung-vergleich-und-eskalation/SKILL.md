@@ -1,6 +1,6 @@
 ---
 name: verfahren-verhandlung-vergleich-und-eskalation
-description: "Verfahren: Verhandlung, Vergleich und Eskalation im Umweltrecht."
+description: "Verfahren: Verhandlung, Vergleich und Eskalation im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verfahren: Verhandlung, Vergleich und Eskalation

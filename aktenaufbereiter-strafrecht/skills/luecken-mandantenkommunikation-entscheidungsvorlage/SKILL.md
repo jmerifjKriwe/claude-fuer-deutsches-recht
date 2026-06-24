@@ -1,6 +1,6 @@
 ---
 name: luecken-mandantenkommunikation-entscheidungsvorlage
-description: "Luecken: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Luecken: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Luecken: Mandantenkommunikation und Entscheidungsvorlage

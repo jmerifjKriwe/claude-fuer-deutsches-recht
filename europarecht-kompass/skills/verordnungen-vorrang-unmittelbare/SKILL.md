@@ -1,6 +1,6 @@
 ---
 name: verordnungen-vorrang-unmittelbare
-description: "Verordnungen: Verhandlung, Vergleich und Eskalation."
+description: "Verordnungen: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verordnungen: Verhandlung, Vergleich und Eskalation

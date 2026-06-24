@@ -1,6 +1,6 @@
 ---
 name: bieterangebote-mieten-oeffentliche
-description: "Bieterangebote: Compliance-Dokumentation und Aktenvermerk."
+description: "Bieterangebote: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bieterangebote: Compliance-Dokumentation und Aktenvermerk

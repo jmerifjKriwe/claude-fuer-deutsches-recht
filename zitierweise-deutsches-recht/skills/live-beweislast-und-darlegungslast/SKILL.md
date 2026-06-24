@@ -1,6 +1,6 @@
 ---
 name: live-beweislast-und-darlegungslast
-description: "Live: Beweislast, Darlegungslast und Substantiierung."
+description: "Live: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Live: Beweislast, Darlegungslast und Substantiierung

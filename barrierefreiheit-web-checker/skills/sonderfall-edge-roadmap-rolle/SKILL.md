@@ -1,6 +1,6 @@
 ---
 name: sonderfall-edge-roadmap-rolle
-description: "Prüfung: Sonderfall und Edge-Case-Prüfung."
+description: "Prüfung: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Prüfung: Sonderfall und Edge-Case-Prüfung

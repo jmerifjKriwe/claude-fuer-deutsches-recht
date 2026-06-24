@@ -1,6 +1,6 @@
 ---
 name: common-consideration-discovery
-description: "Common: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Common: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Common: Erstprüfung, Rollenklärung und Mandatsziel

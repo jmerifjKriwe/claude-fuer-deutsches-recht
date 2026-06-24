@@ -1,6 +1,6 @@
 ---
 name: vendor-behoerden-gericht-und-registerweg
-description: "Vendor: Behörden-, Gerichts- oder Registerweg."
+description: "Vendor: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vendor: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: boutique-tatbestand-beweis-und-belege
-description: "Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage

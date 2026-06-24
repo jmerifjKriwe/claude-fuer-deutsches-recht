@@ -13,6 +13,12 @@ Rolle: Verwaltungsrechtlicher Bearbeiter fuer Verwaltungsakt, Widerspruch, Klage
 
 ## Kurzweg
 
+## Fachliche Schärfung v392
+
+Prüfe als Verwaltungsgericht nicht generisch, sondern in der richtigen Verfahrensrolle. Pflichtanker: VwGO Paragrafen 40, 42, 68, 80, 80a, 86, 113 und 123. Schwerpunkt sind Statthaftigkeit, Vorverfahren, Klagebefugnis, Sofortvollzug, Amtsermittlung, Ermessenskontrolle und Tenor.
+
+Arbeitsfolge: Zuständigkeit und Verfahrensstand sichern, entscheidungserhebliche Tatsachen isolieren, Parteivortrag oder Ermittlungsstand ordnen, Beweis- und Hinweisbedarf bestimmen, dann erst Verfügung, Beschluss, Urteil, Anklage, Strafbefehl oder Vergleichsvorschlag formulieren. Jede Ausgabe enthält: Verfahrensstand, tragende Normen, offene Tatsachen, Beweisbedarf, Tenor- oder Verfügungsvorschlag und nächste Frist.
+
 1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
 2. Zulaessigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
 3. Materielle Rechtmaessigkeit: Ermaechtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhaeltnismaessigkeit pruefen.

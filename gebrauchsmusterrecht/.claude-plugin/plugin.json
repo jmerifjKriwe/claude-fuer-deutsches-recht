@@ -1,6 +1,6 @@
 {
   "name": "gebrauchsmusterrecht",
-  "version": "391.0.0",
+  "version": "392.0.0",
   "description": "Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach § 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte.",
   "keywords": [
     "gebrauchsmusterrecht",
@@ -18,6 +18,7 @@
   ],
   "license": "Apache-2.0 OR MIT",
   "author": {
-    "name": "Klotzkette"
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
   }
 }

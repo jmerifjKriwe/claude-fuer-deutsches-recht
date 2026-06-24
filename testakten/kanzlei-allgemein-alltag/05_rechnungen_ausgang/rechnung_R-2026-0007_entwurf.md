@@ -76,6 +76,6 @@ Die Vergütung erfolgt gemäß Vergütungsvereinbarung vom 15.04.2026 (Stundensa
 
 ---
 
-*Dies ist ein Rechnungsentwurf ohne rechtsverbindliche Wirkung. Die Rechnung wird nach anwaltlicher Prüfung und Freigabe durch Jana Reuter endgültig ausgestellt und versandt. Alle Angaben sind Testdaten.*
+*Dies ist ein Rechnungsentwurf ohne rechtsverbindliche Wirkung. Die Rechnung wird nach anwaltlicher Prüfung und Freigabe durch Jana Reuter endgültig ausgestellt und versandt. Alle Angaben sind Aktenstand.*
 
 *Stand: 20.05.2026 — Kanzlei Jana Reuter, Lindenstraße 14, 10969 Berlin*

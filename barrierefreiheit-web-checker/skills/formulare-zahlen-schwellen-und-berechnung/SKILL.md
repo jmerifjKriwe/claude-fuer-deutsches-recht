@@ -1,6 +1,6 @@
 ---
 name: formulare-zahlen-schwellen-und-berechnung
-description: "Formulare: Zahlen, Schwellenwerte und Berechnung."
+description: "Formulare: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Formulare: Zahlen, Schwellenwerte und Berechnung

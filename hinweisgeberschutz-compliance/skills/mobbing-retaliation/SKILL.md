@@ -1,6 +1,6 @@
 ---
 name: mobbing-retaliation
-description: "Erkennt informelle Repressalien und Mobbing im Hinweisgeberschutz Compliance."
+description: "Erkennt informelle Repressalien und Mobbing im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mobbing Retaliation

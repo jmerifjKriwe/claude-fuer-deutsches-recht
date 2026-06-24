@@ -1,6 +1,6 @@
 ---
 name: datenschutz-hochschule
-description: "Prüft Datenschutz in Lehre, Forschung und Verwaltung im Hochschulrecht Länder."
+description: "Prüft Datenschutz in Lehre, Forschung und Verwaltung im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Datenschutz Hochschule

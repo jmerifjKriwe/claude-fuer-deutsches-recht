@@ -1,6 +1,6 @@
 ---
 name: vorlageverfahren-mehrparteien-konflikt-und-interessen
-description: "Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix."
+description: "Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix

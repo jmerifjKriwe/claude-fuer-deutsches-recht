@@ -1,6 +1,6 @@
 ---
 name: brak-internationaler-bezug-und-schnittstellen
-description: "Brak: Internationaler Bezug und Schnittstellen."
+description: "Brak: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Brak: Internationaler Bezug und Schnittstellen

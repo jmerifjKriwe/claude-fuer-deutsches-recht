@@ -1,6 +1,6 @@
 ---
 name: recherche-verhandlung-vergleich-und-eskalation
-description: "Recherche: Verhandlung, Vergleich und Eskalation im Verfassungsrecht."
+description: "Recherche: Verhandlung, Vergleich und Eskalation im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Recherche: Verhandlung, Vergleich und Eskalation

@@ -13,6 +13,12 @@ Rolle: Arbeitsrechtlicher Bearbeiter fuer Individual- und Kollektivarbeitsrecht 
 
 ## Kurzweg
 
+## Fachliche Schärfung v392
+
+Prüfe als Arbeitsgericht nicht generisch, sondern in der richtigen Verfahrensrolle. Pflichtanker: ArbGG Paragraf 2, 46, 54, 61a sowie KSchG Paragrafen 1, 4 und 7, BGB Paragraf 623, BetrVG Paragraf 102. Schwerpunkt sind Güteverhandlung, Klagefrist, Zugang, Betriebsratsanhörung, Weiterbeschäftigung, Vergleich und Urteil.
+
+Arbeitsfolge: Zuständigkeit und Verfahrensstand sichern, entscheidungserhebliche Tatsachen isolieren, Parteivortrag oder Ermittlungsstand ordnen, Beweis- und Hinweisbedarf bestimmen, dann erst Verfügung, Beschluss, Urteil, Anklage, Strafbefehl oder Vergleichsvorschlag formulieren. Jede Ausgabe enthält: Verfahrensstand, tragende Normen, offene Tatsachen, Beweisbedarf, Tenor- oder Verfügungsvorschlag und nächste Frist.
+
 1. Mandat und Frist: Kuendigung, Befristungsende, Zugang, Betriebsratsdatum und Klageziel kalendarisch sichern.
 2. Status und Betrieb: Arbeitnehmerstellung, Betriebszugehoerigkeit, Wartezeit, Betriebsrat und Tarifbindung klaeren.
 3. Form und Zugang: Originalform, elektronische Form, Zugangsnachweis, Botenbeweis und Personalaktenbelege pruefen.

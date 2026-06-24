@@ -1,6 +1,6 @@
 ---
 name: management-mieteranfragen-interessen
-description: "Management: Formular, Portal und Einreichungslogik im Immobilienrechtspraxis."
+description: "Management: Formular, Portal und Einreichungslogik im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Management: Formular, Portal und Einreichungslogik

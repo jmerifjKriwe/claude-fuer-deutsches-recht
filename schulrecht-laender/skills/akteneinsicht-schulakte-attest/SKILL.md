@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-schulakte-attest
-description: "Prüft Einsicht in Schülerakte und Unterlagen im Schulrecht Länder."
+description: "Prüft Einsicht in Schülerakte und Unterlagen im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Akteneinsicht Schulakte

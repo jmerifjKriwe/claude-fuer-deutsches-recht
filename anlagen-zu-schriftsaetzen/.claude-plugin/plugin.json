@@ -1,10 +1,11 @@
 {
   "name": "anlagen-zu-schriftsaetzen",
-  "version": "391.0.0",
+  "version": "392.0.0",
   "description": "Anlagenmanagement für gerichtliche Schriftsaetze: sortiert chaotische Mandantenordner, E-Mails, Scans, Tabellen und Vorversionen zu beA-tauglichen K/B/AST/AG-Anlagen mit Verzeichnis, Konvolutdeckblaettern, Stempel-/Dateinamenregeln, Hashlog, Lueckenliste und Qualitygate.",
   "license": "Apache-2.0 OR MIT",
   "author": {
-    "name": "Klotzkette"
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
   },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
   "keywords": [

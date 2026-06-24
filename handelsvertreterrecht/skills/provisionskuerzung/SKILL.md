@@ -1,6 +1,6 @@
 ---
 name: provisionskuerzung
-description: "Prüft einseitige Provisionskürzungen."
+description: "Prüft einseitige Provisionskürzungen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Provisionskuerzung

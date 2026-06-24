@@ -1,6 +1,6 @@
 ---
 name: kostenpruefer-fristen-form-und-zustaendigkeit
-description: "Kostenpruefer: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Kostenpruefer: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kostenpruefer: Fristen, Form, Zuständigkeit und Rechtsweg

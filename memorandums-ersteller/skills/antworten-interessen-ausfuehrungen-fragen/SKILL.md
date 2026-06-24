@@ -1,6 +1,6 @@
 ---
 name: antworten-interessen-ausfuehrungen-fragen
-description: "Antworten: Mehrparteienkonflikt und Interessenmatrix."
+description: "Antworten: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Antworten: Mehrparteienkonflikt und Interessenmatrix

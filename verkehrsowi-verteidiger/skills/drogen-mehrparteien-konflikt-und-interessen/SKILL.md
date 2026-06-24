@@ -1,6 +1,6 @@
 ---
 name: drogen-mehrparteien-konflikt-und-interessen
-description: "Drogen: Mehrparteienkonflikt und Interessenmatrix."
+description: "Drogen: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Drogen: Mehrparteienkonflikt und Interessenmatrix

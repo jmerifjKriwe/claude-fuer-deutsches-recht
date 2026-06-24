@@ -1,6 +1,6 @@
 ---
 name: ausfuehrungen-formular-portal-und-einreichung
-description: "Ausfuehrungen: Formular, Portal und Einreichungslogik."
+description: "Ausfuehrungen: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ausfuehrungen: Formular, Portal und Einreichungslogik

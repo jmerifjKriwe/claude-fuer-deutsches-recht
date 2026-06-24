@@ -1,6 +1,6 @@
 ---
 name: verfahrenszusammenfassung-rechtsweg-register
-description: "Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg."
+description: "Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg

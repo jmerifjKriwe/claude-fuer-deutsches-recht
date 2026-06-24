@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-sonderfall-messakte-messung
-description: "Hauptverhandlung: Sonderfall und Edge-Case-Prüfung."
+description: "Hauptverhandlung: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hauptverhandlung: Sonderfall und Edge-Case-Prüfung

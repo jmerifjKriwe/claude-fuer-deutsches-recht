@@ -1,6 +1,6 @@
 ---
 name: schulaufnahme-und-schulbezirk
-description: "Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung im Schulrecht Länder."
+description: "Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schulaufnahme Und Schulbezirk

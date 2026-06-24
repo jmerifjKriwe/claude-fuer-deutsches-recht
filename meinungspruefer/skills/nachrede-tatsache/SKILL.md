@@ -1,6 +1,6 @@
 ---
 name: nachrede-tatsache
-description: "Nachrede: Schriftsatz-, Brief- und Memo-Bausteine im Meinungspruefer."
+description: "Nachrede: Schriftsatz-, Brief- und Memo-Bausteine im Meinungspruefer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Nachrede: Schriftsatz-, Brief- und Memo-Bausteine

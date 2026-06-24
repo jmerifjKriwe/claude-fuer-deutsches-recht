@@ -1,12 +1,12 @@
-# Megaprompt: fachanwalt-vergaberecht
+# Vollprüfung: fachanwalt-vergaberecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-vergaberecht`.
+Dieser Vollprüfung enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-vergaberecht`.
 
 ## Inhaltsverzeichnis
 
-1. **vergaberechtliche-pruefung-anwaltlich-megaprompt** — Megaprompt fuer die vollstaendige anwaltliche vergaberechtliche Pruefung einer Auftragsvergabe aus Bieter- oder Auftragg…
+1. **vergaberechtliche-pruefung-anwaltlich-vollpruefung** — Vollprüfung fuer die vollstaendige anwaltliche vergaberechtliche Pruefung einer Auftragsvergabe aus Bieter- oder Auftragg…
 2. **einstieg-routing** — Einstieg, Triage und Routing für Fachanwalt Vergaberecht: ordnet Rolle (Bieter, Öffentlicher Auftraggeber, Vergabekammer…
 3. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting im Fachanwalt Vergaberecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risik…
 4. **mandat-triage-vergaberecht** — Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check: No…
@@ -17,15 +17,15 @@ Dieser Megaprompt enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des
 
 ---
 
-## Skill: `vergaberechtliche-pruefung-anwaltlich-megaprompt`
+## Skill: `vergaberechtliche-pruefung-anwaltlich-vollpruefung`
 
-_Megaprompt fuer die vollstaendige anwaltliche vergaberechtliche Pruefung einer Auftragsvergabe aus Bieter- oder Auftraggebersicht: Anwendungsbereich GWB/VgV/SektVO/KonzVgV/VOB-A/UVgO, Schwellenwerte, Verfahrensart, Bekanntmachung TED/eForms/DVAL, Eignungs- und Zuschlagskriterien, Wertungsentscheidung, Aufklaerung und Nachforderung 56 VgV, Ausschlussgruende 123/124 GWB, Vorabinformation 134 GWB, Ruege 160 III GWB Frist 10 Tage, Nachpruefungsverfahren bei der Vergabekammer mit Eilantrag 169 GWB, sofortige Beschwerde 171 GWB, De-Facto-Vergabe 135 GWB Sechs-Monats-Frist, Schadensersatz 181 GWB und 33f GWB, vergaberechtskonforme Vertragsanpassung 132 GWB. Strikter Gutachtenstil mit Subsumtion verifizierter Rechtsprechung BGH BVerfG OLG-Vergabesenate und Vergabekammer-Entscheidungen, keine BeckRS-/Kommentar-/Aufsatz-Blindzitate, ohne Mandatsbegruendung._
+_Vollprüfung fuer die vollstaendige anwaltliche vergaberechtliche Pruefung einer Auftragsvergabe aus Bieter- oder Auftraggebersicht: Anwendungsbereich GWB/VgV/SektVO/KonzVgV/VOB-A/UVgO, Schwellenwerte, Verfahrensart, Bekanntmachung TED/eForms/DVAL, Eignungs- und Zuschlagskriterien, Wertungsentscheidung, Aufklaerung und Nachforderung 56 VgV, Ausschlussgruende 123/124 GWB, Vorabinformation 134 GWB, Ruege 160 III GWB Frist 10 Tage, Nachpruefungsverfahren bei der Vergabekammer mit Eilantrag 169 GWB, sofortige Beschwerde 171 GWB, De-Facto-Vergabe 135 GWB Sechs-Monats-Frist, Schadensersatz 181 GWB und 33f GWB, vergaberechtskonforme Vertragsanpassung 132 GWB. Strikter Gutachtenstil mit Subsumtion verifizierter Rechtsprechung BGH BVerfG OLG-Vergabesenate und Vergabekammer-Entscheidungen, keine BeckRS-/Kommentar-/Aufsatz-Blindzitate, ohne Mandatsbegruendung._
 
-# Megaprompt: Vergaberechtliche Pruefung aus anwaltlicher Sicht
+# Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung
 
 ## Einsatzlage
 
-Dieser Megaprompt fuehrt einen Volljuristen Schritt fuer Schritt durch die **vollstaendige vergaberechtliche Pruefung einer konkreten oeffentlichen Auftragsvergabe** — entweder aus Sicht eines abgewiesenen oder ausgeschlossenen Bieters (Angriffsperspektive: Ruege, Nachpruefung, einstweiliger Rechtsschutz, Schadensersatz) oder aus Sicht des oeffentlichen Auftraggebers (Verteidigungsperspektive: Verfahrensfuehrung, Wertung, Vergabeakte, Stand der Pruefung).
+Dieser Vollprüfung fuehrt einen Volljuristen Schritt fuer Schritt durch die **vollstaendige vergaberechtliche Pruefung einer konkreten oeffentlichen Auftragsvergabe** — entweder aus Sicht eines abgewiesenen oder ausgeschlossenen Bieters (Angriffsperspektive: Ruege, Nachpruefung, einstweiliger Rechtsschutz, Schadensersatz) oder aus Sicht des oeffentlichen Auftraggebers (Verteidigungsperspektive: Verfahrensfuehrung, Wertung, Vergabeakte, Stand der Pruefung).
 
 Output ist ein **anwaltliches Pruefgutachten in Gutachtenstil**, das vollstaendig zitierfaehig ist und an dem sich Schriftsaetze fuer die Vergabekammer, sofortige Beschwerden zum Vergabesenat des OLG und Schadensersatzklagen zum Landgericht direkt orientieren lassen.
 
@@ -38,7 +38,7 @@ Output ist ein **anwaltliches Pruefgutachten in Gutachtenstil**, das vollstaendi
 
 ### Strikter Disclaimer-Hinweis
 
-Dieser Megaprompt ist **kein Mandatsverhaeltnis**, keine Rechtsberatung im Einzelfall und kein Ersatz fuer die anwaltliche Pruefung der Originalunterlagen. Output ist ein Pruefraster, kein Schriftsatz; jede Verwendung in einem realen Mandat erfordert die Verifikation aller Tatsachen, Fristen, Aktenzeichen und Rechtsprechung durch den verantwortlichen Anwalt.
+Dieser Vollprüfung ist **kein Mandatsverhaeltnis**, keine Rechtsberatung im Einzelfall und kein Ersatz fuer die anwaltliche Pruefung der Originalunterlagen. Output ist ein Pruefraster, kein Schriftsatz; jede Verwendung in einem realen Mandat erfordert die Verifikation aller Tatsachen, Fristen, Aktenzeichen und Rechtsprechung durch den verantwortlichen Anwalt.
 
 ---
 
@@ -715,11 +715,11 @@ Diese Fehler treten in der Praxis besonders oft auf — und sie sind **alle verm
 
 ---
 
-## Phase 19 — Verwendung dieses Megaprompts
+## Phase 19 — Verwendung dieses Vollprüfungs
 
 ### 19.1 Mandatsannahme-Check
 
-Bevor dieser Megaprompt auf einen konkreten Sachverhalt angewendet wird:
+Bevor dieser Vollprüfung auf einen konkreten Sachverhalt angewendet wird:
 
 - Liegen alle relevanten Unterlagen vor? (Bekanntmachung, Vergabeunterlagen, eigenes Angebot, Vorabinformation, ggf. Vergabeakte-Auszug.)
 - Ist die Mandantenrolle eindeutig?
@@ -732,7 +732,7 @@ Phasen 0 bis 19 werden **in der Reihenfolge** angewendet. Phase 0 ist **immer** 
 
 ### 19.3 Ausgabe
 
-Der Megaprompt erzeugt aus dem Sachverhalt heraus:
+Der Vollprüfung erzeugt aus dem Sachverhalt heraus:
 
 - Eine **Fristenkarte** (Was, Wann, Bis Wann, Naechster Schritt).
 - Ein **Pruefgutachten** in Gutachtenstil mit Subsumtion.
@@ -744,7 +744,7 @@ Der Megaprompt erzeugt aus dem Sachverhalt heraus:
 
 ## Phase 20 — Verifizierte Rechtsprechung — Hinweis
 
-Die in diesem Megaprompt zitierten Aktenzeichen und Entscheidungen sind als **bekannte Linien-Entscheidungen** kenntlich gemacht und nicht abschliessend. Vor Verwendung in einem realen Mandat ist jede Entscheidung **eigenstaendig zu verifizieren** ueber:
+Die in diesem Vollprüfung zitierten Aktenzeichen und Entscheidungen sind als **bekannte Linien-Entscheidungen** kenntlich gemacht und nicht abschliessend. Vor Verwendung in einem realen Mandat ist jede Entscheidung **eigenstaendig zu verifizieren** ueber:
 
 - BGH-Entscheidungsdatenbank (bundesgerichtshof.de).
 - BVerfG-Entscheidungssammlung (bundesverfassungsgericht.de).
@@ -815,7 +815,7 @@ Wer diesen Skill in ChatGPT, Gemini, Mistral, Le Chat oder einem aehnlichen Chat
 
 ## Phase 24 — Abschluss-Disclaimer
 
-Dieser Megaprompt ersetzt **nicht** die anwaltliche Pruefung der Originalunterlagen, **nicht** die Mandatsuebernahme im Einzelfall und **nicht** die Verifikation aller Tatsachen, Aktenzeichen und Fristen. Er ist ein **Pruefraster zur Vorbereitung der anwaltlichen Bearbeitung**.
+Dieser Vollprüfung ersetzt **nicht** die anwaltliche Pruefung der Originalunterlagen, **nicht** die Mandatsuebernahme im Einzelfall und **nicht** die Verifikation aller Tatsachen, Aktenzeichen und Fristen. Er ist ein **Pruefraster zur Vorbereitung der anwaltlichen Bearbeitung**.
 
 Verwendung im realen Mandat **nur** durch zugelassenen Rechtsanwalt mit eigener Sachverhaltskenntnis, eigener Fristenkontrolle und eigener Quellenverifikation.
 
@@ -1579,7 +1579,7 @@ Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korre
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

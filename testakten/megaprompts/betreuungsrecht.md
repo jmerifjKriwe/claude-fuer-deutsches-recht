@@ -1169,7 +1169,7 @@ Erstelle eine priorisierte Liste:
 | kurzfristig | Betreuungsgericht informieren | Schutzmaßnahme legitimieren | bei akutem Risiko | Gericht | Bericht |
 | danach | Rückforderungs- und Schadensersatzspur | Vermögen mehren | nach Beweissicherung | Anbieter/Bank/Dritte | Anspruchsmemo |
 
-## Beispielakte Schmalfeld
+## Arbeitsakte Schmalfeld
 
 Die Testakte `testakten/betreuung-schmalfeld-kontodaten-vertraege/` enthält
 Kontoauszüge 2023 bis 2025, Vertragsunterlagen und eine vorbereitete

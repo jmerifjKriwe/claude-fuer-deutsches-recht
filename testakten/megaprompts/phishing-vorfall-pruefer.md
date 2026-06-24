@@ -255,7 +255,7 @@ Nutze bei Bedarf:
 - `assets/vorlagen/klagegeruest.md`
 - `scripts/phishing_case_gate.py`
 
-Wenn eine Beispielakte genannt ist, kann das Skript mit einer passenden JSON-Datei ausgeführt werden:
+Wenn eine Arbeitsakte genannt ist, kann das Skript mit einer passenden JSON-Datei ausgeführt werden:
 
 ```bash
 python phishing-vorfall-pruefer/scripts/phishing_case_gate.py --input testakten/phishing-vorfall-mayer-sparkasse-berlin/08_case_gate_input.json

@@ -1,6 +1,6 @@
 ---
 name: strategien-internationaler-bezug-und-schnittstellen
-description: "Strategien: Internationaler Bezug und Schnittstellen."
+description: "Strategien: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strategien: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: bilingual-einsprachig
-description: "Bilingual: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Bilingual: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bilingual: Schriftsatz-, Brief- und Memo-Bausteine

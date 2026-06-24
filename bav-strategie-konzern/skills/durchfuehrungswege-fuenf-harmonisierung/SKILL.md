@@ -1,6 +1,6 @@
 ---
 name: durchfuehrungswege-fuenf-harmonisierung
-description: "Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine

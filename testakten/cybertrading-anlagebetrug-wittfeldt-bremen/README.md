@@ -167,8 +167,8 @@ Diese Testakte referenziert ausschließlich folgende gerichtlich verlässliche Q
 - Diese Testakte ist **fiktiv**. Alle Personen, Aktenzeichen und Sachverhalte sind erfunden.
 - Keine echten Kontonummern, keine echten Adressen von Opfern.
 - IBAN-Fragmente sind zufällig generiert und entsprechen keinen echten Konten.
-- Die Plattform CryptoFutureMax.io ist fiktiv (als Testdaten-Konstrukt).
-- Die Telefonnummern folgen dem UK-Reserveformat (+44 7700 900 xxx = Testdaten gemäß Ofcom).
+- Die Plattform CryptoFutureMax.io ist fiktiv (als Aktenstand-Konstrukt).
+- Die Telefonnummern folgen dem UK-Reserveformat (+44 7700 900 xxx = Aktenstand gemäß Ofcom).
 
 ---
 

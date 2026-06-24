@@ -1,6 +1,6 @@
 ---
 name: simulation-mandantenkommunikation-entscheidungsvorlage
-description: "Simulation: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Simulation: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Simulation: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: inkasso-massnahme-regulator
-description: "Inkasso: Verhandlung, Vergleich und Eskalation."
+description: "Inkasso: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Inkasso: Verhandlung, Vergleich und Eskalation

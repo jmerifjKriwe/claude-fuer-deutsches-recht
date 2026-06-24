@@ -1,6 +1,6 @@
 ---
 name: festsetzung-mehrparteien-konflikt-und-interessen
-description: "Festsetzung: Mehrparteienkonflikt und Interessenmatrix."
+description: "Festsetzung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Festsetzung: Mehrparteienkonflikt und Interessenmatrix

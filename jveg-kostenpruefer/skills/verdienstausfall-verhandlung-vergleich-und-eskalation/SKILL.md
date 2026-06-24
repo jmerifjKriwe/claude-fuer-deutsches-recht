@@ -1,6 +1,6 @@
 ---
 name: verdienstausfall-verhandlung-vergleich-und-eskalation
-description: "Verdienstausfall: Verhandlung, Vergleich und Eskalation."
+description: "Verdienstausfall: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verdienstausfall: Verhandlung, Vergleich und Eskalation

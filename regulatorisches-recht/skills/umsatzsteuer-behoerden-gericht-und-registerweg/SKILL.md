@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-behoerden-gericht-und-registerweg
-description: "Umsatzsteuer: Behörden-, Gerichts- oder Registerweg."
+description: "Umsatzsteuer: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Umsatzsteuer: Behörden-, Gerichts- oder Registerweg

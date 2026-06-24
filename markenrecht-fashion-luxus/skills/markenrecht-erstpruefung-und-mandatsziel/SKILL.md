@@ -1,6 +1,6 @@
 ---
 name: markenrecht-erstpruefung-und-mandatsziel
-description: "Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel

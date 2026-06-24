@@ -1,6 +1,6 @@
 ---
 name: negativer-fristennotiz-ausloesendes-ereignis
-description: "Negativer: Fristennotiz und nächster Schritt im Fortbestehensprognose."
+description: "Negativer: Fristennotiz und nächster Schritt im Fortbestehensprognose. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Negativer: Fristennotiz und nächster Schritt

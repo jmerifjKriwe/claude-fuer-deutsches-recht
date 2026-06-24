@@ -1,6 +1,6 @@
 ---
 name: fuehrung-schriftsatz-brief-und-memo-bausteine
-description: "Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine

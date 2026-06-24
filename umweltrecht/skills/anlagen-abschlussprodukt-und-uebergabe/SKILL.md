@@ -1,6 +1,6 @@
 ---
 name: anlagen-abschlussprodukt-und-uebergabe
-description: "Anlagen: Abschlussprodukt und Übergabe im Umweltrecht."
+description: "Anlagen: Abschlussprodukt und Übergabe im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anlagen: Abschlussprodukt und Übergabe

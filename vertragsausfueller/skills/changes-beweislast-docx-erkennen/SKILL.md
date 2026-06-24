@@ -1,6 +1,6 @@
 ---
 name: changes-beweislast-docx-erkennen
-description: "Changes: Beweislast, Darlegungslast und Substantiierung im Vertragsausfueller."
+description: "Changes: Beweislast, Darlegungslast und Substantiierung im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Changes: Beweislast, Darlegungslast und Substantiierung

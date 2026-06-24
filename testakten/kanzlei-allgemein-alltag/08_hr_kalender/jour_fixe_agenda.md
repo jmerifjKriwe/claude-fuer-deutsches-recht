@@ -143,4 +143,4 @@
 
 ---
 
-*Protokoll: Mara Klein. Freigabe: Jana Reuter. Stand: 21.05.2026. Testdaten — Kanzlei Jana Reuter, Lindenstraße 14, 10969 Berlin.*
+*Protokoll: Mara Klein. Freigabe: Jana Reuter. Stand: 21.05.2026. Aktenstand — Kanzlei Jana Reuter, Lindenstraße 14, 10969 Berlin.*

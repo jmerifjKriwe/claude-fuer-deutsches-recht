@@ -1,6 +1,6 @@
 ---
 name: fortlaufend-luecken-personenverzeichnis
-description: "Fortlaufend: Internationaler Bezug und Schnittstellen."
+description: "Fortlaufend: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fortlaufend: Internationaler Bezug und Schnittstellen

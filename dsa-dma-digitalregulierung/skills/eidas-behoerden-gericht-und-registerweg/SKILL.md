@@ -1,6 +1,6 @@
 ---
 name: eidas-behoerden-gericht-und-registerweg
-description: "Eidas: Behörden-, Gerichts- oder Registerweg."
+description: "Eidas: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Eidas: Behörden-, Gerichts- oder Registerweg

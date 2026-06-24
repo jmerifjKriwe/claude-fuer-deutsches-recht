@@ -1,6 +1,6 @@
 ---
 name: sachliche-schriftsatz-brief-und-memo-bausteine
-description: "Sachliche: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Sachliche: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sachliche: Schriftsatz-, Brief- und Memo-Bausteine

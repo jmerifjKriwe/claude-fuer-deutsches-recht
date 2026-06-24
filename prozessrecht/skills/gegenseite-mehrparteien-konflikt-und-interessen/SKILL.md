@@ -1,6 +1,6 @@
 ---
 name: gegenseite-mehrparteien-konflikt-und-interessen
-description: "Gegenseite: Mehrparteienkonflikt und Interessenmatrix im Prozessrecht."
+description: "Gegenseite: Mehrparteienkonflikt und Interessenmatrix im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gegenseite: Mehrparteienkonflikt und Interessenmatrix

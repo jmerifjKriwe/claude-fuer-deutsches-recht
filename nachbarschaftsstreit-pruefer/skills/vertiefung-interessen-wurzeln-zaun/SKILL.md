@@ -1,6 +1,6 @@
 ---
 name: vertiefung-interessen-wurzeln-zaun
-description: "Vertiefung: Mehrparteienkonflikt und Interessenmatrix."
+description: "Vertiefung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vertiefung: Mehrparteienkonflikt und Interessenmatrix

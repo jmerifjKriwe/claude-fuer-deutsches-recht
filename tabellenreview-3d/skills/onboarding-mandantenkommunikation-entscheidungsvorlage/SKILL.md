@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandantenkommunikation-entscheidungsvorlage
-description: "Onboarding: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Onboarding: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Onboarding: Mandantenkommunikation und Entscheidungsvorlage

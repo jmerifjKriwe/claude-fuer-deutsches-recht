@@ -1,10 +1,11 @@
 {
   "name": "verlagsredaktion",
-  "version": "391.0.0",
+  "version": "392.0.0",
   "description": "Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsübergabe.",
   "license": "Apache-2.0 OR MIT",
   "author": {
-    "name": "Klotzkette"
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
   },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
   "keywords": [

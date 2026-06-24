@@ -66,3 +66,7 @@ Wenn der Nutzer eine Note vorgibt, die sachlich nicht zutrifft:
 - Für Note 4 eine Schlussformel mit fünf Bausteinen generieren, weil der Nutzer „nett klingen will" — das ist Unwahrheit.
 - Abmahnungsgrund aus Wohlwollen weglassen, aber im Zeugnis indirekt andeuten.
 - Wohlwollen und Wahrheit als gleichwertig behandeln — Wahrheit hat Vorrang.
+
+## v392 Konfliktauflösung
+
+Wenn Wunsch und Tatsachengrundlage auseinanderfallen, hat die Zeugniswahrheit Vorrang. Die wohlwollende Lösung liegt in Ton, Auswahl und Klarheit, nicht in erfundener Leistung. Der Generator gibt deshalb eine belegbare Fassung aus und nennt knapp, welche Unterlagen eine bessere Bewertung tragen könnten. Negative Tatsachen werden nicht verschlüsselt, sondern entweder weggelassen, wenn sie nicht tragend sind, oder sachlich und verhältnismäßig eingeordnet.

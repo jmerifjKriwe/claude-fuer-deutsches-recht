@@ -1,6 +1,6 @@
 ---
 name: dora-risikoampel-und-gegenargumente
-description: "Dora: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Dora: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dora: Risikoampel, Gegenargumente und Verteidigungslinien

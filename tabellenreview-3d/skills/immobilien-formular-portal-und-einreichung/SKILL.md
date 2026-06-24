@@ -1,6 +1,6 @@
 ---
 name: immobilien-formular-portal-und-einreichung
-description: "Immobilien: Formular, Portal und Einreichungslogik."
+description: "Immobilien: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Immobilien: Formular, Portal und Einreichungslogik

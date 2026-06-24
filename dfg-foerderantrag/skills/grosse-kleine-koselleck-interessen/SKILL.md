@@ -1,6 +1,6 @@
 ---
 name: grosse-kleine-koselleck-interessen
-description: "Grosse: Compliance-Dokumentation und Aktenvermerk."
+description: "Grosse: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Große: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: inklusion-sonderpaedagogischer-transport
-description: "Prüft Inklusion und sonderpädagogischen Förderbedarf im Schulrecht Länder."
+description: "Prüft Inklusion und sonderpädagogischen Förderbedarf im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Inklusion Sonderpaedagogischer Foerderbedarf

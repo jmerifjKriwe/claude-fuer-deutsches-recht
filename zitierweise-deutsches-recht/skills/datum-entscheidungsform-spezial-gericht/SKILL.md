@@ -1,6 +1,6 @@
 ---
 name: datum-entscheidungsform-spezial-gericht
-description: "Datum: Behörden-, Gerichts- oder Registerweg."
+description: "Datum: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Datum: Behörden-, Gerichts- oder Registerweg

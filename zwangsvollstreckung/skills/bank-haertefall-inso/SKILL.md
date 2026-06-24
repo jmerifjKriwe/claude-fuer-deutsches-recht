@@ -1,6 +1,6 @@
 ---
 name: bank-haertefall-inso
-description: "Bank: Behörden-, Gerichts- oder Registerweg im Zwangsvollstreckung."
+description: "Bank: Behörden-, Gerichts- oder Registerweg im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bank: Behörden-, Gerichts- oder Registerweg

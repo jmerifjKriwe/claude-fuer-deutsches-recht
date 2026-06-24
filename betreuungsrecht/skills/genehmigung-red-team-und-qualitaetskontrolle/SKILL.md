@@ -1,6 +1,6 @@
 ---
 name: genehmigung-red-team-und-qualitaetskontrolle
-description: "Genehmigung: Red-Team und Qualitätskontrolle im Betreuungsrecht."
+description: "Genehmigung: Red-Team und Qualitätskontrolle im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Genehmigung: Red-Team und Qualitätskontrolle

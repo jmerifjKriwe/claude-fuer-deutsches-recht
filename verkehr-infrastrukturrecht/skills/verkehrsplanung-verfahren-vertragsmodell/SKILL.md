@@ -1,6 +1,6 @@
 ---
 name: verkehrsplanung-verfahren-vertragsmodell
-description: "Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg

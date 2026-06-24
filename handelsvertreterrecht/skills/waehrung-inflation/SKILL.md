@@ -1,6 +1,6 @@
 ---
 name: waehrung-inflation
-description: "Prüft Währung, Inflation und Auslandsumsätze."
+description: "Prüft Währung, Inflation und Auslandsumsätze. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Waehrung Inflation

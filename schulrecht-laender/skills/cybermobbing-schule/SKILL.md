@@ -1,6 +1,6 @@
 ---
 name: cybermobbing-schule
-description: "Prüft Cybermobbing mit Chat, Bild, Plattform und Schule im Schulrecht Länder."
+description: "Prüft Cybermobbing mit Chat, Bild, Plattform und Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Cybermobbing Schule

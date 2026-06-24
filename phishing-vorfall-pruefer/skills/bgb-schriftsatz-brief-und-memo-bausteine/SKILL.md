@@ -1,6 +1,6 @@
 ---
 name: bgb-schriftsatz-brief-und-memo-bausteine
-description: "BGB: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "BGB: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # BGB: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: beihilfen-beweislast-und-darlegungslast
-description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung."
+description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beihilfen: Beweislast, Darlegungslast und Substantiierung

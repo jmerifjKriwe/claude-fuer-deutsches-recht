@@ -1,6 +1,6 @@
 ---
 name: neuheit-red-team-und-qualitaetskontrolle
-description: "Neuheit: Red-Team und Qualitätskontrolle im Patentrecherche."
+description: "Neuheit: Red-Team und Qualitätskontrolle im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Neuheit: Red-Team und Qualitätskontrolle

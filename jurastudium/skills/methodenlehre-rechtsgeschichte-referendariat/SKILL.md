@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-rechtsgeschichte-referendariat
-description: "Methodenlehre: Behörden-, Gerichts- oder Registerweg im Jurastudium."
+description: "Methodenlehre: Behörden-, Gerichts- oder Registerweg im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Methodenlehre: Behörden-, Gerichts- oder Registerweg

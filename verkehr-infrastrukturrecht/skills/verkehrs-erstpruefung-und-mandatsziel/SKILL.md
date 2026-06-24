@@ -1,6 +1,6 @@
 ---
 name: verkehrs-erstpruefung-und-mandatsziel
-description: "Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel

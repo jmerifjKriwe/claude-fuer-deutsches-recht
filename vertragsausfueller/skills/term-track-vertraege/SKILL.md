@@ -1,6 +1,6 @@
 ---
 name: term-track-vertraege
-description: "Term: Verhandlung, Vergleich und Eskalation im Vertragsausfueller."
+description: "Term: Verhandlung, Vergleich und Eskalation im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Term: Verhandlung, Vergleich und Eskalation

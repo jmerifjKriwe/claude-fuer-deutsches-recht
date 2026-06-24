@@ -1,6 +1,6 @@
 ---
 name: energierecht-erstpruefung-und-mandatsziel
-description: "Energierecht: Erstprüfung, Rollenklärung und Mandatsziel im Energierecht."
+description: "Energierecht: Erstprüfung, Rollenklärung und Mandatsziel im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Energierecht: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: mandantenentscheidung-einspruch-sonderfall
-description: "Dokumentation: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Dokumentation: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dokumentation: Mandantenkommunikation und Entscheidungsvorlage

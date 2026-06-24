@@ -1,6 +1,6 @@
 ---
 name: tehg-verfahren-umweltrecht
-description: "Tehg: Fristen, Form, Zuständigkeit und Rechtsweg im Umweltrecht."
+description: "Tehg: Fristen, Form, Zuständigkeit und Rechtsweg im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Tehg: Fristen, Form, Zuständigkeit und Rechtsweg

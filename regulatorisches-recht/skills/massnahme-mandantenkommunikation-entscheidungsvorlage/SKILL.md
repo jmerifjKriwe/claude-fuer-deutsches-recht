@@ -1,6 +1,6 @@
 ---
 name: massnahme-mandantenkommunikation-entscheidungsvorlage
-description: "Maßnahme: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Maßnahme: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Maßnahme: Mandantenkommunikation und Entscheidungsvorlage

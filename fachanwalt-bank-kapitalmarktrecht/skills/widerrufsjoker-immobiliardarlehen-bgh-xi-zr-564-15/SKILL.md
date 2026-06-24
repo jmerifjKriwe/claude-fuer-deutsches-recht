@@ -1,6 +1,6 @@
 ---
 name: widerrufsjoker-immobiliardarlehen-bgh-xi-zr-564-15
-description: "Widerrufsjoker Immobiliardarlehen mit BGH XI ZR 564/15 und Art 247 EGBGB."
+description: "Widerrufsjoker Immobiliardarlehen mit BGH XI ZR 564/15 und Art 247 EGBGB. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Widerrufsjoker Immobiliardarlehen BGH Xi Zr 564 15

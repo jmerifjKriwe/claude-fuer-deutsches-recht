@@ -15,7 +15,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen und Unternehmen sind fiktiv und zu Testzwecken anonymisiert. Die Akte gehört fachlich zum Plugin `fachanwalt-bau-architektenrecht`.
+Arbeitsakte zum Plugin `fachanwalt-bau-architektenrecht`.
 
 ---
 

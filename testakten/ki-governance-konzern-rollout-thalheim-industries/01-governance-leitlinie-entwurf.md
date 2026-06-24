@@ -101,7 +101,7 @@ Eine vollständige Rote Liste mit Prüfschema findet sich in Aktenstück 09 (TI-
 Für alle Hochrisiko-KI-Systeme (derzeit: RecruitAI, CreditVision Score) gelten kumulativ die Anforderungen nach Art. 9–17 KI-VO:
 
 - **Art. 9:** Risikomanagementsystem — laufend, dokumentiert;
-- **Art. 10:** Daten-Governance — Trainings- und Testdaten dokumentiert, repräsentativ;
+- **Art. 10:** Daten-Governance — Trainings- und Aktenstand dokumentiert, repräsentativ;
 - **Art. 11:** Technische Dokumentation — vollständig, aktuell (Vorlage 72 h nach Anforderung durch Behörden);
 - **Art. 12:** Aufzeichnungs- und Protokollierungspflichten — automatische Protokollierung aktiviert;
 - **Art. 13:** Transparenz gegenüber Betreibern — Gebrauchsanweisung vorhanden;

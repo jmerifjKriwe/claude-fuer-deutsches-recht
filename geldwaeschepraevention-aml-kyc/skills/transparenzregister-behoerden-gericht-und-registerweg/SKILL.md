@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-behoerden-gericht-und-registerweg
-description: "Transparenzregister: Behörden-, Gerichts- oder Registerweg."
+description: "Transparenzregister: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Transparenzregister: Behörden-, Gerichts- oder Registerweg

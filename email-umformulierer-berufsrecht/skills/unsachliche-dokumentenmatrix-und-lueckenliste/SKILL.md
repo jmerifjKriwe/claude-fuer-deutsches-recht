@@ -1,6 +1,6 @@
 ---
 name: unsachliche-dokumentenmatrix-und-lueckenliste
-description: "Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung

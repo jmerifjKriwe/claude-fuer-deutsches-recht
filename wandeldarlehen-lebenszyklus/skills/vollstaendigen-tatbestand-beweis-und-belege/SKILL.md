@@ -1,6 +1,6 @@
 ---
 name: vollstaendigen-tatbestand-beweis-und-belege
-description: "Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: vertragsbegriffe-risikoampel-und-gegenargumente
-description: "Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien

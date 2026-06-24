@@ -1,6 +1,6 @@
 ---
 name: flaechennutzungsplaenen-normenkontrolle
-description: "Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung

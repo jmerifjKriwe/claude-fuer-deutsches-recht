@@ -1,6 +1,6 @@
 ---
 name: stberg-compliance-dokumentation-und-akte
-description: "Stberg: Compliance-Dokumentation und Aktenvermerk."
+description: "Stberg: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Stberg: Compliance-Dokumentation und Aktenvermerk

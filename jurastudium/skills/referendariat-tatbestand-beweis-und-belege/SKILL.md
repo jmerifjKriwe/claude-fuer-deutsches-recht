@@ -1,6 +1,6 @@
 ---
 name: referendariat-tatbestand-beweis-und-belege
-description: "Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage im Jurastudium."
+description: "Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage

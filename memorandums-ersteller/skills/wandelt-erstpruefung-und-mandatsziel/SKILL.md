@@ -1,6 +1,6 @@
 ---
 name: wandelt-erstpruefung-und-mandatsziel
-description: "Wandelt: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Wandelt: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wandelt: Erstprüfung, Rollenklärung und Mandatsziel

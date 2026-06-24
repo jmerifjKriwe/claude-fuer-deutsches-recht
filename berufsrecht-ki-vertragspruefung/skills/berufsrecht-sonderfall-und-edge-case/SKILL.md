@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-sonderfall-und-edge-case
-description: "Berufsrecht: Sonderfall und Edge-Case-Prüfung."
+description: "Berufsrecht: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Berufsrecht: Sonderfall und Edge-Case-Prüfung

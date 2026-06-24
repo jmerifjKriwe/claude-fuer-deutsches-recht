@@ -2,7 +2,7 @@
 # Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
-name: "Beispielakte Edelholz Berlin"
+name: "Arbeitsakte Edelholz Berlin"
 plugin: "tbd"
 
 checks:

@@ -1,6 +1,6 @@
 ---
 name: krisenfrueherkennung-krisenmanagement-monats
-description: "Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: mandat-abschlussprodukt-und-uebergabe
-description: "Mandat: Abschlussprodukt und Übergabe: Mandat: Abschlussprodukt und Übergabe."
+description: "Mandat: Abschlussprodukt und Übergabe: Mandat: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mandat: Abschlussprodukt und Übergabe

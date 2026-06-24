@@ -1,6 +1,6 @@
 ---
 name: konformitaetsbewertung-red-team-und-qualitaetskontrolle
-description: "Konformitaetsbewertung: Red-Team und Qualitätskontrolle."
+description: "Konformitaetsbewertung: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Konformitaetsbewertung: Red-Team und Qualitätskontrolle

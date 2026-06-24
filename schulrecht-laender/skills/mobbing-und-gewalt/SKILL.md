@@ -1,6 +1,6 @@
 ---
 name: mobbing-und-gewalt
-description: "Prüft Mobbing, Gewalt und Schutzpflichten der Schule im Schulrecht Länder."
+description: "Prüft Mobbing, Gewalt und Schutzpflichten der Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mobbing Und Gewalt

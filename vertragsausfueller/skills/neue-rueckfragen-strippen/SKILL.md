@@ -1,6 +1,6 @@
 ---
 name: neue-rueckfragen-strippen
-description: "Neue: Internationaler Bezug und Schnittstellen im Vertragsausfueller."
+description: "Neue: Internationaler Bezug und Schnittstellen im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Neue: Internationaler Bezug und Schnittstellen

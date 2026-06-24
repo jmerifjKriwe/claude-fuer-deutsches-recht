@@ -1,6 +1,6 @@
 ---
 name: reviewer-beweislast-und-darlegungslast
-description: "Reviewer: Beweislast, Darlegungslast und Substantiierung."
+description: "Reviewer: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Reviewer: Beweislast, Darlegungslast und Substantiierung

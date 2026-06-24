@@ -1,6 +1,6 @@
 ---
 name: theorie-mehrparteien-konflikt-und-interessen
-description: "Theorie: Mehrparteienkonflikt und Interessenmatrix."
+description: "Theorie: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Theorie: Mehrparteienkonflikt und Interessenmatrix

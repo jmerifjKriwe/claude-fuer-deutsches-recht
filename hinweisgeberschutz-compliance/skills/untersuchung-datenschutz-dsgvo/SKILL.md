@@ -1,6 +1,6 @@
 ---
 name: untersuchung-datenschutz-dsgvo
-description: "Plant Compliance-Untersuchung nach Hinweis im Hinweisgeberschutz Compliance."
+description: "Plant Compliance-Untersuchung nach Hinweis im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Compliance Untersuchung

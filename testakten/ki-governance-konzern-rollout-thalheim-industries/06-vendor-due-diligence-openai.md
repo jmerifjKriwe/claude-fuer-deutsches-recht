@@ -43,7 +43,7 @@ Im Rahmen der Due Diligence wurden folgende Themenbereiche untersucht:
 
 OpenAI hat auf Thalheims Anfrage (Schreiben CDO Petersen, 20.01.2026) lediglich auf die allgemeine EU-AI-Act-Compliance-Seite (https://openai.com/eu-ai-act) verwiesen. Diese enthält keine produktspezifischen Informationen zu CodeAssist als Deployment-Szenario für Thalheim. Insbesondere fehlen:
 
-- Angaben zu den Trainings- und Testdaten-Parametern (Art. 53 Abs. 1 lit. d KI-VO);
+- Angaben zu den Trainings- und Aktenstand-Parametern (Art. 53 Abs. 1 lit. d KI-VO);
 - Dokumentation der implementierten Sicherheitsmechanismen;
 - Angaben zu bekannten Schwächen des Modells (Known Limitations, Bias-Disclosure).
 

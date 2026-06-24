@@ -1,6 +1,6 @@
 ---
 name: besold-amtsangemessene-alimentation-fuenf-parameter
-description: "Beamtenrecht: Amtsangemessene Alimentation fünf Parameter im Beamtenrecht."
+description: "Beamtenrecht: Amtsangemessene Alimentation fünf Parameter im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Besold Amtsangemessene Alimentation Fuenf Parameter

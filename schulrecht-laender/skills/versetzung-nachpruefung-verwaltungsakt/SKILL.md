@@ -1,6 +1,6 @@
 ---
 name: versetzung-nachpruefung-verwaltungsakt
-description: "Prüft Versetzung, Nichtversetzung und Nachprüfung im Schulrecht Länder."
+description: "Prüft Versetzung, Nichtversetzung und Nachprüfung im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Versetzung Und Nachpruefung

@@ -1,6 +1,6 @@
 ---
 name: infrastrukturrecht-intake-ladeinfrastruktur
-description: "Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

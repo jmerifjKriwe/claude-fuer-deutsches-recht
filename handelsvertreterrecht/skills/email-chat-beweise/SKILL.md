@@ -1,6 +1,6 @@
 ---
 name: email-chat-beweise
-description: "Prüft E-Mail- und Chatbeweise."
+description: "Prüft E-Mail- und Chatbeweise. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Email Chat Beweise

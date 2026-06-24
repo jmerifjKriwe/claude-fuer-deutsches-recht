@@ -1,6 +1,6 @@
 ---
 name: benefits-mandantenkommunikation-entscheidungsvorlage
-description: "Benefits: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Benefits: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Benefits: Mandantenkommunikation und Entscheidungsvorlage

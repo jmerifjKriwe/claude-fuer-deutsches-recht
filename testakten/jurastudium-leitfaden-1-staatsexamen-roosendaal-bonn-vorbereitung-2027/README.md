@@ -15,7 +15,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Lern- und Prüfungsbegleitungsakte.** Alle Personen, Anschriften, Matrikelnummern und Aktenzeichen sind fiktiv. Die Akte gehört fachlich zum Plugin `jurastudium`.
+Arbeitsakte zum Plugin `jurastudium`.
 
 ---
 

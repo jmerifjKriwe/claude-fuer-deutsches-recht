@@ -1,6 +1,6 @@
 ---
 name: grundfreiheiten-zahlen-schwellen-und-berechnung
-description: "Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung."
+description: "Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung

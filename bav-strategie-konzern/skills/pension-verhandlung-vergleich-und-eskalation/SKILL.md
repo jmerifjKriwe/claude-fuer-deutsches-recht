@@ -1,6 +1,6 @@
 ---
 name: pension-verhandlung-vergleich-und-eskalation
-description: "Pension: Verhandlung, Vergleich und Eskalation."
+description: "Pension: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Pension: Verhandlung, Vergleich und Eskalation

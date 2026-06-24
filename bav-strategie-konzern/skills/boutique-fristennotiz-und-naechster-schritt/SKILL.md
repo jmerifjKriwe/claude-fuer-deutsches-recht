@@ -1,6 +1,6 @@
 ---
 name: boutique-fristennotiz-und-naechster-schritt
-description: "Boutique: Fristennotiz und nächster Schritt."
+description: "Boutique: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Boutique: Fristennotiz und nächster Schritt

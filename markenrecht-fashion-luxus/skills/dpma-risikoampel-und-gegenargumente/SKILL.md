@@ -1,6 +1,6 @@
 ---
 name: dpma-risikoampel-und-gegenargumente
-description: "Dpma: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Dpma: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dpma: Risikoampel, Gegenargumente und Verteidigungslinien

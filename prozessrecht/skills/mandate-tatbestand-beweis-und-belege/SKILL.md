@@ -1,6 +1,6 @@
 ---
 name: mandate-tatbestand-beweis-und-belege
-description: "Mandate: Tatbestandsmerkmale, Beweisfragen und Beleglage im Prozessrecht."
+description: "Mandate: Tatbestandsmerkmale, Beweisfragen und Beleglage im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mandate: Tatbestandsmerkmale, Beweisfragen und Beleglage

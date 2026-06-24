@@ -1,6 +1,6 @@
 ---
 name: lawyers-legal
-description: "Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung

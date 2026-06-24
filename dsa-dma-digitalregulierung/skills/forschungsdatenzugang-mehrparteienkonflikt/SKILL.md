@@ -1,6 +1,6 @@
 ---
 name: forschungsdatenzugang-mehrparteienkonflikt
-description: "Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix."
+description: "Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: warnpflicht-schriftsatz-brief-und-memo-bausteine
-description: "Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine

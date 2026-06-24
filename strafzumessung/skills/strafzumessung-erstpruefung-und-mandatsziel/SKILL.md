@@ -1,6 +1,6 @@
 ---
 name: strafzumessung-erstpruefung-und-mandatsziel
-description: "Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel im Strafzumessung."
+description: "Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel

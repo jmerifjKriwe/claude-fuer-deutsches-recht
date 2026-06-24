@@ -15,7 +15,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Diese Akte ist eine Demonstrations-Testakte für die Plugins `fachanwalt-insolvenz-sanierungsrecht`, `insolvenzrecht`, `insolvenzverwaltung` und thematisch auch für `corporate-kanzlei`. Sie bildet einen **Asset Deal aus eröffnetem Insolvenzverfahren** ab: Eine kleine Berliner Software-Bude (KI/Blockchain-Compliance) ist insolvent; eine eigens als Auffanggesellschaft gegründete Newco erwirbt die immateriellen Assets aus der Masse. Im Zentrum steht der **ausgefüllte Asset-Purchase-Agreement** in DOCX (Times New Roman) und PDF — das Vertragsformular aus der NDI-Vorlage wurde verarbeitet, mit aktuellen Vorschriften gegengeprüft und um die heiklen Bausteine Kundendaten (DSGVO) und Arbeitnehmer (§ 613a BGB) ergänzt.
+Diese Akte ist eine Arbeitsakte für die Plugins `fachanwalt-insolvenz-sanierungsrecht`, `insolvenzrecht`, `insolvenzverwaltung` und thematisch auch für `corporate-kanzlei`. Sie bildet einen **Asset Deal aus eröffnetem Insolvenzverfahren** ab: Eine kleine Berliner Software-Bude (KI/Blockchain-Compliance) ist insolvent; eine eigens als Auffanggesellschaft gegründete Newco erwirbt die immateriellen Assets aus der Masse. Im Zentrum steht der **ausgefüllte Asset-Purchase-Agreement** in DOCX (Times New Roman) und PDF — das Vertragsformular aus der NDI-Vorlage wurde verarbeitet, mit aktuellen Vorschriften gegengeprüft und um die heiklen Bausteine Kundendaten (DSGVO) und Arbeitnehmer (§ 613a BGB) ergänzt.
 
 ## Sachverhalt
 
@@ -120,4 +120,4 @@ Diese Akte ist eine Demonstrations-Testakte für die Plugins `fachanwalt-insolve
 
 ## Hinweis
 
-Sämtliche Namen, Anschriften, Aktenzeichen und Kundendaten sind frei erfunden und dienen ausschließlich der Demonstration. Die Vertragsfassung ist eine **lehrhafte Mustervorlage** und keine Rechtsberatung; vor jedem Einsatz im Mandat ist eine Einzelfallprüfung durch einen Fachanwalt für Insolvenz- und Sanierungsrecht zwingend.
+Die Vertragsfassung ist eine Arbeitsfassung und keine Rechtsberatung; vor jedem Einsatz im Mandat ist eine Einzelfallprüfung durch einen Fachanwalt für Insolvenz- und Sanierungsrecht zwingend.

@@ -1,6 +1,6 @@
 ---
 name: ampelsystem-beweislast-und-darlegungslast
-description: "Ampelsystem: Beweislast, Darlegungslast und Substantiierung."
+description: "Ampelsystem: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ampelsystem: Beweislast, Darlegungslast und Substantiierung

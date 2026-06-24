@@ -1,6 +1,6 @@
 ---
 name: beckrs-zahlen-schwellen-und-berechnung
-description: "Beckrs: Zahlen, Schwellenwerte und Berechnung."
+description: "Beckrs: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beckrs: Zahlen, Schwellenwerte und Berechnung

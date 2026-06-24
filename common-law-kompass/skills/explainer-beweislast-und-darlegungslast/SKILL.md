@@ -1,6 +1,6 @@
 ---
 name: explainer-beweislast-und-darlegungslast
-description: "Explainer: Beweislast, Darlegungslast und Substantiierung."
+description: "Explainer: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Explainer: Beweislast, Darlegungslast und Substantiierung

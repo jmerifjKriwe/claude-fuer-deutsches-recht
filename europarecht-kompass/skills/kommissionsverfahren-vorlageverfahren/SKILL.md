@@ -1,6 +1,6 @@
 ---
 name: kommissionsverfahren-vorlageverfahren
-description: "Kommissionsverfahren: Formular, Portal und Einreichungslogik."
+description: "Kommissionsverfahren: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kommissionsverfahren: Formular, Portal und Einreichungslogik

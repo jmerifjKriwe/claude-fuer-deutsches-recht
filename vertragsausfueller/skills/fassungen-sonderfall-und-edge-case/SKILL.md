@@ -1,6 +1,6 @@
 ---
 name: fassungen-sonderfall-und-edge-case
-description: "Fassungen: Sonderfall und Edge-Case-Prüfung im Vertragsausfueller."
+description: "Fassungen: Sonderfall und Edge-Case-Prüfung im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fassungen: Sonderfall und Edge-Case-Prüfung

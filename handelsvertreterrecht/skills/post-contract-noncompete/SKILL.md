@@ -1,6 +1,6 @@
 ---
 name: post-contract-noncompete
-description: "Prüft englische Non-Compete-Klauseln in deutschen Verträgen."
+description: "Prüft englische Non-Compete-Klauseln in deutschen Verträgen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Post Contract Noncompete

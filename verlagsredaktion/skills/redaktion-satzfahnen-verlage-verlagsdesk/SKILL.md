@@ -1,6 +1,6 @@
 ---
 name: redaktion-satzfahnen-verlage-verlagsdesk
-description: "Redaktion: Schriftsatz-, Brief- und Memo-Bausteine im Verlagsredaktion."
+description: "Redaktion: Schriftsatz-, Brief- und Memo-Bausteine im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Redaktion: Schriftsatz-, Brief- und Memo-Bausteine

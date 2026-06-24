@@ -1,6 +1,6 @@
 ---
 name: verteidigung-wiedereinsetzung-zeugenstrategie
-description: "Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage

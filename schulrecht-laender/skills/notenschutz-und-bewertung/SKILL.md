@@ -1,6 +1,6 @@
 ---
 name: notenschutz-und-bewertung
-description: "Prüft Notenschutz, Bewertung und Transparenz im Schulrecht Länder."
+description: "Prüft Notenschutz, Bewertung und Transparenz im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Notenschutz Und Bewertung

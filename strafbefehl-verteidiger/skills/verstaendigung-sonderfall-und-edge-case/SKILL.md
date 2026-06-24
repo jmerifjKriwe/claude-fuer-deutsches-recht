@@ -1,6 +1,6 @@
 ---
 name: verstaendigung-sonderfall-und-edge-case
-description: "Verstaendigung: Sonderfall und Edge-Case-Prüfung."
+description: "Verstaendigung: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verstaendigung: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: machinery-compliance-dokumentation-und-akte
-description: "Machinery: Compliance-Dokumentation und Aktenvermerk im Produktrecht."
+description: "Machinery: Compliance-Dokumentation und Aktenvermerk im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Machinery: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: dsgvo-sonderfall-und-edge-case
-description: "DSGVO: Sonderfall und Edge-Case-Prüfung."
+description: "DSGVO: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # DSGVO: Sonderfall und Edge-Case-Prüfung

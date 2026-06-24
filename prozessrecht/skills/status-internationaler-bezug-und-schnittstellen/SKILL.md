@@ -1,6 +1,6 @@
 ---
 name: status-internationaler-bezug-und-schnittstellen
-description: "Status: Internationaler Bezug und Schnittstellen im Prozessrecht."
+description: "Status: Internationaler Bezug und Schnittstellen im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Status: Internationaler Bezug und Schnittstellen

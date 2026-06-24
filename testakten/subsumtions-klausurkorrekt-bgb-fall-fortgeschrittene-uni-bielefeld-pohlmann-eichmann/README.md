@@ -15,7 +15,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Matrikelnummern, Klausuranten-Klarnamen und Prüfungsdetails sind anonymisiert bzw. fiktiv. Die Akte gehört fachlich zum Plugin `subsumtions-pruefer`.
+Arbeitsakte zum Plugin `subsumtions-pruefer`.
 
 ---
 

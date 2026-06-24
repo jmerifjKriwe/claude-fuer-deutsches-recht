@@ -1,6 +1,6 @@
 ---
 name: bekanntmachung-beweislast-und-darlegungslast
-description: "Bekanntmachung: Beweislast, Darlegungslast und Substantiierung."
+description: "Bekanntmachung: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bekanntmachung: Beweislast, Darlegungslast und Substantiierung

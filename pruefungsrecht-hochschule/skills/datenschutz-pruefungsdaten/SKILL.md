@@ -1,6 +1,6 @@
 ---
 name: datenschutz-pruefungsdaten
-description: "Prüft Datenschutz bei Prüfungsdaten."
+description: "Prüft Datenschutz bei Prüfungsdaten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Datenschutz Pruefungsdaten

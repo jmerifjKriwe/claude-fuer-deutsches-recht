@@ -1,6 +1,6 @@
 ---
 name: kartellrecht
-description: "Routet Kartellhinweise im Hinweisgeberschutz Compliance."
+description: "Routet Kartellhinweise im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kartellrecht

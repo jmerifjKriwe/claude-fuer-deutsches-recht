@@ -1,6 +1,6 @@
 ---
 name: unmittelbare-risikoampel-und-gegenargumente
-description: "Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien

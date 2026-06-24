@@ -1,6 +1,6 @@
 ---
 name: grenzbaum-schriftsatz-brief-und-memo-bausteine
-description: "Grenzbaum: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Grenzbaum: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Grenzbaum: Schriftsatz-, Brief- und Memo-Bausteine

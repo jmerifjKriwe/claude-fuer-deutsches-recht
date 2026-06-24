@@ -1,6 +1,6 @@
 ---
 name: fristennotiz-naechster-vertriebsvertraege
-description: "Anpassen: Fristennotiz und nächster Schritt im Vertragsrecht."
+description: "Anpassen: Fristennotiz und nächster Schritt im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anpassen: Fristennotiz und nächster Schritt

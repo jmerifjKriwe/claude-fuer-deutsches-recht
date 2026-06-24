@@ -1,6 +1,6 @@
 ---
 name: drafting-interessen-explainer-beweislast
-description: "Drafting: Mehrparteienkonflikt und Interessenmatrix."
+description: "Drafting: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Drafting: Mehrparteienkonflikt und Interessenmatrix

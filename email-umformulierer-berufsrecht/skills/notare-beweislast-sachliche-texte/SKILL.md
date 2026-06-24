@@ -1,6 +1,6 @@
 ---
 name: notare-beweislast-sachliche-texte
-description: "Notare: Beweislast, Darlegungslast und Substantiierung."
+description: "Notare: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Notare: Beweislast, Darlegungslast und Substantiierung

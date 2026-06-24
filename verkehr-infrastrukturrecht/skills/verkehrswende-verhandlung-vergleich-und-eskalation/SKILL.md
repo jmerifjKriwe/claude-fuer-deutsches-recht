@@ -1,6 +1,6 @@
 ---
 name: verkehrswende-verhandlung-vergleich-und-eskalation
-description: "Verkehrswende: Verhandlung, Vergleich und Eskalation."
+description: "Verkehrswende: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verkehrswende: Verhandlung, Vergleich und Eskalation

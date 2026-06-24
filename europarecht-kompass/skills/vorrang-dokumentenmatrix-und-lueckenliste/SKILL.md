@@ -1,6 +1,6 @@
 ---
 name: vorrang-dokumentenmatrix-und-lueckenliste
-description: "Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung

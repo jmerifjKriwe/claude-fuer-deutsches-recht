@@ -1,6 +1,6 @@
 ---
 name: anbieter-mehrparteien-konflikt-und-interessen
-description: "Anbieter: Mehrparteienkonflikt und Interessenmatrix."
+description: "Anbieter: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anbieter: Mehrparteienkonflikt und Interessenmatrix

@@ -15,7 +15,7 @@ Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben d
 
 - Keine vorgefertigte Lösung, keine versteckte Musterantwort.
 - Keine sichtbaren Platzhalter in der Akte selbst.
-- Keine Texte, die als "Lehrfall", "Testfall" oder "fiktiv" aus der Aktenlogik fallen.
+- Keine Texte, die aus der Aktenlogik fallen oder die Arbeitsakte als Übungsmaterial markieren.
 - Mehrere plausible Deutungen, aber keine absichtlichen Quatschfehler.
 - Widersprüche dort, wo echte Mandate sie haben: Datum, Erinnerung, Zuständigkeit, technische Ursache, Zustellung, Beweiswert, Rechenweg.
 - Belege nicht nur behaupten, sondern als Datei, Tabelle, E-Mail, Scan oder Foto anlegen.

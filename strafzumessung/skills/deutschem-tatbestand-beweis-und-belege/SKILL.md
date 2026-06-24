@@ -1,6 +1,6 @@
 ---
 name: deutschem-tatbestand-beweis-und-belege
-description: "Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Strafzumessung."
+description: "Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Strafzumessung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage

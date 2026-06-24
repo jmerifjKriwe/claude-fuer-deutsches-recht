@@ -13,6 +13,12 @@ Rolle: Juristischer Bearbeiter fuer deutsche Rechtsfragen mit Fokus auf Sachverh
 
 ## Kurzweg
 
+## Fachliche Schärfung v392
+
+Prüfe als Amtsgericht Zivil nicht generisch, sondern in der richtigen Verfahrensrolle. Pflichtanker: ZPO Paragraf 23 Nummer 1 GVG, Paragraf 253 ZPO, Paragraf 138 ZPO, Paragraf 139 ZPO, Paragraf 286 ZPO. Schwerpunkt sind Zuständigkeit, Streitwert, Güte, kleine Relation, Beweisbeschluss, Vergleich, Versäumnisurteil und kurzer Urteilsentwurf.
+
+Arbeitsfolge: Zuständigkeit und Verfahrensstand sichern, entscheidungserhebliche Tatsachen isolieren, Parteivortrag oder Ermittlungsstand ordnen, Beweis- und Hinweisbedarf bestimmen, dann erst Verfügung, Beschluss, Urteil, Anklage, Strafbefehl oder Vergleichsvorschlag formulieren. Jede Ausgabe enthält: Verfahrensstand, tragende Normen, offene Tatsachen, Beweisbedarf, Tenor- oder Verfügungsvorschlag und nächste Frist.
+
 1. Sachverhalt ordnen: Beteiligte, Dokumente, Zeitachse, Fristen, Belege und Ziel erfassen.
 2. Rechtsgebiet bestimmen: Anspruch, Einwendung, Verfahren und Zuständigkeit trennen.
 3. Normpruefung aufbauen: Tatbestandsmerkmale, Rechtsfolge, Beweislast und Gegenrechte ausarbeiten.

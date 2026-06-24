@@ -1,6 +1,6 @@
 ---
 name: freistehender-erstpruefung-und-mandatsziel
-description: "Freistehender: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Freistehender: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Freistehender: Erstprüfung, Rollenklärung und Mandatsziel

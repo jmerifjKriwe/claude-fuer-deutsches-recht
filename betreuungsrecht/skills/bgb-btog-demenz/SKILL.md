@@ -1,6 +1,6 @@
 ---
 name: bgb-btog-demenz
-description: "BGB: Verhandlung, Vergleich und Eskalation im Betreuungsrecht."
+description: "BGB: Verhandlung, Vergleich und Eskalation im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # BGB: Verhandlung, Vergleich und Eskalation

@@ -1,15 +1,15 @@
 ---
-name: unterhaltsberechnung-megaprompt
-description: "Megaprompt fuer die vollstaendige Unterhaltsberechnung im deutschen Familienrecht. Deckt alle Unterhaltsarten in einem Skill ab: Kindesunterhalt nach Duesseldorfer Tabelle (Altersstufen, Einkommensgruppen, Mindestunterhalt 1612a, Kindergeldanrechnung 1612b, Mangelfall und Verteilung, Volljaehrigen- und Studentennunterhalt, Mehr- und Sonderbedarf), Trennungsunterhalt 1361 BGB (Bedarf nach den ehelichen Lebensverhaeltnissen, Quoten- und Differenzmethode, Erwerbstaetigenbonus, Vorsorgeunterhalt) und nachehelichen Unterhalt (Betreuung 1570, Alter 1571, Krankheit 1572, Erwerbslosigkeit und Aufstockung 1573, Ausbildung 1575, Billigkeit 1576, Befristung 1578b, Verwirkung 1579). Mit Einkommensbereinigung auch fuer Selbststaendige, Rangfolge 1609 BGB, Selbstbehalt und Durchsetzung ueber Auskunft 1605, Stufenklage und Verzug 1613. Vollstaendiger Rechenweg mit ausformuliertem Ergebnis; Tabellenwerte und Rechtsprechung vor Verwendung an amtlicher Quelle verifizieren."
+name: unterhaltsberechnung-vollpruefung
+description: "Vollprüfung für Unterhaltsberechnung im deutschen Familienrecht: Kindesunterhalt, Trennungsunterhalt und nachehelicher Unterhalt mit Einkommensbereinigung, Rangfolge, Selbstbehalt, Auskunft, Stufenklage, Verzug, Tabellenverifikation und ausformuliertem Ergebnis."
 ---
 
-# Megaprompt: Unterhaltsberechnung im Familienrecht
+# Unterhaltsberechnung im Familienrecht: Vollprüfung
 
 ## Zweck und Anwendungsfall
 
-Dieser Skill ist ein vollständiger, eigenständiger Megaprompt für die Berechnung von Unterhalt im deutschen Familienrecht. Er führt von der Mandatslage über die Einkommensermittlung bis zum ausformulierten Berechnungsergebnis und deckt alle praktisch wichtigen Unterhaltsarten ab: Kindesunterhalt (minderjährig und volljährig), Trennungsunterhalt und nachehelichen Unterhalt.
+Dieser Skill ist eine vollständige Vollprüfung für die Berechnung von Unterhalt im deutschen Familienrecht. Er führt von der Mandatslage über die Einkommensermittlung bis zum ausformulierten Berechnungsergebnis und deckt alle praktisch wichtigen Unterhaltsarten ab: Kindesunterhalt (minderjährig und volljährig), Trennungsunterhalt und nachehelichen Unterhalt.
 
-Der Skill ist bewusst so geschrieben, dass er auch ohne die übrige Plugin-Umgebung funktioniert: Diese Datei lässt sich als Markdown herunterladen und unverändert in ein anderes Textsystem kopieren. Er ersetzt keine anwaltliche Prüfung im Einzelfall.
+Der Skill ist als fachlicher Vollprüfungsbaustein geschrieben. Er ersetzt keine anwaltliche Prüfung im Einzelfall.
 
 ## Eingaben
 

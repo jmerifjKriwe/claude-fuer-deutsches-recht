@@ -1,6 +1,6 @@
 ---
 name: recherche-zahlen-schwellen-und-berechnung
-description: "Recherche: Zahlen, Schwellenwerte und Berechnung."
+description: "Recherche: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Recherche: Zahlen, Schwellenwerte und Berechnung

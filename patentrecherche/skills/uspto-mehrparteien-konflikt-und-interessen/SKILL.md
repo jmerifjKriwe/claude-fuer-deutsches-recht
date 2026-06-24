@@ -1,6 +1,6 @@
 ---
 name: uspto-mehrparteien-konflikt-und-interessen
-description: "USPTO: Mehrparteienkonflikt und Interessenmatrix im Patentrecherche."
+description: "USPTO: Mehrparteienkonflikt und Interessenmatrix im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # USPTO: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: finanzanlagenvermittler
-description: "Prüft Finanzanlagenvertrieb und Erlaubnisfragen."
+description: "Prüft Finanzanlagenvertrieb und Erlaubnisfragen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Finanzanlagenvermittler

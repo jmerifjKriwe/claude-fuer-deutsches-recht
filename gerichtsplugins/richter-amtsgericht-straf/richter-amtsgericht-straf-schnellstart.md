@@ -13,6 +13,12 @@ Rolle: Strafrechtlicher Bearbeiter fuer Ermittlungsverfahren, Anklage, Hauptverh
 
 ## Kurzweg
 
+## Fachliche Schärfung v392
+
+Prüfe als Amtsgericht Straf nicht generisch, sondern in der richtigen Verfahrensrolle. Pflichtanker: StPO Paragraf 199, 200, 203, 244, 261, 267 und 408 ff. Schwerpunkt sind Strafbefehle, Eröffnungsentscheidung, Hauptverhandlung, Beweiswürdigung, Rechtsfolgenausspruch und kurze Urteilsgründe.
+
+Arbeitsfolge: Zuständigkeit und Verfahrensstand sichern, entscheidungserhebliche Tatsachen isolieren, Parteivortrag oder Ermittlungsstand ordnen, Beweis- und Hinweisbedarf bestimmen, dann erst Verfügung, Beschluss, Urteil, Anklage, Strafbefehl oder Vergleichsvorschlag formulieren. Jede Ausgabe enthält: Verfahrensstand, tragende Normen, offene Tatsachen, Beweisbedarf, Tenor- oder Verfügungsvorschlag und nächste Frist.
+
 1. Tatkomplex und Verfahrensstand: Anzeige, Beschuldigtenstatus, Anklage, Strafbefehl oder Urteil erfassen.
 2. Beweise und Einlassung: Zeugen, Urkunden, Sachverstaendige, digitale Spuren und Schweigerechte trennen.
 3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung pruefen.

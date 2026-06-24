@@ -1,6 +1,6 @@
 ---
 name: massenpruefung-mehrparteien-konflikt-und-interessen
-description: "Massenpruefung: Mehrparteienkonflikt und Interessenmatrix."
+description: "Massenpruefung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Massenpruefung: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: client-mandantenkommunikation-entscheidungsvorlage
-description: "Client: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Client: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Client: Mandantenkommunikation und Entscheidungsvorlage

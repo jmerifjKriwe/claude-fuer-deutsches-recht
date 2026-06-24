@@ -1,6 +1,6 @@
 ---
 name: verwaltungsgericht-kdvg-10
-description: "Routet Klage und gerichtliche Besonderheiten in KDV-Sachen."
+description: "Routet Klage und gerichtliche Besonderheiten in KDV-Sachen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verwaltungsgericht § 10 KDVG

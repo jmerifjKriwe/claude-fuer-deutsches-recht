@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-internationaler-bezug-und-schnittstellen
-description: "Planerhaltung: Internationaler Bezug und Schnittstellen."
+description: "Planerhaltung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Planerhaltung: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: anschlussflug-und-reiseplan
-description: "Prüfungslinie für anschlussflug und reiseplan im Fluggastrechte."
+description: "Prüfungslinie für anschlussflug und reiseplan im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anschlussflug und Reiseplan

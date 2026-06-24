@@ -1,6 +1,6 @@
 ---
 name: nachreichung-fehlender-unterlagen
-description: "Formuliert fristwahrende Nachreichungen nach behördlicher Aufforderung."
+description: "Formuliert fristwahrende Nachreichungen nach behördlicher Aufforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Nachreichung fehlender Unterlagen

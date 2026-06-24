@@ -1,6 +1,6 @@
 ---
 name: review-risikoampel-und-gegenargumente
-description: "Review: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Review: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Review: Risikoampel, Gegenargumente und Verteidigungslinien

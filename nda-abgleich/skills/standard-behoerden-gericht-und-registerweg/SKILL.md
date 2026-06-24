@@ -1,6 +1,6 @@
 ---
 name: standard-behoerden-gericht-und-registerweg
-description: "Standard: Behörden-, Gerichts- oder Registerweg."
+description: "Standard: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Standard: Behörden-, Gerichts- oder Registerweg

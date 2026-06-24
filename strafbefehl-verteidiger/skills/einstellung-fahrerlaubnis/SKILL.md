@@ -1,6 +1,6 @@
 ---
 name: einstellung-fahrerlaubnis
-description: "Einstellung: Compliance-Dokumentation und Aktenvermerk."
+description: "Einstellung: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einstellung: Compliance-Dokumentation und Aktenvermerk

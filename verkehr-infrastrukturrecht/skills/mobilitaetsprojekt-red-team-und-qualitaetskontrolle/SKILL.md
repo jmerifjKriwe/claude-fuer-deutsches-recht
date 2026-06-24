@@ -1,6 +1,6 @@
 ---
 name: mobilitaetsprojekt-red-team-und-qualitaetskontrolle
-description: "Mobilitaetsprojekt: Red-Team und Qualitätskontrolle."
+description: "Mobilitaetsprojekt: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mobilitaetsprojekt: Red-Team und Qualitätskontrolle

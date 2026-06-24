@@ -1,6 +1,6 @@
 ---
 name: gate-behoerden-gericht-und-registerweg
-description: "Gate: Behörden-, Gerichts- oder Registerweg."
+description: "Gate: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gate: Behörden-, Gerichts- oder Registerweg

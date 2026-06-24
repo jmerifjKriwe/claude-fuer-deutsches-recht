@@ -1,6 +1,6 @@
 ---
 name: anlage-red-anlagen-anlagenkonvolut-sonderfall
-description: "Anlage: Red-Team und Qualitätskontrolle."
+description: "Anlage: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anlage: Red-Team und Qualitätskontrolle

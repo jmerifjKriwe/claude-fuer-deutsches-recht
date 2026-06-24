@@ -1,6 +1,6 @@
 ---
 name: klassenfahrt-und-kosten
-description: "Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss im Schulrecht Länder."
+description: "Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Klassenfahrt Und Kosten

@@ -1,6 +1,6 @@
 ---
 name: migr-sonderfall-edge-case
-description: "Migr: Sonderfall und Edge-Case-Prüfung: Migr: Sonderfall und Edge-Case-Prüfung."
+description: "Migr: Sonderfall und Edge-Case-Prüfung: Migr: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Migr: Sonderfall und Edge-Case-Prüfung

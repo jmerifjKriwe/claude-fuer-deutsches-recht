@@ -136,4 +136,4 @@ Details und Subsumtion in den Aktenstücken 08, 09, 10 und 11.
 
 ---
 
-**Hinweis:** Die Akte ist eine reine Demonstrationsakte. Frau Helene Strassburger-Wittenburg, die Strassburger Handelshof GmbH und die genannten Berater sind frei erfunden. Jede Ähnlichkeit mit realen Personen oder Unternehmen ist unbeabsichtigt.
+Aktennotiz: Die Beteiligten, Berater und Projektstationen sind Grundlage der steuerlichen und sanierungsrechtlichen Prüfung.

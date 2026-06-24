@@ -1,6 +1,6 @@
 ---
 name: onboarding
-description: "Baut Onboarding für Handelsvertreter."
+description: "Baut Onboarding für Handelsvertreter. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Onboarding

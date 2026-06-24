@@ -91,4 +91,4 @@ für die **Nahverkehr Schwerin GmbH** (KRITIS-Sektor Verkehr) – geschätzter A
 
 ---
 
-*Erstellt für Plugin-Test `fachanwalt-vergaberecht` – alle Personen, Aktenzeichen und Sachverhalte sind fiktiv.*
+Arbeitsakte zum Plugin `fachanwalt-vergaberecht`.

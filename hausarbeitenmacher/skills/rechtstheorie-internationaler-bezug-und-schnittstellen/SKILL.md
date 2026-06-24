@@ -1,6 +1,6 @@
 ---
 name: rechtstheorie-internationaler-bezug-und-schnittstellen
-description: "Rechtstheorie: Internationaler Bezug und Schnittstellen im Hausarbeitenmacher."
+description: "Rechtstheorie: Internationaler Bezug und Schnittstellen im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rechtstheorie: Internationaler Bezug und Schnittstellen

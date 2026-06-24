@@ -1,6 +1,6 @@
 ---
 name: uebersichten-behoerden-gericht-und-registerweg
-description: "Uebersichten: Behörden-, Gerichts- oder Registerweg."
+description: "Uebersichten: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Uebersichten: Behörden-, Gerichts- oder Registerweg

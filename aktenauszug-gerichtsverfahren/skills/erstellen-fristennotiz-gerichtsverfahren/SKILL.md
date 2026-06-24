@@ -1,6 +1,6 @@
 ---
 name: erstellen-fristennotiz-gerichtsverfahren
-description: "Erstellen: Fristennotiz und nächster Schritt."
+description: "Erstellen: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Erstellen: Fristennotiz und nächster Schritt

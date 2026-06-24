@@ -1,6 +1,6 @@
 ---
 name: verspaetung-ticket-fluginformationen
-description: "Verspaetung: Verhandlung, Vergleich und Eskalation im Fluggastrechte."
+description: "Verspaetung: Verhandlung, Vergleich und Eskalation im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verspaetung: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: selbstaendig-vs-angestellt
-description: "Grenzt Handelsvertreter vom Arbeitnehmer und Scheinselbständigen ab."
+description: "Grenzt Handelsvertreter vom Arbeitnehmer und Scheinselbständigen ab. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Selbstaendig Vs Angestellt

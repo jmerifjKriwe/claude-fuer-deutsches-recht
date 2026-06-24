@@ -1,6 +1,6 @@
 ---
 name: abrechnung-und-buchauszug
-description: "Prüft Abrechnung und Buchauszug."
+description: "Prüft Abrechnung und Buchauszug. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Abrechnung Und Buchauszug

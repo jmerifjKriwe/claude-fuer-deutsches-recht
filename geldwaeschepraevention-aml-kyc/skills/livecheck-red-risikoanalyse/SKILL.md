@@ -1,6 +1,6 @@
 ---
 name: livecheck-red-risikoanalyse
-description: "Livecheck: Red-Team und Qualitätskontrolle."
+description: "Livecheck: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Livecheck: Red-Team und Qualitätskontrolle

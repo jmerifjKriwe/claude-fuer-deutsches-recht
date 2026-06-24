@@ -1,6 +1,6 @@
 ---
 name: bankpflichten-beweislast-bgb
-description: "Bankpflichten: Beweislast, Darlegungslast und Substantiierung."
+description: "Bankpflichten: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bankpflichten: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: discovery-zahlen-schwellen-und-berechnung
-description: "Discovery: Zahlen, Schwellenwerte und Berechnung."
+description: "Discovery: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Discovery: Zahlen, Schwellenwerte und Berechnung

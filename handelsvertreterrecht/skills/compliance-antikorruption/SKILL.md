@@ -1,6 +1,6 @@
 ---
 name: compliance-antikorruption
-description: "Prüft Korruption, Geschenke und Vertriebsethik."
+description: "Prüft Korruption, Geschenke und Vertriebsethik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Compliance Antikorruption

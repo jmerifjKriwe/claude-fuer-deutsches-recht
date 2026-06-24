@@ -14,4 +14,4 @@ Mitarbeiter:
 - 09 Ortrud Falckenstein, Altenpflegerin
 - 10 Burchard Holzapfel, Industriemechaniker
 
-Alle Personen, Firmen und Adressen sind frei erfunden.
+Die Personen-, Firmen- und Adressangaben sind innerhalb der Aktenmappe konsistent geführt.

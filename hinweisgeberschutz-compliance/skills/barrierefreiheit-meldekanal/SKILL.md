@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-meldekanal
-description: "Prüft Barrierefreiheit des Meldekanals im Hinweisgeberschutz Compliance."
+description: "Prüft Barrierefreiheit des Meldekanals im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Barrierefreiheit Meldekanal

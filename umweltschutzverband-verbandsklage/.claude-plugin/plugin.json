@@ -1,6 +1,6 @@
 {
   "name": "umweltschutzverband-verbandsklage",
-  "version": "391.0.0",
+  "version": "392.0.0",
   "description": "Plugin für Umweltverbände: UmwRG, Aarhus, UIG, UVP, BImSchG, Planfeststellung, § 47 VwGO, Naturschutz, Klima, Verbandsklage und Eilrechtsschutz.",
   "keywords": [
     "umweltschutzverband",
@@ -18,6 +18,7 @@
   ],
   "license": "Apache-2.0 OR MIT",
   "author": {
-    "name": "Klotzkette"
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
   }
 }

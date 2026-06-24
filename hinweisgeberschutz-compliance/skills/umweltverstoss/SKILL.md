@@ -1,6 +1,6 @@
 ---
 name: umweltverstoss
-description: "Prüft Umweltverstöße im Hinweisgebersystem im Hinweisgeberschutz Compliance."
+description: "Prüft Umweltverstöße im Hinweisgebersystem im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Umweltverstoss

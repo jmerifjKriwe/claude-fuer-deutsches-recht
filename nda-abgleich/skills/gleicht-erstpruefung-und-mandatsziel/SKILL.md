@@ -1,6 +1,6 @@
 ---
 name: gleicht-erstpruefung-und-mandatsziel
-description: "Gleicht: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Gleicht: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gleicht: Erstprüfung, Rollenklärung und Mandatsziel

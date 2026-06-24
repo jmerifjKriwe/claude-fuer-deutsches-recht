@@ -1,6 +1,6 @@
 ---
 name: scope-tastatur-wcag
-description: "Scope: Behörden-, Gerichts- oder Registerweg."
+description: "Scope: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Scope: Behörden-, Gerichts- oder Registerweg

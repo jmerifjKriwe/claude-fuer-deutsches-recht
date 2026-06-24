@@ -1,6 +1,6 @@
 ---
 name: sechs-u-haft-aussageanalyse
-description: "Sechs: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Sechs: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sechs: Fristen, Form, Zuständigkeit und Rechtsweg

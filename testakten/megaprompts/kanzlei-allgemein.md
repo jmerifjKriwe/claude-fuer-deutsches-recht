@@ -1674,7 +1674,7 @@ Für jeden relevanten Anschluss:
 - Simulierte Vorgänge immer deutlich markieren.
 - Keine echten Versand-, Abgabe- oder Zahlungserfolge behaupten.
 - Für beA, EB, UStVA, Rechnung und Fristen immer `Simulation` oder `Echtlauf` ausweisen.
-- Simulierte Screenshots, Nachrichten, ZIP-Archive, Protokolle und Eingangsrechnungen dürfen genutzt werden, müssen aber als Testdaten erkennbar bleiben.
+- Simulierte Screenshots, Nachrichten, ZIP-Archive, Protokolle und Eingangsrechnungen dürfen genutzt werden, müssen aber als Aktenstand erkennbar bleiben.
 - Bei ELSTER unterscheiden: manuelle Online-Eingabe, Fachsoftware/XML-Upload, Steuerberater-Paket oder reine Simulation. Kein beliebiges Dokument als echte UStVA-Abgabe behandeln.
 - Bei HR und Payroll unterscheiden: Register/Simulation, Fachsoftware-Übergabe, Steuerkanzlei-Übergabe oder echte Lohnsoftware. Keine echte Lohn- oder SV-Meldung behaupten.
 - Bei Geschäftskonto unterscheiden: echte Bankanbindung, Dateiimport, manueller Kontoauszug oder Simulation. Keine Bankzugangsdaten im Chat und keine Zahlungsaufträge ohne Freigabe.

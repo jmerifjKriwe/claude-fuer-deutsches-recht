@@ -1,6 +1,6 @@
 ---
 name: einspruch-risikoampel-und-gegenargumente
-description: "Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien

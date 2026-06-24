@@ -1,6 +1,6 @@
 ---
 name: prip-sonderfall-edge-case
-description: "Prip: Sonderfall und Edge-Case-Prüfung: Prip: Sonderfall und Edge-Case-Prüfung."
+description: "Prip: Sonderfall und Edge-Case-Prüfung: Prip: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Prip: Sonderfall und Edge-Case-Prüfung

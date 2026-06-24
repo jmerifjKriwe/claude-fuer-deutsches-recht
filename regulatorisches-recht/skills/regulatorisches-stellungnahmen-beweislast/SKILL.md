@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-stellungnahmen-beweislast
-description: "Regulatorisches: Internationaler Bezug und Schnittstellen."
+description: "Regulatorisches: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Regulatorisches: Internationaler Bezug und Schnittstellen

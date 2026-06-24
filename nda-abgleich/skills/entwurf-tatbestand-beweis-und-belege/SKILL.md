@@ -1,6 +1,6 @@
 ---
 name: entwurf-tatbestand-beweis-und-belege
-description: "Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage

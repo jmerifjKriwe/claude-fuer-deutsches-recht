@@ -1,6 +1,6 @@
 ---
 name: kommandocenter-compliance-dokumentation-und-akte
-description: "Kommandocenter: Compliance-Dokumentation und Aktenvermerk."
+description: "Kommandocenter: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kommandocenter: Compliance-Dokumentation und Aktenvermerk

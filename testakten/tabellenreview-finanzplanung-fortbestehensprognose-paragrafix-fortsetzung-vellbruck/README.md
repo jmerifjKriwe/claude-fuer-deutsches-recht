@@ -15,7 +15,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Unternehmen und Modellwerte sind anonymisiert. Die Akte gehört fachlich zum Plugin `tabellenreview-3d`.
+Arbeitsakte zum Plugin `tabellenreview-3d`.
 
 ---
 

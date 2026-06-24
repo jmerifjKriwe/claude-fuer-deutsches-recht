@@ -1,6 +1,6 @@
 ---
 name: google-risikoampel-und-gegenargumente
-description: "Google: Risikoampel, Gegenargumente und Verteidigungslinien im Patentrecherche."
+description: "Google: Risikoampel, Gegenargumente und Verteidigungslinien im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Google: Risikoampel, Gegenargumente und Verteidigungslinien

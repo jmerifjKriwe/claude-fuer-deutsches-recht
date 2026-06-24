@@ -1,6 +1,6 @@
 ---
 name: klagewege-mandantenkommunikation-entscheidungsvorlage
-description: "Klagewege: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Klagewege: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Klagewege: Mandantenkommunikation und Entscheidungsvorlage

@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Orte, Unternehmen, Schulen, Accounts, Aktenzeichen und Behördenkontakte sind anonymisiert. Die Akte gehört fachlich zum Plugin `meinungspruefer`.
+Arbeitsakte zum Plugin `meinungspruefer`.
 
 ## Kurzbild
 

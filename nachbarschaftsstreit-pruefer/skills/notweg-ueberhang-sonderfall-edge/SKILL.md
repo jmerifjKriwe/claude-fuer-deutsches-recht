@@ -1,6 +1,6 @@
 ---
 name: notweg-ueberhang-sonderfall-edge
-description: "Notweg: Internationaler Bezug und Schnittstellen."
+description: "Notweg: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Notweg: Internationaler Bezug und Schnittstellen

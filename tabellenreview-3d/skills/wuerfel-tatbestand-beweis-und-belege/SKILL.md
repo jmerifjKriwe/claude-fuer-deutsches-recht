@@ -1,6 +1,6 @@
 ---
 name: wuerfel-tatbestand-beweis-und-belege
-description: "Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage

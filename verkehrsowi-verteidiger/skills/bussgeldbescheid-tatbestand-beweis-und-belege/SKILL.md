@@ -1,6 +1,6 @@
 ---
 name: bussgeldbescheid-tatbestand-beweis-und-belege
-description: "Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage

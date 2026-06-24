@@ -1,6 +1,6 @@
 ---
 name: alkohol-compliance-dokumentation-und-akte
-description: "Alkohol: Compliance-Dokumentation und Aktenvermerk."
+description: "Alkohol: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Alkohol: Compliance-Dokumentation und Aktenvermerk

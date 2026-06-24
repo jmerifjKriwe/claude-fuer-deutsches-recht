@@ -1,6 +1,6 @@
 ---
 name: beweismittel-mehrparteien-konflikt-und-interessen
-description: "Beweismittel: Mehrparteienkonflikt und Interessenmatrix."
+description: "Beweismittel: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beweismittel: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: schlichtung-sonderfall-und-edge-case
-description: "Schlichtung: Sonderfall und Edge-Case-Prüfung."
+description: "Schlichtung: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schlichtung: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: gutachten-red-legal-patentanwaelte
-description: "Gutachten: Red-Team und Qualitätskontrolle."
+description: "Gutachten: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gutachten: Red-Team und Qualitätskontrolle

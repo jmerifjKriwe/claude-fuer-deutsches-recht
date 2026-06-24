@@ -1,6 +1,6 @@
 ---
 name: bfsg-tatbestand-beweis-und-belege
-description: "BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage

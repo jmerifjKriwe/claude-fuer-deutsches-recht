@@ -1,6 +1,6 @@
 ---
 name: fuenf-behoerden-gericht-und-registerweg
-description: "Fuenf: Behörden-, Gerichts- oder Registerweg."
+description: "Fuenf: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fuenf: Behörden-, Gerichts- oder Registerweg

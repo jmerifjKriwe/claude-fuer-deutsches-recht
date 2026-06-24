@@ -1,6 +1,6 @@
 ---
 name: tenor-internationaler-bezug-und-schnittstellen
-description: "Tenor: Internationaler Bezug und Schnittstellen."
+description: "Tenor: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Tenor: Internationaler Bezug und Schnittstellen

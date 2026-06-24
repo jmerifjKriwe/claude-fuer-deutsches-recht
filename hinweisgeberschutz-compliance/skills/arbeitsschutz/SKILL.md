@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz
-description: "Prüft Arbeitsschutz-Hinweise und Eskalation im Hinweisgeberschutz Compliance."
+description: "Prüft Arbeitsschutz-Hinweise und Eskalation im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Arbeitsschutz

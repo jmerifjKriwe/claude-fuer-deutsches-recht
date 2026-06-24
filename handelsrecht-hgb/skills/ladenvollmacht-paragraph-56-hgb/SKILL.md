@@ -1,6 +1,6 @@
 ---
 name: ladenvollmacht-paragraph-56-hgb
-description: "Prüft Laden-/Warenlagerangestellte und Verkehrsschutz im Handelsrecht Hgb."
+description: "Prüft Laden-/Warenlagerangestellte und Verkehrsschutz im Handelsrecht Hgb. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ladenvollmacht § 56 HGB

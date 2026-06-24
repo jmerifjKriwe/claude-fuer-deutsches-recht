@@ -1,6 +1,6 @@
 ---
 name: einwilligungshinweis-fristennotiz-und-naechster-schritt
-description: "Einwilligungshinweis: Fristennotiz und nächster Schritt."
+description: "Einwilligungshinweis: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einwilligungshinweis: Fristennotiz und nächster Schritt

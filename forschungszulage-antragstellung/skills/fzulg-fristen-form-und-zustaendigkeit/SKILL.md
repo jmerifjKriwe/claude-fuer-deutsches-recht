@@ -1,6 +1,6 @@
 ---
 name: fzulg-fristen-form-und-zustaendigkeit
-description: "FZulG: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "FZulG: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # FZulG: Fristen, Form, Zuständigkeit und Rechtsweg

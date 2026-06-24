@@ -1,6 +1,6 @@
 ---
 name: stufen-theorie-interessen-versorgungssystem
-description: "Stufen: Compliance-Dokumentation und Aktenvermerk."
+description: "Stufen: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Stufen: Compliance-Dokumentation und Aktenvermerk

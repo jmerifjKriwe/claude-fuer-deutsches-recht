@@ -1,6 +1,6 @@
 # haushaltsrecht-bho-bund-laender
 
-**345 Skills** · Stand `v390.0.0`
+**345 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/haushaltsrecht-bho-bund-laender/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md" download>haushaltsrecht-bho-bund-laender-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-schnellstart.md" download>haushaltsrecht-bho-bund-laender-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [haushaltsrecht-bho-bund-laender-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [haushaltsrecht-bho-bund-laender-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [haushaltsrecht-bho-bund-laender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender.zip) |
 

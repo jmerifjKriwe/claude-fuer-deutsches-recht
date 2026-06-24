@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Demonstrations-Testakte.** Alle Personen, Anschriften, Aktenzeichen, Steuernummern und Unternehmen sind fiktiv. Die Akte gehört fachlich zu den Plugins `steuerrecht-anwalt-und-berater`, `insolvenzrecht` und `grosskanzlei-corporate-ma`.
+Arbeitsakte zu den genannten Fachgebieten.
 
 ---
 

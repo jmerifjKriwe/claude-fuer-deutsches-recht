@@ -1,6 +1,6 @@
 ---
 name: goaml-gwg-spezial-kommandocenter
-description: "Goaml: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Goaml: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Goaml: Risikoampel, Gegenargumente und Verteidigungslinien

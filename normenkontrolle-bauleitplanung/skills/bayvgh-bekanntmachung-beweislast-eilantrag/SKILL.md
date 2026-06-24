@@ -1,6 +1,6 @@
 ---
 name: bayvgh-bekanntmachung-beweislast-eilantrag
-description: "Bayvgh: Verhandlung, Vergleich und Eskalation."
+description: "Bayvgh: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bayvgh: Verhandlung, Vergleich und Eskalation

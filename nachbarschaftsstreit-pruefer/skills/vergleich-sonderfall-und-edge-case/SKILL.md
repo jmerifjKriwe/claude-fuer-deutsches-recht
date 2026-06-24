@@ -1,6 +1,6 @@
 ---
 name: vergleich-sonderfall-und-edge-case
-description: "Vergleich: Sonderfall und Edge-Case-Prüfung."
+description: "Vergleich: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vergleich: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: pushtan-schlichtung-sonderfall
-description: "Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung

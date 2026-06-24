@@ -1,6 +1,6 @@
 ---
 name: indemnity-verhandlung-vergleich-und-eskalation
-description: "Indemnity: Verhandlung, Vergleich und Eskalation."
+description: "Indemnity: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Indemnity: Verhandlung, Vergleich und Eskalation

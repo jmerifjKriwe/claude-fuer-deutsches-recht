@@ -1,6 +1,6 @@
 ---
 name: gegen-grundfreiheiten-livecheck-sonderfall
-description: "Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage

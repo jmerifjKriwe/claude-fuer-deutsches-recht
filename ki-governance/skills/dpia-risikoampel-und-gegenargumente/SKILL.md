@@ -1,6 +1,6 @@
 ---
 name: dpia-risikoampel-und-gegenargumente
-description: "Dpia: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Dpia: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dpia: Risikoampel, Gegenargumente und Verteidigungslinien

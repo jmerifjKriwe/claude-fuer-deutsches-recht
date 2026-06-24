@@ -1,6 +1,6 @@
 ---
 name: zeichenbudgets-verhandlung-vergleich-und-eskalation
-description: "Zeichenbudgets: Verhandlung, Vergleich und Eskalation."
+description: "Zeichenbudgets: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zeichenbudgets: Verhandlung, Vergleich und Eskalation

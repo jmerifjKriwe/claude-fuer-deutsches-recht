@@ -1,6 +1,6 @@
 ---
 name: pruefen-abschlussprodukt-und-uebergabe
-description: "Prüfen: Abschlussprodukt und Übergabe: Prüfen: Abschlussprodukt und Übergabe."
+description: "Prüfen: Abschlussprodukt und Übergabe: Prüfen: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Prüfen: Abschlussprodukt und Übergabe

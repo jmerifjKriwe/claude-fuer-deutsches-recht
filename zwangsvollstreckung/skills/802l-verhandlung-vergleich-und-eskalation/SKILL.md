@@ -1,6 +1,6 @@
 ---
 name: 802l-verhandlung-vergleich-und-eskalation
-description: "802L: Verhandlung, Vergleich und Eskalation im Zwangsvollstreckung."
+description: "802L: Verhandlung, Vergleich und Eskalation im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # 802L: Verhandlung, Vergleich und Eskalation

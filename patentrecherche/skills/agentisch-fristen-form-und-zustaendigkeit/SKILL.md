@@ -1,6 +1,6 @@
 ---
 name: agentisch-fristen-form-und-zustaendigkeit
-description: "Agentisch: Fristen, Form, Zuständigkeit und Rechtsweg im Patentrecherche."
+description: "Agentisch: Fristen, Form, Zuständigkeit und Rechtsweg im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Agentisch: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: insolvenz-vertreter
-description: "Prüft Insolvenz des Handelsvertreters."
+description: "Prüft Insolvenz des Handelsvertreters. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Insolvenz Vertreter

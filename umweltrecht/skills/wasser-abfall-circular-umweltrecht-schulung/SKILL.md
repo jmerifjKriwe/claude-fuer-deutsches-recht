@@ -1,6 +1,6 @@
 ---
 name: wasser-abfall-circular-umweltrecht-schulung
-description: "Wasser: Risikoampel, Gegenargumente und Verteidigungslinien im Umweltrecht."
+description: "Wasser: Risikoampel, Gegenargumente und Verteidigungslinien im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wasser: Risikoampel, Gegenargumente und Verteidigungslinien

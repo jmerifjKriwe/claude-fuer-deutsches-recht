@@ -1,6 +1,6 @@
 ---
 name: ueble-verleumdung
-description: "Ueble: Behörden-, Gerichts- oder Registerweg im Meinungspruefer."
+description: "Ueble: Behörden-, Gerichts- oder Registerweg im Meinungspruefer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ueble: Behörden-, Gerichts- oder Registerweg

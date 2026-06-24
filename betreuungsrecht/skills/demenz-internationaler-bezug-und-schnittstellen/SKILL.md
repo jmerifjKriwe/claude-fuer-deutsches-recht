@@ -1,6 +1,6 @@
 ---
 name: demenz-internationaler-bezug-und-schnittstellen
-description: "Demenz: Internationaler Bezug und Schnittstellen im Betreuungsrecht."
+description: "Demenz: Internationaler Bezug und Schnittstellen im Betreuungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Demenz: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: pdfs-compliance-dokumentation-und-akte
-description: "Pdfs: Compliance-Dokumentation und Aktenvermerk."
+description: "Pdfs: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Pdfs: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: hecke-zahlen-schwellen-und-berechnung
-description: "Hecke: Zahlen, Schwellenwerte und Berechnung."
+description: "Hecke: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hecke: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: abnahme-formular-portal-und-einreichung
-description: "Abnahme: Formular, Portal und Einreichungslogik."
+description: "Abnahme: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Abnahme: Formular, Portal und Einreichungslogik

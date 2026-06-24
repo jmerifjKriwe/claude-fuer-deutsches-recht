@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-formular-portal-und-einreichung
-description: "Forderungsschreiben: Formular, Portal und Einreichungslogik im Fluggastrechte."
+description: "Forderungsschreiben: Formular, Portal und Einreichungslogik im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Forderungsschreiben: Formular, Portal und Einreichungslogik

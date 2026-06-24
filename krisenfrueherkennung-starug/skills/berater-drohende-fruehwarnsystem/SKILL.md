@@ -1,6 +1,6 @@
 ---
 name: berater-drohende-fruehwarnsystem
-description: "Berater: Verhandlung, Vergleich und Eskalation."
+description: "Berater: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Berater: Verhandlung, Vergleich und Eskalation

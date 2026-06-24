@@ -1,6 +1,6 @@
 ---
 name: lksg-red-team-und-qualitaetskontrolle
-description: "Lksg: Red-Team und Qualitätskontrolle im Umweltrecht."
+description: "Lksg: Red-Team und Qualitätskontrolle im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Lksg: Red-Team und Qualitätskontrolle

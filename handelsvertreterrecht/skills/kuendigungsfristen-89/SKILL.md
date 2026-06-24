@@ -1,6 +1,6 @@
 ---
 name: kuendigungsfristen-89
-description: "Prüft ordentliche Kündigungsfristen."
+description: "Prüft ordentliche Kündigungsfristen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kuendigungsfristen 89

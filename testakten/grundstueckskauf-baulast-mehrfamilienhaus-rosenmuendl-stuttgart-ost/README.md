@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Behörden und Unternehmen sind fiktiv. Die Akte gehört fachlich zum Plugin `immobilienrechtspraxis`.
+Arbeitsakte zum Plugin `immobilienrechtspraxis`.
 
 ---
 

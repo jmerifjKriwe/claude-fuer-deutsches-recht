@@ -1,6 +1,6 @@
 ---
 name: setzt-schriftsatz-brief-und-memo-bausteine
-description: "Setzt: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Setzt: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Setzt: Schriftsatz-, Brief- und Memo-Bausteine

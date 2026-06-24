@@ -34,7 +34,7 @@ Diese Pflichtenmatrix weist die Betreiberpflichten (Deployer-Pflichten) nach Art
 |---|---|---|---|---|
 | Art. 9 | Risikomanagementsystem dokumentieren und aufrechterhalten | HR / Compliance | 02.06.2026 | In Bearbeitung |
 | Art. 9 Abs. 7 | Bias-Tests durchführen (Diskriminierung, Fairness) | HR / IT / Audit | 02.06.2026 | **Offen — Mangel festgestellt** |
-| Art. 10 | Daten-Governance prüfen (Trainings- u. Testdaten) | CDO / HR | 30.04.2026 | Teilweise erledigt |
+| Art. 10 | Daten-Governance prüfen (Trainings- u. Aktenstand) | CDO / HR | 30.04.2026 | Teilweise erledigt |
 | Art. 11 | Technische Dokumentation vollständig? (Vendor-Dokument) | CIO / Vendor | 30.04.2026 | Synaptec-Unterlagen angefordert |
 | Art. 12 | Protokollierungspflicht aktiviert | IT / CIO | 31.03.2026 | Umgesetzt |
 | Art. 13 | Gebrauchsanweisung vorhanden und verständlich? | HR | 30.04.2026 | Vorhanden (DE-Version Synaptec) |

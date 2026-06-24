@@ -1,6 +1,6 @@
 ---
 name: berufsrechtskonform-verhandlung-vergleich-und-eskalation
-description: "Berufsrechtskonform: Verhandlung, Vergleich und Eskalation."
+description: "Berufsrechtskonform: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Berufsrechtskonform: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: schulung-fristennotiz-und-naechster-schritt
-description: "Schulung: Fristennotiz und nächster Schritt."
+description: "Schulung: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schulung: Fristennotiz und nächster Schritt

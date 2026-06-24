@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-abmahnung-paragraf-97a-urhg-bgh-i-zr-9-18
-description: "Urheberrecht Abmahnung Streitwert Paragraf 97a UrhG mit BGH I ZR 9/18."
+description: "Urheberrecht Abmahnung Streitwert Paragraf 97a UrhG mit BGH I ZR 9/18. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Urheberrecht Abmahnung Paragraf 97a Urhg BGH I Zr 9 18

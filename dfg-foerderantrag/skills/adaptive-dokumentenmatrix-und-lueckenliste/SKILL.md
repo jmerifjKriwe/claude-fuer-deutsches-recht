@@ -1,6 +1,6 @@
 ---
 name: adaptive-dokumentenmatrix-und-lueckenliste
-description: "Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung

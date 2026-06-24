@@ -1,6 +1,6 @@
 {
   "name": "jurastudium",
-  "version": "391.0.0",
+  "version": "392.0.0",
   "description": "Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung.",
   "keywords": [
     "jurastudium",
@@ -18,7 +18,8 @@
   ],
   "license": "Apache-2.0 OR MIT",
   "author": {
-    "name": "Klotzkette"
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
   },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
 }

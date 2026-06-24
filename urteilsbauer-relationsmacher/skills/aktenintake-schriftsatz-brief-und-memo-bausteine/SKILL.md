@@ -1,6 +1,6 @@
 ---
 name: aktenintake-schriftsatz-brief-und-memo-bausteine
-description: "Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine

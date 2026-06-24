@@ -1,6 +1,6 @@
 ---
 name: teile-vier-wandelt
-description: "Teile: Behörden-, Gerichts- oder Registerweg."
+description: "Teile: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Teile: Behörden-, Gerichts- oder Registerweg

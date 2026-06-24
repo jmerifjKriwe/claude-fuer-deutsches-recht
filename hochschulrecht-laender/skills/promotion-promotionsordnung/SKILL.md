@@ -1,6 +1,6 @@
 ---
 name: promotion-promotionsordnung
-description: "Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht Länder."
+description: "Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Promotion Und Promotionsordnung

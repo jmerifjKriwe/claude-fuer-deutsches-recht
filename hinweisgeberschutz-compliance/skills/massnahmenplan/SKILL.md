@@ -1,6 +1,6 @@
 ---
 name: massnahmenplan
-description: "Priorisiert Verbesserungen am HinSchG-System im Hinweisgeberschutz Compliance."
+description: "Priorisiert Verbesserungen am HinSchG-System im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Maßnahmenplan

@@ -1,6 +1,6 @@
 ---
 name: marketing-mandantenkommunikation-entscheidungsvorlage
-description: "Marketing: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Marketing: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Marketing: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: edge-case-verhandlung-bora-international
-description: "Allgemeine: Sonderfall und Edge-Case-Prüfung."
+description: "Allgemeine: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Allgemeine: Sonderfall und Edge-Case-Prüfung

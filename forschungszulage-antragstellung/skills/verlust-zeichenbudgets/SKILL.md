@@ -1,6 +1,6 @@
 ---
 name: verlust-zeichenbudgets
-description: "Verlust: Formular, Portal und Einreichungslogik."
+description: "Verlust: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verlust: Formular, Portal und Einreichungslogik

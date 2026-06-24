@@ -1,6 +1,6 @@
 ---
 name: ersatz-sonderfall-excel-faehige
-description: "Ersatz: Sonderfall und Edge-Case-Prüfung."
+description: "Ersatz: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ersatz: Sonderfall und Edge-Case-Prüfung

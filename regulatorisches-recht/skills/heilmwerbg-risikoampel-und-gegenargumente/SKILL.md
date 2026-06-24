@@ -1,6 +1,6 @@
 ---
 name: heilmwerbg-risikoampel-und-gegenargumente
-description: "Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien

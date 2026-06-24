@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-risikoampel-und-gegenargumente
-description: "Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien

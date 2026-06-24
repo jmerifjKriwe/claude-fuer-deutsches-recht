@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Unternehmen und Sachverhalte sind frei erfunden oder anonymisiert. Die Akte gehört fachlich zum Plugin `mandantenanfragen-assistent`.
+Arbeitsakte zum Plugin `mandantenanfragen-assistent`.
 
 ---
 

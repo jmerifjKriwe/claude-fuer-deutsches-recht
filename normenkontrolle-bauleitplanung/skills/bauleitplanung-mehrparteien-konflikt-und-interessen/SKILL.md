@@ -1,6 +1,6 @@
 ---
 name: bauleitplanung-mehrparteien-konflikt-und-interessen
-description: "Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix."
+description: "Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix

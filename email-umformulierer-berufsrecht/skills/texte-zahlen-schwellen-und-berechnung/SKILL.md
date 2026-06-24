@@ -1,6 +1,6 @@
 ---
 name: texte-zahlen-schwellen-und-berechnung
-description: "Texte: Zahlen, Schwellenwerte und Berechnung."
+description: "Texte: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Texte: Zahlen, Schwellenwerte und Berechnung

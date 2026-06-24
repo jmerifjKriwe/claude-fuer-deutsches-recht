@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-schule
-description: "Prüft Nachteilsausgleich in Unterricht und Prüfungen im Schulrecht Länder."
+description: "Prüft Nachteilsausgleich in Unterricht und Prüfungen im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Nachteilsausgleich Schule

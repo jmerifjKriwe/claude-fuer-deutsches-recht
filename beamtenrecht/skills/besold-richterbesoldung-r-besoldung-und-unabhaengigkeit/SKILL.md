@@ -1,6 +1,6 @@
 ---
 name: besold-richterbesoldung-r-besoldung-und-unabhaengigkeit
-description: "Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit im Beamtenrecht."
+description: "Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Besold Richterbesoldung R Besoldung Und Unabhaengigkeit

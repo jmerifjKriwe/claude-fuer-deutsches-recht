@@ -1,6 +1,6 @@
 ---
 name: schriftsaetze-schriftsatz-brief-und-memo-bausteine
-description: "Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine im Prozessrecht."
+description: "Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine

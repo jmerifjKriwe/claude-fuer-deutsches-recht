@@ -1,6 +1,6 @@
 ---
 name: anfechtung-antragsbefugnis-red-team-korrektur
-description: "Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage

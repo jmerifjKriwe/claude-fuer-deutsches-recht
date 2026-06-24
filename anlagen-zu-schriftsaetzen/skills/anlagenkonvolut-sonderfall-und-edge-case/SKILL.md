@@ -1,6 +1,6 @@
 ---
 name: anlagenkonvolut-sonderfall-und-edge-case
-description: "Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung."
+description: "Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung

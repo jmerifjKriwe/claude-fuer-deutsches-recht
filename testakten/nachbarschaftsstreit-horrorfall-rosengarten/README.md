@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Adressen, Aktenzeichen, Flurstücke, Firmen und Behördenkontakte sind anonymisiert. Die Akte gehört fachlich zum Plugin `nachbarschaftsstreit-pruefer`.
+Arbeitsakte zum Plugin `nachbarschaftsstreit-pruefer`.
 
 ## Kurzbild
 

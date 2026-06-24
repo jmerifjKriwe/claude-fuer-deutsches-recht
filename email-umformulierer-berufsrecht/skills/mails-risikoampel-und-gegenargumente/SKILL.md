@@ -1,6 +1,6 @@
 ---
 name: mails-risikoampel-und-gegenargumente
-description: "Mails: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Mails: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mails: Risikoampel, Gegenargumente und Verteidigungslinien

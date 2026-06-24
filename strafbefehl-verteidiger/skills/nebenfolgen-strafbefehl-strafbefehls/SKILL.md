@@ -1,6 +1,6 @@
 ---
 name: nebenfolgen-strafbefehl-strafbefehls
-description: "Nebenfolgen: Verhandlung, Vergleich und Eskalation."
+description: "Nebenfolgen: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Nebenfolgen: Verhandlung, Vergleich und Eskalation

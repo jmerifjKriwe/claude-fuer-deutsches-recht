@@ -1,6 +1,6 @@
 ---
 name: ausgabe-changes-docx-beweislast
-description: "Ausgabe: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Ausgabe: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ausgabe: Mandantenkommunikation und Entscheidungsvorlage

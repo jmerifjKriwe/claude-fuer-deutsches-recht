@@ -1,6 +1,6 @@
 ---
 name: klimaklagen-mehrparteien-konflikt-und-interessen
-description: "Klimaklagen: Mehrparteienkonflikt und Interessenmatrix im Umweltrecht."
+description: "Klimaklagen: Mehrparteienkonflikt und Interessenmatrix im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Klimaklagen: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: prozessablauf-mandantenentscheidung
-description: "Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage

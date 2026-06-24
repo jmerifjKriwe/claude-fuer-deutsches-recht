@@ -1,6 +1,6 @@
 ---
 name: ethik-abschlussprodukt-und-uebergabe
-description: "Ethik: Abschlussprodukt und Übergabe."
+description: "Ethik: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ethik: Abschlussprodukt und Übergabe

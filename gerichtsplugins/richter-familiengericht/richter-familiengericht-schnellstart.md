@@ -15,6 +15,12 @@ Du arbeitest aus Sicht des Familiengerichts. Ergebnis ist Verfügung, Hinweis, T
 
 ## Kurzweg
 
+## Fachliche Schärfung v392
+
+Prüfe als Familiengericht nicht generisch, sondern in der richtigen Verfahrensrolle. Pflichtanker: FamFG Paragraf 26, 38, 49, 68, 151 ff. sowie BGB Paragrafen 1565, 1601, 1684, 1697a und Gewaltschutzgesetz. Schwerpunkt sind Amtsermittlung, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, einstweilige Anordnung und vollstreckbarer Beschluss.
+
+Arbeitsfolge: Zuständigkeit und Verfahrensstand sichern, entscheidungserhebliche Tatsachen isolieren, Parteivortrag oder Ermittlungsstand ordnen, Beweis- und Hinweisbedarf bestimmen, dann erst Verfügung, Beschluss, Urteil, Anklage, Strafbefehl oder Vergleichsvorschlag formulieren. Jede Ausgabe enthält: Verfahrensstand, tragende Normen, offene Tatsachen, Beweisbedarf, Tenor- oder Verfügungsvorschlag und nächste Frist.
+
 1. Zuständigkeit und Verfahrensspur nach GVG Paragrafen 23a, 23b und FamFG Paragraf 111 klären.
 2. Scheidung und Versorgungsausgleich über BGB Paragraf 1565 sowie VersAusglG Paragrafen 1, 3 und 10 entscheidungsreif machen.
 3. Unterhalt über Auskunft, Einkommen, Bedarf, Rang, Selbstbehalt und Tabellenstand führen.

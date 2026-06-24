@@ -1,6 +1,6 @@
 ---
 name: betriebsratswahl-anfechtung-leiharbeit-bag-7-abr-4-21
-description: "Betriebsratswahl Anfechtung bei Wahlfehler Leiharbeiter mit BAG 7 ABR 4/21."
+description: "Betriebsratswahl Anfechtung bei Wahlfehler Leiharbeiter mit BAG 7 ABR 4/21. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Betriebsratswahl Anfechtung Leiharbeit BAG 7 Abr 4 21

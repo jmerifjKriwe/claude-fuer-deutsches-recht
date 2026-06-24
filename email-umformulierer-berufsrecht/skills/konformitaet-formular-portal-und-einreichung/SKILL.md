@@ -1,6 +1,6 @@
 ---
 name: konformitaet-formular-portal-und-einreichung
-description: "Konformitaet: Formular, Portal und Einreichungslogik."
+description: "Konformitaet: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Konformitaet: Formular, Portal und Einreichungslogik

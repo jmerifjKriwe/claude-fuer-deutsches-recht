@@ -1,6 +1,6 @@
 ---
 name: bittet-internationaler-bezug-und-schnittstellen
-description: "Bittet: Internationaler Bezug und Schnittstellen."
+description: "Bittet: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bittet: Internationaler Bezug und Schnittstellen

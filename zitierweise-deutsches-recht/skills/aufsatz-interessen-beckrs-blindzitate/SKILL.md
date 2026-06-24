@@ -1,6 +1,6 @@
 ---
 name: aufsatz-interessen-beckrs-blindzitate
-description: "Aufsatz: Mehrparteienkonflikt und Interessenmatrix."
+description: "Aufsatz: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aufsatz: Mehrparteienkonflikt und Interessenmatrix

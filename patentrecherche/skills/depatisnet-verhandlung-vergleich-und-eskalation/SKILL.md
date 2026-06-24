@@ -1,6 +1,6 @@
 ---
 name: depatisnet-verhandlung-vergleich-und-eskalation
-description: "Depatisnet: Verhandlung, Vergleich und Eskalation im Patentrecherche."
+description: "Depatisnet: Verhandlung, Vergleich und Eskalation im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Depatisnet: Verhandlung, Vergleich und Eskalation

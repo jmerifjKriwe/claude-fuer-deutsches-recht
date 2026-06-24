@@ -1,6 +1,6 @@
 ---
 name: kanzleien-dokumentenmatrix-und-lueckenliste
-description: "Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung

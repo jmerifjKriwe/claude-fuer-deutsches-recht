@@ -1,6 +1,6 @@
 ---
 name: petitionsausschuss-mandantenentscheidung
-description: "Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage

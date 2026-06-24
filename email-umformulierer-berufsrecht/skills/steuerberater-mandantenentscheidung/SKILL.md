@@ -1,6 +1,6 @@
 ---
 name: steuerberater-mandantenentscheidung
-description: "Steuerberater: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Steuerberater: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Steuerberater: Mandantenkommunikation und Entscheidungsvorlage

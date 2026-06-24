@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """generate-megaprompt.py - Konkateniert pro Plugin die Kern-Skills in ein
-einzelnes Markdown ('Megaprompt'), das man ohne Claude Code als ein-Schuss-
+einzelnes Markdown ('Vollprüfung'), das man ohne Claude Code als ein-Schuss-
 Prompt verwenden kann.
 
 Ausgabe: testakten/megaprompts/<plugin>.md
@@ -8,12 +8,12 @@ Ausgabe: testakten/megaprompts/<plugin>.md
 Auswahl-Heuristik:
 - Plugins mit <= 20 Skills: ALLE Skills (Vollintegration)
 - Plugins mit 21-60 Skills: top-15 Skills (Priorisierungsliste pro Plugin)
-- Plugins mit > 60 Skills: SKIP (zu gross fuer Megaprompt)
+- Plugins mit > 60 Skills: SKIP (zu gross fuer Vollprüfung)
 - Skill-Auswahl bei mittlerer Groesse:
     * einstieg-routing / kaltstart-triage / mandat-triage immer first
     * weiter nach Frontmatter-description-Laenge (laengere=substantieller)
 
-Pro Megaprompt:
+Pro Vollprüfung:
 - Header mit Disclaimer + Anleitung
 - Inhaltsverzeichnis
 - Konkatenierter Skill-Inhalt (Frontmatter entfernt)
@@ -30,11 +30,11 @@ OUT = REPO / 'testakten' / 'megaprompts'
 # Aktuell keine Ausschluesse — alle vier ehemals ausgeschlossenen Plugins
 # (corporate-kanzlei, urteilsbauer-relationsmacher, verlagsredaktion,
 # zwangsverwaltung-zvg) werden jetzt mit dem Top-N-Tiering ueber
-# entries_for_size() abgedeckt und bekommen Megaprompts.
+# entries_for_size() abgedeckt und bekommen Vollprüfungs.
 EXCLUDE_PLUGINS: set[str] = set()
 
 # Hinweis: Der Disclaimer- und Verwendungs-Block steht im jeweiligen
-# Plugin-README, nicht im Megaprompt-Markdown selbst — der Megaprompt
+# Plugin-README, nicht im Vollprüfung-Markdown selbst — der Vollprüfung
 # soll moeglichst rauschfrei in einen Chat-Agenten kopierbar sein.
 
 
@@ -58,7 +58,7 @@ def collect_skills(plugin_dir: Path) -> list[tuple[str, Path, str, str]]:
     skills_dir = plugin_dir / 'skills'
     if not skills_dir.is_dir():
         return []
-    priority_first = ['vergaberechtliche-pruefung-anwaltlich-megaprompt',
+    priority_first = ['vergaberechtliche-pruefung-anwaltlich-vollpruefung',
                       'einstieg-routing', 'kaltstart-triage', 'mandat-triage',
                       'orientierung', 'mandat-intake-und-konfliktpruefung',
                       'erstgespraech-mandatsannahme', 'erstpruefung-und-mandatsziel']
@@ -91,7 +91,7 @@ GITHUB_BLOB = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/ma
 def rewrite_relative_links(body: str, plugin: str) -> str:
     """Schreibt Repo-interne relative Markdown-Links in absolute GitHub-URLs um.
 
-    Im konkatenierten Megaprompt funktionieren die urspruenglichen
+    Im konkatenierten Vollprüfung funktionieren die urspruenglichen
     `../../references/...`-Pfade nicht, weil die Datei unter
     `testakten/megaprompts/<plugin>.md` liegt. Wir loesen sie zum Skill-
     Verzeichnis hin auf und erzeugen GitHub-Blob-URLs.
@@ -114,7 +114,7 @@ def rewrite_relative_links(body: str, plugin: str) -> str:
 
 
 def build_megaprompt(plugin_dir: Path) -> str | None:
-    """Erzeugt Megaprompt-Markdown fuer ein Plugin. None bei skip."""
+    """Erzeugt Vollprüfung-Markdown fuer ein Plugin. None bei skip."""
     plugin = plugin_dir.name
     if plugin in EXCLUDE_PLUGINS:
         return None
@@ -137,11 +137,11 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
         coverage = f"alle {n_total} Skills"
 
     lines = []
-    lines.append(f'# Megaprompt: {plugin}')
+    lines.append(f'# Vollprüfung: {plugin}')
     lines.append('')
     lines.append(f'## Zusammensetzung')
     lines.append('')
-    lines.append(f'Dieser Megaprompt enthaelt {coverage} des Plugins `{plugin}`.')
+    lines.append(f'Dieser Vollprüfung enthaelt {coverage} des Plugins `{plugin}`.')
     lines.append('')
     lines.append('## Inhaltsverzeichnis')
     lines.append('')
@@ -165,7 +165,7 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
 
     lines.append('## Anwendungshinweise')
     lines.append('')
-    lines.append('1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.')
+    lines.append('1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.')
     lines.append('2. Den eigentlichen juristischen Fall beschreiben.')
     lines.append('3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.')
     lines.append('4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.')
@@ -202,7 +202,7 @@ def main() -> int:
         if size_kb > 200:
             print(f'  WARN {plugin_dir.name}: {size_kb:.0f} KB (gross fuer Chat-Fenster)')
         created += 1
-    print(f'Megaprompts erstellt: {created} | uebersprungen: {skipped}')
+    print(f'Vollprüfungs erstellt: {created} | uebersprungen: {skipped}')
     return 0
 
 

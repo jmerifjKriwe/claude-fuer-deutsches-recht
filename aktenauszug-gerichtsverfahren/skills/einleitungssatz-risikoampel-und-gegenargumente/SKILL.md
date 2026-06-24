@@ -1,6 +1,6 @@
 ---
 name: einleitungssatz-risikoampel-und-gegenargumente
-description: "Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien

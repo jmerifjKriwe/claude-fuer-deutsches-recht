@@ -1,6 +1,6 @@
 ---
 name: uebernimmt-telefon-konfiguration
-description: "Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine

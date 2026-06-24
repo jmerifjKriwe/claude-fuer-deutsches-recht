@@ -1,6 +1,6 @@
 ---
 name: echten-sonderfall-und-edge-case
-description: "Echten: Sonderfall und Edge-Case-Prüfung."
+description: "Echten: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Echten: Sonderfall und Edge-Case-Prüfung

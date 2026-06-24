@@ -1,6 +1,6 @@
 ---
 name: versteigerung-tatbestand-beweis-und-belege
-description: "Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage

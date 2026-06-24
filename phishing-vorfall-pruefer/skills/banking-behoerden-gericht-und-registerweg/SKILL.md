@@ -1,6 +1,6 @@
 ---
 name: banking-behoerden-gericht-und-registerweg
-description: "Banking: Behörden-, Gerichts- oder Registerweg."
+description: "Banking: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Banking: Behörden-, Gerichts- oder Registerweg

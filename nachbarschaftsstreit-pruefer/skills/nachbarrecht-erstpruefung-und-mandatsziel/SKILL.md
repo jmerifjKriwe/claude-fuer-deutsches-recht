@@ -1,6 +1,6 @@
 ---
 name: nachbarrecht-erstpruefung-und-mandatsziel
-description: "Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel

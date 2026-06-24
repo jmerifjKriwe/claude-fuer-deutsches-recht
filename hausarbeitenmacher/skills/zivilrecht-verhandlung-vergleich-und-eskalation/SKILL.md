@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-verhandlung-vergleich-und-eskalation
-description: "Zivilrecht: Verhandlung, Vergleich und Eskalation im Hausarbeitenmacher."
+description: "Zivilrecht: Verhandlung, Vergleich und Eskalation im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zivilrecht: Verhandlung, Vergleich und Eskalation

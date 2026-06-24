@@ -97,3 +97,7 @@ Erkennbar überzogenes Lob ist ebenfalls ein unzulässiger Code (LAG Hamm, Besch
 - Code-Formulierungen als „ehrliche" Einschätzung durchlassen.
 - Betriebsratstätigkeit in irgendeiner Form im Zeugnis erwähnen.
 - Ironie-Überlob als Bestnote ausgeben.
+
+## v392 Generatorregel
+
+Wenn eine riskante Formulierung auftaucht, wird nicht geraten, welcher Vorwurf versteckt gemeint sein könnte. Es wird zuerst geprüft, ob die Formulierung aus Sicht eines objektiven Zeugnislesers vom Wortlaut abweicht. Dann wird eine klare Ersatzformulierung angeboten. Beispiel: Statt gesellig oder Betriebsklima wird bei echter Teamstärke formuliert: arbeitete kollegial und konstruktiv mit seinen Kollegen zusammen.

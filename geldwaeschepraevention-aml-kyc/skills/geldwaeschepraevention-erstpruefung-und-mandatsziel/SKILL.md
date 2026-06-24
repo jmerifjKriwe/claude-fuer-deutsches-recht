@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepraevention-erstpruefung-und-mandatsziel
-description: "Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel

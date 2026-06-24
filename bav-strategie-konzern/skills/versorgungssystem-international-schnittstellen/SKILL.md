@@ -1,6 +1,6 @@
 ---
 name: versorgungssystem-international-schnittstellen
-description: "Versorgungssystem: Internationaler Bezug und Schnittstellen."
+description: "Versorgungssystem: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Versorgungssystem: Internationaler Bezug und Schnittstellen

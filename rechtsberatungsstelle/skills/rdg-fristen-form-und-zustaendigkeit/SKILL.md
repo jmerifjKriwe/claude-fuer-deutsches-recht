@@ -1,6 +1,6 @@
 ---
 name: rdg-fristen-form-und-zustaendigkeit
-description: "RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Rechtsberatungsstelle."
+description: "RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # RDG: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: arbeitsblatt-schriftsatz-brief-und-memo-bausteine
-description: "Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine

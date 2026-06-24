@@ -1,6 +1,6 @@
 ---
 name: juristische-erstpruefung-und-mandatsziel
-description: "Juristische: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Juristische: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel

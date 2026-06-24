@@ -1,6 +1,6 @@
 ---
 name: ampelmatrix-internationaler-bezug-und-schnittstellen
-description: "Ampelmatrix: Internationaler Bezug und Schnittstellen."
+description: "Ampelmatrix: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ampelmatrix: Internationaler Bezug und Schnittstellen

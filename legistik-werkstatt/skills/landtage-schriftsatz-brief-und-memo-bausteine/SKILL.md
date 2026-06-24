@@ -1,6 +1,6 @@
 ---
 name: landtage-schriftsatz-brief-und-memo-bausteine
-description: "Landtage: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Landtage: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Landtage: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: excel-dokumentenmatrix-und-lueckenliste
-description: "Excel: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Excel: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Excel: Dokumentenmatrix, Lückenliste und Nachforderung

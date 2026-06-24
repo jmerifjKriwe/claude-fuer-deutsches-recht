@@ -1,6 +1,6 @@
 ---
 name: hoefliche-konformitaet-mails
-description: "Hoefliche: Behörden-, Gerichts- oder Registerweg."
+description: "Hoefliche: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hoefliche: Behörden-, Gerichts- oder Registerweg

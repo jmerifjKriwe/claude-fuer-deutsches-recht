@@ -1,6 +1,6 @@
 ---
 name: bora-internationaler-bezug-und-schnittstellen
-description: "Bora: Internationaler Bezug und Schnittstellen."
+description: "Bora: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bora: Internationaler Bezug und Schnittstellen

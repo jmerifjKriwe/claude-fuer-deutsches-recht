@@ -1,6 +1,6 @@
 ---
 name: einreden-compliance-dokumentation-und-akte
-description: "Einreden: Compliance-Dokumentation und Aktenvermerk im Subsumtions Prüfer."
+description: "Einreden: Compliance-Dokumentation und Aktenvermerk im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einreden: Compliance-Dokumentation und Aktenvermerk

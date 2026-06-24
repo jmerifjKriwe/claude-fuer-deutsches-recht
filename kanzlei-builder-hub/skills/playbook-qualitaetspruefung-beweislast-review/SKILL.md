@@ -1,6 +1,6 @@
 ---
 name: playbook-qualitaetspruefung-beweislast-review
-description: "Playbook: Internationaler Bezug und Schnittstellen."
+description: "Playbook: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Playbook: Internationaler Bezug und Schnittstellen

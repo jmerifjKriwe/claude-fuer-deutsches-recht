@@ -1,6 +1,6 @@
 ---
 name: ki-nutzung-und-eigenstaendigkeit
-description: "Prüft KI-Nutzung in Prüfungsleistungen im Prüfungsrecht Hochschule."
+description: "Prüft KI-Nutzung in Prüfungsleistungen im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # KI Nutzung Und Eigenstaendigkeit

@@ -1,6 +1,6 @@
 ---
 name: gegenseite-tracked-fristennotiz-nda
-description: "Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg

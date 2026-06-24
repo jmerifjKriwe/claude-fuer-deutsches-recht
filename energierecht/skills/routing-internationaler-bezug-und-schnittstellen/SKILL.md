@@ -1,6 +1,6 @@
 ---
 name: routing-internationaler-bezug-und-schnittstellen
-description: "Routing: Internationaler Bezug und Schnittstellen im Energierecht."
+description: "Routing: Internationaler Bezug und Schnittstellen im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Routing: Internationaler Bezug und Schnittstellen

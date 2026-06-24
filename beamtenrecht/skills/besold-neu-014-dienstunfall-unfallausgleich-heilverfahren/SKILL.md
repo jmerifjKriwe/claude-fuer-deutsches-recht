@@ -1,6 +1,6 @@
 ---
 name: besold-neu-014-dienstunfall-unfallausgleich-heilverfahren
-description: "Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht."
+description: "Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Besold Dienstunfall Unfallausgleich Heilverfahren

@@ -1,6 +1,6 @@
 ---
 name: patg-problem-register
-description: "Patg: Mandantenkommunikation und Entscheidungsvorlage im Patentrecherche."
+description: "Patg: Mandantenkommunikation und Entscheidungsvorlage im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Patg: Mandantenkommunikation und Entscheidungsvorlage

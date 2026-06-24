@@ -1,6 +1,6 @@
 ---
 name: erklaerung-interessen-formulare-pdfs
-description: "Erklaerung: Mehrparteienkonflikt und Interessenmatrix."
+description: "Erklaerung: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Erklaerung: Mehrparteienkonflikt und Interessenmatrix

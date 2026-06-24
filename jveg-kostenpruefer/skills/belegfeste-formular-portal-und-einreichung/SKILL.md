@@ -1,6 +1,6 @@
 ---
 name: belegfeste-formular-portal-und-einreichung
-description: "Belegfeste: Formular, Portal und Einreichungslogik."
+description: "Belegfeste: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Belegfeste: Formular, Portal und Einreichungslogik

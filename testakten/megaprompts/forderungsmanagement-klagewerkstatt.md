@@ -29,7 +29,7 @@ Eingangsroutine für jede neue Forderungsakte. Ziel ist nicht ein Formularinterv
 
 ## Grundsatz: Akte zuerst, Fragen danach
 
-Wenn ein Ordner, eine ZIP-Datei oder mehrere Dokumente vorhanden sind, wird zuerst `aktenordner-schnellstart` ausgefuehrt. Aus Dateinamen, Briefkoepfen, Vollmacht, Rechnung, Mahnung, Kontoauszug, Mahnbescheid, Widerspruch, Klageentwurf und gerichtlichen Schreiben werden Mandant, Gegner, Forderungsart, Betrag, Zahlungslage, Mahnstand und Fristen rekonstruiert.
+Wenn ein Ordner, eine ZIP-Datei oder mehrere Dokumente vorhanden sind, wird zuerst `aktenordner-erstlekture` ausgefuehrt. Aus Dateinamen, Briefkoepfen, Vollmacht, Rechnung, Mahnung, Kontoauszug, Mahnbescheid, Widerspruch, Klageentwurf und gerichtlichen Schreiben werden Mandant, Gegner, Forderungsart, Betrag, Zahlungslage, Mahnstand und Fristen rekonstruiert.
 
 Der erste Output lautet nicht "Bitte beantworten Sie sieben Fragen", sondern:
 
@@ -59,7 +59,7 @@ Mehr als drei Startfragen sind nur erlaubt, wenn Fristversaeumnis oder falsche P
 
 | Befund | Spur | Folgeskill |
 |---|---|---|
-| Akte ungeordnet oder Dokumentenlage unklar | Akteninventar | aktenordner-schnellstart oder dokumente-intake |
+| Akte ungeordnet oder Dokumentenlage unklar | Akteninventar | aktenordner-erstlekture oder dokumente-intake |
 | Forderung schluessig, faellig, Schuldner bekannt, kein ernstliches Bestreiten | Mahnbescheid | mahnbescheid-online |
 | Bestreiten wahrscheinlich oder Anspruch muss begruendet werden | Zahlungsklage | zahlungsklage-erstellen |
 | Hauptforderung bezahlt, nur Kosten/Zinsen offen | Klageblocker | klagefreigabe-belegte-forderung |

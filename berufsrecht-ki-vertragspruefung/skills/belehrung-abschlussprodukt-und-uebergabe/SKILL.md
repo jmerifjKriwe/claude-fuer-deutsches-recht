@@ -1,6 +1,6 @@
 ---
 name: belehrung-abschlussprodukt-und-uebergabe
-description: "Belehrung: Abschlussprodukt und Übergabe."
+description: "Belehrung: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Belehrung: Abschlussprodukt und Übergabe

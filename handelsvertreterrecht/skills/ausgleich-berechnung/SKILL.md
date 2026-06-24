@@ -1,6 +1,6 @@
 ---
 name: ausgleich-berechnung
-description: "Berechnet Ausgleich mit Transparenz."
+description: "Berechnet Ausgleich mit Transparenz. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ausgleich Berechnung

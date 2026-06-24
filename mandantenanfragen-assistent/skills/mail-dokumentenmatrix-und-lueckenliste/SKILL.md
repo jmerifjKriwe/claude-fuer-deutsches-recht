@@ -1,6 +1,6 @@
 ---
 name: mail-dokumentenmatrix-und-lueckenliste
-description: "Mail: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Mail: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mail: Dokumentenmatrix, Lückenliste und Nachforderung

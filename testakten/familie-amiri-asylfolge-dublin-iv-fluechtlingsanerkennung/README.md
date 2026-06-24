@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Behörden und Einrichtungen sind anonymisiert bzw. fiktionalisiert. Die Akte gehört fachlich zum Plugin `fachanwalt-migrationsrecht`.
+Arbeitsakte zum Plugin `fachanwalt-migrationsrecht`.
 
 ---
 

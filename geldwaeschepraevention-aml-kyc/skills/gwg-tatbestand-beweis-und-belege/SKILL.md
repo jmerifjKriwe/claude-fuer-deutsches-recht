@@ -1,6 +1,6 @@
 ---
 name: gwg-tatbestand-beweis-und-belege
-description: "GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage

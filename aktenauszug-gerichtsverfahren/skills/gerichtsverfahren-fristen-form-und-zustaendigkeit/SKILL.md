@@ -1,6 +1,6 @@
 ---
 name: gerichtsverfahren-fristen-form-und-zustaendigkeit
-description: "Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg

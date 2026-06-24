@@ -1,6 +1,6 @@
 ---
 name: excel-beweislast-und-darlegungslast
-description: "Excel: Beweislast, Darlegungslast und Substantiierung."
+description: "Excel: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Excel: Beweislast, Darlegungslast und Substantiierung

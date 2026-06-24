@@ -1,6 +1,6 @@
 ---
 name: hochschulmedizin
-description: "Prüft Universitätskliniken und Hochschulmedizin im Hochschulrecht Länder."
+description: "Prüft Universitätskliniken und Hochschulmedizin im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hochschulmedizin

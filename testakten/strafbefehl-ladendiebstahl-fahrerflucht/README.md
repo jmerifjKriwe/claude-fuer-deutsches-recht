@@ -129,7 +129,7 @@ Die Anwältin erkennt die Fristkritikalität: Einspruchsfrist läuft am **25. Ma
 
 ## Prüffokus
 
-Diese Musterakte bildet das vollständige Workflow eines **Strafbefehlsverfahrens** aus Verteidigungsperspektive ab. Sie zeigt:
+Diese Arbeitsakte bildet das vollständige Workflow eines **Strafbefehlsverfahrens** aus Verteidigungsperspektive ab. Sie zeigt:
 
 1. **Fristberechnung und Sofortreaktionen** beim Eingang eines Strafbefehls (§§ 410, 43 StPO).
 2. **Aufbau eines Strafbefehls** nach § 409 StPO mit allen Bestandteilen (Rubrum, Tenor, angewandte Vorschriften, Rechtsbehelfsbelehrung).

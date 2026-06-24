@@ -1,6 +1,6 @@
 ---
 name: europarecht-fristen-form-und-zustaendigkeit
-description: "Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg im Subsumtions Prüfer."
+description: "Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg im Subsumtions Prüfer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg

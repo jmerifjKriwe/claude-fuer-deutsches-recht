@@ -1,6 +1,6 @@
 ---
 name: literatur-live-beweislast-lizenziertem
-description: "Literatur: Formular, Portal und Einreichungslogik."
+description: "Literatur: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Literatur: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: wphg-tatbestand-beweis-und-belege
-description: "Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage

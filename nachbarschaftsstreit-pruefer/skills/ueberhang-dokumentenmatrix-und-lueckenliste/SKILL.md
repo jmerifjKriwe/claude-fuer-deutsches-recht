@@ -1,6 +1,6 @@
 ---
 name: ueberhang-dokumentenmatrix-und-lueckenliste
-description: "Überhang: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Überhang: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Überhang: Dokumentenmatrix, Lückenliste und Nachforderung

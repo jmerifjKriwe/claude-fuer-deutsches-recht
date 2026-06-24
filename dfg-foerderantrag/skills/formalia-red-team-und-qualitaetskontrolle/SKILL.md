@@ -1,6 +1,6 @@
 ---
 name: formalia-red-team-und-qualitaetskontrolle
-description: "Formalia: Red-Team und Qualitätskontrolle."
+description: "Formalia: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Formalia: Red-Team und Qualitätskontrolle

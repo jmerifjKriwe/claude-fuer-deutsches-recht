@@ -1,6 +1,6 @@
 ---
 name: kontenpfaendung-notar-interessen-online
-description: "Kontenpfaendung: Formular, Portal und Einreichungslogik im Zwangsvollstreckung."
+description: "Kontenpfaendung: Formular, Portal und Einreichungslogik im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kontenpfaendung: Formular, Portal und Einreichungslogik

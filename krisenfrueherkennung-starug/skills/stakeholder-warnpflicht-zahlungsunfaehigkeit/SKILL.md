@@ -1,6 +1,6 @@
 ---
 name: stakeholder-warnpflicht-zahlungsunfaehigkeit
-description: "Stakeholder: Abschlussprodukt und Übergabe."
+description: "Stakeholder: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Stakeholder: Abschlussprodukt und Übergabe

@@ -1,6 +1,6 @@
 ---
 name: anspruchstabelle-gegenseite-interessen
-description: "Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk im Prozessrecht."
+description: "Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk

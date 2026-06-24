@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-verhandlung-vergleich-und-eskalation
-description: "Patentanwälte: Verhandlung, Vergleich und Eskalation."
+description: "Patentanwälte: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Patentanwälte: Verhandlung, Vergleich und Eskalation

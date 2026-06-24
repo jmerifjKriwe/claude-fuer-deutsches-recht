@@ -1,6 +1,6 @@
 ---
 name: anerkennung-von-pruefungsleistungen
-description: "Prüft Anerkennung und Anrechnung von Prüfungsleistungen."
+description: "Prüft Anerkennung und Anrechnung von Prüfungsleistungen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anerkennung Von Pruefungsleistungen

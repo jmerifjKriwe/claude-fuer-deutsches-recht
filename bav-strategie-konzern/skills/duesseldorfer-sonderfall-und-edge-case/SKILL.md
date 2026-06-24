@@ -1,6 +1,6 @@
 ---
 name: duesseldorfer-sonderfall-und-edge-case
-description: "Duesseldorfer: Sonderfall und Edge-Case-Prüfung."
+description: "Duesseldorfer: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Duesseldorfer: Sonderfall und Edge-Case-Prüfung

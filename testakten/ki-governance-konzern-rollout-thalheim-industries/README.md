@@ -15,7 +15,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen und Unternehmen sind anonymisiert und fiktiv. Die Akte gehört fachlich zum Plugin `ki-governance`.
+Arbeitsakte zum Plugin `ki-governance`.
 
 ---
 

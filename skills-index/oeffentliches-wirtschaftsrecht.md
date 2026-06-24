@@ -1,6 +1,6 @@
 # oeffentliches-wirtschaftsrecht
 
-**119 Skills** · Stand `v390.0.0`
+**119 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/oeffentliches-wirtschaftsrecht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-werkstatt.md" download>oeffentliches-wirtschaftsrecht-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-schnellstart.md" download>oeffentliches-wirtschaftsrecht-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [oeffentliches-wirtschaftsrecht-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [oeffentliches-wirtschaftsrecht-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [oeffentliches-wirtschaftsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht.zip) |
 

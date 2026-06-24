@@ -1,6 +1,6 @@
 ---
 name: sortiert-risikoampel-und-gegenargumente
-description: "Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien

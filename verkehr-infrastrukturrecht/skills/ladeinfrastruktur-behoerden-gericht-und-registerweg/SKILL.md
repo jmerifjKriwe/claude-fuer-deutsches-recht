@@ -1,6 +1,6 @@
 ---
 name: ladeinfrastruktur-behoerden-gericht-und-registerweg
-description: "Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg."
+description: "Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg

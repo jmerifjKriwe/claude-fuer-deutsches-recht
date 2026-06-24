@@ -1,6 +1,6 @@
 ---
 name: zwangsverwaltung-erstpruefung-und-mandatsziel
-description: "Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel

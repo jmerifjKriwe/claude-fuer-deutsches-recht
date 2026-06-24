@@ -1,6 +1,6 @@
 ---
 name: piercing-sonderfall-und-edge-case
-description: "Piercing: Sonderfall und Edge-Case-Prüfung."
+description: "Piercing: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Piercing: Sonderfall und Edge-Case-Prüfung

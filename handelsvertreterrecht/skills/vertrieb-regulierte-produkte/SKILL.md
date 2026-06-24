@@ -1,6 +1,6 @@
 ---
 name: vertrieb-regulierte-produkte
-description: "Prüft Handelsvertreter bei regulierten Produkten."
+description: "Prüft Handelsvertreter bei regulierten Produkten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vertrieb Regulierte Produkte

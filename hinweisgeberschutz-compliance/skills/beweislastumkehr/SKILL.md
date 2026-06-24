@@ -1,6 +1,6 @@
 ---
 name: beweislastumkehr
-description: "Prüft Beweislastumkehr nach Meldung im Hinweisgeberschutz Compliance."
+description: "Prüft Beweislastumkehr nach Meldung im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beweislastumkehr

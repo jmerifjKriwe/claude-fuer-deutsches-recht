@@ -1,6 +1,6 @@
 ---
 name: bsfz-behoerden-gericht-und-registerweg
-description: "Bsfz: Behörden-, Gerichts- oder Registerweg."
+description: "Bsfz: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bsfz: Behörden-, Gerichts- oder Registerweg

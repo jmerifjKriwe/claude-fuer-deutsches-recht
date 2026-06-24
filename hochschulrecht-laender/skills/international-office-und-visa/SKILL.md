@@ -1,6 +1,6 @@
 ---
 name: international-office-und-visa
-description: "Prüft internationale Studenten und Hochschulstatus."
+description: "Prüft internationale Studenten und Hochschulstatus. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # International Office Und Visa

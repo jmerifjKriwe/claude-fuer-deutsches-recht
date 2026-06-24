@@ -1,6 +1,6 @@
 ---
 name: tatbestandsmerkmale-interessen-tenor-urteils
-description: "Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix."
+description: "Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix

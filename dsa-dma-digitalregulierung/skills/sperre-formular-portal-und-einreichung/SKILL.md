@@ -1,6 +1,6 @@
 ---
 name: sperre-formular-portal-und-einreichung
-description: "Sperre: Formular, Portal und Einreichungslogik."
+description: "Sperre: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sperre: Formular, Portal und Einreichungslogik

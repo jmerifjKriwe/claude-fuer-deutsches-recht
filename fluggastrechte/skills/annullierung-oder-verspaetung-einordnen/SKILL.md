@@ -1,6 +1,6 @@
 ---
 name: annullierung-oder-verspaetung-einordnen
-description: "Prüfungslinie für annullierung oder verspaetung einordnen im Fluggastrechte."
+description: "Prüfungslinie für annullierung oder verspaetung einordnen im Fluggastrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Annullierung Verspätung oder Nichtbeförderung einordnen

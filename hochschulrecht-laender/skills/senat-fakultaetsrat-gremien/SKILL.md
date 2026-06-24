@@ -1,6 +1,6 @@
 ---
 name: senat-fakultaetsrat-gremien
-description: "Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulrecht Länder."
+description: "Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Senat Fakultaetsrat Gremien

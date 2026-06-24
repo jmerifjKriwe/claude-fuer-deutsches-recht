@@ -1,6 +1,6 @@
 ---
 name: awareness-zahlen-schwellen-und-berechnung
-description: "Awareness: Zahlen, Schwellenwerte und Berechnung."
+description: "Awareness: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Awareness: Zahlen, Schwellenwerte und Berechnung

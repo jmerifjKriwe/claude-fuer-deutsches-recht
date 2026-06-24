@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-beweislast-und-darlegungslast
-description: "Stellungnahmen: Beweislast, Darlegungslast und Substantiierung."
+description: "Stellungnahmen: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Stellungnahmen: Beweislast, Darlegungslast und Substantiierung

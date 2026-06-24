@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-erstpruefung-und-mandatsziel
-description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel

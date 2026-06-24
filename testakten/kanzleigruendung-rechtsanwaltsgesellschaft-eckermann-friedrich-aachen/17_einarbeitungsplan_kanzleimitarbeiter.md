@@ -34,7 +34,7 @@ Finden noch in den Übergangsräumen / per Videoschalte statt, da das Kanzleibü
 | 29.04.2026 | GwG-Schulung (2 Std.) | Dr. Sandhof |
 | 29.04.2026 | DSGVO-Schulung (2 Std.) | Externer DSB SecureData |
 | 30.04.2026 | Fachbereichspräsentationen (je 30 Min.) Sozialrecht, Arbeitsrecht, Steuerrecht | Eckermann, Friedrich, Sandhof |
-| 30.04.2026 | Probelauf RA-Micro: Musterakte anlegen, Fristen setzen | alle |
+| 30.04.2026 | Probelauf RA-Micro: Arbeitsakte anlegen, Fristen setzen | alle |
 
 ### Phase 2: Eröffnungswoche (01. Mai – 08. Mai 2026)
 

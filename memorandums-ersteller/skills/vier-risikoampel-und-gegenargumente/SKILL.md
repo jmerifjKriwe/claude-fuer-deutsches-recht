@@ -1,6 +1,6 @@
 ---
 name: vier-risikoampel-und-gegenargumente
-description: "Vier: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Vier: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vier: Risikoampel, Gegenargumente und Verteidigungslinien

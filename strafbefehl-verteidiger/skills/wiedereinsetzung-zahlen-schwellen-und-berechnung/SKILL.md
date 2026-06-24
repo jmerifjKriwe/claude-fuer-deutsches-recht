@@ -1,6 +1,6 @@
 ---
 name: wiedereinsetzung-zahlen-schwellen-und-berechnung
-description: "Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung."
+description: "Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung

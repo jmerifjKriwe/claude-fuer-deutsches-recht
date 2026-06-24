@@ -1,6 +1,6 @@
 ---
 name: legal-hold
-description: "Baut Legal Hold für Whistleblower-Fälle im Hinweisgeberschutz Compliance."
+description: "Baut Legal Hold für Whistleblower-Fälle im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Legal Hold

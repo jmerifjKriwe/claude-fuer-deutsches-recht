@@ -1,6 +1,6 @@
 ---
 name: livecheck-formular-portal-und-einreichung
-description: "Livecheck: Formular, Portal und Einreichungslogik im Produktrecht."
+description: "Livecheck: Formular, Portal und Einreichungslogik im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Livecheck: Formular, Portal und Einreichungslogik

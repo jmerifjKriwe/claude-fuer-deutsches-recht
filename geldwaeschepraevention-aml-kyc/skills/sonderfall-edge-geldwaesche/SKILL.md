@@ -1,6 +1,6 @@
 ---
 name: sonderfall-edge-geldwaesche
-description: "Chronologie: Sonderfall und Edge-Case-Prüfung."
+description: "Chronologie: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Chronologie: Sonderfall und Edge-Case-Prüfung

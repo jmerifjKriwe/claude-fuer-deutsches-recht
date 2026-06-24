@@ -1,6 +1,6 @@
 ---
 name: fahrverbot-geschwindigkeit-handy
-description: "Fahrverbot: Behörden-, Gerichts- oder Registerweg."
+description: "Fahrverbot: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fahrverbot: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: klausurkorrektur-lernplanung-red-team-korrektur
-description: "Jurastudium: Mandantenkommunikation und Entscheidungsvorlage im Jurastudium."
+description: "Jurastudium: Mandantenkommunikation und Entscheidungsvorlage im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Jurastudium: Mandantenkommunikation und Entscheidungsvorlage

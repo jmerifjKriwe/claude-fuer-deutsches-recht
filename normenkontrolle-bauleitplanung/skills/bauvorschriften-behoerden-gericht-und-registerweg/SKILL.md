@@ -1,6 +1,6 @@
 ---
 name: bauvorschriften-behoerden-gericht-und-registerweg
-description: "Bauvorschriften: Behörden-, Gerichts- oder Registerweg."
+description: "Bauvorschriften: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bauvorschriften: Behörden-, Gerichts- oder Registerweg

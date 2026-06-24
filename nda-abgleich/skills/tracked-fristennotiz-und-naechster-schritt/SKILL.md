@@ -1,6 +1,6 @@
 ---
 name: tracked-fristennotiz-und-naechster-schritt
-description: "Tracked: Fristennotiz und nächster Schritt."
+description: "Tracked: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Tracked: Fristennotiz und nächster Schritt

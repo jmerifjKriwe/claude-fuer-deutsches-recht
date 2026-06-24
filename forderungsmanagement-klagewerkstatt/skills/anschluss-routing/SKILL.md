@@ -11,7 +11,7 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 
 | Zustand der Akte | Empfohlener Folgeskill | Alternative |
 |---|---|---|
-| Akte neu oder Ordner/ZIP hochgeladen | aktenordner-schnellstart | dokumente-intake bei Belegchaos |
+| Akte neu oder Ordner/ZIP hochgeladen | aktenordner-erstlekture | dokumente-intake bei Belegchaos |
 | Akte neu Schuldner privater Verbraucher Forderung dokumentiert | mahnung-aussergerichtlich-stufenmodell | mahnbescheid-online wenn Verjährung droht |
 | Mahnung verstrichen Schuldner schweigt | mahnbescheid-online | zahlungsklage-erstellen wenn Streit erwartbar |
 | Zahlung Aufrechnung oder dauernde Einrede nach Klageeinreichung | kostenfeststellungsklage-verzugsschaden-erledigung | Paragraf 91a ZPO oder Paragraf 269 Abs. 3 Satz 3 ZPO nur nach Zeitachsenprüfung |

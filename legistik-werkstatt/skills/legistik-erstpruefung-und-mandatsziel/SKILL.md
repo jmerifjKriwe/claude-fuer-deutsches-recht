@@ -1,6 +1,6 @@
 ---
 name: legistik-erstpruefung-und-mandatsziel
-description: "Legistik: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Legistik: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Legistik: Erstprüfung, Rollenklärung und Mandatsziel

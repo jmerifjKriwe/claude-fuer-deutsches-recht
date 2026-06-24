@@ -1,6 +1,6 @@
 ---
 name: perspektiven-verhandlung-vergleich-und-eskalation
-description: "Perspektiven: Verhandlung, Vergleich und Eskalation."
+description: "Perspektiven: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Perspektiven: Verhandlung, Vergleich und Eskalation

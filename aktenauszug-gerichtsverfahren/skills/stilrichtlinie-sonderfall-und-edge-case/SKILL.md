@@ -1,6 +1,6 @@
 ---
 name: stilrichtlinie-sonderfall-und-edge-case
-description: "Stilrichtlinie: Sonderfall und Edge-Case-Prüfung."
+description: "Stilrichtlinie: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Stilrichtlinie: Sonderfall und Edge-Case-Prüfung

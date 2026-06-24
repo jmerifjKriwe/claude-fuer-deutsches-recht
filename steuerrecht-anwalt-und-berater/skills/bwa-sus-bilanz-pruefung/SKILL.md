@@ -1,6 +1,6 @@
 ---
 name: bwa-sus-bilanz-pruefung
-description: "Prüfungslinie für stb bwa sus bilanz prüfung im Steuerrecht Anwalt Und Berater."
+description: "Prüfungslinie für stb bwa sus bilanz prüfung im Steuerrecht Anwalt Und Berater. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # BWA-, SuSa- und Bilanzprüfung mit Insolvenzreife-Check (§§ 17, 19 InsO, § 102 StaRUG)

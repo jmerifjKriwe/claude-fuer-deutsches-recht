@@ -1,6 +1,6 @@
 ---
 name: rueckfragebrief-mandantenentscheidung
-description: "Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage

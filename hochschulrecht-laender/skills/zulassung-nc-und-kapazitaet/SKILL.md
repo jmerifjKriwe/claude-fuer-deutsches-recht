@@ -1,6 +1,6 @@
 ---
 name: zulassung-nc-und-kapazitaet
-description: "Prüft Zulassung, NC und Kapazitätsrecht im Hochschulrecht Länder."
+description: "Prüft Zulassung, NC und Kapazitätsrecht im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zulassung NC Und Kapazitaet

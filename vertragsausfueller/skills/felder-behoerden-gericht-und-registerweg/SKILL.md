@@ -1,6 +1,6 @@
 ---
 name: felder-behoerden-gericht-und-registerweg
-description: "Felder: Behörden-, Gerichts- oder Registerweg im Vertragsausfueller."
+description: "Felder: Behörden-, Gerichts- oder Registerweg im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Felder: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: unterrichtsausschluss
-description: "Prüft Unterrichtsausschluss und vorläufige Maßnahmen im Schulrecht Länder."
+description: "Prüft Unterrichtsausschluss und vorläufige Maßnahmen im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Unterrichtsausschluss

@@ -1,6 +1,6 @@
 # berichtspflichten-erlediger
 
-**57 Skills** · Stand `v390.0.0`
+**57 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berichtspflichten-erlediger/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md" download>berichtspflichten-erlediger-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berichtspflichten-erlediger/berichtspflichten-erlediger-schnellstart.md" download>berichtspflichten-erlediger-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [berichtspflichten-erlediger-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [berichtspflichten-erlediger-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berichtspflichten-erlediger/berichtspflichten-erlediger-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [berichtspflichten-erlediger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berichtspflichten-erlediger.zip) |
 

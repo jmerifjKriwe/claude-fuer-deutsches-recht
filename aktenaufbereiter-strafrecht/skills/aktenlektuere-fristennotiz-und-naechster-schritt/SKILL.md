@@ -1,6 +1,6 @@
 ---
 name: aktenlektuere-fristennotiz-und-naechster-schritt
-description: "Aktenlektuere: Fristennotiz und nächster Schritt."
+description: "Aktenlektuere: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aktenlektuere: Fristennotiz und nächster Schritt

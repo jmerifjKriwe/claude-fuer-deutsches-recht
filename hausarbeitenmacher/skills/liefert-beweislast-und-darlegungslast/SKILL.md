@@ -1,6 +1,6 @@
 ---
 name: liefert-beweislast-und-darlegungslast
-description: "Liefert: Beweislast, Darlegungslast und Substantiierung im Hausarbeitenmacher."
+description: "Liefert: Beweislast, Darlegungslast und Substantiierung im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Liefert: Beweislast, Darlegungslast und Substantiierung

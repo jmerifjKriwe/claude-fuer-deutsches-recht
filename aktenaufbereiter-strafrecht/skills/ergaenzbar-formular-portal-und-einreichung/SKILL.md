@@ -1,6 +1,6 @@
 ---
 name: ergaenzbar-formular-portal-und-einreichung
-description: "Ergaenzbar: Formular, Portal und Einreichungslogik."
+description: "Ergaenzbar: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Ergaenzbar: Formular, Portal und Einreichungslogik

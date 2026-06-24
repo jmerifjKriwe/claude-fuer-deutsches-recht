@@ -1,6 +1,6 @@
 ---
 name: daten-red-team-und-qualitaetskontrolle
-description: "Daten: Red-Team und Qualitätskontrolle."
+description: "Daten: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Daten: Red-Team und Qualitätskontrolle

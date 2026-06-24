@@ -1,6 +1,6 @@
 # einfache-leichte-sprache-jura
 
-**87 Skills** · Stand `v390.0.0`
+**87 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/einfache-leichte-sprache-jura/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md" download>einfache-leichte-sprache-jura-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-schnellstart.md" download>einfache-leichte-sprache-jura-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [einfache-leichte-sprache-jura-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [einfache-leichte-sprache-jura-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [einfache-leichte-sprache-jura.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura.zip) |
 

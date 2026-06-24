@@ -1,6 +1,6 @@
 ---
 name: verleumdung-verhandlung-vergleich-und-eskalation
-description: "Verleumdung: Verhandlung, Vergleich und Eskalation im Meinungspruefer."
+description: "Verleumdung: Verhandlung, Vergleich und Eskalation im Meinungspruefer. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verleumdung: Verhandlung, Vergleich und Eskalation

@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Unternehmen und pharmazeutische Produktbezeichnungen sind anonymisiert oder fiktiv. Die Akte gehört fachlich zum Plugin `fachanwalt-transport-speditionsrecht`.
+Arbeitsakte zum Plugin `fachanwalt-transport-speditionsrecht`.
 
 ---
 

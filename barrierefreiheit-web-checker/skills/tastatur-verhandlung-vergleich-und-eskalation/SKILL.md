@@ -1,6 +1,6 @@
 ---
 name: tastatur-verhandlung-vergleich-und-eskalation
-description: "Tastatur: Verhandlung, Vergleich und Eskalation."
+description: "Tastatur: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Tastatur: Verhandlung, Vergleich und Eskalation

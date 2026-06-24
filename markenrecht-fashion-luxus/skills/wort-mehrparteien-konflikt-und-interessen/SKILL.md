@@ -1,6 +1,6 @@
 ---
 name: wort-mehrparteien-konflikt-und-interessen
-description: "Wort: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wort: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wort: Mehrparteienkonflikt und Interessenmatrix

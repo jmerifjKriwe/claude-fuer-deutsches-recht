@@ -1,6 +1,6 @@
 ---
 name: fertigen-sonderfall-und-edge-case
-description: "Fertigen: Sonderfall und Edge-Case-Prüfung im Hausarbeitenmacher."
+description: "Fertigen: Sonderfall und Edge-Case-Prüfung im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fertigen: Sonderfall und Edge-Case-Prüfung

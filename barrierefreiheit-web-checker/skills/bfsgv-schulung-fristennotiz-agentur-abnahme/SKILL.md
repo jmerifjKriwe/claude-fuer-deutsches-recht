@@ -1,6 +1,6 @@
 ---
 name: bfsgv-schulung-fristennotiz-agentur-abnahme
-description: "Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg

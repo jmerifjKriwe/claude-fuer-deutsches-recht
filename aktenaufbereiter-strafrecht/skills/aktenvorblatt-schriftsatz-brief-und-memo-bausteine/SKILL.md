@@ -1,6 +1,6 @@
 ---
 name: aktenvorblatt-schriftsatz-brief-und-memo-bausteine
-description: "Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine

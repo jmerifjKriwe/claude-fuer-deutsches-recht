@@ -1,6 +1,6 @@
 ---
 name: aenderungs-formular-portal-und-einreichung
-description: "Änderungs: Formular, Portal und Einreichungslogik."
+description: "Änderungs: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Änderungs: Formular, Portal und Einreichungslogik

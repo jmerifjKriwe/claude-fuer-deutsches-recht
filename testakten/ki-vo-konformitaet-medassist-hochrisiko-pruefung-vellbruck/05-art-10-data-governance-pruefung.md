@@ -9,7 +9,7 @@
 
 ## 1. Anforderungen Art. 10 KI-VO
 
-Art. 10 KI-VO normiert für Hochrisiko-KI-Systeme qualitative Mindeststandards für Trainings-, Validierungs- und Testdatensätze:
+Art. 10 KI-VO normiert für Hochrisiko-KI-Systeme qualitative Mindeststandards für Trainings-, Validierungs- und Prüfdatensätzesätze:
 
 - Geeignete Datenverwaltungspraktiken (Art. 10 Abs. 1)
 - Kriterien für Datenselektion, Datenerhebungsmethoden und -verfahren (Art. 10 Abs. 2 lit. a–c)
@@ -68,7 +68,7 @@ Art. 10 KI-VO normiert für Hochrisiko-KI-Systeme qualitative Mindeststandards f
 
 ## 3. Bias-Prüfung (Art. 10 Abs. 2 lit. g)
 
-Art. 10 Abs. 2 lit. g KI-VO verlangt die Überprüfung von Trainings-, Validierungs- und Testdaten auf mögliche Bias, die zu diskriminierenden Ausgaben führen können, insbesondere in Bezug auf Merkmale nach Art. 14 GRCh (u.a. Geschlecht, Alter, ethnische Herkunft).
+Art. 10 Abs. 2 lit. g KI-VO verlangt die Überprüfung von Trainings-, Validierungs- und Prüfdatensätze auf mögliche Bias, die zu diskriminierenden Ausgaben führen können, insbesondere in Bezug auf Merkmale nach Art. 14 GRCh (u.a. Geschlecht, Alter, ethnische Herkunft).
 
 **Feststellung:** Der Mandant hat keine Bias-Prüfung durchgeführt. CTO Krishnamurthy bestätigte im Gespräch vom 18.03.2026, dass entsprechende Analysen „geplant, aber noch nicht umgesetzt" seien.
 

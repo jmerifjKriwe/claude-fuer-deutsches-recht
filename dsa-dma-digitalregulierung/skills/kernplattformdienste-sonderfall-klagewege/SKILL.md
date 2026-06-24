@@ -1,6 +1,6 @@
 ---
 name: kernplattformdienste-sonderfall-klagewege
-description: "Kernplattformdienste: Sonderfall und Edge-Case-Prüfung."
+description: "Kernplattformdienste: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kernplattformdienste: Sonderfall und Edge-Case-Prüfung

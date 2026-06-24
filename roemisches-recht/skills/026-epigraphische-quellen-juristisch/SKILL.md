@@ -1,6 +1,6 @@
 ---
 name: 026-epigraphische-quellen-juristisch
-description: "Römisches Recht: Epigraphische Quellen juristisch auswerten im Römisches Recht."
+description: "Römisches Recht: Epigraphische Quellen juristisch auswerten im Römisches Recht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rom Epigraphische Quellen Juristisch Auswerten

@@ -1,6 +1,6 @@
 ---
 name: hammerschlagsrecht-hecke-immissionen
-description: "Hammerschlagsrecht: Formular, Portal und Einreichungslogik."
+description: "Hammerschlagsrecht: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hammerschlagsrecht: Formular, Portal und Einreichungslogik

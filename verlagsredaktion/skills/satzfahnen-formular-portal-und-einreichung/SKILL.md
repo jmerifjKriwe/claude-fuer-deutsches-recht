@@ -1,6 +1,6 @@
 ---
 name: satzfahnen-formular-portal-und-einreichung
-description: "Satzfahnen: Formular, Portal und Einreichungslogik im Verlagsredaktion."
+description: "Satzfahnen: Formular, Portal und Einreichungslogik im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Satzfahnen: Formular, Portal und Einreichungslogik

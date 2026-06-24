@@ -1,6 +1,6 @@
 ---
 name: word-stil-ton
-description: "Word: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Word: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Word: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: sortiert-stempelt-word
-description: "Schriftsatz: Verhandlung, Vergleich und Eskalation."
+description: "Schriftsatz: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schriftsatz: Verhandlung, Vergleich und Eskalation

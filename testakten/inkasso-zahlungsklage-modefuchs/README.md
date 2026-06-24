@@ -37,7 +37,7 @@ Der Prüffokus ist absichtlich scharf: Der Klagegenerator muss erkennen, dass di
 
 | Datei | Zweck |
 | --- | --- |
-| `originale/` | PDF-Originalunterlagen der Beispielakte (28 Dokumente). |
+| `originale/` | PDF-Originalunterlagen der Arbeitsakte (28 Dokumente). |
 | `00_aktenuebersicht.md` | Sachverhalt und Dokumentenlandkarte. |
 | `01_forderungsdaten_modefuchs.json` | Strukturierte Kerndaten. |
 | `02_mahnlauf_modefuchs.csv` | Mahn- und Zahlungschronologie. |

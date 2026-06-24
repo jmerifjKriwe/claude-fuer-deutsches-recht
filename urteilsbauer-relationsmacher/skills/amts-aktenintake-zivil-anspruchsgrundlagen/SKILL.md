@@ -1,6 +1,6 @@
 ---
 name: amts-aktenintake-zivil-anspruchsgrundlagen
-description: "Amts: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Amts: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Amts: Fristen, Form, Zuständigkeit und Rechtsweg

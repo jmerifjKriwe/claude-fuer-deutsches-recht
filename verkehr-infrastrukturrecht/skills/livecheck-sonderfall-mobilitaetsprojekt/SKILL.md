@@ -1,6 +1,6 @@
 ---
 name: livecheck-sonderfall-mobilitaetsprojekt
-description: "Livecheck: Sonderfall und Edge-Case-Prüfung."
+description: "Livecheck: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung

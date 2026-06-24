@@ -1,6 +1,6 @@
 ---
 name: call-interessen-faelle-freistehender
-description: "Call: Mehrparteienkonflikt und Interessenmatrix."
+description: "Call: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Call: Mehrparteienkonflikt und Interessenmatrix

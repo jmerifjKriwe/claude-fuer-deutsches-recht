@@ -1,6 +1,6 @@
 ---
 name: arbeit-schriftsatz-brief-und-memo-bausteine
-description: "Arbeit: Schriftsatz-, Brief- und Memo-Bausteine im Zwangsvollstreckung."
+description: "Arbeit: Schriftsatz-, Brief- und Memo-Bausteine im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Arbeit: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: hinweisen-kanzleien-pflegt
-description: "Hinweisen: Formular, Portal und Einreichungslogik."
+description: "Hinweisen: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hinweisen: Formular, Portal und Einreichungslogik

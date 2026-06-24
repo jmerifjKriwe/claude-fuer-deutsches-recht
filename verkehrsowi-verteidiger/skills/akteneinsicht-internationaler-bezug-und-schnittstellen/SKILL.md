@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-internationaler-bezug-und-schnittstellen
-description: "Akteneinsicht: Internationaler Bezug und Schnittstellen."
+description: "Akteneinsicht: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Akteneinsicht: Internationaler Bezug und Schnittstellen

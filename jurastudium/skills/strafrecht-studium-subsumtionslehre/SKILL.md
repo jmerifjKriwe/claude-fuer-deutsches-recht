@@ -1,6 +1,6 @@
 ---
 name: strafrecht-studium-subsumtionslehre
-description: "Strafrecht: Verhandlung, Vergleich und Eskalation im Jurastudium."
+description: "Strafrecht: Verhandlung, Vergleich und Eskalation im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strafrecht: Verhandlung, Vergleich und Eskalation

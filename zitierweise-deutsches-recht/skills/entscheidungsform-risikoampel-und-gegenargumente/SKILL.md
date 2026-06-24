@@ -1,6 +1,6 @@
 ---
 name: entscheidungsform-risikoampel-und-gegenargumente
-description: "Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien

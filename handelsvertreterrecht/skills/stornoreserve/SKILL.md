@@ -1,6 +1,6 @@
 ---
 name: stornoreserve
-description: "Prüft Stornoreserve, Rückbelastung und Nichtausführung."
+description: "Prüft Stornoreserve, Rückbelastung und Nichtausführung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Stornoreserve

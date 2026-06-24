@@ -1,6 +1,6 @@
 ---
 name: false-fristen-form-und-zustaendigkeit
-description: "False: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "False: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # False: Fristen, Form, Zuständigkeit und Rechtsweg

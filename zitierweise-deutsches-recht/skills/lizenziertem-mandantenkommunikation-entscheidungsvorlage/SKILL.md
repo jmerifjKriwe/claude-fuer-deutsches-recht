@@ -1,6 +1,6 @@
 ---
 name: lizenziertem-mandantenkommunikation-entscheidungsvorlage
-description: "Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage

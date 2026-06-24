@@ -1,6 +1,6 @@
 ---
 name: liquiditaet-patronatserklaerung-interessen
-description: "Liquiditaet: Zahlen, Schwellenwerte und Berechnung im Fortbestehensprognose."
+description: "Liquiditaet: Zahlen, Schwellenwerte und Berechnung im Fortbestehensprognose. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Liquiditaet: Zahlen, Schwellenwerte und Berechnung

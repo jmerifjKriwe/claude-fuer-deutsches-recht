@@ -1,6 +1,6 @@
 ---
 name: denkfehler-fristen-form-und-zustaendigkeit
-description: "Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg

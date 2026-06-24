@@ -1,6 +1,6 @@
 ---
 name: prozessordnungen-textform-verifikation
-description: "Prozessordnungen: Behörden-, Gerichts- oder Registerweg."
+description: "Prozessordnungen: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Prozessordnungen: Behörden-, Gerichts- oder Registerweg

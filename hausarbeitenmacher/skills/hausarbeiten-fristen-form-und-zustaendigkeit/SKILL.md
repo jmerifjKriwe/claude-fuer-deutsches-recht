@@ -1,6 +1,6 @@
 ---
 name: hausarbeiten-fristen-form-und-zustaendigkeit
-description: "Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Hausarbeitenmacher."
+description: "Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg

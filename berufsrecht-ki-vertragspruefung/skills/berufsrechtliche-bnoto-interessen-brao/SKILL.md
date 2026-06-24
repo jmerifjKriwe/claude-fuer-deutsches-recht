@@ -1,6 +1,6 @@
 ---
 name: berufsrechtliche-bnoto-interessen-brao
-description: "Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

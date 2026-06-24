@@ -1,6 +1,6 @@
 {
   "name": "verbraucherschutzverband-durchsetzung",
-  "version": "391.0.0",
+  "version": "392.0.0",
   "description": "Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte.",
   "keywords": [
     "verbraucherschutzverband",
@@ -18,6 +18,7 @@
   ],
   "license": "Apache-2.0 OR MIT",
   "author": {
-    "name": "Klotzkette"
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
   }
 }

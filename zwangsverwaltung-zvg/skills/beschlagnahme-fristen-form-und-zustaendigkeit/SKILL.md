@@ -1,6 +1,6 @@
 ---
 name: beschlagnahme-fristen-form-und-zustaendigkeit
-description: "Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg

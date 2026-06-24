@@ -1,6 +1,6 @@
 # Testakte: Arbeitszeugnis-Analyse — aus dem blühenden Leben
 
-Diese Akte begleitet den Skill [`arbeitszeugnisgenerator`](../../README.md) als Trainings- und Demonstrationsmaterial. Sie enthält zehn Arbeitszeugnisse aus zehn verschiedenen Branchen und Berufen, jeweils ein bis zwei Seiten lang, alle formal freundlich und im üblichen Wohlwollens-Stil verfasst. Alle Personen, Firmen und Adressen sind frei erfunden.
+Diese Aktenmappe begleitet das Plugin [`arbeitszeugnisgenerator`](../../README.md) mit zehn Arbeitszeugnissen aus verschiedenen Branchen und Berufen. Die Unterlagen sind formal freundlich, im üblichen Wohlwollens-Stil verfasst und enthalten bewusst unterschiedliche Noten- und Signalebenen.
 
 ## Akte komplett lesen
 
@@ -54,5 +54,5 @@ Alle Zeugnisse enthalten:
 ## Technisches und Datenschutz
 
 - Format der Zeugnisse: PDF, A4, deutsche Typographie mit Anführungszeichen „…", Halbgeviertstrich und korrekt gesetzten Umlauten
-- Alle Personen, Firmen, Adressen, Telefon-, Fax- und Steuernummern sind frei erfunden; Übereinstimmungen mit realen Personen oder Unternehmen sind unbeabsichtigt
-- Die Akte ist als Trainings- und Demonstrationsmaterial gedacht und ersetzt keine rechtliche Beratung
+- Personen, Firmen, Adressen, Telefon-, Fax- und Steuernummern sind als geschlossene Übungsakte konsistent geführt
+- Die Aktenmappe ist für die strukturierte Zeugnisarbeit vorbereitet und ersetzt keine rechtliche Prüfung im Mandat

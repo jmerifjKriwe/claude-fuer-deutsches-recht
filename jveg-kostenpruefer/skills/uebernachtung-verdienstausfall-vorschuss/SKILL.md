@@ -1,6 +1,6 @@
 ---
 name: uebernachtung-verdienstausfall-vorschuss
-description: "Uebernachtung: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Uebernachtung: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Uebernachtung: Schriftsatz-, Brief- und Memo-Bausteine

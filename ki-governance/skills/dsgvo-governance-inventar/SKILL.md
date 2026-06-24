@@ -1,6 +1,6 @@
 ---
 name: dsgvo-governance-inventar
-description: "DSGVO: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "DSGVO: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: zugang-risikoampel-und-gegenargumente
-description: "Zugang: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Zugang: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zugang: Risikoampel, Gegenargumente und Verteidigungslinien

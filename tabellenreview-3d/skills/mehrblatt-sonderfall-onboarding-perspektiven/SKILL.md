@@ -1,6 +1,6 @@
 ---
 name: mehrblatt-sonderfall-onboarding-perspektiven
-description: "Mehrblatt: Sonderfall und Edge-Case-Prüfung."
+description: "Mehrblatt: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mehrblatt: Sonderfall und Edge-Case-Prüfung

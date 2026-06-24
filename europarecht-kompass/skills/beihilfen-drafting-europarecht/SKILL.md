@@ -1,6 +1,6 @@
 ---
 name: beihilfen-drafting-europarecht
-description: "Beihilfen: Compliance-Dokumentation und Aktenvermerk."
+description: "Beihilfen: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Beihilfen: Compliance-Dokumentation und Aktenvermerk

@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Gesellschaften und Produkte sind fiktiv und dienen ausschließlich Testzwecken. Die Akte gehört fachlich zum Plugin `gewerblicher-rechtsschutz`.
+Arbeitsakte zum Plugin `gewerblicher-rechtsschutz`.
 
 ---
 

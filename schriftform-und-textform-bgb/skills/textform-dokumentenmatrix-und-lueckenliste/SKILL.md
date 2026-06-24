@@ -1,6 +1,6 @@
 ---
 name: textform-dokumentenmatrix-und-lueckenliste
-description: "Textform: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Textform: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Textform: Dokumentenmatrix, Lückenliste und Nachforderung

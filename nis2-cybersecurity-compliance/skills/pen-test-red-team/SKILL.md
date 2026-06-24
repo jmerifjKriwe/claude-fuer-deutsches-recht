@@ -1,6 +1,6 @@
 ---
 name: pen-test-red-team
-description: "Prüft Pentest- und Red-Team-Programme rechtlich und technisch."
+description: "Prüft Pentest- und Red-Team-Programme rechtlich und technisch. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Pen Test Red Team

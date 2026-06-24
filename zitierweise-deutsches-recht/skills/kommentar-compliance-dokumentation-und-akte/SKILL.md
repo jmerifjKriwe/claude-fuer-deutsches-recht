@@ -1,6 +1,6 @@
 ---
 name: kommentar-compliance-dokumentation-und-akte
-description: "Kommentar: Compliance-Dokumentation und Aktenvermerk."
+description: "Kommentar: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kommentar: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 # verbraucherschutzverband-durchsetzung
 
-**120 Skills** · Stand `v390.0.0`
+**120 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verbraucherschutzverband-durchsetzung/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md" download>verbraucherschutzverband-durchsetzung-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-schnellstart.md" download>verbraucherschutzverband-durchsetzung-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [verbraucherschutzverband-durchsetzung-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [verbraucherschutzverband-durchsetzung-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [verbraucherschutzverband-durchsetzung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherschutzverband-durchsetzung.zip) |
 

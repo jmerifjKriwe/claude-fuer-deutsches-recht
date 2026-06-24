@@ -1,6 +1,6 @@
 ---
 name: security-installation
-description: "Security: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Security: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Security: Dokumentenmatrix, Lückenliste und Nachforderung

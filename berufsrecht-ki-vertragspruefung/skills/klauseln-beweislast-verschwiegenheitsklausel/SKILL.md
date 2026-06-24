@@ -1,6 +1,6 @@
 ---
 name: klauseln-beweislast-verschwiegenheitsklausel
-description: "Klauseln: Beweislast, Darlegungslast und Substantiierung."
+description: "Klauseln: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Klauseln: Beweislast, Darlegungslast und Substantiierung

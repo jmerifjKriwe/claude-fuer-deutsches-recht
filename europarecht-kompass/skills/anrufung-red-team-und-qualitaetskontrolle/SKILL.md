@@ -1,6 +1,6 @@
 ---
 name: anrufung-red-team-und-qualitaetskontrolle
-description: "Anrufung: Red-Team und Qualitätskontrolle."
+description: "Anrufung: Red-Team und Qualitätskontrolle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anrufung: Red-Team und Qualitätskontrolle

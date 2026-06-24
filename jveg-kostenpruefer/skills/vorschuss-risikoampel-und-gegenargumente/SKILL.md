@@ -1,6 +1,6 @@
 ---
 name: vorschuss-risikoampel-und-gegenargumente
-description: "Vorschuss: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Vorschuss: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vorschuss: Risikoampel, Gegenargumente und Verteidigungslinien

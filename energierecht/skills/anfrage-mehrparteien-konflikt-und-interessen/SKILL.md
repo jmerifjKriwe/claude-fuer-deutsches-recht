@@ -1,6 +1,6 @@
 ---
 name: anfrage-mehrparteien-konflikt-und-interessen
-description: "Anfrage: Mehrparteienkonflikt und Interessenmatrix im Energierecht."
+description: "Anfrage: Mehrparteienkonflikt und Interessenmatrix im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anfrage: Mehrparteienkonflikt und Interessenmatrix

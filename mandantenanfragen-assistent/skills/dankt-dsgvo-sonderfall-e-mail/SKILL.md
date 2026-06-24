@@ -1,6 +1,6 @@
 ---
 name: dankt-dsgvo-sonderfall-e-mail
-description: "Dankt: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Dankt: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dankt: Risikoampel, Gegenargumente und Verteidigungslinien

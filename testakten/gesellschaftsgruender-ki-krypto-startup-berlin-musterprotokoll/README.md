@@ -70,4 +70,4 @@ Die Akte ist keine glatte Abwicklung, sondern bildet einen realistischen Entsche
 
 ## Quellen und Rechtsstand
 
-Stand: Juni 2026. Verweise auf GmbHG, BGB, HGB, GwG, MoPeG-Folgewirkung auf GmbH-Geschäftsführer, KI-Verordnung (Verordnung (EU) 2024/1689), MiCAR (Verordnung (EU) 2023/1114). Alle Personen und Unternehmen sind frei erfunden.
+Stand: Juni 2026. Verweise auf GmbHG, BGB, HGB, GwG, MoPeG-Folgewirkung auf GmbH-Geschäftsführer, KI-Verordnung (Verordnung (EU) 2024/1689), MiCAR (Verordnung (EU) 2023/1114). Alle Personen und Unternehmen sind aus den Aktenunterlagen abgeleitet.

@@ -1,6 +1,6 @@
 ---
 name: data-digitalregulierung-dora
-description: "Data: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Data: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Data: Dokumentenmatrix, Lückenliste und Nachforderung

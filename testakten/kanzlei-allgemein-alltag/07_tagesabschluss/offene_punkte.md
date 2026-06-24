@@ -133,4 +133,4 @@ Alle offenen Punkte A–E stehen auf der Agenda. Teilnehmer: Jana Reuter, Mara K
 
 ---
 
-*Tagesabschluss 20.05.2026 — Kanzlei Jana Reuter, Lindenstraße 14, 10969 Berlin. Testdaten.*
+*Tagesabschluss 20.05.2026 — Kanzlei Jana Reuter, Lindenstraße 14, 10969 Berlin. Aktenstand.*

@@ -1,6 +1,6 @@
 ---
 name: land-rechtspfleger-relation
-description: "Land: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Land: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Land: Dokumentenmatrix, Lückenliste und Nachforderung

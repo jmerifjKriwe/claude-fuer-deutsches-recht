@@ -1,6 +1,6 @@
 ---
 name: anfaenger-antraege-dfg
-description: "Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: speak-up-kultur
-description: "Baut Speak-up-Kultur ohne Compliance-Theater im Hinweisgeberschutz Compliance."
+description: "Baut Speak-up-Kultur ohne Compliance-Theater im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Speak Up Kultur

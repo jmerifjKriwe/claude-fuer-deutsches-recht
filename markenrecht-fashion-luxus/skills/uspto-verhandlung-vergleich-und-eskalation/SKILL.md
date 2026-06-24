@@ -1,6 +1,6 @@
 ---
 name: uspto-verhandlung-vergleich-und-eskalation
-description: "USPTO: Verhandlung, Vergleich und Eskalation."
+description: "USPTO: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # USPTO: Verhandlung, Vergleich und Eskalation

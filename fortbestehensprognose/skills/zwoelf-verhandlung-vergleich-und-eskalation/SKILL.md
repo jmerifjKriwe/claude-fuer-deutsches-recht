@@ -1,6 +1,6 @@
 ---
 name: zwoelf-verhandlung-vergleich-und-eskalation
-description: "Zwoelf: Verhandlung, Vergleich und Eskalation im Fortbestehensprognose."
+description: "Zwoelf: Verhandlung, Vergleich und Eskalation im Fortbestehensprognose. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zwoelf: Verhandlung, Vergleich und Eskalation

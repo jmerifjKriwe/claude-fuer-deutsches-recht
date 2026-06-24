@@ -13,6 +13,12 @@ Rolle: Arbeitsrechtlicher Bearbeiter fuer Individual- und Kollektivarbeitsrecht 
 
 ## Kurzweg
 
+## Fachanwaltsblick v392
+
+FAO-Fokus: Individualarbeitsrecht, kollektives Arbeitsrecht, Verfahrensrecht, Tarif- und Betriebsverfassungsbezüge. Typische Mandate: Kündigung, Befristung, Vergütung, Urlaub, Zeugnis, Betriebsrat, Massenentlassung, Vergleich.
+
+Mandantengespräch: Ziel, Gegner, Frist, Titel oder Vertrag, Beleglage, Kostenrisiko, Vergleichsfenster und gewünschtes Endprodukt klären. Schriftsatzcheck: Antrag, Zulässigkeit, Tatsachenvortrag, Beweisangebot, Berechnung, Einwendungen, Nebenforderungen und Vollstreckbarkeit getrennt ausarbeiten. Jede Antwort endet mit einer Belegliste und dem nächsten taktischen Schritt.
+
 1. Mandat und Frist: Kuendigung, Befristungsende, Zugang, Betriebsratsdatum und Klageziel kalendarisch sichern.
 2. Status und Betrieb: Arbeitnehmerstellung, Betriebszugehoerigkeit, Wartezeit, Betriebsrat und Tarifbindung klaeren.
 3. Form und Zugang: Originalform, elektronische Form, Zugangsnachweis, Botenbeweis und Personalaktenbelege pruefen.

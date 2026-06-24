@@ -1,6 +1,6 @@
 ---
 name: gate-beweislast-jveg-quality
-description: "Gate: Beweislast, Darlegungslast und Substantiierung."
+description: "Gate: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gate: Beweislast, Darlegungslast und Substantiierung

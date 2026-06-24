@@ -1,6 +1,6 @@
 ---
 name: rechtecheck-verhandlung-vergleich-und-eskalation
-description: "Rechtecheck: Verhandlung, Vergleich und Eskalation im Verlagsredaktion."
+description: "Rechtecheck: Verhandlung, Vergleich und Eskalation im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rechtecheck: Verhandlung, Vergleich und Eskalation

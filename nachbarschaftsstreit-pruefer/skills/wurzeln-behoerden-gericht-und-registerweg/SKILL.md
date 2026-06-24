@@ -1,6 +1,6 @@
 ---
 name: wurzeln-behoerden-gericht-und-registerweg
-description: "Wurzeln: Behörden-, Gerichts- oder Registerweg."
+description: "Wurzeln: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wurzeln: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: oertlichen-risikoampel-und-gegenargumente
-description: "Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien

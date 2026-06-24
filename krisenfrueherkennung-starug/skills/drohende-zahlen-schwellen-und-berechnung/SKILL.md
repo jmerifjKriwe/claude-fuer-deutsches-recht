@@ -1,6 +1,6 @@
 ---
 name: drohende-zahlen-schwellen-und-berechnung
-description: "Drohende: Zahlen, Schwellenwerte und Berechnung."
+description: "Drohende: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Drohende: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: deal-beweislast-einspruch
-description: "Deal: Beweislast, Darlegungslast und Substantiierung."
+description: "Deal: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Deal: Beweislast, Darlegungslast und Substantiierung

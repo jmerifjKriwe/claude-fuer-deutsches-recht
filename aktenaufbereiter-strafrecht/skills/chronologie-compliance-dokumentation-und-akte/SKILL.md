@@ -1,6 +1,6 @@
 ---
 name: chronologie-compliance-dokumentation-und-akte
-description: "Chronologie: Compliance-Dokumentation und Aktenvermerk."
+description: "Chronologie: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Chronologie: Compliance-Dokumentation und Aktenvermerk

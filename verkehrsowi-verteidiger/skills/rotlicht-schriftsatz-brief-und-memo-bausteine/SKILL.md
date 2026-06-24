@@ -1,6 +1,6 @@
 ---
 name: rotlicht-schriftsatz-brief-und-memo-bausteine
-description: "Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine

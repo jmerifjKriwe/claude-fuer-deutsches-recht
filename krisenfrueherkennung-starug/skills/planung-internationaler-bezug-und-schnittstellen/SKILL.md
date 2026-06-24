@@ -1,6 +1,6 @@
 ---
 name: planung-internationaler-bezug-und-schnittstellen
-description: "Planung: Internationaler Bezug und Schnittstellen."
+description: "Planung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Planung: Internationaler Bezug und Schnittstellen

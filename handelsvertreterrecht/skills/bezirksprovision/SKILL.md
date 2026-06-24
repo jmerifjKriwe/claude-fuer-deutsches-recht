@@ -1,6 +1,6 @@
 ---
 name: bezirksprovision
-description: "Prüft Bezirksprovision bei Direkt- und Onlinegeschäften."
+description: "Prüft Bezirksprovision bei Direkt- und Onlinegeschäften. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bezirksprovision

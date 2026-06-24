@@ -1,6 +1,6 @@
 ---
 name: praesumtion-red-team-und-qualitaetskontrolle
-description: "Praesumtion: Red-Team und Qualitätskontrolle im Energierecht."
+description: "Praesumtion: Red-Team und Qualitätskontrolle im Energierecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Praesumtion: Red-Team und Qualitätskontrolle

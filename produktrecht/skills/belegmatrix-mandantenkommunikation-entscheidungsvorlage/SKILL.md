@@ -1,6 +1,6 @@
 ---
 name: belegmatrix-mandantenkommunikation-entscheidungsvorlage
-description: "Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage im Produktrecht."
+description: "Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage

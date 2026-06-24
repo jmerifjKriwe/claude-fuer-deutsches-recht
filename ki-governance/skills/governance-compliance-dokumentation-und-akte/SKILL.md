@@ -1,6 +1,6 @@
 ---
 name: governance-compliance-dokumentation-und-akte
-description: "Governance: Compliance-Dokumentation und Aktenvermerk."
+description: "Governance: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Governance: Compliance-Dokumentation und Aktenvermerk

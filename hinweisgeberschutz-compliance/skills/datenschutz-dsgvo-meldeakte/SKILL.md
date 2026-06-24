@@ -1,6 +1,6 @@
 ---
 name: datenschutz-dsgvo-meldeakte
-description: "Baut Datenschutzkonzept für die Meldeakte im Hinweisgeberschutz Compliance."
+description: "Baut Datenschutzkonzept für die Meldeakte im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Datenschutz DSGVO Meldeakte

@@ -1,6 +1,6 @@
 ---
 name: kennzahlenset-mandantenentscheidung
-description: "Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage

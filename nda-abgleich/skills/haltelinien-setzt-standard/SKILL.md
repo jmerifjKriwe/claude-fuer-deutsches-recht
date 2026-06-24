@@ -1,6 +1,6 @@
 ---
 name: haltelinien-setzt-standard
-description: "Haltelinien: Verhandlung, Vergleich und Eskalation."
+description: "Haltelinien: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Haltelinien: Verhandlung, Vergleich und Eskalation

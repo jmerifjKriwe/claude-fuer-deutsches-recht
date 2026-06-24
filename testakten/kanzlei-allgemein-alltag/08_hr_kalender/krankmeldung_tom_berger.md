@@ -87,4 +87,4 @@ EFZ-Stunden (über U1 zu erstatten): 4 h
 
 ---
 
-*Aktenvermerk HR-2026-0012 — Erstellt: 20.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Testdaten.*
+*Aktenvermerk HR-2026-0012 — Erstellt: 20.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Aktenstand.*

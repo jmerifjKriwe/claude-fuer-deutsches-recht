@@ -1,6 +1,6 @@
 # verlagsrecht-buchpreisbindung
 
-**100 Skills** · Stand `v390.0.0`
+**100 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verlagsrecht-buchpreisbindung/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-werkstatt.md" download>verlagsrecht-buchpreisbindung-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-schnellstart.md" download>verlagsrecht-buchpreisbindung-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [verlagsrecht-buchpreisbindung-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [verlagsrecht-buchpreisbindung-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [verlagsrecht-buchpreisbindung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verlagsrecht-buchpreisbindung.zip) |
 

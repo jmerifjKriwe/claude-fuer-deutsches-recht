@@ -1,6 +1,6 @@
 ---
 name: einzelabrufe-sonderfall-und-edge-case
-description: "Einzelabrufe: Sonderfall und Edge-Case-Prüfung im Vertragsrecht."
+description: "Einzelabrufe: Sonderfall und Edge-Case-Prüfung im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einzelabrufe: Sonderfall und Edge-Case-Prüfung

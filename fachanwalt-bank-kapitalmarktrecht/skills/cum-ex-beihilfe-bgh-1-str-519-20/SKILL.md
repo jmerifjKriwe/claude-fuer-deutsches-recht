@@ -1,6 +1,6 @@
 ---
 name: cum-ex-beihilfe-bgh-1-str-519-20
-description: "Cum-Ex Phantom-Verluste Beihilfe Paragraf 263 StGB und BGH 1 StR 519/20."
+description: "Cum-Ex Phantom-Verluste Beihilfe Paragraf 263 StGB und BGH 1 StR 519/20. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Cum Ex Beihilfe BGH 1 Str 519 20

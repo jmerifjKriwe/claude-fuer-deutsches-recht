@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-pruefungsrecht
-description: "Prüft Vergleichslösungen im Prüfungsrecht."
+description: "Prüft Vergleichslösungen im Prüfungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vergleich Und Pruefungsrecht

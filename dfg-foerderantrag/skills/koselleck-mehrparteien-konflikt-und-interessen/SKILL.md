@@ -1,6 +1,6 @@
 ---
 name: koselleck-mehrparteien-konflikt-und-interessen
-description: "Koselleck: Mehrparteienkonflikt und Interessenmatrix."
+description: "Koselleck: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Koselleck: Mehrparteienkonflikt und Interessenmatrix

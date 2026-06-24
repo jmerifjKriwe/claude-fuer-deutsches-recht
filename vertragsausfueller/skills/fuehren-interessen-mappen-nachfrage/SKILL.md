@@ -1,6 +1,6 @@
 ---
 name: fuehren-interessen-mappen-nachfrage
-description: "Fuehren: Mehrparteienkonflikt und Interessenmatrix im Vertragsausfueller."
+description: "Fuehren: Mehrparteienkonflikt und Interessenmatrix im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fuehren: Mehrparteienkonflikt und Interessenmatrix

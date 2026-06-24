@@ -1,6 +1,6 @@
 ---
 name: antraege-zahlen-schwellen-und-berechnung
-description: "Antraege: Zahlen, Schwellenwerte und Berechnung."
+description: "Antraege: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Antraege: Zahlen, Schwellenwerte und Berechnung

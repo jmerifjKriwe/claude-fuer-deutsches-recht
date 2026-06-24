@@ -1,6 +1,6 @@
 ---
 name: checklisten-schriftsatz-brief-und-memo-bausteine
-description: "Checklisten: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Checklisten: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Checklisten: Schriftsatz-, Brief- und Memo-Bausteine

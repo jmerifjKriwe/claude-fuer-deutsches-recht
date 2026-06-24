@@ -1,6 +1,6 @@
 ---
 name: personenverzeichnis-verhandlung-vergleich-und-eskalation
-description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation."
+description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Personenverzeichnis: Verhandlung, Vergleich und Eskalation

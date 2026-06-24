@@ -1,6 +1,6 @@
 ---
 name: lernstrategien-livecheck-sonderfall
-description: "Lernstrategien: Compliance-Dokumentation und Aktenvermerk im Jurastudium."
+description: "Lernstrategien: Compliance-Dokumentation und Aktenvermerk im Jurastudium. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Lernstrategien: Compliance-Dokumentation und Aktenvermerk

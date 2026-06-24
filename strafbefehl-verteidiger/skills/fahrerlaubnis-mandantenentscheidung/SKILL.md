@@ -1,6 +1,6 @@
 ---
 name: fahrerlaubnis-mandantenentscheidung
-description: "Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage

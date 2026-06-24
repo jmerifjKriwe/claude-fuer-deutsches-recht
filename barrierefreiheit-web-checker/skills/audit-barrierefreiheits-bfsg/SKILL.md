@@ -1,6 +1,6 @@
 ---
 name: audit-barrierefreiheits-bfsg
-description: "Audit: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Audit: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Audit: Schriftsatz-, Brief- und Memo-Bausteine

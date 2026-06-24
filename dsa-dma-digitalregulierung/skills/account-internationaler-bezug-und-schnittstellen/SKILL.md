@@ -1,6 +1,6 @@
 ---
 name: account-internationaler-bezug-und-schnittstellen
-description: "Account: Internationaler Bezug und Schnittstellen."
+description: "Account: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Account: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: vorfall-fristen-form-und-zustaendigkeit
-description: "Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg

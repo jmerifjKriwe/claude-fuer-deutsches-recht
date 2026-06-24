@@ -1,6 +1,6 @@
 ---
 name: rechtspfleger-behoerden-gericht-und-registerweg
-description: "Rechtspfleger: Behörden-, Gerichts- oder Registerweg."
+description: "Rechtspfleger: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rechtspfleger: Behörden-, Gerichts- oder Registerweg

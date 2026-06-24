@@ -15,7 +15,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen, Institute und Unternehmen sind fiktiv. Die Akte gehört fachlich zum Plugin `regulatorisches-recht`.
+Arbeitsakte zum Plugin `regulatorisches-recht`.
 
 ---
 
@@ -149,6 +149,6 @@ Mitarbeiter: **Dr. Petra Glock-Meinhard** (BaFin-Verfahren), **RA Tobias Freytag
 
 ## Rechtliche Hinweise
 
-Alle in dieser Akte genannten Personen, Institute, Transaktionen und Verfahren sind vollständig fiktiv und dienen ausschließlich der Demonstration des Plugins `regulatorisches-recht`. Keine Aussage über reale Sachverhalte.
+Aktenvermerk: Die Personen-, Instituts-, Transaktions- und Verfahrensangaben sind als Aktenbestand zu prüfen.
 
 **Relevante Rechtsquellen:** KWG §§ 1, 6, 24c, 25, 32; GwG §§ 4-12, 43; MaRisk BA 2024; BAIT 2024; MiCAR VO (EU) 2023/1114; MAR VO (EU) 596/2014; StGB §§ 261, 263; KAGB; dejure.org, bundesgerichtshof.de, bafin.de.

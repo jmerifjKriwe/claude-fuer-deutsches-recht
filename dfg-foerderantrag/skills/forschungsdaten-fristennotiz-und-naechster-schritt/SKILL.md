@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-fristennotiz-und-naechster-schritt
-description: "Forschungsdaten: Fristennotiz und nächster Schritt."
+description: "Forschungsdaten: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Forschungsdaten: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: umwelt-umweltrecht-umwrg
-description: "Umwelt: Zahlen, Schwellenwerte und Berechnung im Umweltrecht."
+description: "Umwelt: Zahlen, Schwellenwerte und Berechnung im Umweltrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Umwelt: Zahlen, Schwellenwerte und Berechnung

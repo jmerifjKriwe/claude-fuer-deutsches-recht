@@ -1,6 +1,6 @@
 ---
 name: sexualerziehung-und-elterninformation
-description: "Prüft Sexualerziehung und Elterninformation im Schulrecht Länder."
+description: "Prüft Sexualerziehung und Elterninformation im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sexualerziehung Und Elterninformation

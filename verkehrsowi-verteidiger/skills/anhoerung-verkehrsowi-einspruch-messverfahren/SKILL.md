@@ -1,6 +1,6 @@
 ---
 name: anhoerung-verkehrsowi-einspruch-messverfahren
-description: "Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: privaten-rueckfragebrief
-description: "Privaten: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Privaten: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Privaten: Risikoampel, Gegenargumente und Verteidigungslinien

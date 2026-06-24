@@ -1,6 +1,6 @@
 ---
 name: redteam-pruefungsrecht-qualitygate
-description: "Finaler Qualitätscheck für Prüfungsrechtsausgaben."
+description: "Finaler Qualitätscheck für Prüfungsrechtsausgaben. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Redteam Prüfungsrecht Qualitygate

@@ -1,6 +1,6 @@
 ---
 name: referenten-vorlagen-interessen-synopse
-description: "Referenten: Zahlen, Schwellenwerte und Berechnung."
+description: "Referenten: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Referenten: Zahlen, Schwellenwerte und Berechnung

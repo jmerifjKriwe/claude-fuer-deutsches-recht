@@ -1,6 +1,6 @@
 ---
 name: german-agb-konforme
-description: "German: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "German: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # German: Fristen, Form, Zuständigkeit und Rechtsweg

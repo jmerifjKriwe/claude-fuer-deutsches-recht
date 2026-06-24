@@ -1,6 +1,6 @@
 ---
 name: erstantwort-foermlich-mail
-description: "Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage

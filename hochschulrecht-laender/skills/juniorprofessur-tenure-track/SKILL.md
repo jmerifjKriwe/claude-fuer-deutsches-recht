@@ -1,6 +1,6 @@
 ---
 name: juniorprofessur-tenure-track
-description: "Prüft Juniorprofessur und Tenure Track im Hochschulrecht Länder."
+description: "Prüft Juniorprofessur und Tenure Track im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Juniorprofessur Tenure Track

@@ -1,6 +1,6 @@
 ---
 name: homeoffice-kontrollrecht-paragraf-106-gewo-lag-rheinland-pfalz
-description: "Homeoffice Kontrollrecht Arbeitgeber Paragraf 106 GewO und Art 8 EMRK."
+description: "Homeoffice Kontrollrecht Arbeitgeber Paragraf 106 GewO und Art 8 EMRK. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Homeoffice Kontrollrecht Paragraf 106 Gewo Lag Rheinland Pfalz

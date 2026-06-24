@@ -1,6 +1,6 @@
 ---
 name: legal-behoerden-gericht-und-registerweg
-description: "Legal: Behörden-, Gerichts- oder Registerweg."
+description: "Legal: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Legal: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: autonom-abschlussprodukt-und-uebergabe
-description: "Autonom: Abschlussprodukt und Übergabe: Autonom: Abschlussprodukt und Übergabe."
+description: "Autonom: Abschlussprodukt und Übergabe: Autonom: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Autonom: Abschlussprodukt und Übergabe

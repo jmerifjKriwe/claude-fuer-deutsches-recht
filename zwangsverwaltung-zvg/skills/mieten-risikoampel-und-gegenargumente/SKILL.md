@@ -1,6 +1,6 @@
 ---
 name: mieten-risikoampel-und-gegenargumente
-description: "Mieten: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Mieten: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mieten: Risikoampel, Gegenargumente und Verteidigungslinien

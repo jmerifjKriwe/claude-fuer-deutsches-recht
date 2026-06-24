@@ -1,6 +1,6 @@
 ---
 name: changes-abschlussprodukt-und-uebergabe
-description: "Changes: Abschlussprodukt und Übergabe."
+description: "Changes: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Changes: Abschlussprodukt und Übergabe

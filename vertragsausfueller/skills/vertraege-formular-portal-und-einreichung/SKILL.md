@@ -1,6 +1,6 @@
 ---
 name: vertraege-formular-portal-und-einreichung
-description: "Vertraege: Formular, Portal und Einreichungslogik im Vertragsausfueller."
+description: "Vertraege: Formular, Portal und Einreichungslogik im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verträge: Formular, Portal und Einreichungslogik

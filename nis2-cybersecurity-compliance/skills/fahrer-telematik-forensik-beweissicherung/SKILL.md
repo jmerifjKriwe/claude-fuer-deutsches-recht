@@ -1,6 +1,6 @@
 ---
 name: fahrer-telematik-forensik-beweissicherung
-description: "Prüft Telematik in Fuhrpark und Logistik im Nis2 Cybersecurity Compliance."
+description: "Prüft Telematik in Fuhrpark und Logistik im Nis2 Cybersecurity Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fahrer Telematik

@@ -1,6 +1,6 @@
 ---
 name: formuliert-erstpruefung-und-mandatsziel
-description: "Formuliert: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Formuliert: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel

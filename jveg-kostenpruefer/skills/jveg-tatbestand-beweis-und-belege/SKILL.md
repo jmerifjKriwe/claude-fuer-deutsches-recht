@@ -1,6 +1,6 @@
 ---
 name: jveg-tatbestand-beweis-und-belege
-description: "JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage

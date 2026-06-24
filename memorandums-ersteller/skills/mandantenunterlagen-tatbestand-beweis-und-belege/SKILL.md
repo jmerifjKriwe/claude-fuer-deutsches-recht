@@ -1,6 +1,6 @@
 ---
 name: mandantenunterlagen-tatbestand-beweis-und-belege
-description: "Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage

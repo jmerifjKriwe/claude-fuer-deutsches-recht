@@ -1,6 +1,6 @@
 ---
 name: materielle-petition-sonderfall-recherche
-description: "Materielle: Internationaler Bezug und Schnittstellen im Verfassungsrecht."
+description: "Materielle: Internationaler Bezug und Schnittstellen im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Materielle: Internationaler Bezug und Schnittstellen

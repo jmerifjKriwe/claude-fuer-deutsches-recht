@@ -1,6 +1,6 @@
 ---
 name: findet-gate-installiert
-description: "Findet: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Findet: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Findet: Erstprüfung, Rollenklärung und Mandatsziel

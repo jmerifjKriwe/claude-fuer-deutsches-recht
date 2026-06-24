@@ -1,6 +1,6 @@
 ---
 name: manuskript-behoerden-gericht-und-registerweg
-description: "Manuskript: Behörden-, Gerichts- oder Registerweg im Verlagsredaktion."
+description: "Manuskript: Behörden-, Gerichts- oder Registerweg im Verlagsredaktion. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Manuskript: Behörden-, Gerichts- oder Registerweg

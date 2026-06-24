@@ -1,6 +1,6 @@
 ---
 name: pflicht-planung-restrukturierungsplan
-description: "Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung

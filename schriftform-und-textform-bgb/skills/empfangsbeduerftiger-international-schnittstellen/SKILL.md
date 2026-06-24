@@ -1,6 +1,6 @@
 ---
 name: empfangsbeduerftiger-international-schnittstellen
-description: "Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen."
+description: "Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen

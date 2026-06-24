@@ -1,6 +1,6 @@
 ---
 name: satz-zahlen-schwellen-und-berechnung
-description: "Satz: Zahlen, Schwellenwerte und Berechnung."
+description: "Satz: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Satz: Zahlen, Schwellenwerte und Berechnung

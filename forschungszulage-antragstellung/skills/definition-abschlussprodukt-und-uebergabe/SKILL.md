@@ -1,6 +1,6 @@
 ---
 name: definition-abschlussprodukt-und-uebergabe
-description: "Definition: Abschlussprodukt und Übergabe."
+description: "Definition: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Definition: Abschlussprodukt und Übergabe

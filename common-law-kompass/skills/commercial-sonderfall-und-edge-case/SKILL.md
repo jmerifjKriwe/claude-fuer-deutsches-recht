@@ -1,6 +1,6 @@
 ---
 name: commercial-sonderfall-und-edge-case
-description: "Commercial: Sonderfall und Edge-Case-Prüfung."
+description: "Commercial: Sonderfall und Edge-Case-Prüfung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Commercial: Sonderfall und Edge-Case-Prüfung

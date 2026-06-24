@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Finaler Red-Team-Check gegen Papiercompliance und blinde Flecken."
+description: "Finaler Red-Team-Check gegen Papiercompliance und blinde Flecken. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Redteam Qualitygate

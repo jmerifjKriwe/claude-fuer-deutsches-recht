@@ -1,6 +1,6 @@
 ---
 name: notar-mehrparteien-konflikt-und-interessen
-description: "Notar: Mehrparteienkonflikt und Interessenmatrix im Zwangsvollstreckung."
+description: "Notar: Mehrparteienkonflikt und Interessenmatrix im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Notar: Mehrparteienkonflikt und Interessenmatrix

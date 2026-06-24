@@ -1,6 +1,6 @@
 ---
 name: portaltexte-schriftsatz-brief-und-memo-bausteine
-description: "Portaltexte: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Portaltexte: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine

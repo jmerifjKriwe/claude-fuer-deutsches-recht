@@ -1,6 +1,6 @@
 ---
 name: benennt-compliance-dokumentation-und-akte
-description: "Benennt: Compliance-Dokumentation und Aktenvermerk."
+description: "Benennt: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Benennt: Compliance-Dokumentation und Aktenvermerk

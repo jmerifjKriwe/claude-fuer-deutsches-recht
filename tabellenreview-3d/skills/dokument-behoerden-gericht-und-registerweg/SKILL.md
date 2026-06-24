@@ -1,6 +1,6 @@
 ---
 name: dokument-behoerden-gericht-und-registerweg
-description: "Dokument: Behörden-, Gerichts- oder Registerweg."
+description: "Dokument: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Dokument: Behörden-, Gerichts- oder Registerweg

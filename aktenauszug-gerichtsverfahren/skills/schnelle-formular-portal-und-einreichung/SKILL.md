@@ -1,6 +1,6 @@
 ---
 name: schnelle-formular-portal-und-einreichung
-description: "Schnelle: Formular, Portal und Einreichungslogik."
+description: "Schnelle: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schnelle: Formular, Portal und Einreichungslogik

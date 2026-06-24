@@ -1,6 +1,6 @@
 ---
 name: muendliche-pruefung-protokoll
-description: "Prüft mündliche Prüfungen und Protokolle im Prüfungsrecht Hochschule."
+description: "Prüft mündliche Prüfungen und Protokolle im Prüfungsrecht Hochschule. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mündliche Prüfung Protokoll

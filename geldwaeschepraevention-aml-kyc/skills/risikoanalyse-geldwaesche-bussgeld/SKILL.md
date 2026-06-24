@@ -1,6 +1,6 @@
 ---
 name: risikoanalyse-geldwaesche-bussgeld
-description: "Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg

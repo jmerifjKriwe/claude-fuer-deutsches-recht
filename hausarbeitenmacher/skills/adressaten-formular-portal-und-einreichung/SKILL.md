@@ -1,6 +1,6 @@
 ---
 name: adressaten-formular-portal-und-einreichung
-description: "Adressaten: Formular, Portal und Einreichungslogik im Hausarbeitenmacher."
+description: "Adressaten: Formular, Portal und Einreichungslogik im Hausarbeitenmacher. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Adressaten: Formular, Portal und Einreichungslogik

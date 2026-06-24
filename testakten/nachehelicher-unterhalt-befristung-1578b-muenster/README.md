@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Schulen, Unternehmen und Aktenzeichen sind anonymisiert. Die Akte gehört fachlich zum Plugin `fachanwalt-familienrecht`.
+Arbeitsakte zum Plugin `fachanwalt-familienrecht`.
 
 ## Kurzbild
 

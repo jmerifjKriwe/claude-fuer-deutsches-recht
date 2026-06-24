@@ -1,6 +1,6 @@
 ---
 name: massnahmenplan-100-tage
-description: "Baut 100-Tage-Programm für Cyber-Compliance."
+description: "Baut 100-Tage-Programm für Cyber-Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Massnahmenplan 100 Tage

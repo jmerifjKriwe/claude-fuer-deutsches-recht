@@ -1,6 +1,6 @@
 ---
 name: korrespondenz-zahlen-schwellen-und-berechnung
-description: "Korrespondenz: Zahlen, Schwellenwerte und Berechnung."
+description: "Korrespondenz: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Korrespondenz: Zahlen, Schwellenwerte und Berechnung

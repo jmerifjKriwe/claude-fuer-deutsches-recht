@@ -1,6 +1,6 @@
 {
   "name": "staatsanwaltschaft-amtsanwaltschaft",
-  "version": "391.0.0",
+  "version": "392.0.0",
   "description": "Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsfuehrung Ermittlungsanweisung Durchsuchung Haftbefehl Einstellung Strafbefehl Anklageschrift beschleunigtes Verfahren Einziehung Plaedoyer Rechtsmittel Vollstreckung mit Antragsvorschlag",
   "keywords": [
     "experimental-justiz",
@@ -12,5 +12,9 @@
     "aktengeheimnis",
     "revisionssicher"
   ],
-  "license": "Apache-2.0 OR MIT"
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  }
 }

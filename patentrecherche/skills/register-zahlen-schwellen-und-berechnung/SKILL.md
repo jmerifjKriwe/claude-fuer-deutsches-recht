@@ -1,6 +1,6 @@
 ---
 name: register-zahlen-schwellen-und-berechnung
-description: "Register: Zahlen, Schwellenwerte und Berechnung im Patentrecherche."
+description: "Register: Zahlen, Schwellenwerte und Berechnung im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Register: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: live-schriftsatz-brief-und-memo-bausteine
-description: "Live: Schriftsatz-, Brief- und Memo-Bausteine im Verfassungsrecht."
+description: "Live: Schriftsatz-, Brief- und Memo-Bausteine im Verfassungsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Live: Schriftsatz-, Brief- und Memo-Bausteine

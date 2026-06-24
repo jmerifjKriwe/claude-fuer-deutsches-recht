@@ -1,6 +1,6 @@
 ---
 name: vorlagen-mehrparteien-konflikt-und-interessen
-description: "Vorlagen: Mehrparteienkonflikt und Interessenmatrix."
+description: "Vorlagen: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vorlagen: Mehrparteienkonflikt und Interessenmatrix

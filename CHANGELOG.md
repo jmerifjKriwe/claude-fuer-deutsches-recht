@@ -57,7 +57,7 @@ Naechster Handwork-Loop (Triage-Auswahl, noch nicht ausgefuehrt): arbeitsrecht, 
 Letzte Schicht ueber alle Plugins, Skills, Werkstatt- und Schnellstart-Prompts: Verwendbarkeit, Konsistenz und harte Funktionsfaehigkeit fuer den Claude-Cowork-Marktplatz.
 
 - Schnellstart-Prompts aus der Skill-Registrierung entfernt: die in v384 als ladbare Skills gespiegelten 229 Schnellstart-Verzeichnisse unter den jeweiligen skills-Ordnern wurden geloescht. Werkstatt- und Schnellstart-Prompts werden ausschliesslich als Markdown ueber raw.githubusercontent ausgeliefert und sind keine Marktplatz-Skills mehr. Die Prompt-Markdown-Dateien am Plugin-Stamm bleiben unveraendert erhalten.
-- Zwei echte Fach-Skills, deren Namen auf werkstatt oder schnellstart enden (gewissensbegruendung-werkstatt im Plugin kriegsdienstverweigerung-wehrdienst sowie aktenordner-schnellstart im Plugin forderungsmanagement-klagewerkstatt), wurden ausdruecklich behalten; sie sind echte Werkzeuge und keine Prompt-Spiegel.
+- Zwei echte Fach-Skills, deren Namen auf werkstatt oder erstlekture enden (gewissensbegruendung-werkstatt im Plugin kriegsdienstverweigerung-wehrdienst sowie aktenordner-erstlekture im Plugin forderungsmanagement-klagewerkstatt), wurden ausdruecklich behalten; sie sind echte Werkzeuge und keine Prompt-Spiegel.
 - Distribution geprueft: alle 229 Plugin-READMEs verlinken Werkstatt- und Schnellstart-Prompt als raw.githubusercontent-Markdown, nicht als ZIP.
 - Sanity bestanden: alle 458 Prompt-Dateien ohne Paragrafensymbol, ohne XML-aehnliche Klammern, ohne Emojis, ohne Komma-Ziffer-Paare; jeder Schnellstart-Prompt bis 7500 Zeichen, jeder Werkstatt-Prompt mindestens 120 Zeilen. Marketplace- und Plugin-Descriptions im Limit. Generatorlauf meldet geschrieben 458, uebersprungen 0, Probleme keine. YAML- und Strukturvalidator laufen fehlerfrei.
 - Skill-Index neu erzeugt, sodass die entfernten Schnellstart-Skills nicht mehr gelistet sind.
@@ -181,7 +181,7 @@ Inhaltliche Tiefenverbesserung der 15 Plugins im Sammelordner `gerichtsplugins/`
 
 ## Sanity
 
-- Echte Umlaute in der Prosa, kein Paragraf-Zeichen, keine Zahl-Komma-Zahl in Descriptions, keine Skill-Description über 1024 Zeichen, Slugs unverändert. Mega- und Miniprompts sowie die READMEs samt KI-VO-, Aktengeheimnis- und Artikel-22-DSGVO-Block geprüft.
+- Echte Umlaute in der Prosa, kein Paragraf-Zeichen, keine Zahl-Komma-Zahl in Descriptions, keine Skill-Description über 1024 Zeichen, Slugs unverändert. Mega- und Kompaktprüfungs sowie die READMEs samt KI-VO-, Aktengeheimnis- und Artikel-22-DSGVO-Block geprüft.
 
 ## Versionierung
 
@@ -191,18 +191,18 @@ Inhaltliche Tiefenverbesserung der 15 Plugins im Sammelordner `gerichtsplugins/`
 
 # v372.0.0 — Gerichts-Plugins: Werkstatt-Header, plugin-spezifische Skill-Rollen, Konventionsumbenennung der Prompt-Dateien
 
-Groszer Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`. Mega- und Miniprompts werden jetzt durchgehend von einem werkstattartigen Kopfteil eroeffnet, der den Spruchkoerper, die Eingangslage, die Arbeitsprodukte, den typischen Workflow und die Eigenheiten der jeweiligen Gerichtsbarkeit beschreibt. Skill-Rollen sind nicht mehr generisch, sondern plugin-spezifisch. Die Dateinamen der Prompts tragen den Plugin-Slug.
+Groszer Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`. Mega- und Kompaktprüfungs werden jetzt durchgehend von einem werkstattartigen Kopfteil eroeffnet, der den Spruchkoerper, die Eingangslage, die Arbeitsprodukte, den typischen Workflow und die Eigenheiten der jeweiligen Gerichtsbarkeit beschreibt. Skill-Rollen sind nicht mehr generisch, sondern plugin-spezifisch. Die Dateinamen der Prompts tragen den Plugin-Slug.
 
 ## Umbenennung der Prompt-Dateien (Repo-Konvention)
 
 - `MEGAPROMPT.md` und `MINIPROMPT.md` umbenannt in `<slug>-megaprompt.md` und `<slug>-miniprompt.md` (per `git mv`, Historie bleibt erhalten). Damit folgen die Gerichts-Plugins der bereits gueltigen Dateinamen-Konvention der uebrigen Plugins.
 - Verweise in allen 15 Plugin-READMEs und im Sammelordner-README angeglichen.
 
-## Werkstatt-Header in Mega- und Miniprompts
+## Werkstatt-Header in Mega- und Kompaktprüfungs
 
-- Jeder Mega- und Miniprompt traegt jetzt einen einleitenden Kopfteil mit fuenf Sektionen: Spruchkoerper und Funktion, Eingang in die Akte, Arbeitsprodukte, Werkstattlogik, Eigenheiten dieser Gerichtsbarkeit.
+- Jeder Mega- und Kompaktprüfung traegt jetzt einen einleitenden Kopfteil mit fuenf Sektionen: Spruchkoerper und Funktion, Eingang in die Akte, Arbeitsprodukte, Werkstattlogik, Eigenheiten dieser Gerichtsbarkeit.
 - Inhalt ist je Plugin individuell und workflow-orientiert (z.B. Strafkammer mit Schwurgericht, Schwerpunkt-Wirtschaftsstrafkammer und Sicherungsverwahrung; Finanzgericht mit AdV-Verfahren und Revisionszulassung; Sozialgericht mit einstweiligem Rechtsschutz und Erstattungsverfahren).
-- Insgesamt 30 Dateien angefasst (15 Mega- plus 15 Miniprompts).
+- Insgesamt 30 Dateien angefasst (15 Mega- plus 15 Kompaktprüfungs).
 
 ## Plugin-spezifische Skill-Rollen
 
@@ -211,7 +211,7 @@ Groszer Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugi
 
 ## KI-VO, Aktengeheimnis und Art. 22 DSGVO nur noch im README
 
-- Hinweisbloecke zu KI-Verordnung, Aktengeheimnis und Art. 22 DSGVO aus 30 Mega- und Miniprompts sowie 168 Skill-Dateien entfernt. Sie gehoeren in die Plugin-READMEs, nicht in die Werk-Prompts.
+- Hinweisbloecke zu KI-Verordnung, Aktengeheimnis und Art. 22 DSGVO aus 30 Mega- und Kompaktprüfungs sowie 168 Skill-Dateien entfernt. Sie gehoeren in die Plugin-READMEs, nicht in die Werk-Prompts.
 - README des Plugins `staatsanwaltschaft-praxis-einstieg` erhaelt jetzt ebenfalls einen KI-VO-Block (Staatsanwalt-Variante), parallel zu den uebrigen Gerichts-Plugins.
 
 ## Sanity
@@ -231,7 +231,7 @@ Forward-Fix nach dem Release-Validator. Beim Verschieben des Plugins staatsanwal
 
 ## Korrigiert
 
-- gerichtsplugins/staatsanwaltschaft-praxis-einstieg/README.md: Verweise auf den Unified Mini Prompt und den Anschauungs-Megaprompt von einer auf zwei Ebenen hochgezogen (von Punkt-Punkt-Schraegstrich auf Punkt-Punkt-Schraegstrich-Punkt-Punkt-Schraegstrich), sodass sie wieder auf die Dateien im Repo-Wurzelverzeichnis zeigen.
+- gerichtsplugins/staatsanwaltschaft-praxis-einstieg/README.md: Verweise auf den Unified Mini Prompt und den Anschauungs-Vollprüfung von einer auf zwei Ebenen hochgezogen (von Punkt-Punkt-Schraegstrich auf Punkt-Punkt-Schraegstrich-Punkt-Punkt-Schraegstrich), sodass sie wieder auf die Dateien im Repo-Wurzelverzeichnis zeigen.
 - references/rechtsgebiete-uebersicht.md: Verweis auf das Plugin von der Wurzel auf den Sammelordner gerichtsplugins umgebogen.
 
 ## Versionierung
@@ -240,22 +240,22 @@ Forward-Fix nach dem Release-Validator. Beim Verschieben des Plugins staatsanwal
 
 ---
 
-# v370.0.0 — Gerichts-Plugins: Mega- und Miniprompts mit Gesetzes- und Rechtsprechungsankern
+# v370.0.0 — Gerichts-Plugins: Mega- und Kompaktprüfungs mit Gesetzes- und Rechtsprechungsankern
 
-Aufwertung der Mega- und Miniprompts aller 15 Plugins im Sammelordner `gerichtsplugins/`. Ziel war ein schaerferer, themenspezifischer Einstieg samt belastbarer Anker, ohne Aktenzeichen zu erfinden.
+Aufwertung der Mega- und Kompaktprüfungs aller 15 Plugins im Sammelordner `gerichtsplugins/`. Ziel war ein schaerferer, themenspezifischer Einstieg samt belastbarer Anker, ohne Aktenzeichen zu erfinden.
 
 ## Bessere Namen und Spezifikation
 
-- Jeder Mega- und Miniprompt traegt jetzt einen praezisen, themenspezifischen Titel statt der bloszen Rollennennung (zum Beispiel Zivilrichter am Amtsgericht: Relation, Beweis und Tenor mit Wertgrenze bis 10.000 Euro; Strafkammer am Landgericht: grosse und kleine Strafkammer, Massregeln, Revision; BVerfG-Vorpruefung: Annahme, Subsidiaritaet und Grundrechtspruefung im Votum).
+- Jeder Mega- und Kompaktprüfung traegt jetzt einen praezisen, themenspezifischen Titel statt der bloszen Rollennennung (zum Beispiel Zivilrichter am Amtsgericht: Relation, Beweis und Tenor mit Wertgrenze bis 10.000 Euro; Strafkammer am Landgericht: grosse und kleine Strafkammer, Massregeln, Revision; BVerfG-Vorpruefung: Annahme, Subsidiaritaet und Grundrechtspruefung im Votum).
 
 ## Gesetzesanker und Rechtsprechungsanker
 
-- Neuer Abschnitt Gesetzesanker je Mega- und Miniprompt: die im jeweiligen Plugin am haeufigsten einschlaegigen Kernnormen, automatisch aus den Skills abgeleitet und auf die jeweilige Verfahrensordnung zugeschnitten (Disclaimer-Normen wie Paragraf 353b StGB bewusst ausgenommen, damit nur die fachlichen Kernnormen erscheinen).
-- Neuer Abschnitt Rechtsprechungsanker je Mega- und Miniprompt: die wichtigsten Leitentscheidungen, ausschliesslich aus den bereits in den Skills vorhandenen, vetteten Zitaten uebernommen (keine neuen oder erfundenen Aktenzeichen) und mit dem Hinweis versehen, sie vor Verwendung an amtlicher Quelle zu verifizieren.
+- Neuer Abschnitt Gesetzesanker je Mega- und Kompaktprüfung: die im jeweiligen Plugin am haeufigsten einschlaegigen Kernnormen, automatisch aus den Skills abgeleitet und auf die jeweilige Verfahrensordnung zugeschnitten (Disclaimer-Normen wie Paragraf 353b StGB bewusst ausgenommen, damit nur die fachlichen Kernnormen erscheinen).
+- Neuer Abschnitt Rechtsprechungsanker je Mega- und Kompaktprüfung: die wichtigsten Leitentscheidungen, ausschliesslich aus den bereits in den Skills vorhandenen, vetteten Zitaten uebernommen (keine neuen oder erfundenen Aktenzeichen) und mit dem Hinweis versehen, sie vor Verwendung an amtlicher Quelle zu verifizieren.
 
 ## Sanity
 
-- Genau dreissig Dateien geaendert (15 Mega- plus 15 Miniprompts); keine Skill-, plugin.json- oder Marketplace-Description beruehrt. Kein Paragraf-Zeichen, keine doppelten Abschnitte, Markdown geglaettet.
+- Genau dreissig Dateien geaendert (15 Mega- plus 15 Kompaktprüfungs); keine Skill-, plugin.json- oder Marketplace-Description beruehrt. Kein Paragraf-Zeichen, keine doppelten Abschnitte, Markdown geglaettet.
 
 ## Versionierung
 
@@ -270,7 +270,7 @@ Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`, mi
 ## Konventions-Angleichung staatsanwaltschaft-praxis-einstieg
 
 - Paragraf-Zeichen durchgaengig aufgeloest: 849 Vorkommen von Paragraf-Zeichen in 143 Dateien auf die ausgeschriebene Form Paragraf beziehungsweise Paragrafen umgestellt, wie es die uebrigen Gerichts-Plugins handhaben. Zahl-Komma-Zahl-Sequenzen wurden dabei nicht erzeugt.
-- Generisches Maskulinum hergestellt: sieben Skill-Verzeichnisse mit weiblicher Endung (Suffix staatsanwaeltinnen) auf die generische Form staatsanwaelte umbenannt, samt Frontmatter-Name, Ueberschrift und allen Verweisen in README, Megaprompt und Miniprompt. Die einzige verbliebene weibliche Prosaform im Megaprompt (Probedezernentinnen, Referendarinnen, Dezernentin) ebenfalls auf das generische Maskulinum gezogen.
+- Generisches Maskulinum hergestellt: sieben Skill-Verzeichnisse mit weiblicher Endung (Suffix staatsanwaeltinnen) auf die generische Form staatsanwaelte umbenannt, samt Frontmatter-Name, Ueberschrift und allen Verweisen in README, Vollprüfung und Kompaktprüfung. Die einzige verbliebene weibliche Prosaform im Vollprüfung (Probedezernentinnen, Referendarinnen, Dezernentin) ebenfalls auf das generische Maskulinum gezogen.
 
 ## Bug-Hunt und Sanity ueber alle 15 Plugins
 
@@ -303,7 +303,7 @@ Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`, mi
 
 - `staatsanwaltschaft-praxis-einstieg` (142 Skills) ist jetzt unter `gerichtsplugins/staatsanwaltschaft-praxis-einstieg` einsortiert; Source-Pfad in `marketplace.json` entsprechend angepasst.
 - Neuer kuratierter `MEGAPROMPT.md` und `MINIPROMPT.md` direkt im Plugin-Ordner, parallel zu allen anderen Gerichts-Plugins.
-- Triage-, Cluster- und OWiG-Spur-Beschreibung im Megaprompt.
+- Triage-, Cluster- und OWiG-Spur-Beschreibung im Vollprüfung.
 
 ## Haupt-README: Sammelordner-Eintraege und Konsistenz
 
@@ -315,7 +315,7 @@ Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`, mi
 ## Sammelordner `gerichtsplugins/`
 
 - README listet jetzt alle 15 Plugins (13 Richter-Rollen, Relationstechnik, Staatsanwaltschaft-Amtsanwaltschaft, Staatsanwaltschaft-Praxis-Einstieg).
-- Megaprompt-Generator beruecksichtigt jetzt auch `gerichtsplugins/*` (vorher nur Top-Level); zentrale Sammlung in `testakten/megaprompts/` hat jetzt 229 Eintraege.
+- Vollprüfung-Generator beruecksichtigt jetzt auch `gerichtsplugins/*` (vorher nur Top-Level); zentrale Sammlung in `testakten/megaprompts/` hat jetzt 229 Eintraege.
 - Unified Mini Prompts unveraendert vollstaendig fuer alle 229 Plugins.
 
 ## Validator-Fix vor Bump
@@ -400,7 +400,7 @@ Abschliessender Qualitaets-Loop mit Schwerpunkt auf den 13 Gerichts-Plugins unte
 
 # v360.0.0 — Gerichts-Plugins fachlich angereichert
 
-Die experimentellen Gerichts-Plugins unter `gerichtsplugins/` wurden fachlich vertieft, ohne Megaprompts oder Miniprompts zu verändern.
+Die experimentellen Gerichts-Plugins unter `gerichtsplugins/` wurden fachlich vertieft, ohne Vollprüfungs oder Kompaktprüfungs zu verändern.
 
 ## Inhalt
 
@@ -444,7 +444,7 @@ Neues Experiment: 13 Plugins, die einen Richter, eine Richterin oder einen wisse
 - Paragraf 353b StGB und Paragraf 43 DRiG (Aktengeheimnis, Amtsverschwiegenheit) ausdrücklich beachten
 - Schatten-KI ausdrücklich abgelehnt
 - Revisionssicherheit: Logging und menschliche Letztentscheidung dokumentiert
-- Realismus-Hinweis: produktive Nutzung in deutschen Gerichten derzeit unwahrscheinlich; Megaprompt und Miniprompt sind portabel
+- Realismus-Hinweis: produktive Nutzung in deutschen Gerichten derzeit unwahrscheinlich; Vollprüfung und Kompaktprüfung sind portabel
 - Verwendung auf eigene Gefahr
 
 ## Sonstiges
@@ -465,13 +465,13 @@ Gezielter Qualitäts- und Release-Sweep für Vergaberecht, Verfassungsrecht und 
 
 - `fachanwalt-vergaberecht`: Vergabekammerarbeit deutlich präzisiert. Neu bzw. geschärft sind Sachverhaltsvortrag, vorgerichtliche Abhilfe, Akteneinsicht nach § 165 GWB, konkrete Abstellungsanträge nach § 168 GWB, mündliche Verhandlung, Erledigung/Rücknahme/Kosten und OLG-Reserve nach §§ 171 bis 173 GWB.
 - Alte falsche Vergabekammer-Altlogik entfernt: keine Behauptung eines pauschalen Vergleichs nach § 158 Abs. 3 GWB mehr; die Nachprüfungsfrist nach Nichtabhilfe ist als 15-Kalendertage-Frist nach § 160 Abs. 3 GWB klargestellt.
-- `verfassungsrecht`: BVerfG-Prozessarten-Navigator ergänzt und in Routing, README, Mini-Prompt und Megaprompt eingebunden. Erfasst sind Verfassungsbeschwerde, § 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, abstrakte und konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Präsidentenanklage, Richteranklage, Völkerrechtsregelprüfung, Kommunalverfassungsbeschwerde und parteibezogene Anträge.
+- `verfassungsrecht`: BVerfG-Prozessarten-Navigator ergänzt und in Routing, README, Kompaktprüfung und Vollprüfung eingebunden. Erfasst sind Verfassungsbeschwerde, § 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, abstrakte und konkrete Normenkontrolle, Wahlprüfung, Parteiverbot, Finanzierungsausschluss, Grundrechtsverwirkung, Präsidentenanklage, Richteranklage, Völkerrechtsregelprüfung, Kommunalverfassungsbeschwerde und parteibezogene Anträge.
 - Verfassungsrechtliche Grundrechtsprüfung redaktionell geglättet: wiederholte Quellenhygiene-Sätze aus dem Prüfschema entfernt und an einer passenden Stelle gebündelt.
 - Neue Insolvenzrechts-Gruppenseite unter `plugin-gruppen/insolvenzrecht/` ergänzt, damit die verschiedenen Insolvenz-/Sanierungsplugins leichter als zusammengehöriger Bereich auffindbar sind.
 
 ## Sanity
 
-- Generatoren neu gelaufen: Plugin-READMEs, `SKILLS.md`, `skills-index/`, Unified Mini Prompts und Megaprompts.
+- Generatoren neu gelaufen: Plugin-READMEs, `SKILLS.md`, `skills-index/`, Unified Mini Prompts und Vollprüfungs.
 - Validatoren grün: `validate-plugin-structure`, eigener Frontmatter-Spotcheck, `git diff --check`, Gesamt-PDF 210, Testakten-ZIPs 210/5893, Einzel-PDF-ZIPs 212/5699, lokale Plugin-ZIPs 215.
 - Versionsbump 357 → 358.
 
@@ -493,7 +493,7 @@ Arbeitet drei Befunde aus dem Codex-Review zu PR #308 ab und behebt einen dabei 
 
 ## Fixes
 
-- `unterhaltsberechnung-megaprompt`: Die Düsseldorfer Tabelle hat seit 2022 und nach dem Stand 2026 **fünfzehn** statt der zuvor genannten zehn Einkommensgruppen. Andernfalls würden Einkommen der Gruppen 11 bis 15 fälschlich als oberhalb der Tabelle behandelt und in den Pfad der konkreten Bedarfsdarlegung geleitet. Abschnitt 2.2 und 2.9 entsprechend korrigiert.
+- `unterhaltsberechnung-vollpruefung`: Die Düsseldorfer Tabelle hat seit 2022 und nach dem Stand 2026 **fünfzehn** statt der zuvor genannten zehn Einkommensgruppen. Andernfalls würden Einkommen der Gruppen 11 bis 15 fälschlich als oberhalb der Tabelle behandelt und in den Pfad der konkreten Bedarfsdarlegung geleitet. Abschnitt 2.2 und 2.9 entsprechend korrigiert.
 - Neue Rubrics erhalten echte `checks:` statt nur `expected_use`: Die Eval-Harness (`scripts/run-eval.py`) verlangt mindestens einen entschiedenen Pass/Fail-Check. `elternunterhalt-pflegeheim-sozialamtsregress-aachen` und `nachehelicher-unterhalt-befristung-1578b-muenster` haben jetzt je sechs entschiedene Checks plus einen human_review und bestehen die Eval (6/6 pass).
 - `nachehelicher-unterhalt-befristung-1578b-muenster`: In Aktenstück 12 und in der CSV wurden 6.840 EUR fälschlich als bereinigtes Nettoeinkommen bezeichnet. Tatsächlich ist 6.840 EUR der unbereinigte Durchschnitt; das bereinigte Nettoeinkommen liegt nach Stück 3 und 9 bei rund 4.700 EUR. Korrigiert und akteninternal konsistent gemacht; Gesamt-PDF neu gebaut.
 
@@ -504,14 +504,14 @@ Arbeitet drei Befunde aus dem Codex-Review zu PR #308 ab und behebt einen dabei 
 
 ---
 
-# v355.0.0 — Unterhaltsberechnung: Mega- und Mini-Prompt-Skill plus zwei neue Familienakten
+# v355.0.0 — Unterhaltsberechnung: Mega- und Kompaktprüfung-Skill plus zwei neue Familienakten
 
 Schwerpunkt Unterhaltsrecht: zwei eigenständige, copy-paste-taugliche Prompt-Skills allein für die Unterhaltsberechnung und zwei neue Familien-Testakten mit weiteren Varianten. Jede Testakte liegt wie gewohnt als Gesamt-PDF, als Daten-ZIP und als Einzel-PDF-ZIP vor. Alle Validatoren grün (plugin-structure, yaml, Gesamt-PDF 210, Testakten-ZIPs 210/5893, Einzel-PDF-ZIPs 212/5699).
 
 ## Neue Skills (fachanwalt-familienrecht)
 
-- `unterhaltsberechnung-megaprompt`: vollständiger, eigenständiger Megaprompt für die gesamte Unterhaltsberechnung in einem Skill — Kindesunterhalt (Düsseldorfer Tabelle, Altersstufen, Einkommensgruppen, Kindergeldanrechnung, Bedarfskontrollbetrag, Mangelfall, Wechselmodell, Einkommen oberhalb der Tabelle, Volljährige und Studenten, Mehr- und Sonderbedarf), Trennungsunterhalt (§ 1361 BGB, Quoten- und Differenzmethode, Erwerbstätigenbonus, Vorsorgeunterhalt) und nachehelicher Unterhalt (§§ 1570 ff., Drei-Stufen-Prüfung, Halbteilung, Realsplitting, Befristung § 1578b, Verwirkung § 1579). Mit Einkommensbereinigung auch für Selbständige, Plausibilitäts-Selbstkontrolle, vollständig durchgerechnetem Zahlenbeispiel (Arbeitswerte) und Abschnitt „Häufige Fehler".
-- `unterhaltsberechnung-miniprompt`: kompakte Sparversion desselben Rechenwegs für den schnellen Einsatz in Chatbots ohne Plugin.
+- `unterhaltsberechnung-vollpruefung`: vollständiger, eigenständiger Vollprüfung für die gesamte Unterhaltsberechnung in einem Skill — Kindesunterhalt (Düsseldorfer Tabelle, Altersstufen, Einkommensgruppen, Kindergeldanrechnung, Bedarfskontrollbetrag, Mangelfall, Wechselmodell, Einkommen oberhalb der Tabelle, Volljährige und Studenten, Mehr- und Sonderbedarf), Trennungsunterhalt (§ 1361 BGB, Quoten- und Differenzmethode, Erwerbstätigenbonus, Vorsorgeunterhalt) und nachehelicher Unterhalt (§§ 1570 ff., Drei-Stufen-Prüfung, Halbteilung, Realsplitting, Befristung § 1578b, Verwirkung § 1579). Mit Einkommensbereinigung auch für Selbständige, Plausibilitäts-Selbstkontrolle, vollständig durchgerechnetem Zahlenbeispiel (Arbeitswerte) und Abschnitt „Häufige Fehler".
+- `unterhaltsberechnung-kompaktpruefung`: kompakte Sparversion desselben Rechenwegs für die schnelle fachliche Erstberechnung im Plugin.
 - Beide Skills bewusst eigenständig gehalten, sodass die SKILL.md auch außerhalb der Plugin-Umgebung kopiert und genutzt werden kann. Düsseldorfer-Tabellenwerte, Selbstbehalte, Kindergeld und Rechtsprechung sind durchgängig als vor Verwendung zu verifizieren gekennzeichnet (keine festen Eurobeträge als amtlich-final).
 
 ## Neue Familien-Testakten
@@ -528,7 +528,7 @@ Nach dem erfolgreichen v353-Build scheiterte der Upload am GitHub-Actions-Instal
 
 - Bei frisch erzeugten Releases werden Assets nicht mehr vorab gelöscht; der Delete-Call bleibt nur für echte Wiederholungs-/Überschreibungsfälle aktiv.
 - `gh release create` läuft jetzt über einen Retry-Wrapper mit wachsender Wartezeit, damit temporäre GitHub-API-Limits nicht sofort den gesamten Release kippen.
-- Versionsstand auf `v354.0.0` synchronisiert; Mini-Prompt-Sammel-ZIP, Plugin-/Skill-/Testakten-ZIPs und Komplettpaket bleiben unverändert Bestandteil des Release-Workflows.
+- Versionsstand auf `v354.0.0` synchronisiert; Kompaktprüfung-Sammel-ZIP, Plugin-/Skill-/Testakten-ZIPs und Komplettpaket bleiben unverändert Bestandteil des Release-Workflows.
 
 ---
 
@@ -537,7 +537,7 @@ Nach dem erfolgreichen v353-Build scheiterte der Upload am GitHub-Actions-Instal
 GitHub begrenzt Release-Anhänge hart auf 1000 Assets. Die fachlichen Plugin-, Skill- und Testaktenpakete bleiben erhalten; nur die Verteilung der Unified Mini Prompts wurde robuster gemacht.
 
 - Unified Mini Prompts werden nicht mehr als 215 Einzelassets an den Release gehängt, sondern im Sammelarchiv `alle-unified-mini-prompts.zip`, im Komplettpaket und in den pluginbezogenen Markdown-ZIPs ausgeliefert.
-- Plugin-READMEs, `SKILLS.md`, `skills-index/` und `ASSET_INDEX.md` verwenden jetzt dieselbe Logik: Einzel-Mini-Prompts liegen als Markdown im Repo unter `unified-mini-prompts/<plugin>.md`; echte Datei-Downloads laufen über die ZIP-Pakete.
+- Plugin-READMEs, `SKILLS.md`, `skills-index/` und `ASSET_INDEX.md` verwenden jetzt dieselbe Logik: Einzel-Kompaktprüfungs liegen als Markdown im Repo unter `unified-mini-prompts/<plugin>.md`; echte Datei-Downloads laufen über die ZIP-Pakete.
 - Release-Workflow gehärtet: Upload-Filter, Checksums und Workflow-Artefakte bleiben unter der GitHub-Asset-Grenze, ohne Plugin-ZIPs, Testakten-ZIPs, Skill-Markdown-ZIPs oder Sammelpakete zu verlieren.
 
 ---
@@ -663,7 +663,7 @@ Sammelrelease über v344 mit zwei neuen familienrechtlichen Demonstrationsakten 
 - Neue Testakte `unterhalt-berechnungsakte-vollständig-rosenheim`: vollständige Zahlenakte für Kindesunterhalt, Mehrbedarf, Trennungsunterhalt und nacheheliche Varianten mit Rechner, Vergleichsentwurf, EMLs, Gehalts-PDFs und Gesamt-PDF.
 - `fachanwalt-familienrecht` und `testakten/README.md` listen beide Akten mit Gesamt-PDF und Release-ZIP-Download.
 - Kaufrecht-/Handelsrecht-Skills in `bgb-bt-pruefer`, `handelsrecht-hgb`, `vertragsrecht` und `ecommerce-recht` um die BGH-Urteile vom 06.05.2026 (VIII ZR 73/24; VIII ZR 257/23) zur Reichweite des § 477 BGB ergänzt; zugleich B2B-Abgrenzung mit § 377 HGB und Wareneingangskontrolle geschärft.
-- Megaprompts, Unified Mini Prompts, Skill-Übersichten, Plugin-READMEs und `ASSET_INDEX.md` auf `v345.0.0` regeneriert.
+- Vollprüfungs, Unified Mini Prompts, Skill-Übersichten, Plugin-READMEs und `ASSET_INDEX.md` auf `v345.0.0` regeneriert.
 - Validatoren: Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF, Release-ZIP-Bau/Validierung und `git diff --check`.
 
 ---
@@ -674,7 +674,7 @@ Light-touch-Bughunt nach v343:
 
 - Fünf verbliebene Kaltstart-Routing-Platzhalter in `ki-vo-ai-act-pruefer`, `bereicherungs-und-anfechtungsrecht-pruefer`, `arbeitsrecht` und `datenschutzrecht` durch fachlich verwendbare Routing-Sätze ersetzt.
 - Einen rohen Folge-Skill-Platzhalter im Migrationsrecht durch einen sprechenden Ausfüllhinweis für den nächsten echten Migrationsrecht-Arbeitsgang ersetzt.
-- Megaprompts, Unified Mini Prompts, Skill-Übersichten und Plugin-Indizes auf `v344.0.0` regeneriert.
+- Vollprüfungs, Unified Mini Prompts, Skill-Übersichten und Plugin-Indizes auf `v344.0.0` regeneriert.
 - Validatoren erneut grün: Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF und `git diff --check`.
 
 ---
@@ -686,7 +686,7 @@ Light-touch-Bughunt nach v342:
 - Acht bisher nur referenzierte Werkzeug-/Reference-Ordner unter `skills/` zu echten Skills mit eigener `SKILL.md` gemacht: Anlagenkonvolut, Fluggastrechte-Anlagen, gesellschaftsrechtliche Tabellenprüfung, Fundstellenglättung, Anspruchstabelle sowie drei steuerliche BWA-/Liquiditätsvorschau-Skills.
 - Alte Routing-Platzhalter wie `` `skill-name` — [warum dieser Arbeitsgang hilft]`` in Kaltstart- und Anschluss-Skills entfernt und durch verwendbare Routing-Anweisungen ersetzt.
 - Zwei verbliebene Entstehungsgeschichte-Formulierungen in Skill-Texten bereinigt; Skills beschreiben jetzt ihre konkrete Leistung statt frühere Bündelung.
-- Megaprompts, Unified Mini Prompts, Skill-Übersichten und Plugin-READMEs regeneriert.
+- Vollprüfungs, Unified Mini Prompts, Skill-Übersichten und Plugin-READMEs regeneriert.
 - Validatoren erneut grün: Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF und `git diff --check`.
 
 ---
@@ -731,7 +731,7 @@ Pro Bundesland ein vertiefender Skill zur jeweils prägenden Konstellation:
 | Plugins | 215 |
 | Skills gesamt | 25.723 (vorher 25.704) |
 | Skills im Plugin `denkmalschutzrecht` | **50** (vorher 31) |
-| Megaprompts | 215 (denkmalschutzrecht jetzt ~85 KB) |
+| Vollprüfungs | 215 (denkmalschutzrecht jetzt ~85 KB) |
 | Unified Mini Prompts | 215 |
 | Testakten | 208 gelistet, 205 mit Rubric, 206 mit Gesamt-PDF |
 | Eval-Harness | 205/205 All-Pass |
@@ -786,7 +786,7 @@ Je ein Skill pro Bundesland mit Gesetzesbezeichnung, Abkürzung, Landesgesetz-Da
 |---|---|
 | Plugins | 215 (vorher 214) |
 | Skills | 25.704 (vorher 25.673) |
-| Megaprompts | 215 (für jedes Plugin) |
+| Vollprüfungs | 215 (für jedes Plugin) |
 | Unified Mini Prompts | 215 |
 | Testakten | 208 gelistet, 205 mit Rubric, 206 mit Gesamt-PDF |
 | Eval-Harness | 205/205 All-Pass |
@@ -815,7 +815,7 @@ Schlanker Glattzug nach v339:
 |---|---|
 | Plugins | 214 |
 | Skills | 25.673 |
-| Megaprompts | 214 (für jedes Plugin) |
+| Vollprüfungs | 214 (für jedes Plugin) |
 | Testakten | 208 gelistet, 205 mit Rubric, 206 mit Gesamt-PDF |
 | Eval-Harness | 205/205 All-Pass, 0 Fail |
 | `validate-plugin-structure.mjs` | OK |
@@ -901,7 +901,7 @@ Schlanker Glattzug nach v339:
 
 - Release-Workflow baut `*-unified-mini-prompt.md`, `alle-unified-mini-prompts.zip`, aktualisierte Markdown-Bundles und Komplettpaket.
 - Testakten-ZIP-Builder und Validator überspringen `testakten/megaprompts`, damit daraus kein falsches Testakten-ZIP entsteht.
-- Lokale Probe: 214 Plugin-ZIPs, 214 Skill-Markdown-ZIPs, 214 Mini-Prompt-Markdowns, 205 Testakten-ZIPs und Komplettpaket erfolgreich gebaut bzw. validiert.
+- Lokale Probe: 214 Plugin-ZIPs, 214 Skill-Markdown-ZIPs, 214 Kompaktprüfung-Markdowns, 205 Testakten-ZIPs und Komplettpaket erfolgreich gebaut bzw. validiert.
 
 ## Validatoren
 
@@ -960,7 +960,7 @@ Das Bauträgervertrag-Plugin ist fachlich erheblich erweitert: Die verbraucherse
 
 ## Übersichten
 
-- Skillindex, Plugin-README, Megaprompt und globale Übersichten auf 214 Plugins, 25.673 Skills und Version v334.0.0 aktualisiert.
+- Skillindex, Plugin-README, Vollprüfung und globale Übersichten auf 214 Plugins, 25.673 Skills und Version v334.0.0 aktualisiert.
 
 ---
 
@@ -1017,9 +1017,9 @@ Kleiner Glattzug nach v330: Versionsstand, README-Zahlen, Benchmark-Daten und au
 
 ---
 
-# v330.0.0 — Inject-Fence-Bug-Fix + Vergaberecht-Megaprompt mit Codex-Korrekturen
+# v330.0.0 — Inject-Fence-Bug-Fix + Vergaberecht-Vollprüfung mit Codex-Korrekturen
 
-Zwei Themen zusammen ausgeliefert: ein scharfer Bug-Fix am Ausformulierungspflicht-Sweep (v329 PR #291), der in 32 Endprodukt-Skills den Autogen-Marker mitten in einen offenen fenced code block geschoben hatte — und der erste anwaltliche 30-Seiten-Megaprompt für Vergaberecht inklusive drei Codex-Befunden, die direkt eingearbeitet wurden.
+Zwei Themen zusammen ausgeliefert: ein scharfer Bug-Fix am Ausformulierungspflicht-Sweep (v329 PR #291), der in 32 Endprodukt-Skills den Autogen-Marker mitten in einen offenen fenced code block geschoben hatte — und der erste anwaltliche 30-Seiten-Vollprüfung für Vergaberecht inklusive drei Codex-Befunden, die direkt eingearbeitet wurden.
 
 ## Inject-Fence-Bug
 
@@ -1027,19 +1027,19 @@ Zwei Themen zusammen ausgeliefert: ein scharfer Bug-Fix am Ausformulierungspflic
 - Neues Skript `scripts/fix-ausformulierungspflicht-fenced-leak.py`: Reparatur-Lauf über den Bestand. Findet betroffene SKILL.md (Marker im offenen Fence), extrahiert den Block, entfernt ihn aus der Datei und platziert ihn vor dem ersten ``` nach der Ausgabeformat-Ueberschrift.
 - Reparatur-Ergebnis: 32 SKILL.md gefixt, 2.392 waren bereits korrekt, 23.216 Dateien ohne Marker (nicht betroffen).
 
-## Vergaberecht-Megaprompt — Codex-Korrekturen
+## Vergaberecht-Vollprüfung — Codex-Korrekturen
 
-Drei Befunde aus dem Codex-Review zum neuen Skill `fachanwalt-vergaberecht/skills/vergaberechtliche-pruefung-anwaltlich-megaprompt/SKILL.md` (eingespielt in PR #292):
+Drei Befunde aus dem Codex-Review zum neuen Skill `fachanwalt-vergaberecht/skills/vergaberechtliche-pruefung-anwaltlich-vollpruefung/SKILL.md` (eingespielt in PR #292):
 
 1. **§ 160 III Satz 1 Nr. 1 GWB**: starre 10-Kalendertage-Frist seit Kenntnis des Vergaberechtsverstoßes — nicht "unverzueglich".
 2. **§ 99 GWB hat keinen Nr. 5**: Sektorenauftraggeber stehen in § 100 GWB, Konzessionsgeber in § 101 GWB, Sektorentaetigkeiten in § 102 GWB. § 99 GWB betrifft öffentliche Auftraggeber (Nr. 1–4).
 3. **§ 181 GWB**: Vertrauensschaden, **kein** Verschulden erforderlich; eine **echte Zuschlagschance** genuegt — Anspruch auf Schadensersatz auch bei rein objektiv rechtswidrigem Vergabeverfahren.
 
-## Vergaberecht-Megaprompt — Eckdaten
+## Vergaberecht-Vollprüfung — Eckdaten
 
-- Skill: `fachanwalt-vergaberecht/skills/vergaberechtliche-pruefung-anwaltlich-megaprompt/SKILL.md`
+- Skill: `fachanwalt-vergaberecht/skills/vergaberechtliche-pruefung-anwaltlich-vollpruefung/SKILL.md`
 - 783 Zeilen, ~51 KB, 24 Phasen (Intake → Schutzschrift → Wirtschaftliche Kontrolle → Vergabekammer/-senat → Schadensersatz)
-- In `scripts/generate-megaprompt.py` als Position 1 der `priority_first`-Liste eingetragen — taucht damit ganz oben in den generierten Megaprompts auf.
+- In `scripts/generate-megaprompt.py` als Position 1 der `priority_first`-Liste eingetragen — taucht damit ganz oben in den generierten Vollprüfungs auf.
 
 ## Validatoren
 
@@ -1061,7 +1061,7 @@ Neu: pro Plugin gibt es ein eigenes Markdown-ZIP als Release-Asset. ZIPs trigger
 
 ## Was
 
-- Neues Script `scripts/build-skills-markdown-bundles.py`: erzeugt pro Plugin `<plugin>-skills-markdown.zip` mit allen `SKILL.md`-Dateien, Megaprompts und der Plugin-README. Plus ein Sammel-ZIP `alle-skills-markdown.zip` mit allen Plugin-Bundles.
+- Neues Script `scripts/build-skills-markdown-bundles.py`: erzeugt pro Plugin `<plugin>-skills-markdown.zip` mit allen `SKILL.md`-Dateien, Vollprüfungs und der Plugin-README. Plus ein Sammel-ZIP `alle-skills-markdown.zip` mit allen Plugin-Bundles.
 - Workflow `.github/workflows/release-plugin-zips.yml`: Bundle-Schritt zwischen Plugin-ZIP-Build und Komplettpaket; `alles-komplettpaket.zip` enthält jetzt zusätzlich einen Ordner `skills-markdown/` mit allen Plugin-Bundles.
 - `scripts/generate-skills-md.py`:
   - `SKILLS.md` Sammel-Download-Tabelle ergaenzt um `alle-skills-markdown.zip`.
@@ -1077,7 +1077,7 @@ Neu: pro Plugin gibt es ein eigenes Markdown-ZIP als Release-Asset. ZIPs trigger
 ## Kennzahlen
 
 - Plugin-Markdown-Bundles: 213 ZIPs, je 85 KB - 2 MB
-- Skill/Megaprompt-Dateien gesamt im Sammel-ZIP: 25.852
+- Skill/Vollprüfung-Dateien gesamt im Sammel-ZIP: 25.852
 - Sammel-ZIP `alle-skills-markdown.zip`: ~51 MB
 
 ## Validatoren
@@ -1146,7 +1146,7 @@ READMEs und `skills-index/` über `scripts/generate-skills-overview.py` und `scr
 
 # v326.0.0 — Schlussgang: ASCII-Umlaute in plugin.json- und marketplace.json-Descriptions
 
-Im Anschluss an die Codex-Releases v320 bis v325 (Worktree-Salvage, Skill-Qualitätssanierung, Megaprompt-Sanity, Listings-Härtung) hat dieser Schlussgang einen verbleibenden Umlaut-Hygienemangel adressiert.
+Im Anschluss an die Codex-Releases v320 bis v325 (Worktree-Salvage, Skill-Qualitätssanierung, Vollprüfung-Sanity, Listings-Härtung) hat dieser Schlussgang einen verbleibenden Umlaut-Hygienemangel adressiert.
 
 ## Was
 
@@ -1180,8 +1180,8 @@ Skriptbasierte Ersetzung mit konservativer Wortliste (`fuer → für`, `ueber �
 |---|---|
 | Plugins | 213 |
 | Skills | 25.639 (Stand nach Codex-Salvage v322/v323) |
-| Megaprompts | 213 (alle Plugins) |
-| Plugin-READMEs mit Megaprompt-Block | 213/213 |
+| Vollprüfungs | 213 (alle Plugins) |
+| Plugin-READMEs mit Vollprüfung-Block | 213/213 |
 | Plugin-READMEs mit Sofort-Downloads-Block | 213/213 |
 | Testakten | 206 gelistet, 204 mit Rubric, 204 mit Gesamt-PDF (1:1) |
 | Formatvorlagen | 22 |
@@ -1218,7 +1218,7 @@ Der alte lokale `main`-Worktree wurde intensiv gegen den aktuellen Release-Stand
 
 ## Sanity
 
-- Skill-/Plugin-Übersichten und Megaprompts neu generiert.
+- Skill-/Plugin-Übersichten und Vollprüfungs neu generiert.
 - Frontmatter, Pluginstruktur, Testakten-Gesamt-PDFs, Release-ZIPs und Testakten-ZIPs erneut validiert.
 
 ---
@@ -1236,7 +1236,7 @@ Quick-Win-Release nach Sanity-Check wesentlicher Plugins: einzelne fachlich dün
 
 ## Sanity
 
-- Skill- und Plugin-Übersichten sowie Megaprompts neu generiert.
+- Skill- und Plugin-Übersichten sowie Vollprüfungs neu generiert.
 - Release-Validatoren und ZIP-Prüfungen erneut durchlaufen.
 
 ---
@@ -1244,17 +1244,17 @@ Quick-Win-Release nach Sanity-Check wesentlicher Plugins: einzelne fachlich dün
 # v320.0.0 — Release-Sync nach aktuellem Main
 
 - Remote-Stand integriert, Versionen auf 320.0.0 gezogen.
-- Plugin-/Skill-Übersichten, Megaprompts und Testakten-Release-Prüfungen erneut validiert.
+- Plugin-/Skill-Übersichten, Vollprüfungs und Testakten-Release-Prüfungen erneut validiert.
 
-# v319.0.0 — Megaprompt-/Testakten-Sanity: Generator repo-relativ, Testakten erneut validiert
+# v319.0.0 — Vollprüfung-/Testakten-Sanity: Generator repo-relativ, Testakten erneut validiert
 
-Kleines Hardening-Release über v318 nach Sanity-Check der Megaprompts und Testakten. Keine fachlichen Skill-Inhalte umgebaut; Ziel ist robustere Reproduzierbarkeit.
+Kleines Hardening-Release über v318 nach Sanity-Check der Vollprüfungs und Testakten. Keine fachlichen Skill-Inhalte umgebaut; Ziel ist robustere Reproduzierbarkeit.
 
-## Megaprompts
+## Vollprüfungs
 
 - `scripts/generate-megaprompt.py` und `scripts/generate-formatvorlagen.py` nutzen jetzt den Repository-Pfad relativ zum Script statt alter fest verdrahteter `/home/user/...`-Pfade.
-- Alle 213 Megaprompts wurden lokal neu erzeugt.
-- Sanity-Scan: keine alten Bündelungsartefakte oder Maschinenpfade in den Megaprompts; `TODO`-Treffer sind nur bewusst formulierte Arbeitslisten-Bausteine.
+- Alle 213 Vollprüfungs wurden lokal neu erzeugt.
+- Sanity-Scan: keine alten Bündelungsartefakte oder Maschinenpfade in den Vollprüfungs; `TODO`-Treffer sind nur bewusst formulierte Arbeitslisten-Bausteine.
 
 ## Testakten
 
@@ -1316,7 +1316,7 @@ Qualitätsrelease über v315 nach Integration des aktuellen `main`-Standes. Foku
 
 ## Regeneration und Validatoren
 
-- Megaprompts für alle 213 Plugins neu erzeugt.
+- Vollprüfungs für alle 213 Plugins neu erzeugt.
 - `README`-Skillblöcke, `SKILLS.md` und `skills-index/` neu generiert.
 - Validatoren: YAML-Frontmatter 0 Fehler/0 Warnungen, Plugin-Struktur OK, Testakten-Gesamt-PDF OK (204 Testakten), `git diff --check` OK.
 
@@ -1370,13 +1370,13 @@ Veredelungs-Release über v314 (Welle 4). Keine Skill-Inhalte geändert, keine P
 
 ---
 
-# v314.0.0 — Welle 4: Megaprompts für alle Plugins + Link-Hygiene
+# v314.0.0 — Welle 4: Vollprüfungs für alle Plugins + Link-Hygiene
 
-## Megaprompts jetzt für alle 213 Plugins
+## Vollprüfungs jetzt für alle 213 Plugins
 
-Die bisher ausgeschlossenen vier Plugins bekommen jetzt ebenfalls Megaprompts über das bestehende Top-N-Tiering in `scripts/generate-megaprompt.py`:
+Die bisher ausgeschlossenen vier Plugins bekommen jetzt ebenfalls Vollprüfungs über das bestehende Top-N-Tiering in `scripts/generate-megaprompt.py`:
 
-| Plugin | Skills | Megaprompt-Tier | Datei |
+| Plugin | Skills | Vollprüfung-Tier | Datei |
 |---|---|---|---|
 | `corporate-kanzlei` | 84 | top-10 | 160 KB |
 | `urteilsbauer-relationsmacher` | 80 | top-10 | 73 KB |
@@ -1387,20 +1387,20 @@ Die `EXCLUDE_PLUGINS`-Liste wurde geleert; alle Plugins durchlaufen nun das norm
 
 ## Neuer Helfer `scripts/inject-megaprompt-section.py`
 
-Idempotenter Injector, der in jede `<plugin>/README.md` einen `<!-- BEGIN megaprompt-und-vorlagen -->`-Block einfügt oder dessen KB-Größe aktualisiert, sofern ein passender Megaprompt unter `testakten/megaprompts/<plugin>.md` existiert. Damit ist die Verlinkung in jedem Plugin-README auf dem aktuellen Stand:
+Idempotenter Injector, der in jede `<plugin>/README.md` einen `<!-- BEGIN megaprompt-und-vorlagen -->`-Block einfügt oder dessen KB-Größe aktualisiert, sofern ein passender Vollprüfung unter `testakten/megaprompts/<plugin>.md` existiert. Damit ist die Verlinkung in jedem Plugin-README auf dem aktuellen Stand:
 
 - 4 neue Blöcke (`corporate-kanzlei`, `urteilsbauer-relationsmacher`, `verlagsredaktion`, `zwangsverwaltung-zvg`)
-- 207 Größen-Updates für die bestehenden Blöcke nach neuem Megaprompt-Lauf
+- 207 Größen-Updates für die bestehenden Blöcke nach neuem Vollprüfung-Lauf
 
 ## Link-Hygiene in `generate-megaprompt.py`
 
-Skills enthalten häufig relative Markdown-Links zu `references/zitierweise.md` und ähnlichen Repo-Pfaden. Im konkatenierten Megaprompt unter `testakten/megaprompts/<plugin>.md` zeigen diese relativen Pfade ins Leere. Der Generator schreibt sie jetzt zu absoluten GitHub-Blob-URLs um:
+Skills enthalten häufig relative Markdown-Links zu `references/zitierweise.md` und ähnlichen Repo-Pfaden. Im konkatenierten Vollprüfung unter `testakten/megaprompts/<plugin>.md` zeigen diese relativen Pfade ins Leere. Der Generator schreibt sie jetzt zu absoluten GitHub-Blob-URLs um:
 
 - `(../)+rest` mit `>= 3` Up-Levels → `https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/<rest>` (Repo-Root)
 - `(../)+rest` mit `2` Up-Levels → in das Plugin-Verzeichnis
 - `(../)+rest` mit `1` Up-Level → in das Skill-Verzeichnis
 
-Damit funktioniert jeder Megaprompt als Single-File-Drop-In ohne tote Links.
+Damit funktioniert jeder Vollprüfung als Single-File-Drop-In ohne tote Links.
 
 ## Vorhandene broken Links in zwei Skills entfernt
 
@@ -1416,7 +1416,7 @@ Validatoren in der Folge wieder grün.
 |---|---|
 | Plugins | 213 |
 | Skills gesamt | 20.908 |
-| Megaprompts | 213 (alle Plugins) |
+| Vollprüfungs | 213 (alle Plugins) |
 | Testakten mit Rubric | 204 |
 | Eval-Harness | 204/204 All-Pass |
 | `validate-plugin-structure.mjs` | OK |
@@ -1472,7 +1472,7 @@ Pflege- und Qualitätsrelease nach zehn Prüfschleifen über Pluginbestand, Skil
 | Skills (SKILL.md) | 20.908 |
 | Testakten-Verzeichnisse in der Übersicht | 206 |
 | Testakten mit verpflichtendem Gesamt-PDF | 204 |
-| Hilfsmaterial-Ordner (Formatvorlagen, Megaprompts) | 2 |
+| Hilfsmaterial-Ordner (Formatvorlagen, Vollprüfungs) | 2 |
 
 ## Validatoren
 
@@ -1483,7 +1483,7 @@ Pflege- und Qualitätsrelease nach zehn Prüfschleifen über Pluginbestand, Skil
 
 ---
 
-# v311.0.0 — Pflege-Release: Validator-Fix, Megaprompt-Cleanup, Konsistenzkorrekturen
+# v311.0.0 — Pflege-Release: Validator-Fix, Vollprüfung-Cleanup, Konsistenzkorrekturen
 
 Reiner Pflege- und Hygiene-Release. Keine inhaltlichen Skill-Änderungen.
 
@@ -1491,10 +1491,10 @@ Reiner Pflege- und Hygiene-Release. Keine inhaltlichen Skill-Änderungen.
 
 ### Release-Workflow läuft wieder durch
 
-- `scripts/validate-testakten-gesamt-pdf.py`: Hilfsmaterial-Ordner `testakten/formatvorlagen-paradebeispiele` und `testakten/megaprompts` werden via `SKIP_DIRS` ausgenommen. Diese Ordner enthalten Formatvorlagen bzw. Megaprompt-Markdown, aber keine Mandatsakten und brauchen daher keine `gesamt-pdf`-Struktur.
+- `scripts/validate-testakten-gesamt-pdf.py`: Hilfsmaterial-Ordner `testakten/formatvorlagen-paradebeispiele` und `testakten/megaprompts` werden via `SKIP_DIRS` ausgenommen. Diese Ordner enthalten Formatvorlagen bzw. Vollprüfung-Markdown, aber keine Mandatsakten und brauchen daher keine `gesamt-pdf`-Struktur.
 - Damit ist die seit v306 schwelende Workflow-Failure-Ursache behoben — die `release-plugin-zips`-Pipeline ist in v311 wieder grün.
 
-### Megaprompts rauschfrei
+### Vollprüfungs rauschfrei
 
 - Aus allen 209 Markdown-Dateien in `testakten/megaprompts/` wurde der Disclaimer- und Verwendungs-Block („Achtung: experimentelles Mega-Prompt-Markdown … / Verwendung: …“) entfernt. Dieser Text gehört in das jeweilige Plugin-README, nicht in den Prompt selbst, der in einen Chat-Agenten kopiert wird.
 - `scripts/generate-megaprompt.py` schreibt den Block nicht mehr in zukünftige Builds.
@@ -1519,7 +1519,7 @@ Reiner Pflege- und Hygiene-Release. Keine inhaltlichen Skill-Änderungen.
 | Plugins | 213 |
 | Skills (SKILL.md) | 20.908 |
 | Testakten (mit gesamt-pdf) | 204 |
-| Hilfsmaterial-Ordner (Formatvorlagen, Megaprompts) | 2 |
+| Hilfsmaterial-Ordner (Formatvorlagen, Vollprüfungs) | 2 |
 | Skills im `verhaeltnismaessigkeitspruefer` | 85 |
 
 ## Validatoren
@@ -1702,7 +1702,7 @@ Workflow-Hinweis: Codex-Push war direkt auf `main` ohne PR und mit englischem Co
 
 ---
 
-# v305.0.0 — Welle: Spezial-Templates, VHP-Vertiefung, Megaprompt-Trim, Rubric-Feinschliff
+# v305.0.0 — Welle: Spezial-Templates, VHP-Vertiefung, Vollprüfung-Trim, Rubric-Feinschliff
 
 ## Drei Spezial-Templates (Hommage / experimentell)
 
@@ -1715,10 +1715,10 @@ Workflow-Hinweis: Codex-Push war direkt auf `main` ohne PR und mit englischem Co
 - `schwangerschaftsabbruch-bverfge-39-1` von 25 auf >80 Zeilen ausgebaut: drei BVerfG-Leitentscheidungen mit tragender Aussage, dogmatische Schichten (Subjektivierung der Schutzpflicht, Symmetrie zur Übermassprüffung), 6 Anwendungsfälle (Klima, Gewalt gegen Frauen, Kindeswohl, Cybersecurity).
 - `bverfg-polizeirecht-gefahrenprognose` von 30 auf >80 Zeilen: 5-Stufen-Gefahrenhierarchie, 7-Punkte-Sicherungs-Kanon aus BVerfGE 141, 220, sieben Eingriffstypen mit Leitentscheidungen.
 
-## Megaprompt-Optimierung
+## Vollprüfung-Optimierung
 
 - `scripts/generate-megaprompt.py`: top-8 bei Plugins > 100 Skills, top-10 bei > 60 Skills, top-15 bei > 20.
-- Alle 209 Megaprompts neu erzeugt; groesste Datei jetzt 187 KB (vorher 276 KB) — Chat-Fenster-tauglich.
+- Alle 209 Vollprüfungs neu erzeugt; groesste Datei jetzt 187 KB (vorher 276 KB) — Chat-Fenster-tauglich.
 
 ## Mehr Formatvorlagen (22 Plugins, +11 ggu. v302)
 
@@ -1753,9 +1753,9 @@ Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
 
 ---
 
-# v302.0.0 — Megaprompts und Formatvorlagen-Paradebeispiele
+# v302.0.0 — Vollprüfungs und Formatvorlagen-Paradebeispiele
 
-## Megaprompts (209 Plugins)
+## Vollprüfungs (209 Plugins)
 
 - Neuer Generator `scripts/generate-megaprompt.py`: konkateniert pro Plugin die Kern-Skills (alle bei <=20 Skills, top-15 bei groesseren Plugins) in eine einzelne Markdown-Datei.
 - Ausgabe in `testakten/megaprompts/<plugin>.md` — verwendbar als single-shot Prompt in Chats ohne Claude-Code-Integration.
@@ -1771,7 +1771,7 @@ Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
 
 ## Plugin-READMEs
 
-- 209 Plugin-READMEs erhalten eine neue Sektion **Experimentell: dieses Plugin auch ohne Claude Code** mit Direkt-Download-Links auf Megaprompt + (sofern vorhanden) Formatvorlagen. Idempotent über HTML-Marker.
+- 209 Plugin-READMEs erhalten eine neue Sektion **Experimentell: dieses Plugin auch ohne Claude Code** mit Direkt-Download-Links auf Vollprüfung + (sofern vorhanden) Formatvorlagen. Idempotent über HTML-Marker.
 
 ## Versions-Bump
 

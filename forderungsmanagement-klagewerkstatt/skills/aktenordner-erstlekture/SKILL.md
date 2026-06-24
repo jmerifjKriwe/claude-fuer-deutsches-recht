@@ -1,9 +1,9 @@
 ---
-name: aktenordner-schnellstart
-description: "Aktenordner-Schnellstart fuer Forderungsakten: liest zuerst vorhandene Dokumente, Dateinamen und sichtbare Aktenlogik, rekonstruiert Parteien, Forderung, Zahlungen, Mahnstand, Fristen und naechsten Prozessschritt und fragt danach nur noch gezielte Luecken ab."
+name: aktenordner-erstlekture
+description: "Aktenordner-Erstlektüre fuer Forderungsakten: liest zuerst vorhandene Dokumente, Dateinamen und sichtbare Aktenlogik, rekonstruiert Parteien, Forderung, Zahlungen, Mahnstand, Fristen und naechsten Prozessschritt und fragt danach nur noch gezielte Luecken ab."
 ---
 
-# Aktenordner-Schnellstart
+# Aktenordner-Erstlektüre
 
 Dieser Skill ist der erste Griff, wenn eine Forderungsakte bereits als Ordner, ZIP, PDF-Buendel, E-Mail-Stapel oder Dateisammlung vorliegt. Er startet nicht mit einem allgemeinen Interview, sondern mit einer Aktenlekture: erst sehen, dann fragen.
 

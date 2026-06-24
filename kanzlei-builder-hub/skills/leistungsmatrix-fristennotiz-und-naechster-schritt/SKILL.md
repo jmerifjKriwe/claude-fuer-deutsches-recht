@@ -1,6 +1,6 @@
 ---
 name: leistungsmatrix-fristennotiz-und-naechster-schritt
-description: "Leistungsmatrix: Fristennotiz und nächster Schritt."
+description: "Leistungsmatrix: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Leistungsmatrix: Fristennotiz und nächster Schritt

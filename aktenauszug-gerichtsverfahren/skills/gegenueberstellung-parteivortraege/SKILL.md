@@ -1,6 +1,6 @@
 ---
 name: gegenueberstellung-parteivortraege
-description: "Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung."
+description: "Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung

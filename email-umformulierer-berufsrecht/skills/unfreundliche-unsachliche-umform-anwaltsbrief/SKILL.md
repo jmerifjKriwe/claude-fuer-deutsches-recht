@@ -1,6 +1,6 @@
 ---
 name: unfreundliche-unsachliche-umform-anwaltsbrief
-description: "Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

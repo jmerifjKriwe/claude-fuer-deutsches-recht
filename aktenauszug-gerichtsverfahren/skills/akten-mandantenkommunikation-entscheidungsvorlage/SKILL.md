@@ -1,6 +1,6 @@
 ---
 name: akten-mandantenkommunikation-entscheidungsvorlage
-description: "Akten: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Akten: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Akten: Mandantenkommunikation und Entscheidungsvorlage

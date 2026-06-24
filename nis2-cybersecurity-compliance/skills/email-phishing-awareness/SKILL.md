@@ -1,6 +1,6 @@
 ---
 name: email-phishing-awareness
-description: "Prüft Phishing-Abwehr und E-Mail-Sicherheit im Nis2 Cybersecurity Compliance."
+description: "Prüft Phishing-Abwehr und E-Mail-Sicherheit im Nis2 Cybersecurity Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Email Phishing Awareness

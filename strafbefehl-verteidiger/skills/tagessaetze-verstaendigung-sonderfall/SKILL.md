@@ -1,6 +1,6 @@
 ---
 name: tagessaetze-verstaendigung-sonderfall
-description: "Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine

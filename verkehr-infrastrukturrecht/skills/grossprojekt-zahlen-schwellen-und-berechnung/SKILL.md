@@ -1,6 +1,6 @@
 ---
 name: grossprojekt-zahlen-schwellen-und-berechnung
-description: "Grossprojekt: Zahlen, Schwellenwerte und Berechnung."
+description: "Grossprojekt: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Grossprojekt: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-compliance-dokumentation-und-akte
-description: "Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk."
+description: "Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk

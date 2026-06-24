@@ -1,6 +1,6 @@
 ---
 name: immo-immobilienrechtliche-live-beweislast
-description: "Immo: Abschlussprodukt und Übergabe im Immobilienrechtspraxis."
+description: "Immo: Abschlussprodukt und Übergabe im Immobilienrechtspraxis. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Immo: Abschlussprodukt und Übergabe

@@ -1,6 +1,6 @@
 ---
 name: messakte-formular-portal-und-einreichung
-description: "Messakte: Formular, Portal und Einreichungslogik."
+description: "Messakte: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Messakte: Formular, Portal und Einreichungslogik

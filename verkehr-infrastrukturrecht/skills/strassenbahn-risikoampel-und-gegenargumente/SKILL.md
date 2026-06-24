@@ -1,6 +1,6 @@
 ---
 name: strassenbahn-risikoampel-und-gegenargumente
-description: "Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien

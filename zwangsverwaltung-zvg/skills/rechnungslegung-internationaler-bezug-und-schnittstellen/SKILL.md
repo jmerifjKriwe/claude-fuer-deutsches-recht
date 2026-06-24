@@ -1,6 +1,6 @@
 ---
 name: rechnungslegung-internationaler-bezug-und-schnittstellen
-description: "Rechnungslegung: Internationaler Bezug und Schnittstellen."
+description: "Rechnungslegung: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rechnungslegung: Internationaler Bezug und Schnittstellen

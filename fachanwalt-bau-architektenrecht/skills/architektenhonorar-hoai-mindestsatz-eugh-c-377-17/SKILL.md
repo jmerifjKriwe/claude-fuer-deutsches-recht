@@ -1,6 +1,6 @@
 ---
 name: architektenhonorar-hoai-mindestsatz-eugh-c-377-17
-description: "HOAI-Mindestsatzunterschreitung nach EuGH C-377/17 und BGH VII ZR 174/19."
+description: "HOAI-Mindestsatzunterschreitung nach EuGH C-377/17 und BGH VII ZR 174/19. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Architektenhonorar Hoai Mindestsatz EuGH C 377 17

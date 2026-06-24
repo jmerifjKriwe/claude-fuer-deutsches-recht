@@ -1,6 +1,6 @@
 ---
 name: interview-fristennotiz-aufsichtssanktion
-description: "Interview: Fristennotiz und nächster Schritt."
+description: "Interview: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Interview: Fristennotiz und nächster Schritt

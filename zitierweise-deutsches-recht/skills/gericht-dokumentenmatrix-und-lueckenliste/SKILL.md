@@ -1,6 +1,6 @@
 ---
 name: gericht-dokumentenmatrix-und-lueckenliste
-description: "Gericht: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Gericht: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gericht: Dokumentenmatrix, Lückenliste und Nachforderung

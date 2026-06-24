@@ -1,6 +1,6 @@
 ---
 name: transkription-beweislast-und-darlegungslast
-description: "Transkription: Beweislast, Darlegungslast und Substantiierung."
+description: "Transkription: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Transkription: Beweislast, Darlegungslast und Substantiierung

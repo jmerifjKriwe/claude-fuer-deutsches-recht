@@ -1,6 +1,6 @@
 ---
 name: blindzitate-internationaler-bezug-und-schnittstellen
-description: "Blindzitate: Internationaler Bezug und Schnittstellen."
+description: "Blindzitate: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Blindzitate: Internationaler Bezug und Schnittstellen

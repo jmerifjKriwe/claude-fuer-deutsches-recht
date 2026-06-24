@@ -1,6 +1,6 @@
 ---
 name: wahlkampf-spendenannahme-pruefung
-description: "Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen."
+description: "Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Spendenannahme Pruefung

@@ -1,6 +1,6 @@
 ---
 name: wochendigest-interessen-wphg-stellungnahmen
-description: "Wochendigest: Mehrparteienkonflikt und Interessenmatrix."
+description: "Wochendigest: Mehrparteienkonflikt und Interessenmatrix. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wochendigest: Mehrparteienkonflikt und Interessenmatrix

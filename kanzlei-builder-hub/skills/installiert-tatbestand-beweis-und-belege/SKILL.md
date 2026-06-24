@@ -1,6 +1,6 @@
 ---
 name: installiert-tatbestand-beweis-und-belege
-description: "Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage

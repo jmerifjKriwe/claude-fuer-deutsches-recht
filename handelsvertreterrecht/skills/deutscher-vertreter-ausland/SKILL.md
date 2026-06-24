@@ -1,6 +1,6 @@
 ---
 name: deutscher-vertreter-ausland
-description: "Prüft deutsche Handelsvertreter im Auslandsgeschäft."
+description: "Prüft deutsche Handelsvertreter im Auslandsgeschäft. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Deutscher Vertreter Ausland

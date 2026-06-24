@@ -1,6 +1,6 @@
 # mittelstand-corporate-ma
 
-**100 Skills** · Stand `v390.0.0`
+**100 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/mittelstand-corporate-ma/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mittelstand-corporate-ma/mittelstand-corporate-ma-werkstatt.md" download>mittelstand-corporate-ma-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mittelstand-corporate-ma/mittelstand-corporate-ma-schnellstart.md" download>mittelstand-corporate-ma-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [mittelstand-corporate-ma-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mittelstand-corporate-ma/mittelstand-corporate-ma-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [mittelstand-corporate-ma-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/mittelstand-corporate-ma/mittelstand-corporate-ma-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [mittelstand-corporate-ma.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mittelstand-corporate-ma.zip) |
 

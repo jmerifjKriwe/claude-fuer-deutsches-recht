@@ -1,6 +1,6 @@
 ---
 name: gelb-formular-portal-und-einreichung
-description: "Gelb: Formular, Portal und Einreichungslogik."
+description: "Gelb: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Gelb: Formular, Portal und Einreichungslogik

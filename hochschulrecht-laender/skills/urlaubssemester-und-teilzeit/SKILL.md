@@ -1,6 +1,6 @@
 ---
 name: urlaubssemester-und-teilzeit
-description: "Prüft Urlaubssemester, Teilzeitstudium und Härtefälle im Hochschulrecht Länder."
+description: "Prüft Urlaubssemester, Teilzeitstudium und Härtefälle im Hochschulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Urlaubssemester Und Teilzeit

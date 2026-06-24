@@ -1,8 +1,8 @@
-# Megaprompt: fachanwalt-familienrecht
+# Vollprüfung: fachanwalt-familienrecht
 
 ## Zusammensetzung
 
-Dieser Megaprompt enthaelt top-8 von 156 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-familienrecht`.
+Dieser Vollprüfung enthaelt top-8 von 156 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-familienrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -13,7 +13,7 @@ Dieser Megaprompt enthaelt top-8 von 156 Skills (gekuerzt fuer Chat-Fenster) des
 5. **orientierung-mandat-fachanwaltschaft** — Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblick…
 6. **erstgespraech-mandatsannahme** — Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstel…
 7. **erstpruefung-und-mandatsziel** — Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/…
-8. **unterhaltsberechnung-megaprompt** — Megaprompt fuer die vollstaendige Unterhaltsberechnung im deutschen Familienrecht. Deckt alle Unterhaltsarten in einem S…
+8. **unterhaltsberechnung-vollpruefung** — Vollprüfung fuer die vollstaendige Unterhaltsberechnung im deutschen Familienrecht. Deckt alle Unterhaltsarten in einem S…
 
 ---
 
@@ -713,17 +713,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `unterhaltsberechnung-megaprompt`
+## Skill: `unterhaltsberechnung-vollpruefung`
 
-_Megaprompt fuer die vollstaendige Unterhaltsberechnung im deutschen Familienrecht. Deckt alle Unterhaltsarten in einem Skill ab: Kindesunterhalt nach Duesseldorfer Tabelle (Altersstufen, Einkommensgruppen, Mindestunterhalt 1612a, Kindergeldanrechnung 1612b, Mangelfall und Verteilung, Volljaehrigen- und Studentennunterhalt, Mehr- und Sonderbedarf), Trennungsunterhalt 1361 BGB (Bedarf nach den ehelichen Lebensverhaeltnissen, Quoten- und Differenzmethode, Erwerbstaetigenbonus, Vorsorgeunterhalt) und nachehelichen Unterhalt (Betreuung 1570, Alter 1571, Krankheit 1572, Erwerbslosigkeit und Aufstockung 1573, Ausbildung 1575, Billigkeit 1576, Befristung 1578b, Verwirkung 1579). Mit Einkommensbereinigung auch fuer Selbststaendige, Rangfolge 1609 BGB, Selbstbehalt und Durchsetzung ueber Auskunft 1605, Stufenklage und Verzug 1613. Vollstaendiger Rechenweg mit ausformuliertem Ergebnis; Tabellenwerte und Rechtsprechung vor Verwendung an amtlicher Quelle verifizieren._
+_Vollprüfung fuer die vollstaendige Unterhaltsberechnung im deutschen Familienrecht. Deckt alle Unterhaltsarten in einem Skill ab: Kindesunterhalt nach Duesseldorfer Tabelle (Altersstufen, Einkommensgruppen, Mindestunterhalt 1612a, Kindergeldanrechnung 1612b, Mangelfall und Verteilung, Volljaehrigen- und Studentennunterhalt, Mehr- und Sonderbedarf), Trennungsunterhalt 1361 BGB (Bedarf nach den ehelichen Lebensverhaeltnissen, Quoten- und Differenzmethode, Erwerbstaetigenbonus, Vorsorgeunterhalt) und nachehelichen Unterhalt (Betreuung 1570, Alter 1571, Krankheit 1572, Erwerbslosigkeit und Aufstockung 1573, Ausbildung 1575, Billigkeit 1576, Befristung 1578b, Verwirkung 1579). Mit Einkommensbereinigung auch fuer Selbststaendige, Rangfolge 1609 BGB, Selbstbehalt und Durchsetzung ueber Auskunft 1605, Stufenklage und Verzug 1613. Vollstaendiger Rechenweg mit ausformuliertem Ergebnis; Tabellenwerte und Rechtsprechung vor Verwendung an amtlicher Quelle verifizieren._
 
-# Megaprompt: Unterhaltsberechnung im Familienrecht
+# Unterhaltsberechnung im Familienrecht: Vollprüfung
 
 ## Zweck und Anwendungsfall
 
-Dieser Skill ist ein vollständiger, eigenständiger Megaprompt für die Berechnung von Unterhalt im deutschen Familienrecht. Er führt von der Mandatslage über die Einkommensermittlung bis zum ausformulierten Berechnungsergebnis und deckt alle praktisch wichtigen Unterhaltsarten ab: Kindesunterhalt (minderjährig und volljährig), Trennungsunterhalt und nachehelichen Unterhalt.
+Dieser Skill ist ein vollständiger, eigenständiger Vollprüfung für die Berechnung von Unterhalt im deutschen Familienrecht. Er führt von der Mandatslage über die Einkommensermittlung bis zum ausformulierten Berechnungsergebnis und deckt alle praktisch wichtigen Unterhaltsarten ab: Kindesunterhalt (minderjährig und volljährig), Trennungsunterhalt und nachehelichen Unterhalt.
 
-Der Skill ist bewusst so geschrieben, dass er auch ohne die übrige Plugin-Umgebung funktioniert: Diese Datei lässt sich als Markdown herunterladen und unverändert in ChatGPT, Claude, Gemini, Perplexity, Mistral oder ein anderes Werkzeug kopieren. Er ersetzt keine anwaltliche Prüfung im Einzelfall.
+Der Skill ist als fachlicher Vollprüfungsbaustein geschrieben. Diese Datei lässt sich als Markdown herunterladen und unverändert in ChatGPT, Claude, Gemini, Perplexity, Mistral oder ein anderes Werkzeug kopieren. Er ersetzt keine anwaltliche Prüfung im Einzelfall.
 
 ## Eingaben
 
@@ -1036,7 +1036,7 @@ Eingabe: M ist barpflichtig (Nettoeinkommen 3.500 EUR), F betreut die beiden Kin
 
 ## Anwendungshinweise
 
-1. Diesen Megaprompt als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.

@@ -1,6 +1,6 @@
 ---
 name: review-behoerden-gericht-und-registerweg
-description: "Review: Behörden-, Gerichts- oder Registerweg im Vertragsrecht."
+description: "Review: Behörden-, Gerichts- oder Registerweg im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Review: Behörden-, Gerichts- oder Registerweg

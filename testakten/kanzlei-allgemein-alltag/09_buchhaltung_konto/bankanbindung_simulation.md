@@ -93,19 +93,19 @@ In einem vollständig integrierten System (z. B. DATEV-Online, Lexware, sevDesk)
 - Echtzeit-Saldoanzeige in der Kanzleisoftware
 - Liquiditätsplanung auf Basis offener Forderungen und Kontostand
 
-Die Akte simuliert diesen Zielzustand mit statischen Dateien, um den Workflow abzubilden, ohne echte Bankdaten zu verwenden.
+Die Akte bildet diesen Zielzustand mit statischen Unterlagen ab und arbeitet ohne Bankzugriff.
 
 ---
 
 ## 5. Datenschutz und Datensicherheit
 
-Die CSV-Dateien im Ordner `09_buchhaltung_konto/` enthalten ausschließlich erfundene Testdaten. In einer echten Implementierung gelten folgende Anforderungen:
+Die CSV-Dateien im Ordner `09_buchhaltung_konto/` enthalten ausschließlich bereitgestellte Buchungsdaten. Im Mandat gelten folgende Anforderungen:
 
 - Zugriffsschutz: Bankkontodaten nur für Jana Reuter und autorisierte Personen (Steuerberater)
 - Verschlüsselung: Kontoauszüge verschlüsselt ablegen (AES-256 oder vergleichbar)
 - Aufbewahrung: § 147 Abs. 1 AO — 10 Jahre
-- Löschung: Testdaten können jederzeit gelöscht werden; echte Daten nicht ohne Prüfung der Aufbewahrungsfrist
+- Löschung: Arbeitsdaten können jederzeit gelöscht werden; Mandatsdaten nicht ohne Prüfung der Aufbewahrungsfrist
 
 ---
 
-*Aktenvermerk BUCH-2026-0003 — Erstellt: 20.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Testdaten.*
+*Aktenvermerk BUCH-2026-0003 — Erstellt: 20.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin. Aktenstand.*

@@ -1,6 +1,6 @@
 ---
 name: nachfrage-abschlussprodukt-und-uebergabe
-description: "Nachfrage: Abschlussprodukt und Übergabe im Vertragsausfueller."
+description: "Nachfrage: Abschlussprodukt und Übergabe im Vertragsausfueller. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Nachfrage: Abschlussprodukt und Übergabe

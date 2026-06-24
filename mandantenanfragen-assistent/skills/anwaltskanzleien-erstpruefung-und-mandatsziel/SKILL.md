@@ -1,6 +1,6 @@
 ---
 name: anwaltskanzleien-erstpruefung-und-mandatsziel
-description: "Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel

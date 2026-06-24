@@ -1,6 +1,6 @@
 ---
 name: suretyship-schriftsatz-brief-und-memo-bausteine
-description: "Suretyship: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Suretyship: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Suretyship: Schriftsatz-, Brief- und Memo-Bausteine

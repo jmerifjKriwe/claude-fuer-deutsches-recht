@@ -1,6 +1,6 @@
 ---
 name: stempelt-internationaler-bezug-und-schnittstellen
-description: "Stempelt: Internationaler Bezug und Schnittstellen."
+description: "Stempelt: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Stempelt: Internationaler Bezug und Schnittstellen

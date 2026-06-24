@@ -1,6 +1,6 @@
 ---
 name: klage-fristennotiz-vorfall-phish-banking
-description: "Klage: Fristennotiz und nächster Schritt."
+description: "Klage: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Klage: Fristennotiz und nächster Schritt

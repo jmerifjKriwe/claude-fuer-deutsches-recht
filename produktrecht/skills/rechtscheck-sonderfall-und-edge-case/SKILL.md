@@ -1,6 +1,6 @@
 ---
 name: rechtscheck-sonderfall-und-edge-case
-description: "Rechtscheck: Sonderfall und Edge-Case-Prüfung im Produktrecht."
+description: "Rechtscheck: Sonderfall und Edge-Case-Prüfung im Produktrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rechtscheck: Sonderfall und Edge-Case-Prüfung

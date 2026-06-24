@@ -1,6 +1,6 @@
 ---
 name: mechanik-erstpruefung-und-mandatsziel
-description: "Mechanik: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Mechanik: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mechanik: Erstprüfung, Rollenklärung und Mandatsziel

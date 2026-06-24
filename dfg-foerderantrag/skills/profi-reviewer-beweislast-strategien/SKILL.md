@@ -1,6 +1,6 @@
 ---
 name: profi-reviewer-beweislast-strategien
-description: "Profi: Behörden-, Gerichts- oder Registerweg."
+description: "Profi: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Profi: Behörden-, Gerichts- oder Registerweg

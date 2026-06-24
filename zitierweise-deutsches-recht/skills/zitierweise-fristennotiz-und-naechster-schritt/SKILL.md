@@ -1,6 +1,6 @@
 ---
 name: zitierweise-fristennotiz-und-naechster-schritt
-description: "Zitierweise: Fristennotiz und nächster Schritt."
+description: "Zitierweise: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zitierweise: Fristennotiz und nächster Schritt

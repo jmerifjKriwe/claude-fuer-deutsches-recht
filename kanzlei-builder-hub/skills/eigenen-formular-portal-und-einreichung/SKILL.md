@@ -1,6 +1,6 @@
 ---
 name: eigenen-formular-portal-und-einreichung
-description: "Eigenen: Formular, Portal und Einreichungslogik."
+description: "Eigenen: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Eigenen: Formular, Portal und Einreichungslogik

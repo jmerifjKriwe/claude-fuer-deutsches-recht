@@ -1,6 +1,6 @@
 ---
 name: immissionen-compliance-dokumentation-und-akte
-description: "Immissionen: Compliance-Dokumentation und Aktenvermerk."
+description: "Immissionen: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Immissionen: Compliance-Dokumentation und Aktenvermerk

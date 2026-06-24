@@ -1,6 +1,6 @@
 ---
 name: sachbeihilfe-bis-200k-eigenanteil
-description: "Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg

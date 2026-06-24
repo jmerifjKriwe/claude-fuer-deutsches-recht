@@ -1,6 +1,6 @@
 ---
 name: ins-010-closed-periods
-description: "Organisiert Closed Periods, Blackout Windows, Ausnahmen und Freigabeprozesse."
+description: "Organisiert Closed Periods, Blackout Windows, Ausnahmen und Freigabeprozesse. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Closed Periods

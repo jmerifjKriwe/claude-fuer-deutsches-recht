@@ -1,6 +1,6 @@
 ---
 name: rechtsberatung-uebergabe-schriftsatz-brief-memo-bausteine-status
-description: "Übergabe: Schriftsatz-, Brief- und Memo-Bausteine im Rechtsberatungsstelle."
+description: "Übergabe: Schriftsatz-, Brief- und Memo-Bausteine im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Übergabe: Schriftsatz-, Brief- und Memo-Bausteine

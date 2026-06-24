@@ -1,6 +1,6 @@
 ---
 name: attest-und-pruefungsunfaehigkeit-schule
-description: "Prüft Atteste und Prüfungsunfähigkeit in Schule im Schulrecht Länder."
+description: "Prüft Atteste und Prüfungsunfähigkeit in Schule im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Attest Und Prüfungsunfaehigkeit Schule

@@ -1,6 +1,6 @@
 ---
 name: fokus-compliance-dokumentation-und-akte
-description: "Fokus: Compliance-Dokumentation und Aktenvermerk."
+description: "Fokus: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Fokus: Compliance-Dokumentation und Aktenvermerk

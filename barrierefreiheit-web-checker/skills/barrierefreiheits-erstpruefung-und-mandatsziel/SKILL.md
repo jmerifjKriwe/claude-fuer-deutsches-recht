@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheits-erstpruefung-und-mandatsziel
-description: "Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel

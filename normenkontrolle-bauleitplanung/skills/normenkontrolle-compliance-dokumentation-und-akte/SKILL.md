@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-compliance-dokumentation-und-akte
-description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk."
+description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Normenkontrolle: Compliance-Dokumentation und Aktenvermerk

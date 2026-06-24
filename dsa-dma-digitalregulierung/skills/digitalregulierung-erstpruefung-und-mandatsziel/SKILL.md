@@ -1,6 +1,6 @@
 ---
 name: digitalregulierung-erstpruefung-und-mandatsziel
-description: "Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel

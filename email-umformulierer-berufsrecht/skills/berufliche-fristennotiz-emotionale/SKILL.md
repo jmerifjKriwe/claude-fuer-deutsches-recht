@@ -1,6 +1,6 @@
 ---
 name: berufliche-fristennotiz-emotionale
-description: "Berufliche: Fristennotiz und nächster Schritt."
+description: "Berufliche: Fristennotiz und nächster Schritt. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Berufliche: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: phishing-tatbestand-beweis-und-belege
-description: "Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage

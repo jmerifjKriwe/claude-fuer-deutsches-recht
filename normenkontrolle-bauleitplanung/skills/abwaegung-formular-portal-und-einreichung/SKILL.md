@@ -1,6 +1,6 @@
 ---
 name: abwaegung-formular-portal-und-einreichung
-description: "Abwaegung: Formular, Portal und Einreichungslogik."
+description: "Abwaegung: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Abwaegung: Formular, Portal und Einreichungslogik

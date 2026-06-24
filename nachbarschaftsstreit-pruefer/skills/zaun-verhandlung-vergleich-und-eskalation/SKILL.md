@@ -1,6 +1,6 @@
 ---
 name: zaun-verhandlung-vergleich-und-eskalation
-description: "Zaun: Verhandlung, Vergleich und Eskalation."
+description: "Zaun: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zaun: Verhandlung, Vergleich und Eskalation

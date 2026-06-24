@@ -112,3 +112,7 @@ Beweisstation: Nach dem derzeitigen Aktenstand ist [Tatsache] unstreitig, weil [
 ## Beitrag zum Streitstoff in diesem Verfahren
 
 Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation bleiben getrennt. Er benennt zu jedem Streitpunkt die tragende Tatsache, den Vortrag der Gegenseite, das Beweisangebot, die Beweislast und die Rechtsfolge. Fehlt eine Station, wird nicht frei ergänzt, sondern als Lücke mit Anschlussverfügung ausgewiesen.
+
+## v392 Votumsstandard
+
+Das Votum nennt je Beweisthema: streitige Tatsache, Erheblichkeit, Beweislast, angebotenes Beweismittel, voraussichtlicher Beweisbeschluss und mögliche Folgen nach Beweisaufnahme. Eine rechtliche Bewertung ersetzt keinen Beweis. Antizipierte Beweiswürdigung wird nur als Risiko, nicht als Ergebnis ausgegeben.

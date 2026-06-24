@@ -1,6 +1,6 @@
 ---
 name: regulator-zahlen-schwellen-und-berechnung
-description: "Regulator: Zahlen, Schwellenwerte und Berechnung."
+description: "Regulator: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Regulator: Zahlen, Schwellenwerte und Berechnung

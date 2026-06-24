@@ -1,6 +1,6 @@
 ---
 name: betrieblichen-drei-duesseldorfer-sonderfall
-description: "Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage

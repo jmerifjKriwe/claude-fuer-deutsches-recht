@@ -1,6 +1,6 @@
 ---
 name: vorstandshaftung
-description: "Prüft Organhaftung bei ignorierten Hinweisen im Hinweisgeberschutz Compliance."
+description: "Prüft Organhaftung bei ignorierten Hinweisen im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vorstandshaftung

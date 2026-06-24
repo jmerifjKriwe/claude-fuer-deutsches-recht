@@ -1,6 +1,6 @@
 ---
 name: optional-beweislast-piercing-sonderfall
-description: "Optional: Beweislast, Darlegungslast und Substantiierung."
+description: "Optional: Beweislast, Darlegungslast und Substantiierung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Optional: Beweislast, Darlegungslast und Substantiierung

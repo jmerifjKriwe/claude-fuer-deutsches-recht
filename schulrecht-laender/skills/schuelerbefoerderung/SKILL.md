@@ -1,6 +1,6 @@
 ---
 name: schuelerbefoerderung
-description: "Prüft Schülerbeförderung und Kostenerstattung im Schulrecht Länder."
+description: "Prüft Schülerbeförderung und Kostenerstattung im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schuelerbefoerderung

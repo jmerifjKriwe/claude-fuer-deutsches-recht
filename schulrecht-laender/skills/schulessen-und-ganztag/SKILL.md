@@ -1,6 +1,6 @@
 ---
 name: schulessen-und-ganztag
-description: "Prüft Ganztag, OGS, Schulessen und Betreuung im Schulrecht Länder."
+description: "Prüft Ganztag, OGS, Schulessen und Betreuung im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schulessen Und Ganztag

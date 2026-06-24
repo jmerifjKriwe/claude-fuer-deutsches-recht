@@ -1,6 +1,6 @@
 ---
 name: kleine-verhandlung-vergleich-und-eskalation
-description: "Kleine: Verhandlung, Vergleich und Eskalation."
+description: "Kleine: Verhandlung, Vergleich und Eskalation. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Kleine: Verhandlung, Vergleich und Eskalation

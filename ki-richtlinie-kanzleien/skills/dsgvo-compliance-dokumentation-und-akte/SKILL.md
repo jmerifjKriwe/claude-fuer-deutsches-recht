@@ -1,6 +1,6 @@
 ---
 name: dsgvo-compliance-dokumentation-und-akte
-description: "DSGVO: Compliance-Dokumentation und Aktenvermerk."
+description: "DSGVO: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # DSGVO: Compliance-Dokumentation und Aktenvermerk

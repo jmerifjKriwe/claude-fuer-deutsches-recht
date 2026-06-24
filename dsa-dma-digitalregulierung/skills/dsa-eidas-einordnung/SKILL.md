@@ -1,6 +1,6 @@
 ---
 name: dsa-eidas-einordnung
-description: "DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage."
+description: "DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage

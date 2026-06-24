@@ -1,6 +1,6 @@
 ---
 name: wettbewerbsverbot-mitarbeiter-paragraf-74-hgb-bgh-ii-zr-189-12
-description: "Nachvertragliches Wettbewerbsverbot Paragraf 74 HGB mit BGH II ZR 189/12."
+description: "Nachvertragliches Wettbewerbsverbot Paragraf 74 HGB mit BGH II ZR 189/12. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Wettbewerbsverbot Mitarbeiter Paragraf 74 Hgb BGH Ii Zr 189 12

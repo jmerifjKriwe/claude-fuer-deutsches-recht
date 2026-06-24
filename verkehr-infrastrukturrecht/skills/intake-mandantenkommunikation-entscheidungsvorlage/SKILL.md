@@ -1,6 +1,6 @@
 ---
 name: intake-mandantenkommunikation-entscheidungsvorlage
-description: "Intake: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Intake: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Intake: Mandantenkommunikation und Entscheidungsvorlage

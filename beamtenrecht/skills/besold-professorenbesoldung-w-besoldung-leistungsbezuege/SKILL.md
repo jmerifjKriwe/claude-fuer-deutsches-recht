@@ -1,6 +1,6 @@
 ---
 name: besold-professorenbesoldung-w-besoldung-leistungsbezuege
-description: "Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge im Beamtenrecht."
+description: "Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Besold Professorenbesoldung W Besoldung Leistungsbezuege

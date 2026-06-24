@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-erstpruefung-und-mandatsziel
-description: "Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel

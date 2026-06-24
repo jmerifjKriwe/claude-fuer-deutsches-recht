@@ -1,6 +1,6 @@
 ---
 name: monats-risikoampel-und-gegenargumente
-description: "Monats: Risikoampel, Gegenargumente und Verteidigungslinien."
+description: "Monats: Risikoampel, Gegenargumente und Verteidigungslinien. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Monats: Risikoampel, Gegenargumente und Verteidigungslinien

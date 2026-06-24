@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeit-zahlen-schwellen-und-berechnung
-description: "Zuständigkeit: Zahlen, Schwellenwerte und Berechnung im Prozessrecht."
+description: "Zuständigkeit: Zahlen, Schwellenwerte und Berechnung im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Zuständigkeit: Zahlen, Schwellenwerte und Berechnung

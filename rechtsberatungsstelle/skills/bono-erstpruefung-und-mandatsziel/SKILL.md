@@ -1,6 +1,6 @@
 ---
 name: bono-erstpruefung-und-mandatsziel
-description: "Bono: Erstprüfung, Rollenklärung und Mandatsziel im Rechtsberatungsstelle."
+description: "Bono: Erstprüfung, Rollenklärung und Mandatsziel im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Bono: Erstprüfung, Rollenklärung und Mandatsziel

@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Demonstrations-Testakte für das Plugin `datenschutzrecht`. Alle Personen, Aktenzeichen und Sachverhalte sind fiktiv und dienen ausschliesslich Test- und Demonstrationszwecken.
+Arbeitsakte für das Plugin `datenschutzrecht`.
 
 ## Mandantin
 

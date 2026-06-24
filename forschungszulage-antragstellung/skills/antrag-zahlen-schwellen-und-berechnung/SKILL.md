@@ -1,6 +1,6 @@
 ---
 name: antrag-zahlen-schwellen-und-berechnung
-description: "Antrag: Zahlen, Schwellenwerte und Berechnung."
+description: "Antrag: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Antrag: Zahlen, Schwellenwerte und Berechnung

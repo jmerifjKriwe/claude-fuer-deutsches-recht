@@ -1,6 +1,6 @@
 ---
 name: abitur-und-abschlusspruefungen
-description: "Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Länder."
+description: "Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Länder. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Abitur Und Abschlusspruefungen

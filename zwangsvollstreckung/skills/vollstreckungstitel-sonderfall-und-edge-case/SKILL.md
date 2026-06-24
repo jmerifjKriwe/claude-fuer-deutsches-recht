@@ -1,6 +1,6 @@
 ---
 name: vollstreckungstitel-sonderfall-und-edge-case
-description: "Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung im Zwangsvollstreckung."
+description: "Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung im Zwangsvollstreckung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung

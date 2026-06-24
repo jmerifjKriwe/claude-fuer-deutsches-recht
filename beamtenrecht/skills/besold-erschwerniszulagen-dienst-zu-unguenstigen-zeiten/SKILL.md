@@ -1,6 +1,6 @@
 ---
 name: besold-erschwerniszulagen-dienst-zu-unguenstigen-zeiten
-description: "Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten im Beamtenrecht."
+description: "Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten im Beamtenrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten

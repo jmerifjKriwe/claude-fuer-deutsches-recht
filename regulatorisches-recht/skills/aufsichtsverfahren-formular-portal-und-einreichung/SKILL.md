@@ -1,6 +1,6 @@
 ---
 name: aufsichtsverfahren-formular-portal-und-einreichung
-description: "Aufsichtsverfahren: Formular, Portal und Einreichungslogik."
+description: "Aufsichtsverfahren: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aufsichtsverfahren: Formular, Portal und Einreichungslogik

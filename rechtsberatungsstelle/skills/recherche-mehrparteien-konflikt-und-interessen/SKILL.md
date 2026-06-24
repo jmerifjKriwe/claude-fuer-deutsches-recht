@@ -1,6 +1,6 @@
 ---
 name: recherche-mehrparteien-konflikt-und-interessen
-description: "Recherche: Mehrparteienkonflikt und Interessenmatrix im Rechtsberatungsstelle."
+description: "Recherche: Mehrparteienkonflikt und Interessenmatrix im Rechtsberatungsstelle. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Recherche: Mehrparteienkonflikt und Interessenmatrix

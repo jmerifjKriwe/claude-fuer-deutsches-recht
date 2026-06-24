@@ -1,6 +1,6 @@
 ---
 name: business-compliance-dokumentation-und-akte
-description: "Business: Compliance-Dokumentation und Aktenvermerk im Vertragsrecht."
+description: "Business: Compliance-Dokumentation und Aktenvermerk im Vertragsrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Business: Compliance-Dokumentation und Aktenvermerk

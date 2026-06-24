@@ -1,6 +1,6 @@
 ---
 name: mandantenanfragen-anfrage-eingang-anrede
-description: "Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg

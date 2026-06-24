@@ -1,6 +1,6 @@
 ---
 name: treuhandkonto-versteigerung
-description: "Treuhandkonto: Behörden-, Gerichts- oder Registerweg."
+description: "Treuhandkonto: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Treuhandkonto: Behörden-, Gerichts- oder Registerweg

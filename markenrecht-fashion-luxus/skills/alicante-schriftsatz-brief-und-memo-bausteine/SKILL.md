@@ -1,6 +1,6 @@
 ---
 name: alicante-schriftsatz-brief-und-memo-bausteine
-description: "Alicante: Schriftsatz-, Brief- und Memo-Bausteine."
+description: "Alicante: Schriftsatz-, Brief- und Memo-Bausteine. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Alicante: Schriftsatz-, Brief- und Memo-Bausteine

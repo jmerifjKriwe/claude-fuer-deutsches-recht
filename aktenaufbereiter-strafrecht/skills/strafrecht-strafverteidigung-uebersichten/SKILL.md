@@ -1,6 +1,6 @@
 ---
 name: strafrecht-strafverteidigung-uebersichten
-description: "Strafrecht: Abschlussprodukt und Übergabe."
+description: "Strafrecht: Abschlussprodukt und Übergabe. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Strafrecht: Abschlussprodukt und Übergabe

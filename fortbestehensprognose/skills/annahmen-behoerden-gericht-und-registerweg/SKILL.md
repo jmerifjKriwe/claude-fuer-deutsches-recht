@@ -1,6 +1,6 @@
 ---
 name: annahmen-behoerden-gericht-und-registerweg
-description: "Annahmen: Behörden-, Gerichts- oder Registerweg im Fortbestehensprognose."
+description: "Annahmen: Behörden-, Gerichts- oder Registerweg im Fortbestehensprognose. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Annahmen: Behörden-, Gerichts- oder Registerweg

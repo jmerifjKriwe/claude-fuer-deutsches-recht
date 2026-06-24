@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-vs-anhoerung
-description: "Balanciert Vertraulichkeit mit Anhörungspflichten."
+description: "Balanciert Vertraulichkeit mit Anhörungspflichten. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vertraulichkeit Vs Anhoerung

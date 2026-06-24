@@ -1,6 +1,6 @@
 ---
 name: community-leistungsmatrix-fristennotiz
-description: "Community: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Community: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Community: Fristen, Form, Zuständigkeit und Rechtsweg

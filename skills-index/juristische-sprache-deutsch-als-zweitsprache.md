@@ -1,6 +1,6 @@
 # juristische-sprache-deutsch-als-zweitsprache
 
-**55 Skills** · Stand `v390.0.0`
+**55 Skills** · Stand `v392.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/juristische-sprache-deutsch-als-zweitsprache/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Grosser Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-werkstatt.md" download>juristische-sprache-deutsch-als-zweitsprache-werkstatt.md</a> |
-| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-schnellstart.md" download>juristische-sprache-deutsch-als-zweitsprache-schnellstart.md</a> |
+| **Grosser Prompt (Werkstatt)** | Markdown | [juristische-sprache-deutsch-als-zweitsprache-werkstatt.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-werkstatt.md) |
+| **Kleiner Prompt (Schnellstart, hoechstens 7500 Zeichen)** | Markdown | [juristische-sprache-deutsch-als-zweitsprache-schnellstart.md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [juristische-sprache-deutsch-als-zweitsprache.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/juristische-sprache-deutsch-als-zweitsprache.zip) |
 

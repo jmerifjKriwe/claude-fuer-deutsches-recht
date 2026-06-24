@@ -1,6 +1,6 @@
 ---
 name: vertragserstellung-behoerden-gericht-und-registerweg
-description: "Vertragserstellung: Behörden-, Gerichts- oder Registerweg."
+description: "Vertragserstellung: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Vertragserstellung: Behörden-, Gerichts- oder Registerweg

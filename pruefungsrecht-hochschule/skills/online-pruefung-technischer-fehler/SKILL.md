@@ -1,6 +1,6 @@
 ---
 name: online-pruefung-technischer-fehler
-description: "Prüft technische Fehler in Online-Prüfungen."
+description: "Prüft technische Fehler in Online-Prüfungen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Online Pruefung Technischer Fehler

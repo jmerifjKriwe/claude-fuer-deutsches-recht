@@ -1,6 +1,6 @@
 ---
 name: auskunft-und-einsicht
-description: "Prüft Auskunfts- und Einsichtsrechte."
+description: "Prüft Auskunfts- und Einsichtsrechte. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Auskunft Und Einsicht

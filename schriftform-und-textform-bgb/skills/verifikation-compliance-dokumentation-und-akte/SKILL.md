@@ -1,6 +1,6 @@
 ---
 name: verifikation-compliance-dokumentation-und-akte
-description: "Verifikation: Compliance-Dokumentation und Aktenvermerk."
+description: "Verifikation: Compliance-Dokumentation und Aktenvermerk. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Verifikation: Compliance-Dokumentation und Aktenvermerk

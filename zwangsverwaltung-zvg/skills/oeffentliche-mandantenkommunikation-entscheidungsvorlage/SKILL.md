@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-mandantenkommunikation-entscheidungsvorlage
-description: "Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage

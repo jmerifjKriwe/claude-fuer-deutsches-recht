@@ -1,6 +1,6 @@
 ---
 name: rechtsargumente-internationaler-bezug-und-schnittstellen
-description: "Rechtsargumente: Internationaler Bezug und Schnittstellen."
+description: "Rechtsargumente: Internationaler Bezug und Schnittstellen. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Rechtsargumente: Internationaler Bezug und Schnittstellen

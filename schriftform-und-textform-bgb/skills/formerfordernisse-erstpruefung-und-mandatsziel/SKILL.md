@@ -1,6 +1,6 @@
 ---
 name: formerfordernisse-erstpruefung-und-mandatsziel
-description: "Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel

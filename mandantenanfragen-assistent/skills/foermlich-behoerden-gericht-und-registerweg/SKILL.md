@@ -1,6 +1,6 @@
 ---
 name: foermlich-behoerden-gericht-und-registerweg
-description: "Foermlich: Behörden-, Gerichts- oder Registerweg."
+description: "Foermlich: Behörden-, Gerichts- oder Registerweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Foermlich: Behörden-, Gerichts- oder Registerweg

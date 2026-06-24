@@ -1,6 +1,6 @@
 ---
 name: redteam-hochschulrecht-qualitygate
-description: "Finaler Qualitätscheck für Hochschulrechtsausgaben."
+description: "Finaler Qualitätscheck für Hochschulrechtsausgaben. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Redteam Hochschulrecht Qualitygate

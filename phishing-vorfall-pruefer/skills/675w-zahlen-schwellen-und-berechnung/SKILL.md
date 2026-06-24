@@ -1,6 +1,6 @@
 ---
 name: 675w-zahlen-schwellen-und-berechnung
-description: "675W: Zahlen, Schwellenwerte und Berechnung."
+description: "675W: Zahlen, Schwellenwerte und Berechnung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # 675W: Zahlen, Schwellenwerte und Berechnung

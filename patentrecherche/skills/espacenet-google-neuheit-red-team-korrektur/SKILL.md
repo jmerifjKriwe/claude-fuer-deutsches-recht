@@ -1,6 +1,6 @@
 ---
 name: espacenet-google-neuheit-red-team-korrektur
-description: "Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung im Patentrecherche."
+description: "Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung im Patentrecherche. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung

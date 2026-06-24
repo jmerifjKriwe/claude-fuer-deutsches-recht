@@ -1,6 +1,6 @@
 ---
 name: aufstellungsbeschluss-mandantenentscheidung
-description: "Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage

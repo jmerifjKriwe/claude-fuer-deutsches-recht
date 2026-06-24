@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz
-description: "Prüft Eilrechtsschutz gegen Repressalien im Hinweisgeberschutz Compliance."
+description: "Prüft Eilrechtsschutz gegen Repressalien im Hinweisgeberschutz Compliance. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einstweiliger Rechtsschutz

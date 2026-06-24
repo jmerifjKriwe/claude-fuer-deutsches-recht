@@ -1,6 +1,6 @@
 ---
 name: quality-formular-portal-und-einreichung
-description: "Quality: Formular, Portal und Einreichungslogik."
+description: "Quality: Formular, Portal und Einreichungslogik. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Quality: Formular, Portal und Einreichungslogik

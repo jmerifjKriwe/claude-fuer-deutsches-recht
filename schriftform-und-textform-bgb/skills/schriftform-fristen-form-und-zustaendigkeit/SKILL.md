@@ -1,6 +1,6 @@
 ---
 name: schriftform-fristen-form-und-zustaendigkeit
-description: "Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg."
+description: "Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg

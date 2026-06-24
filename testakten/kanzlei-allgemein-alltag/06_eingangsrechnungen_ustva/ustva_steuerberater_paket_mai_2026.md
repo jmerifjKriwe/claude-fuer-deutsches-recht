@@ -97,4 +97,4 @@ Dieses Paket ist ausschließlich Vorbereitung. Die Steuerrechte, Prüfung der Ke
 ---
 
 *Erstellt: 20.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin*
-*Testdaten — kein echtes Steuerdokument.*
+*Aktenstand — kein echtes Steuerdokument.*

@@ -1,6 +1,6 @@
 ---
 name: einsteiger-mandantenkommunikation-entscheidungsvorlage
-description: "Einsteiger: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Einsteiger: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Einsteiger: Mandantenkommunikation und Entscheidungsvorlage

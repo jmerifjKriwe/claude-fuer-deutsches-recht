@@ -67,3 +67,7 @@ Nach BAG, Urteil v. 20.02.2001 – 9 AZR 44/00 und BAG, Urteil v. 11.12.2012 –
 ## Ausgabeformat
 
 Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
+
+## v392 Schlussformel nach Sonderzweck
+
+Bei Zwischenzeugnissen wird kein Ausscheiden behauptet; der Abschluss dankt für die bisherige Mitarbeit und erwartet eine weitere gute Zusammenarbeit. Bei Zeugnisberichtigung wird geprüft, ob eine frühere Schlussformel bereits erteilt war. Bei Prozessvergleich wird die Schlussformel als Verhandlungsbestandteil formuliert, aber nicht als zwingender gesetzlicher Anspruch dargestellt. Bei Arbeitgeberkündigung wird Bedauern nur verwendet, wenn es zum Sachverhalt passt.

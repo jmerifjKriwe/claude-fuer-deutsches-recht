@@ -1,6 +1,6 @@
 ---
 name: quality-mandantenkommunikation-entscheidungsvorlage
-description: "Quality: Mandantenkommunikation und Entscheidungsvorlage."
+description: "Quality: Mandantenkommunikation und Entscheidungsvorlage. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Quality: Mandantenkommunikation und Entscheidungsvorlage

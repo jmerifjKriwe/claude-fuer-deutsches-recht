@@ -1,6 +1,6 @@
 ---
 name: inventar-dokumentenmatrix-und-lueckenliste
-description: "Inventar: Dokumentenmatrix, Lückenliste und Nachforderung."
+description: "Inventar: Dokumentenmatrix, Lückenliste und Nachforderung. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Inventar: Dokumentenmatrix, Lückenliste und Nachforderung

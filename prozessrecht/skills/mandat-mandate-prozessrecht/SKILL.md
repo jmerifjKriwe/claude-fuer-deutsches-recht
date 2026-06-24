@@ -1,6 +1,6 @@
 ---
 name: mandat-mandate-prozessrecht
-description: "Mandat: Formular, Portal und Einreichungslogik im Prozessrecht."
+description: "Mandat: Formular, Portal und Einreichungslogik im Prozessrecht. Liefert ein belastbares Arbeitsprodukt mit Rückfragen, Normencheck und nächstem Schritt."
 ---
 
 # Mandat: Formular, Portal und Einreichungslogik
