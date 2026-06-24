@@ -3,22 +3,20 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Dies ist eines von 232 Plugins dieser Sammlung. Jedes Plugin enthält eine Familie zusammenhängender Skills (`SKILL.md`-Dateien), passende Hilfsdateien, Prüfraster, Vorlagen und in vielen Fällen eine eigene Arbeitsakte. Der vorgesehene Hauptweg ist die Installation über den Marketplace, alternativ als einzelnes Plugin-ZIP. Dann läuft das Plugin mit seinen Skills, Werkzeugen und Testdaten in der dafür vorgesehenen Plugin-Umgebung.
+US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border.
 
-Damit das Plugin auch ohne Plugin-Setup brauchbar bleibt, gibt es zusätzlich zwei reine Markdown-Prompts: einen ausführlichen Werkstatt-Prompt und einen kompakten Schnellstart-Prompt. Beide sind einzelne `.md`-Dateien, die man in eine geeignete Arbeitsumgebung ziehen, einfügen oder per Copy-and-Paste verwenden kann.
+Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 ## Downloads
-
-In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Markdown-Alternativen, am Schluss die zugehörigen Testakten.
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`us-bankruptcy-code.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-bankruptcy-code/us-bankruptcy-code-werkstatt.md" download><code>us-bankruptcy-code-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-bankruptcy-code/us-bankruptcy-code-schnellstart.md" download><code>us-bankruptcy-code-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code-werkstatt.md" download><code>us-bankruptcy-code-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code-schnellstart.md" download><code>us-bankruptcy-code-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -179,6 +177,10 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `bankruptcy-appeals` | Prüft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path im US Bankruptcy Code. |
 | `board-duties-cash-collateral-chapter7-asset` | Prüft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives im US Bankruptcy Code. |
 | `cash-collateral-363` | Prüft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders im US Bankruptcy Code. |
+| `chapter7-asset-distribution` | Prüft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing im US Bankruptcy Code. |
+| `chapter7-liquidation` | Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution im US Bankruptcy Code. |
+| `chapter9-municipal-plan-chapter11-dip` | Prüft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities im US Bankruptcy Code. |
+| `chapter9-plan` | Prüft municipal plan, limited court power, special revenues, bondholders, pensions and essential services im US Bankruptcy Code. |
 | `chapter11-dip` | Prüft DIP powers, duties, reporting, fiduciary obligations, operations and supervision im US Bankruptcy Code. |
 | `chapter12-family-farmer` | Prüft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations im US Bankruptcy Code. |
 | `chapter13-codebtor-stay-discharge-eligibility` | Prüft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy im US Bankruptcy Code. |
@@ -187,10 +189,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `chapter13-plan` | Prüft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility im US Bankruptcy Code. |
 | `chapter15-comity-recognition-claim-objection` | Prüft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception im US Bankruptcy Code. |
 | `chapter15-recognition` | Prüft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief im US Bankruptcy Code. |
-| `chapter7-asset-distribution` | Prüft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing im US Bankruptcy Code. |
-| `chapter7-liquidation` | Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution im US Bankruptcy Code. |
-| `chapter9-municipal-plan-chapter11-dip` | Prüft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities im US Bankruptcy Code. |
-| `chapter9-plan` | Prüft municipal plan, limited court power, special revenues, bondholders, pensions and essential services im US Bankruptcy Code. |
 | `claim-objection-502` | Prüft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement im US Bankruptcy Code. |
 | `claims-proof-claim-501` | Prüft claim filing, bar date, secured/unsecured/priority status, documentation and amendments im US Bankruptcy Code. |
 | `claims-trading-confirmation-contested-matters` | Prüft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy im US Bankruptcy Code. |

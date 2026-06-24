@@ -3,22 +3,20 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Dies ist eines von 232 Plugins dieser Sammlung. Jedes Plugin enthält eine Familie zusammenhängender Skills (`SKILL.md`-Dateien), passende Hilfsdateien, Prüfraster, Vorlagen und in vielen Fällen eine eigene Arbeitsakte. Der vorgesehene Hauptweg ist die Installation über den Marketplace, alternativ als einzelnes Plugin-ZIP. Dann läuft das Plugin mit seinen Skills, Werkzeugen und Testdaten in der dafür vorgesehenen Plugin-Umgebung.
+Wahlkampfrecht und Wahlkampfpraxis für Parteien, Kandidierende und Kampagnenteams: Strategie, Plakatierung, Social Media, Datenschutz, politische Werbung, Parteienfinanzierung, Desinformation, Veranstaltungen, Schulen, Podien, Wahltag und Compliance.
 
-Damit das Plugin auch ohne Plugin-Setup brauchbar bleibt, gibt es zusätzlich zwei reine Markdown-Prompts: einen ausführlichen Werkstatt-Prompt und einen kompakten Schnellstart-Prompt. Beide sind einzelne `.md`-Dateien, die man in eine geeignete Arbeitsumgebung ziehen, einfügen oder per Copy-and-Paste verwenden kann.
+Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 ## Downloads
-
-In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Markdown-Alternativen, am Schluss die zugehörigen Testakten.
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`wahlkampfrecht-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wahlkampfrecht-praxis.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/wahlkampfrecht-praxis/wahlkampfrecht-praxis-werkstatt.md" download><code>wahlkampfrecht-praxis-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/wahlkampfrecht-praxis/wahlkampfrecht-praxis-schnellstart.md" download><code>wahlkampfrecht-praxis-schnellstart.md</code></a> |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wahlkampfrecht-praxis-werkstatt.md" download><code>wahlkampfrecht-praxis-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wahlkampfrecht-praxis-schnellstart.md" download><code>wahlkampfrecht-praxis-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | [`testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026.zip) (Wahlkampfakte Morgenstadt 2026 - Landesliste, Plakatierung und digitale Lage) |
 
-> Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlaegigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -58,16 +56,16 @@ Starte mit `wahlkampf-allgemeiner-kaltstart` oder `wahlkampf-ebenen-und-wahlart-
 
 ## Amtliche und frei prüfbare Startquellen
 
-- [Grundgesetz]() - insbesondere Art. 5, Art. 21 und Wahlrechtsgrundsätze.
-- [Bundeswahlgesetz]() und [Bundeswahlordnung]() für Bundestagswahlen.
-- [Europawahlgesetz]() und [Europawahlordnung]() für Europawahlen.
-- [Parteiengesetz]() für Parteienfinanzierung, Spenden, Rechenschaft und Parteiorganisation.
-- [Strafgesetzbuch]() zu Wahlstraftaten, Nötigung, Beleidigung, Sachbeschädigung und Urkundenthemen.
-- [Wahlprüfungsgesetz]() für Wahlprüfung nach Bundestagswahlen.
-- [Bundeswahlleiterin: Wahlwerbung](), [unzulässige Wahlpropaganda]() und [Fakten gegen Desinformation]().
-- [Deutscher Bundestag: Parteienfinanzierung]() und [Parteispenden über 35.000 EUR]().
-- [EU-Kommission: Transparency and targeting of political advertising]() zur Verordnung (EU) 2024/900, die seit 10. Oktober 2025 voll gilt.
-- [DSGVO]() und [BDSG]() für Datenverarbeitung im Wahlkampf.
+- Grundgesetz - insbesondere Art. 5, Art. 21 und Wahlrechtsgrundsätze.
+- Bundeswahlgesetz und Bundeswahlordnung für Bundestagswahlen.
+- Europawahlgesetz und Europawahlordnung für Europawahlen.
+- Parteiengesetz für Parteienfinanzierung, Spenden, Rechenschaft und Parteiorganisation.
+- Strafgesetzbuch zu Wahlstraftaten, Nötigung, Beleidigung, Sachbeschädigung und Urkundenthemen.
+- Wahlprüfungsgesetz für Wahlprüfung nach Bundestagswahlen.
+- Bundeswahlleiterin: Wahlwerbung, unzulässige Wahlpropaganda und Fakten gegen Desinformation.
+- Deutscher Bundestag: Parteienfinanzierung und Parteispenden über 35.000 EUR.
+- EU-Kommission: Transparency and targeting of political advertising zur Verordnung (EU) 2024/900, die seit 10. Oktober 2025 voll gilt.
+- DSGVO und BDSG für Datenverarbeitung im Wahlkampf.
 - Lokale Plakatierungs-, Sondernutzungs- und Veranstaltungsregeln der jeweiligen Gemeinde; diese müssen immer aktuell am konkreten Ort geprüft werden.
 
 ## Quellenhygiene

@@ -3,22 +3,20 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Dies ist eines von 232 Plugins dieser Sammlung. Jedes Plugin enthält eine Familie zusammenhängender Skills (`SKILL.md`-Dateien), passende Hilfsdateien, Prüfraster, Vorlagen und in vielen Fällen eine eigene Arbeitsakte. Der vorgesehene Hauptweg ist die Installation über den Marketplace, alternativ als einzelnes Plugin-ZIP. Dann läuft das Plugin mit seinen Skills, Werkzeugen und Testdaten in der dafür vorgesehenen Plugin-Umgebung.
+Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsführung Ermittlungsanweisung Durchsuchung Haftbefehl Einstellung Strafbefehl Anklageschrift beschleunigtes Verfahren Einziehung Plädoyer Rechtsmittel Vollstreckung mit Antragsvorschlag
 
-Damit das Plugin auch ohne Plugin-Setup brauchbar bleibt, gibt es zusätzlich zwei reine Markdown-Prompts: einen ausführlichen Werkstatt-Prompt und einen kompakten Schnellstart-Prompt. Beide sind einzelne `.md`-Dateien, die man in eine geeignete Arbeitsumgebung ziehen, einfügen oder per Copy-and-Paste verwenden kann.
+Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 ## Downloads
-
-In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Markdown-Alternativen, am Schluss die zugehörigen Testakten.
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`staatsanwaltschaft-amtsanwaltschaft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md" download><code>staatsanwaltschaft-amtsanwaltschaft-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-schnellstart.md" download><code>staatsanwaltschaft-amtsanwaltschaft-schnellstart.md</code></a> |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md" download><code>staatsanwaltschaft-amtsanwaltschaft-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft-schnellstart.md" download><code>staatsanwaltschaft-amtsanwaltschaft-schnellstart.md</code></a> |
 | Testakte(n) als ZIP | ZIP | [`staatsanwaltschaft-amtsanwaltschaft-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft-testakte.zip) |
 
-> Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.
@@ -123,3 +121,45 @@ Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt s
 ## Lizenz
 
 Dual-lizenziert MIT und Apache-2.0.
+
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `01-akte-erstdurchsicht-und-anfangsverdacht` | Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, zureichende tatsaechliche Anhaltspunkte (Paragraf 152 Abs. 2 StPO), Beschuldigtenstatus, Verjaehrung, erste Ermittlungsrichtung nach Paragraf 160 StPO |
+| `02-zustaendigkeit-sta-und-amtsanwaltschaft` | Sachliche und oertliche Zustaendigkeit (Paragrafen 142 und 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht |
+| `03-ermittlungsfuehrung-und-ermittlungsanweisung` | Führt Ermittlungen staatsanwaltschaftlich: Anfangsverdacht, Beweisthema, belastende und entlastende Umstände, konkrete Ermittlungsaufträge, Fristen, Verwertbarkeit und nächste Abschlussentscheidung. |
+| `04-durchsuchung-und-beschlagnahme-antrag` | Antrag auf richterliche Anordnung der Durchsuchung (Paragrafen 102 bis 105 StPO) und Beschlagnahme (Paragrafen 94 bis 98 StPO), Verhaeltnismaessigkeit, Gefahr im Verzug, Richtervorbehalt |
+| `05-haftbefehlsantrag-und-untersuchungshaft` | Antrag auf Erlass eines Haftbefehls (Paragrafen 112 und 112a und 114 StPO), dringender Tatverdacht, Haftgruende, Verhaeltnismaessigkeit (Paragraf 112 Abs. 1 Satz 2), Haftverschonung (Paragraf 116 StPO) |
+| `06-vorlaeufige-festnahme-und-eilkompetenz` | Vorlaeufige Festnahme (Paragraf 127 StPO), staatsanwaltschaftliche Eilanordnungskompetenz bei Gefahr im Verzug, Vorfuehrung vor den Richter (Paragraf 128 StPO), Fristen des Paragraf 128 Abs. 1 StPO |
+| `07-telekommunikationsueberwachung-und-verdeckte-massnahmen` | Antrag auf Telekommunikationsueberwachung (Paragraf 100a StPO), Online-Durchsuchung (Paragraf 100b StPO), Verkehrsdaten (Paragraf 100g StPO), Katalogtat, Subsidiaritaet, Richtervorbehalt, Kernbereichsschutz |
+| `08-beschuldigtenvernehmung-und-belehrung` | Vernehmung des Beschuldigten (Paragrafen 133 und 136 und 163a StPO), Belehrung ueber Schweigerecht und Verteidigerkonsultation, verbotene Vernehmungsmethoden (Paragraf 136a StPO), Verwertungsfragen |
+| `09-sachverstaendige-und-koerperliche-untersuchung` | Auswahl und Auftrag an Sachverstaendige (Paragrafen 73 bis 83 StPO), koerperliche Untersuchung und Blutprobe (Paragraf 81a StPO), DNA-Identifizierung (Paragraf 81e StPO), Gutachtenfragen, Verwertung |
+| `10-einstellung-mangels-tatverdacht-paragraf-170` | Einstellung des Verfahrens mangels hinreichenden Tatverdachts (Paragraf 170 Abs. 2 StPO), Abschlussverfuegung, Bescheid an Anzeigeerstatter und Beschuldigten, Negativ-Prognose, Wiederaufnahme |
+| `11-einstellung-aus-opportunitaet-paragraf-153-und-153a` | Einstellung wegen Geringfuegigkeit (Paragraf 153 StPO) und gegen Auflagen und Weisungen (Paragraf 153a StPO), Zustimmung des Gerichts, geringe Schuld, oeffentliches Interesse, Auflagenkatalog |
+| `12-teileinstellung-paragraf-154-und-154a` | Beschraenkung der Verfolgung nach Paragraf 154 StPO (unwesentliche Nebentat) und Paragraf 154a StPO (Beschraenkung auf Tatteile), prozessoekonomische Konzentration, Wiederaufnahmevorbehalt |
+| `13-strafbefehlsantrag-paragraf-407` | Erstellt einen Strafbefehlsantrag nach Paragrafen 407 bis 408a StPO mit hinreichendem Tatverdacht, konkretem Tatvorwurf, zulässiger Rechtsfolge, Tagessatzprüfung und Einspruchsrisiko. |
+| `14-anklageschrift-paragraf-200` | Erstellt die Anklageschrift nach Paragraf 200 StPO mit Umgrenzungsfunktion, Informationsfunktion, wesentlichem Ermittlungsergebnis, Beweismitteln, Eröffnungsantrag und Zuständigkeitsprüfung. |
+| `15-antrag-beschleunigtes-verfahren-paragraf-417` | Antrag im beschleunigten Verfahren (Paragrafen 417 bis 420 StPO), Eignung wegen einfachen Sachverhalts oder klarer Beweislage, Rechtsfolgenbegrenzung (Paragraf 419 StPO), muendlicher oder schriftlicher Antrag |
+| `16-sicherungsverfahren-und-massregeln` | Antrag im Sicherungsverfahren (Paragrafen 413 bis 416 StPO), Massregeln der Besserung und Sicherung (Paragrafen 61 ff. StGB), Unterbringung (Paragrafen 63 und 64 StGB), Schuldunfaehigkeit (Paragraf 20 StGB) |
+| `17-einziehung-und-vermoegensabschoepfung` | Einziehung von Taterträgen (Paragrafen 73 bis 76b StGB), Vermoegensarrest (Paragraf 111e StPO), selbststaendige Einziehung (Paragraf 76a StGB), Wertersatz, Sicherung im Ermittlungsverfahren |
+| `18-jugendsache-und-diversion-paragraf-45-jgg` | Jugendstaatsanwaltschaftliche Bearbeitung, Diversion (Paragraf 45 JGG), Absehen von der Verfolgung, erzieherische Massnahmen, Heranwachsende (Paragraf 105 JGG), Anklage zur Jugendkammer oder zum Jugendrichter |
+| `19-sitzungsdienst-und-fragerecht-hauptverhandlung` | Sitzungsvertretung der Staatsanwaltschaft (Paragraf 226 StPO), Fragerecht (Paragraf 240 StPO), Beweisantraege und Erklaerungen (Paragraf 257 StPO), Reaktion auf Antraege der Verteidigung, Vorhalt und Beweisaufnahme |
+| `20-plaedoyer-und-schlussvortrag-paragraf-258` | Schlussvortrag der Staatsanwaltschaft (Paragraf 258 StPO), Wuerdigung des Beweisergebnisses, rechtliche Bewertung, konkreter Antrag zu Schuld- und Rechtsfolgenausspruch, Strafzumessungsantrag (Paragraf 46 StGB) |
+| `21-rechtsmittel-der-staatsanwaltschaft` | Rechtsmittel der Staatsanwaltschaft: Berufung (Paragrafen 312 ff. StPO), Revision (Paragrafen 333 ff. StPO), Beschwerde (Paragrafen 304 ff. StPO), zugunsten und zuungunsten des Angeklagten (Paragraf 296 Abs. 2 StPO), Fristen und Begruendung |
+| `22-strafvollstreckung-paragraf-451` | Strafvollstreckung durch die Staatsanwaltschaft als Vollstreckungsbehoerde (Paragrafen 449 ff. StPO, Paragraf 451 StPO), Vollstreckungsplan, Ladung zum Strafantritt, Vollstreckungsaufschub (Paragraf 456 StPO), StVollstrO |
+| `23-klageerzwingung-und-beschwerdebescheid-paragraf-172` | Bescheid auf Beschwerde des Anzeigeerstatters (Paragraf 171 StPO), Vorschaltbeschwerde und Klageerzwingungsverfahren (Paragraf 172 StPO), Begruendungsanforderungen, Vorlage an Generalstaatsanwaltschaft |
+| `24-abschlussverfuegung-und-entscheidungsvorschlag` | Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Massregel, Verfuegungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag |
+| `25-adhaesionsverfahren-paragraf-403` | Adhaesionsantrag des Verletzten im Strafverfahren (Paragrafen 403 bis 406c StPO), Pruefung der Zulaessigkeit und Eignung zur Mitverhandlung, Abtrennung nach Paragraf 406 Abs. 1 Satz 6 StPO, Schnittstelle zum Opferschutz und zur Verfahren... |
+| `26-opferschutz-nebenklage-und-verletztenrechte` | Opferschutzpflichten der Staatsanwaltschaft (Paragrafen 406d bis 406l StPO), Anschluss als Nebenklaeger (Paragrafen 395 bis 402 StPO), opferschutzrechtliche Belehrung, psychosoziale Prozessbegleitung (Paragraf 406g StPO), Akteneinsicht d... |
+| `27-wiederaufnahme-zuungunsten-paragraf-362` | Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten oder Freigesprochenen (Paragraf 362 StPO), Pruefungsschema der Wiederaufnahmegruende, formale Anforderungen (Paragraf 366 StPO), Verfahren nach Paragrafen 367... |
+| `28-internationale-rechtshilfe-und-eu-haftbefehl` | Internationale Rechtshilfe in Strafsachen: Europaeischer Haftbefehl (Paragrafen 78 bis 83i IRG), Rechtshilfeersuchen (Paragrafen 59 ff. IRG), Europaeische Ermittlungsanordnung (Paragrafen 91a ff. IRG); Pruefschema fuer Ausstellung und Be... |
+| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (anklageschrift, strafbefehlsantrag oder einstellungsverfuegung) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `v392-praxisraster-staatsanwaltschaft-amtsanwaltschaft` | Praxisraster für Staatsanwaltschaft und Amtsanwaltschaft: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->

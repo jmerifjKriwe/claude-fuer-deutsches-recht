@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Fuegt pro Plugin einen Direkt-loslegen-Block fuer Prompt-Downloads ein.
+"""Fügt pro Plugin einen Direkt-loslegen-Block für Prompt-Downloads ein.
 
 Der Block steht direkt nach dem H1.
-Alte Megaprompt-Hinweisbloecke werden entfernt, damit die README nicht zwei
+Alte Megaprompt-Hinweisblöcke werden entfernt, damit die README nicht zwei
 konkurrierende Ein-Datei-Pfade beschreibt.
 """
 
@@ -10,7 +10,6 @@ from __future__ import annotations
 
 import json
 import re
-from os.path import relpath
 from pathlib import Path
 
 
@@ -25,6 +24,78 @@ OLD_MEGA_END = "<!-- END megaprompt-und-vorlagen (autogen) -->"
 OLD_SOFORT_BEGIN = "<!-- BEGIN plugin-sofort-download-section (autogen) -->"
 OLD_SOFORT_END = "<!-- END plugin-sofort-download-section (autogen) -->"
 RELEASE_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
+PROSE_REPLACEMENTS = {
+    "Abwaegung": "Abwägung",
+    "Aerzte": "Ärzte",
+    "Aktenlektuere": "Aktenlektüre",
+    "Ampel-Einschaetzung": "Ampel-Einschätzung",
+    "Anwaelte": "Anwälte",
+    "Anwaelten": "Anwälten",
+    "Ausfluegen": "Ausflügen",
+    "Bautraegervertraege": "Bauträgerverträge",
+    "Bautraeger": "Bauträger",
+    "Beschluesse": "Beschlüsse",
+    "Bewaehrung": "Bewährung",
+    "Big-Law-Anfaenger": "Big-Law-Anfänger",
+    "Buergergeld": "Bürgergeld",
+    "Bruessel": "Brüssel",
+    "Duesseldorfer": "Düsseldorfer",
+    "EPUe": "EPÜ",
+    "Eigentuemerversammlung": "Eigentümerversammlung",
+    "Einschaetzung": "Einschätzung",
+    "Entschaedigung": "Entschädigung",
+    "Erfuellungsaufwand": "Erfüllungsaufwand",
+    "Ergaenzend": "Ergänzend",
+    "Erklaerungen": "Erklärungen",
+    "Ermittlungsfuehrung": "Ermittlungsführung",
+    "Geschaeftsgeheimnis": "Geschäftsgeheimnis",
+    "Gesetzentwuerfen": "Gesetzentwürfen",
+    "Guetetermin": "Gütetermin",
+    "Hinweisverfuegung": "Hinweisverfügung",
+    "IP-Lizenzvertraege": "IP-Lizenzverträge",
+    "Loeschung": "Löschung",
+    "Luecken-Ampel": "Lücken-Ampel",
+    "Lueckenliste": "Lückenliste",
+    "Luecken": "Lücken",
+    "Maengelhaftung": "Mängelhaftung",
+    "Mieterhoehungs-Widerspruch": "Mieterhöhungs-Widerspruch",
+    "Parteivortraege": "Parteivorträge",
+    "Patentanwaelte": "Patentanwälte",
+    "Plaedoyer": "Plädoyer",
+    "Praezedenzarbeit": "Präzedenzarbeit",
+    "Prueft": "Prüft",
+    "Rechtswegerschoepfung": "Rechtswegerschöpfung",
+    "Referentenentwuerfen": "Referentenentwürfen",
+    "Schluessigkeit": "Schlüssigkeit",
+    "Schriftsaetze": "Schriftsätze",
+    "Subsidiaritaet": "Subsidiarität",
+    "Suedafrika": "Südafrika",
+    "Syndikus-Anwaelten": "Syndikus-Anwälten",
+    "Taetigkeiten": "Tätigkeiten",
+    "Teilungserklaerung": "Teilungserklärung",
+    "Umstaende": "Umstände",
+    "Universitaetsstaedte": "Universitätsstädte",
+    "UrhG-Bezuege": "UrhG-Bezüge",
+    "VVG-Bezuege": "VVG-Bezüge",
+    "Veraenderungen": "Veränderungen",
+    "Versaeumnisurteil": "Versäumnisurteil",
+    "Verspaetung": "Verspätung",
+    "Verstoessen": "Verstößen",
+    "Widersprueche": "Widersprüche",
+    "Wuerfel": "Würfel",
+    "Zwischenverfuegung": "Zwischenverfügung",
+    "Zwoelf-Monats-Liquidität": "Zwölf-Monats-Liquidität",
+    "außergewoehnliche": "außergewöhnliche",
+    "buergerlichen": "bürgerlichen",
+    "ergaenzbar": "ergänzbar",
+    "europaeische": "europäische",
+    "foermlich": "förmlich",
+    "fuenf": "fünf",
+    "fuer": "für",
+    "gefuehrte": "geführte",
+    "hoefliche": "höfliche",
+    "papsttreues": "papsttreues",
+}
 SKIP_TESTAKTEN_DIRS = {
     "formatvorlagen-paradebeispiele",
     "megaprompts",
@@ -128,38 +199,42 @@ def testakte_download_cell(plugin_name: str, directory: Path, akten_slugs: list[
         return "; ".join(parts)
     if (directory / "testakte").is_dir():
         return f"[`{plugin_name}-testakte.zip`]({RELEASE_BASE}/{plugin_name}-testakte.zip)"
-    return f"[`alle-testakten.zip`]({RELEASE_BASE}/alle-testakten.zip)"
+    return f"[`alle-testakten.zip`]({RELEASE_BASE}/alle-testakten.zip) (zentrale Sammlung)"
 
 
-def block(plugin_name: str, directory: Path, akten_slugs: list[str]) -> str:
+def markdown_text(value: str) -> str:
+    text = re.sub(r"\s+", " ", value).strip().replace("|", "-")
+    for old, new in sorted(PROSE_REPLACEMENTS.items(), key=lambda item: len(item[0]), reverse=True):
+        text = text.replace(old, new)
+    return text
+
+
+def block(plugin: dict, directory: Path, akten_slugs: list[str]) -> str:
+    plugin_name = plugin["name"]
     stem = prompt_stem(plugin_name)
-    title = readme_title(directory, plugin_name)
     werkstatt_file = f"{stem}-werkstatt.md"
     schnellstart_file = f"{stem}-schnellstart.md"
-    rel_dir = relpath(directory, REPO).replace("\\", "/")
-    raw_base = f"https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/{rel_dir}"
-    werkstatt_url = f"{raw_base}/{werkstatt_file}"
-    schnellstart_url = f"{raw_base}/{schnellstart_file}"
+    werkstatt_url = f"{RELEASE_BASE}/{werkstatt_file}"
+    schnellstart_url = f"{RELEASE_BASE}/{schnellstart_file}"
     testakte_cell = testakte_download_cell(plugin_name, directory, akten_slugs)
+    description = markdown_text(plugin.get("description") or readme_title(directory, plugin_name))
     return f"""{BEGIN}
 ## Was ist das hier?
 
-Dies ist eines von 232 Plugins dieser Sammlung. Jedes Plugin enthält eine Familie zusammenhängender Skills (`SKILL.md`-Dateien), passende Hilfsdateien, Prüfraster, Vorlagen und in vielen Fällen eine eigene Arbeitsakte. Der vorgesehene Hauptweg ist die Installation über den Marketplace, alternativ als einzelnes Plugin-ZIP. Dann läuft das Plugin mit seinen Skills, Werkzeugen und Testdaten in der dafür vorgesehenen Plugin-Umgebung.
+{description}
 
-Damit das Plugin auch ohne Plugin-Setup brauchbar bleibt, gibt es zusätzlich zwei reine Markdown-Prompts: einen ausführlichen Werkstatt-Prompt und einen kompakten Schnellstart-Prompt. Beide sind einzelne `.md`-Dateien, die man in eine geeignete Arbeitsumgebung ziehen, einfügen oder per Copy-and-Paste verwenden kann.
+Dieses Plugin gehört zum Marketplace mit 232 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 ## Downloads
-
-In dieser Reihenfolge gedacht: zuerst der vorgesehene Plugin-Weg, danach die Markdown-Alternativen, am Schluss die zugehörigen Testakten.
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
-| Großer Prompt (Werkstatt, Alternative ohne Plugin-Setup) | Markdown | <a href="{werkstatt_url}" download><code>{werkstatt_file}</code></a> |
-| Kleiner Prompt (Schnellstart, höchstens 7500 Zeichen, Spar-Alternative) | Markdown | <a href="{schnellstart_url}" download><code>{schnellstart_file}</code></a> |
+| Großer Prompt (Werkstatt) | Markdown | <a href="{werkstatt_url}" download><code>{werkstatt_file}</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="{schnellstart_url}" download><code>{schnellstart_file}</code></a> |
 | Testakte(n) als ZIP | ZIP | {testakte_cell} |
 
-> Marketplace-Hinweis: Wer mehrere Plugins gleichzeitig will, fügt nicht jedes Plugin einzeln hinzu, sondern den ganzen Marketplace über `marketplace.json` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Dann sind alle 232 Plugins verfügbar und können einzeln aktiviert werden.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 {END}"""
 
 
@@ -197,7 +272,7 @@ def inject(plugin: dict, akten_slugs: list[str]) -> str:
     new_text = (
         stripped[:pos].rstrip()
         + "\n\n"
-        + block(name, directory, akten_slugs)
+        + block(plugin, directory, akten_slugs)
         + "\n\n"
         + stripped[pos:].lstrip()
     )
