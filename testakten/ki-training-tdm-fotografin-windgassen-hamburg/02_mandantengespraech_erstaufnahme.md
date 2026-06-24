@@ -25,9 +25,9 @@ Windgassen zeigt drei ausgedruckte Screenshots aus ImagineArt Pro (liegen bei Ak
 
 ### Dezember 2025 — LAION-Recherche
 
-Windgassen hat über das LAION-Dataset-Search-Tool (https://laion.ai) nach ihren Bildern gesucht. Sie habe nach eigenen Angaben Treffer erzielt für URLs, die auf ihre Domain windgassen-photo.de verweisen — konkret mehrere Thumbnails aus dem Portfolio-Bereich. Das sei aber nicht mehr eindeutig nachvollziehbar, da LAION den öffentlichen Datensatz-Viewer Ende 2024 stark eingeschränkt habe (Hinweis: Scraper-Abschalten nach Klagen u.a. LAION e.V. Deutschland).
+Windgassen hat über das LAION-Dataset-Search-Tool (https://laion.ai) nach ihren Bildern gesucht. Sie habe nach eigenen Angaben Treffer erzielt für URLs, die auf ihre Domain windgassen-photo.de verweisen — konkret mehrere Thumbnails aus dem Portfolio-Bereich. Das sei aber nicht mehr eindeutig nachvollziehbar, da LAION den öffentlichen Datensatz-Viewer Ende 2024 stark eingeschränkt habe (Hinweis: Auslesedienst-Abschalten nach Klagen u.a. LAION e.V. Deutschland).
 
-**Offene Frage (notiert):** Zeitpunkt des LAION-Crawls. § 44b UrhG ist am 07.06.2021 in Kraft getreten. Wurde die Site vor oder nach diesem Datum gecrawlt? Windgassen gibt an, robots.txt habe seit Juni 2019 folgendes geblockt:
+**Offene Frage (notiert):** Zeitpunkt des LAION-Abrufläufe. § 44b UrhG ist am 07.06.2021 in Kraft getreten. Wurde die Site vor oder nach diesem Datum abgerufen? Windgassen gibt an, robots.txt habe seit Juni 2019 folgendes geblockt:
 
 ```
 User-agent: *
@@ -35,7 +35,7 @@ Disallow: /portfolio/
 Disallow: /shop/
 ```
 
-Sie sei sich aber nicht sicher, ob das den KI-Crawlern ausreiche. Außerdem habe sie erst im Herbst 2023 (nach einer Branchenveranstaltung des BFF — Berufsverband Freie Fotografen und Filmgestalter) eine `ai.txt`-Datei eingerichtet. Diese liege ihr als Screenshot vor (Anlage P-2 in der Akte), aber die Serverlog-Dokumentation sei unvollständig.
+Sie sei sich aber nicht sicher, ob das den KI-Abrufwerkzeugen ausreiche. Außerdem habe sie erst im Herbst 2023 (nach einer Branchenveranstaltung des BFF — Berufsverband Freie Fotografen und Filmgestalter) eine `ai.txt`-Datei eingerichtet. Diese liege ihr als Screenshot vor (Anlage P-2 in der Akte), aber die Serverlog-Dokumentation sei unvollständig.
 
 ### Januar 2026 — Filesharing-Abmahnung
 

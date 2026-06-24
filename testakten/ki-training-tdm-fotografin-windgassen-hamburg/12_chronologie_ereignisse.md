@@ -7,9 +7,9 @@
 
 | Datum | Ereignis | Akte-Bezug |
 |---|---|---|
-| 03.06.2021 | Erster nachgewiesener LAION/CCBot-Crawl windgassen-photo.de (16–18 Bilder, Bodden-Strecke) — **vor § 44b UrhG** | Aktenstück 04 |
+| 03.06.2021 | Erster nachgewiesener LAION/CCBot-Abruflauf windgassen-photo.de (16–18 Bilder, Bodden-Strecke) — **vor § 44b UrhG** | Aktenstück 04 |
 | 07.06.2021 | Inkrafttreten § 44b UrhG (Umsetzung DSM-RL) | — |
-| 17.08.2021 | Zweiter CCBot-Crawl windgassen-photo.de (143+ Bilder) — **nach § 44b UrhG** | Aktenstück 04 |
+| 17.08.2021 | Zweiter CCBot-Abruflauf windgassen-photo.de (143+ Bilder) — **nach § 44b UrhG** | Aktenstück 04 |
 | März 2019 | Erstabschluss Lizenzvertrag mit Mare GmbH für Reportage „Schärenküste" (Nr. 131/2019) | Aktenstück 06 |
 | April/Mai 2023 | Veröffentlichung Reportage „Tristesse am Bodden" in Mare Nr. 141 | — |
 | Oktober 2023 | Einrichtung ai.txt auf windgassen-photo.de durch Windgassen | Aktenstück 04 |
@@ -41,7 +41,7 @@
 ## Offene Punkte (Stand 25.01.2026)
 
 - [ ] robots.txt-Backup für 03.06.2021 bei Hetzner bestätigen
-- [ ] Weitere LAION-Crawl-Zeiträume 2021 prüfen (Oktober, November?)
+- [ ] Weitere LAION-Abruflauf-Zeiträume 2021 prüfen (Oktober, November?)
 - [ ] Vollmacht Quetschenpaua & Kollegen anfordern (Schreiben ist unterzeichnet, aber Mandanten-Nennung fehlt)
 - [ ] Felix Windgassen: Gespräch wegen Belehrungsnachweis führen
 - [ ] Sachverständige Bildästhetik anfragen (Prof. Felber HfbK)

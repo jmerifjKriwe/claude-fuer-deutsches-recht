@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Red-Team keine Sweat-of-the-brow-Verwechslung** im Ber
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

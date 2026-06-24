@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Ticketingdaten Veranstaltungsdaten und Kalender** im B
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

@@ -34,7 +34,7 @@ description: "Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattf
 - EuGH C-203/02 (BHB/William Hill): Selbst erzeugte Daten begründen kein Herstellerrecht — gilt auch für eigene Veranstaltungen.
 - § 87b UrhG: Verbot der Entnahme wesentlicher Teile; Kumulationstatbestand bei wiederholtem Abgreifen von Eventdaten.
 - Art. 6 Abs. 1 lit. b DSGVO: Vertragliche Rechtsgrundlage für Verarbeitung von Käuferdaten im Ticketing.
-- § 307 BGB: AGB-Gestaltung für Event-API-Nutzungsbedingungen und Scraping-Verbote.
+- § 307 BGB: AGB-Gestaltung für Event-API-Nutzungsbedingungen und Auslesen-Verbote.
 - EuGH C-202/12 (Innoweb/Wegener): Aggregatoren, die Echtzeit-Suche auf Fremddatenbanken betreiben, verwenden wesentliche Teile weiter.
 
 ## Prüfraster

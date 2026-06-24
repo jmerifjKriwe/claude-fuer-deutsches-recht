@@ -141,7 +141,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Triage — klaere vor Erstellung
 
 1. Welches Disclosure-Konzept gilt — General Disclosure (ganzer Datenraum qualifiziert als Disclosure) oder Specific Disclosure (nur namentlich aufgefuehrte Dokumente)?
-2. Gibt es einen Materiality Scrape — entfaellt die Materiality-Schwelle für SPA-Garantien, wenn ein Umstand discloset ist?
+2. Gibt es einen Materiality Auslesen — entfaellt die Materiality-Schwelle für SPA-Garantien, wenn ein Umstand discloset ist?
 3. Welche SPA-Garantien sind disclosure-relevant — alle Business Warranties, oder nur Tax und Employment?
 4. Liegen alle wesentlichen DD-Findings vor, die der Verkaeufer offenlegen muss? Gibt es "known unknowns"?
 5. Vendor Due Diligence vorhanden — kann VDD-Report als Quelle für Disclosures verwendet werden?
@@ -165,7 +165,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. **Datenraum-Mapping:** Dokumente nach Garantie-Kategorien zuordnen; Index erstellen (Ordner, Dokument, Datenraum-ID, Relevanz)
 3. **DD-Findings einarbeiten:** Red-Flag-Findings als Specific Disclosure formulieren; jedes wesentliche Finding muss disclosure-faehig sein oder als Freistellung behandelt werden
 4. **Vendor DD einbinden:** VDD-Bericht als Anlage zum Disclosure Letter; Kaeufer muss VDD-Report als General Disclosure anerkennen
-5. **Materiality-Scrape prüfen:** Wenn Materiality Scrape vereinbart: sichererstellen, dass alle Disclosures vollstaendig sind, da Scrape alle Materiality-Schwellen entfernt
+5. **Materiality-Auslesen prüfen:** Wenn Materiality Auslesen vereinbart: sichererstellen, dass alle Disclosures vollstaendig sind, da Auslesen alle Materiality-Schwellen entfernt
 6. **Earn-Out-relevante Umstaende:** gesonderte Disclosure-Kategorie für Earn-Out-beeinflussende Umstaende erstellen
 7. **Disclosure Letter finalisieren:** formale Struktur (Intro, General Disclosures, Specific Disclosures je Garantie), Datum, Unterzeichnung; als SPA-Anlage beifuegen
 8. **Fair-Disclosure-Check:** Prüfung, ob alle wesentlichen Risiken klar und verstaendlich dargestellt sind (nicht nur durch Indexverweis)
@@ -174,7 +174,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - General Disclosure gewuenscht → alle Datenraum-Dokumente qualifizieren → Kaeufer muss DD komplett durchfuehren
 - Specific Disclosure → je Garantie explizite Aufzaehlung → vollstaendiger als General Disclosure
-- Materiality Scrape vereinbart → alle Disclosures müssen 100 % vollstaendig sein → lueckenhafter Disclosure Letter gefaehrlicher
+- Materiality Auslesen vereinbart → alle Disclosures müssen 100 % vollstaendig sein → lueckenhafter Disclosure Letter gefaehrlicher
 - Arglistiges Verschweigen → kein Haftungsausschluss durch Disclosure-Klausel → persönliche Haftung Geschäftsführer
 
 ## Output-Template: Disclosure Letter Gliederung
@@ -207,7 +207,7 @@ Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 
 - Arglistiges Verschweigen trotz Disclosure Letter: Haftungsausschluss unwirksam; § 123 BGB greift
 - Fehlender Earn-Out-Abschnitt: Schadensersatzpflicht bei Earn-Out-Beeintraechtigung
-- Materiality Scrape ohne vollstaendigen Disclosure: alle Garantieverletzungen ohne Schwelle einklagbar
+- Materiality Auslesen ohne vollstaendigen Disclosure: alle Garantieverletzungen ohne Schwelle einklagbar
 - Vendor DD nicht als Anlage: Kaeufer kann Kenntnis aus VDD bestreiten
 
 ## Standardausgabe

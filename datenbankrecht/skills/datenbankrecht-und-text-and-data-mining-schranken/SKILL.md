@@ -57,7 +57,7 @@ Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schr
 - Wissenschaftliches TDM (§ 60d UrhG) kann nicht vertraglich ausgeschlossen werden — AGB-Verbote sind insoweit unwirksam.
 - Kommerziell gefärbte Forschungseinrichtungen (Spin-offs, PPP-Projekte) können nicht § 60d UrhG in Anspruch nehmen.
 - TDM-Schranke erlaubt Vervielfältigung, nicht aber die dauerhafte Speicherung über Forschungsabschluss hinaus.
-- Opt-out in robots.txt ist Standard, aber nicht alle Scraper respektieren robots.txt — technische Sperren sind zusätzlich nötig.
+- Opt-out in robots.txt ist Standard, aber nicht alle Auslesedienst respektieren robots.txt — technische Sperren sind zusätzlich nötig.
 
 ## Output
 

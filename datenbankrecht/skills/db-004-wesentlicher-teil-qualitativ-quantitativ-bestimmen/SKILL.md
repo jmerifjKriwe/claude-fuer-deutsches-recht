@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Wesentlicher Teil qualitativ quantitativ bestimmen** i
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

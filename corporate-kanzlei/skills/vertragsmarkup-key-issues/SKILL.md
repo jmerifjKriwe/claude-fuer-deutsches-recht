@@ -166,7 +166,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. **Cap = 10 % des KP** → Kaeufer: Counter-Markup auf 20-30 % mindestens; Fundamental Warranties: 100 %
 3. **Verjährung 12 Monate** → Kaeufer: 24 Monate allg.; Tax 5 Jahre; Titel unbegrenzt
 4. **Sandbagging: Verkaefer-Klausel** → Kaeufer: Anti-Sandbagging streichen oder Kaeufer-freundliche Formulierung einfuegen
-5. **Materality-Qualifier auf alle Business Reps** → Kaeufer: "Materiality Scrape" einfuegen (für Haftungsberechnung ignoriert)
+5. **Materality-Qualifier auf alle Business Reps** → Kaeufer: "Materiality Auslesen" einfuegen (für Haftungsberechnung ignoriert)
 6. **Indemnity-Ausschluss bei Versicherungsleistung** → Kaeufer: bei W&I-Policy sinnvoll aber nur dann
 7. **Schiedsklausel: nur an einem Ort** → sicherstellen: klar definiert, ICC/DIS, Frankfurt oder Muenchen, 3 Schiedsrichter
 

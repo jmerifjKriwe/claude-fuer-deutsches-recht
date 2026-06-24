@@ -60,7 +60,7 @@ Das Windgassen Photo Atelier verwaltet insgesamt **18.400 Fotografien** (Stand: 
 | IPTC-Keywords „No AI Training" | Oktober 2023 | ca. 8.000 von 10.760 öffentl. |
 | `/wp-content/uploads/` gesperrt in robots.txt | **Noch nicht** | 0 (Lücke!) |
 
-**Kritische Lücke:** Die Bilddateien unter `/wp-content/uploads/` waren bis mindestens Oktober 2023 durch keine Maßnahme gegen KI-Crawler geschützt — dies ist die zentrale Schwachstelle für die ImagineArt-Klage.
+**Kritische Lücke:** Die Bilddateien unter `/wp-content/uploads/` waren bis mindestens Oktober 2023 durch keine Maßnahme gegen KI-Abrufwerkzeuge geschützt — dies ist die zentrale Schwachstelle für die ImagineArt-Klage.
 
 ---
 

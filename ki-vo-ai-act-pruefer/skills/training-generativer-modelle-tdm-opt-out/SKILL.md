@@ -7,7 +7,7 @@ description: "Training generativer Modelle mit Text, Bild, Musik, Code und Daten
 
 ## Prüfansatz
 
-Ordne jede Trainingsquelle nach Rechtepfad: eigene Daten, lizenzierte Daten, Webcrawl, Kundenupload, Open-Data, wissenschaftlicher Datensatz, Datenbank. Danach wird geprüft, ob TDM erlaubt ist, ob ein Opt-out greift und ob Output-Reproduktion droht.
+Ordne jede Trainingsquelle nach Rechtepfad: eigene Daten, lizenzierte Daten, Webdatenabruf, Kundenupload, Open-Data, wissenschaftlicher Datensatz, Datenbank. Danach wird geprüft, ob TDM erlaubt ist, ob ein Opt-out greift und ob Output-Reproduktion droht.
 
 ## Normenanker
 
@@ -19,4 +19,4 @@ Ordne jede Trainingsquelle nach Rechtepfad: eigene Daten, lizenzierte Daten, Web
 
 ## Arbeitsprodukt
 
-Erzeuge eine Quellenmatrix mit URL/Datensatz, Lizenz, Opt-out-Signal, Crawler-Entscheidung, Sperrprotokoll, Datenbankrisiko, personenbezogenem Risiko und Output-Filter. Kein „fair use“-Argument als deutsches/europäisches Recht ausgeben.
+Erzeuge eine Quellenmatrix mit URL/Datensatz, Lizenz, Opt-out-Signal, Abrufwerkzeuge-Entscheidung, Sperrprotokoll, Datenbankrisiko, personenbezogenem Risiko und Output-Filter. Kein „fair use“-Argument als deutsches/europäisches Recht ausgeben.

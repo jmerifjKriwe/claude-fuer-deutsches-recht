@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Wissenschaftsdaten Forschungsdatenbank** im Bereich **
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

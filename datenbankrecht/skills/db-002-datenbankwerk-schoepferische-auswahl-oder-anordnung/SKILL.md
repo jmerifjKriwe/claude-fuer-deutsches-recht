@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankwerk schöpferische Auswahl oder Anordnung** 
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

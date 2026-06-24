@@ -1,4 +1,4 @@
-# 05 — Warranties-Katalog: Knowledge Qualifier und Materiality Scrape
+# 05 — Warranties-Katalog: Knowledge Qualifier und Materiality Auslesen
 
 **AZ:** MR-2026-DR-0717
 **Datum:** 20. Juli 2026
@@ -8,7 +8,7 @@
 
 ## Überblick
 
-Der Warranties-Katalog des SPA (Art. 4) umfasst 47 Representations and Warranties der Verkäuferin. Dieses Aktenstück dokumentiert die Drafting-Entscheidungen zu Knowledge Qualifier, Materiality-Qualifier und Materiality Scrape.
+Der Warranties-Katalog des SPA (Art. 4) umfasst 47 Representations and Warranties der Verkäuferin. Dieses Aktenstück dokumentiert die Drafting-Entscheidungen zu Knowledge Qualifier, Materiality-Qualifier und Materiality Auslesen.
 
 ---
 
@@ -48,7 +48,7 @@ Mehrere Warranties enthalten Materialitaets-Qualifier ("in all material respects
 
 Wenn Warranty lautet: "no Material Adverse Change has occurred" UND Indemnification-Klausel verlangt, dass Verletzung "material" sein muss — dann muss Verständnis "materiell" zweifach überschritten werden. Ungewuenschte Ergebnisse.
 
-**Lösung:** Materiality Scrape für Indemnification-Zwecke (unten).
+**Lösung:** Materiality Auslesen für Indemnification-Zwecke (unten).
 
 ### Problem 2 — Fehlende Definition "material"
 
@@ -58,7 +58,7 @@ SPA Draft 1 verwendet "material" ohne Definition. Interpretationsrisiko erheblic
 
 ---
 
-## Materiality Scrape
+## Materiality Auslesen
 
 **Zweck:** Für Zwecke der Indemnification werden Materialitaets-Qualifier in Warranties "weggedacht" — Anspruch entsteht auch bei nicht-materieller Verletzung (sofern Basket überschritten).
 

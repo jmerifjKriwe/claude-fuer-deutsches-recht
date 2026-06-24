@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Metadaten Katalog und Thesaurus** im Bereich **Datenba
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

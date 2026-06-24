@@ -15,7 +15,7 @@ description: "Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a 
 
 ## Mandantenfall
 
-- Datenbankbetreiber hat Nachweise für systematisches Scraping durch einen Wettbewerber und will eine förmliche Abmahnung mit Unterlassungsforderung senden.
+- Datenbankbetreiber hat Nachweise für systematisches automatisierten Datenabruf durch einen Wettbewerber und will eine förmliche Abmahnung mit Unterlassungsforderung senden.
 - Unternehmen hat eine Abmahnung wegen behaupteter Datenbankrechts-Verletzung erhalten und muss kurzfristig entscheiden, ob es die Unterlassungserklärung unterzeichnet.
 - Anwalt will überprüfen, ob eine erhaltene Abmahnung den gesetzlichen Anforderungen des § 97a UrhG entspricht und ob die Kostenerstattungspflicht besteht.
 

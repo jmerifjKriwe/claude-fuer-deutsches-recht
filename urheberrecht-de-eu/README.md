@@ -146,7 +146,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `beweisforensik-versionen` | Sichert Belege bei Musik, Text, Code und KI-Output: Versionen, Hashes, Metadaten, Uploads, Screenshots und Chain of Custody im Urheberrecht De Eu. |
 | `broadcast-streaming-social` | Prüft öffentliche Wiedergabe, Zugänglichmachung, Streaming, Livestream, Reels, Podcasts, Radio und Veranstaltungen im Urheberrecht De Eu. |
 | `computer-kunst-datenbank-dataset-einstweilige` | Prüft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung im Urheberrecht De Eu. |
-| `datenbank-dataset-rechte` | Prüft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus im Urheberrecht De Eu. |
+| `datenbank-dataset-rechte` | Prüft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, automatisiertes Auslesen, Dataset-Lizenz und KI-Trainingskorpus im Urheberrecht De Eu. |
 | `due-diligence-urheberrechtliche` | Prüft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment im Urheberrecht De Eu. |
 | `einstweilige-verfuegung-urheber` | Prüft Eilrechtsschutz, Dringlichkeit, Glaubhaftmachung, Verfügungsanspruch, Antrag und Vollziehung im Urheberrecht De Eu. |
 | `fotos-bilder-gema-gvl-gerichtlicher` | Prüft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung im Urheberrecht De Eu. |

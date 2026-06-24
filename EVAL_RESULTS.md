@@ -44,7 +44,7 @@ Stand: 2026-06-18T19:01:51Z
 | `common-law-kompass-crossborder-contract` | PASS | 3 | 0 | 1 |
 | `cyber-vorfall-ransomware-frischetrans-mainz` | PASS | 3 | 0 | 1 |
 | `cybertrading-anlagebetrug-wittfeldt-bremen` | PASS | 3 | 0 | 1 |
-| `datenbankrecht-scraping-plattform-investitionsschutz` | PASS | 3 | 0 | 1 |
+| `datenbankrecht-datenabruf-plattform-investitionsschutz` | PASS | 3 | 0 | 1 |
 | `datenschutz-us-transfer-cloudsuite-rheinmain` | PASS | 3 | 0 | 1 |
 | `designrecht-geschmacksmuster-lichtbogen-stuhl-copycat` | PASS | 3 | 0 | 1 |
 | `deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet` | PASS | 3 | 0 | 1 |

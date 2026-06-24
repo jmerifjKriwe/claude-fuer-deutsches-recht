@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Kollektive Datensammlung und Miturheberschaftsfallen**
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

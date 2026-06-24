@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrecht und Machine Learning Features** im Bere
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

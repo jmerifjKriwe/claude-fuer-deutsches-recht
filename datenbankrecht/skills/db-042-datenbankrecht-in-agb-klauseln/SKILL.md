@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrecht in AGB-Klauseln** im Bereich **Datenban
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

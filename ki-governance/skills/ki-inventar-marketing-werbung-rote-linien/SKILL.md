@@ -142,7 +142,7 @@ Zusammenfassungen, kein endgültiger Text:
  Gewerkschaftszugehörigkeit, religiösen oder weltanschaulichen Überzeugungen, Sexualleben
  oder sexueller Orientierung
 - Emotionserkennung am Arbeitsplatz oder in Bildungseinrichtungen (Ausnahmen: Medizin, Sicherheit)
-- Anlegen von Gesichtserkennungs-Datenbanken durch Scraping aus Internet oder CCTV
+- Anlegen von Gesichtserkennungs-Datenbanken durch automatisiertes Auslesen aus Internet oder CCTV
 - Prädiktive Polizeiarbeit allein auf Basis von Persönlichkeitsmerkmalen
 
 Trifft zu → Klasse ist `verboten`. Anwendungsfall als Stopp markieren und an den

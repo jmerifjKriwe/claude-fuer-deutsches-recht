@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## ⬇️ Direkt-Download
+## Direkt-Download
 
 | Akte | Direkt-Download |
 | --- | --- |
@@ -70,7 +70,7 @@ Die Akte beleuchtet typische Probleme des JVEG-Entschädigungsrechts bei interna
 
 | Datei | Inhalt |
 |---|---|
-| [README.md](README.md) | Diese Übersicht mit Sachverhalt, Eckdaten, Dateitabelle und Prüffokusn |
+| [README.md](README.md) | Diese Übersicht mit Sachverhalt, Eckdaten, Dateitabelle und Prüffokus |
 | [00_aktenuebersicht.md](00_aktenuebersicht.md) | Kurze Übersicht aller Verfahrensbeteiligten, Entschädigungspositionen und Chronologie |
 | [01_falldaten_berger.json](01_falldaten_berger.json) | Maschinell lesbare Falldaten (Strecke, Sätze, Beträge) für Plugin-Verarbeitung |
 | [02_rechenblatt_berger.csv](02_rechenblatt_berger.csv) | Tabellarische Übersicht aller JVEG-Positionen mit Prüfansätzen und Belegstatus |
@@ -91,7 +91,7 @@ Die Akte beleuchtet typische Probleme des JVEG-Entschädigungsrechts bei interna
 | [festsetzungsbeschluss_rechtspfleger.md](festsetzungsbeschluss_rechtspfleger.md) | Markdown-Vorschau des Festsetzungsbeschlusses |
 | [erinnerung_jveg_paragraph4.docx](erinnerung_jveg_paragraph4.docx) | Erinnerung nach § 4 JVEG gegen den Festsetzungsbeschluss (Verdienstausfall 528,00 EUR) |
 | [erinnerung_jveg_paragraph4.md](erinnerung_jveg_paragraph4.md) | Markdown-Vorschau der Erinnerung |
-| [antrag zeugin berger.pdf](antrag%20zeugin%20berger.pdf) | Originalunterlage: Vorschussantrag der Zeugin (erste Version) |
+| [antrag_zeugin_berger_erste_version.pdf](antrag_zeugin_berger_erste_version.pdf) | Originalunterlage: Vorschussantrag der Zeugin (erste Version) |
 | [antrag_zeugin_berger.pdf](antrag_zeugin_berger.pdf) | Originalunterlage: Vorschussantrag (überarbeitete Fassung) |
 | [gerichtsschreiben_lg_tuebingen.pdf](gerichtsschreiben_lg_tuebingen.pdf) | Gescanntes Originalschreiben des LG Tübingen |
 | [schriftsatz_vorschussantrag.pdf](schriftsatz_vorschussantrag.pdf) | Anwaltlicher Schriftsatz zum Vorschussantrag (Erstfassung) |

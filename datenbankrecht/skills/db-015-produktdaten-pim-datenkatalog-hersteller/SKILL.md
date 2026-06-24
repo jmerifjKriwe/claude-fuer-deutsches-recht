@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Produktdaten PIM Datenkatalog Hersteller** im Bereich 
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

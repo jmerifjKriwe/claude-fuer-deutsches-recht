@@ -1,3 +1,13 @@
+# v393.0.0 — Importprüfung, Datenabruf-Slugpflege und Release-Härtung
+
+- Neuer repo-interner Marketplace-Importvalidator prüft Marketplace-Vollständigkeit, Plugin-Manifeste, Skill-Frontmatter, Prompt-Dateien, README-Direktdownloads, Prompt-Größen und fehlende Wrapper-Skills.
+- Datenbankrechtliche Abruf-Skills auf deutsche Slugs und Begriffe umgestellt; alte englische Abrufpfade, Indexverweise und Testakten-Assetnamen bereinigt.
+- Zwei Aktenlinks mit Leerzeichen in Dateinamen auf stabile Dateipfade umgezogen und README-Verweise korrigiert.
+- README und Wartungshinweise um den zusätzlichen Release-Check ergänzt; interne Zählwerte auf 232 Plugins, 26051 Skills und 230 Megaprompt-Dateien aktualisiert.
+- Repo-weiter Versions-Bump auf v393.0.0.
+
+---
+
 # v390.0.0 — Handkurierte Feinarbeit fuer Arbeitsrecht, Familienrecht, Familiengericht und Amtsanwaltschaft
 
 - Arbeitsrecht, Fachanwalt Familienrecht, Richter Familiengericht und Staatsanwaltschaft Amtsanwaltschaft als handkuratierte Prompt-Flaggschiffe vor Generator-Ueberschreibung geschuetzt.
@@ -276,7 +286,7 @@ Qualitaetsdurchgang ueber alle 15 Plugins im Sammelordner `gerichtsplugins/`, mi
 
 - Skill-Descriptions bis 1024 Zeichen, plugin.json- und Marketplace-Descriptions bis 300 Zeichen, keine Zahl-Komma-Zahl-Sequenz, keine spitzen Klammern, keine doppelten Anfuehrungszeichen, keine Emojis, kein Paragraf-Zeichen, Slugs nur aus Kleinbuchstaben, Ziffern und Bindestrich. Frontmatter ausschliesslich name und description; alle 142 Skill-Namen des Praxis-Plugins stimmen mit dem Verzeichnis ueberein.
 - Cross-Refs geprueft: gerichtsplugins/README.md listet alle 15 Plugins, alle Marketplace-source-Pfade aufloesbar, Haupt-README mit Sammelordner-Eintrag.
-- Niemals scrape oder crawl; keine weiteren weiblichen Doppelpunkt- oder Paarformen.
+- Niemals auslesen oder abruflauf; keine weiteren weiblichen Doppelpunkt- oder Paarformen.
 
 ## Aesthetik
 

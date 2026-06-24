@@ -55,7 +55,7 @@ SPA Draft 1 wurde durch Roosendaal Birkenhainer Partners mbB erstellt und am 18.
 
 **Problem:** Für Verkäufer praeferabel: "best knowledge" mit erweitertem Personenkreis (CEO, CFO, GC, Bereichsleitung Technik). Konstruktive Kenntnis vs. tatsächliche Kenntnis — erheblicher Haftungsunterschied.
 
-**Handlungsbedarf:** Einheitliche Knowledge-Qualifier-Definition (Defined Term "Seller's Knowledge") einführen. Personenkreis festlegen. Materiality-Scrape-Klausel erwägen. Siehe Aktenstück 05.
+**Handlungsbedarf:** Einheitliche Knowledge-Qualifier-Definition (Defined Term "Seller's Knowledge") einführen. Personenkreis festlegen. Materiality-Auslesen-Klausel erwägen. Siehe Aktenstück 05.
 
 ### Issue 4 — Indemnification Cap/Basket (Art. 6)
 

@@ -19,13 +19,13 @@ Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umg
 
 ## Mandantenfall
 
-- Ein Softwareunternehmen möchte eine unternehmensweite Richtlinie für den Zugriff auf externe Datenbanken und Daten-Feeds einführen, nachdem eine Abmahnung wegen unbefugten Scrapings eingegangen ist.
+- Ein Softwareunternehmen möchte eine unternehmensweite Richtlinie für den Zugriff auf externe Datenbanken und Daten-Feeds einführen, nachdem eine Abmahnung wegen unbefugten automatisierten Auslesens eingegangen ist.
 - Ein Konzern führt eine M&A-Integration durch und muss sicherstellen, dass die übernommene Datenbank-Nutzungspraxis des Targets mit den eigenen Compliance-Standards vereinbar ist.
 - Ein Forschungsinstitut erstellt nach Förderauflagen eine Open-Data-Policy und muss das Verhältnis zwischen eigenen Datenbankrechten und Open-Access-Verpflichtungen klären.
 
 ## Erste Schritte
 
-1. **Bestandsaufnahme Datenbanknutzung**: Inventarisierung aller genutzten externen Datenbanken, APIs, Daten-Feeds und Scraping-Prozesse; Erfassung vorhandener Lizenzverträge, Nutzungsbedingungen und interner Zugangstechnik.
+1. **Bestandsaufnahme Datenbanknutzung**: Inventarisierung aller genutzten externen Datenbanken, APIs, Daten-Feeds und Ausleseprozesse; Erfassung vorhandener Lizenzverträge, Nutzungsbedingungen und interner Zugangstechnik.
 2. **Rechtliche Risikoklassifizierung**: Jede Datenquelle nach Schutzstatus bewerten (Datenbankwerk § 4 UrhG, Herstellerrecht §§ 87a-87e UrhG, keine Schutzfähigkeit) und Nutzungsumfang gegen erlaubte Schranken prüfen (§§ 44b, 60d UrhG, eigene Lizenz).
 3. **Freigabe-entwerfen**: Mehrstufiges Genehmigungsverfahren: (a) IT prüft technische Zugriffsmethode, (b) Legal prüft Schutzstatus und Lizenzabdeckung, (c) Freigabe durch Data-Owner dokumentiert in einem zentralen Register.
 4. **Policy-Entwurf erstellen**: Gliederung mit Geltungsbereich, Definitionen (Datenbank, wesentliche Entnahme, TDM), verbotene Handlungen, erlaubte Nutzung, Meldepflichten intern, Sanktionen bei Verstoß.

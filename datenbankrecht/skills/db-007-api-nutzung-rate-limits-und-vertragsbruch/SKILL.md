@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **API-Nutzung Rate Limits und Vertragsbruch** im Bereich
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

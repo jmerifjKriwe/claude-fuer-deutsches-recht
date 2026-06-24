@@ -1,7 +1,7 @@
 {
   "name": "datenbankrecht",
-  "version": "392.0.0",
-  "description": "Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, Scraping, API, KI-Training, Vertrags- und Plattformkonflikte.",
+  "version": "393.0.0",
+  "description": "Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, KI-Training, Vertrags- und Plattformkonflikte.",
   "keywords": [
     "datenbankrecht",
     "grosses",
@@ -11,7 +11,7 @@
     "87a",
     "datenbankrichtlinie",
     "investitionsschutz",
-    "scraping",
+    "automatisiertes Auslesen",
     "api",
     "ki-training",
     "vertrags"

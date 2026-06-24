@@ -1,6 +1,6 @@
 ---
 name: e-verletzung-dokumentieren
-description: "Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und..."
+description: "Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Auslesen, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und..."
 ---
 
 # Datenbankrecht im E-Commerce-Marktplatz — Schutz und Compliance
@@ -23,7 +23,7 @@ description: "Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG fü
 
 1. Herstellereigenschaft des Marktplatzes prüfen: Wesentliche Investition in Sammlung (Onboarding von Händlern und Produktdaten), Überprüfung (Qualitätssicherung, Kategorisierung) und Darstellung (Suchalgorithmen, UI)?
 2. Händlerrechte an eigenen Produktdaten klären: Händler behalten Urheberrecht an eigenen Produktfotos und -texten — Marktplatz erhält nur Nutzungsrechte nach AGB.
-3. Verletzungsanalyse für Wettbewerber-Scraping: Wesentliche Entnahme oder kumulierte Teilentnahmen (§ 87b UrhG)?
+3. Verletzungsanalyse für Wettbewerber-Auslesen: Wesentliche Entnahme oder kumulierte Teilentnahmen (§ 87b UrhG)?
 4. P2B-VO-Pflichten: Marktplatz muss Ranking-Parameter, Datennutzungsregeln und Beendigungsmodalitäten transparent machen.
 5. Export-Recht des Händlers: Darf der Händler bei Vertragsende eigene Produktdaten mitnehmen? Datentransferabilität nach Data Act (VO 2023/2854)?
 6. AGB und Datenbankklauseln: Eigentum am Datenbankherstellerrecht im Marktplatz-AGB klar zuweisen.
@@ -45,14 +45,14 @@ description: "Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG fü
 - Gewähren P2B-VO oder Data Act dem Händler ein unentziehbares Recht auf Datenexport bei Vertragsende?
 - Sind AGB-Klauseln zur Datenbankherstellerschaft nach § 307 BGB wirksam?
 - Liegt ein DSGVO-Datenportabilitätsanspruch (Art. 20 DSGVO) für Verbraucher-Nutzerdaten vor?
-- Schützt der Marktplatz seine Datenbank durch robots.txt und technische Maßnahmen gegen Scraping?
+- Schützt der Marktplatz seine Datenbank durch robots.txt und technische Maßnahmen gegen automatisiertes Auslesen?
 
 ## Typische Fallstricke
 
 - AGB-Klauseln, die alle Produktdaten vollständig dem Marktplatz zuordnen, können nach § 307 BGB unwirksam sein, wenn Händler eigene Schutzrechte behalten.
 - P2B-VO gibt Händlern Auskunftsrechte über Ranking-Algorithmen — aber kein unbegrenztes Datenbankexport-Recht.
 - Data Act schafft neue Wechselrechte für Cloud-Kunden, die Marktplatzdaten einschließen können.
-- Wettbewerber-Scraping kann nach Innoweb/Wegener als wesentliche Weiterverwendung qualifiziert werden, wenn Echtzeit-Abfrage erfolgt.
+- Wettbewerber-Auslesen kann nach Innoweb/Wegener als wesentliche Weiterverwendung qualifiziert werden, wenn Echtzeit-Abfrage erfolgt.
 - Personenbezogene Käuferdaten auf dem Marktplatz unterliegen DSGVO-Portabilitätsrecht (Art. 20 DSGVO) — getrennt von Produktdaten bewerten.
 
 ## Quellen

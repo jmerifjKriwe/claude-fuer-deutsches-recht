@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Sportdaten Live-Daten Fixtures und Ergebnislisten** im
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

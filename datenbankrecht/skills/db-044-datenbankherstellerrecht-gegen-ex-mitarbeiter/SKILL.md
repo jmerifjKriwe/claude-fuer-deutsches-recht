@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankherstellerrecht gegen Ex-Mitarbeiter** im Ber
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

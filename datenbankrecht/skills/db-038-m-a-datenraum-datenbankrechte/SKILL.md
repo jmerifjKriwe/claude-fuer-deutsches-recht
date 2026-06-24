@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **M&A Datenraum Datenbankrechte** im Bereich **Datenbank
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

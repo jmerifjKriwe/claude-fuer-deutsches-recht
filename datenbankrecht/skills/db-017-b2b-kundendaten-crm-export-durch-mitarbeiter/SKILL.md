@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **B2B-Kundendaten CRM Export durch Mitarbeiter** im Bere
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

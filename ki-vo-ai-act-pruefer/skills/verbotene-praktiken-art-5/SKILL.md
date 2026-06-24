@@ -47,7 +47,7 @@ description: "Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut ve
 
 **Auslegungshinweis:** Systeme, die konkrete Hinweise auf eine Person verarbeiten, sind nicht automatisch verboten; die Grenze liegt beim reinen Persönlichkeitsprofiling ohne individuelle Anhaltspunkte.
 
-## Verbotene Praktik 5 — Untargeted Facial Image Scraping (Art. 5 Abs. 1 lit. e KI-VO)
+## Verbotene Praktik 5 — Untargeted Facial Image automatisiertes Auslesen (Art. 5 Abs. 1 lit. e KI-VO)
 
 **Tatbestand:** Erstellung oder Erweiterung von Gesichtserkennungsdatenbanken durch ungezielte Auslese von Gesichtsbildern aus dem Internet oder aus Videoüberwachungsaufnahmen.
 
@@ -102,7 +102,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 5 Abs. 1 lit. b KI-VO — Ausnutzung von Vulnerabilitaeten
 - Art. 5 Abs. 1 lit. c KI-VO — Social Scoring
 - Art. 5 Abs. 1 lit. d KI-VO — Predictive Policing
-- Art. 5 Abs. 1 lit. e KI-VO — Untargeted Scraping biometrischer Daten
+- Art. 5 Abs. 1 lit. e KI-VO — ungerichtetes Einsammeln biometrischer Daten
 - Art. 5 Abs. 1 lit. f KI-VO — Emotionserkennung am Arbeitsplatz / Bildung
 - Art. 5 Abs. 1 lit. g KI-VO — biometrische Kategorisierung nach geschuetzten Merkmalen
 - Art. 5 Abs. 1 lit. h KI-VO — Echtzeit-Biometrie-Fernidentifizierung öffentlicher Raum
@@ -126,7 +126,7 @@ Geprueft (lit. a-h):
 ☑/☐ lit. b — Vulnerabilitaetsausnutzung: [JA — VERBOTEN / NEIN]
 ☑/☐ lit. c — Social Scoring: [JA — VERBOTEN / NEIN]
 ☑/☐ lit. d — Predictive Policing: [JA — VERBOTEN / NEIN]
-☑/☐ lit. e — Untargeted Scraping Biometrie: [JA — VERBOTEN / NEIN]
+☑/☐ lit. e — ungerichtetes Einsammeln Biometrie: [JA — VERBOTEN / NEIN]
 ☑/☐ lit. f — Emotionserkennung Arbeitsplatz/Bildung: [JA — VERBOTEN / NEIN]
 ☑/☐ lit. g — biometrische Kategorisierung: [JA — VERBOTEN / NEIN]
 ☑/☐ lit. h — Echtzeit-RBI öffentlicher Raum: [JA — VERBOTEN / Ausnahme: BESCHREIBUNG]

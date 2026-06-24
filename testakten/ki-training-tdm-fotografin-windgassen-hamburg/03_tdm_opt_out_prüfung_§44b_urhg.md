@@ -26,7 +26,7 @@ Der Vorbehalt muss:
 
 ### 2. Zeitpunkt der Nutzungshandlung
 
-§ 44b UrhG gilt für Nutzungshandlungen, die **nach dem 07.06.2021** vorgenommen wurden. LAION-5B-Crawl-Zeiträume: Die öffentliche Dokumentation von LAION e.V. datiert den Hauptcrawl auf **April bis September 2021** — also zeitlich nach Inkrafttreten der Norm. Ob der spezifische Crawl-Durchgang, der Windgassens Bilder erfasste, vor oder nach dem 07.06.2021 stattfand, ist streitig und durch Serverlogdaten zu belegen (s.u.).
+§ 44b UrhG gilt für Nutzungshandlungen, die **nach dem 07.06.2021** vorgenommen wurden. LAION-5B-Abrufzeiträume: Die öffentliche Dokumentation von LAION e.V. datiert den Hauptabruf auf **April bis September 2021** — also zeitlich nach Inkrafttreten der Norm. Ob der spezifische Abrufdurchgang, der Windgassens Bilder erfasste, vor oder nach dem 07.06.2021 stattfand, ist streitig und durch Serverlogdaten zu belegen (s.u.).
 
 ### 3. Wirksamkeit robots.txt als Vorbehalt
 
@@ -39,7 +39,7 @@ Disallow: /shop/
 
 **Problem:** Diese Konfiguration blockiert alle Bots vom Zugriff auf `/portfolio/` und `/shop/`. Ob sämtliche Bildwerke unter diesen Pfaden lagen oder auch unter dem Root-Verzeichnis (`/`) abrufbar waren, ist unklar. Windgassen betreibt seit 2016 ein WordPress-basiertes Portfolio; Bilder können über direkte URLs (`/wp-content/uploads/`) abgerufen werden, ohne unter `/portfolio/` zu fallen.
 
-**Rechtlich:** Das OLG Hamburg hat in frühen Entscheidungen zu Webcrawlern (betreffend Suchmaschinen) die robots.txt als technischen Schutzmechanismus i.S.v. § 95a UrhG anerkannt. Für den spezifischen Kontext § 44b Abs. 3 UrhG fehlt Rechtsprechung. Der Gesetzeswortlaut verlangt nur Maschinenlesbarkeit. Streitig ist, ob eine allgemeine `Disallow: /portfolio/` den Anforderungen genügt oder ob ein expliziter TDM-/KI-Vorbehalt erforderlich ist.
+**Rechtlich:** Das OLG Hamburg hat in frühen Entscheidungen zu Web-Abrufdiensten (betreffend Suchmaschinen) die robots.txt als technischen Schutzmechanismus i.S.v. § 95a UrhG anerkannt. Für den spezifischen Kontext § 44b Abs. 3 UrhG fehlt Rechtsprechung. Der Gesetzeswortlaut verlangt nur Maschinenlesbarkeit. Streitig ist, ob eine allgemeine `Disallow: /portfolio/` den Anforderungen genügt oder ob ein expliziter TDM-/KI-Vorbehalt erforderlich ist.
 
 **Literatur:** Grünberger/Leenen, GRUR 2022, 805 ff. sprechen für weite Auslegung: Jede maschinenlesbar erklärte Sperrung eines Nutzungstyps, der das TDM einschließt, erfülle § 44b Abs. 3 UrhG. Die Gegenmeinung (Dreier/Schulze, § 44b Rn. 43) verlangt konkrete Benennung des TDM-Zwecks.
 
@@ -64,7 +64,7 @@ User-agent: *
 AI-Training: Disallow
 ```
 
-**Bewertung:** Diese Datei ist für den LAION-Zeitraum (2021) **ohne Relevanz**, weil sie erst 2023 eingerichtet wurde. Sie ist aber für zukünftige Crawls und für eventuell laufende Fine-Tuning-Crawls durch ImagineArt-Subdienstleister relevant.
+**Bewertung:** Diese Datei ist für den LAION-Zeitraum (2021) **ohne Relevanz**, weil sie erst 2023 eingerichtet wurde. Sie ist aber für zukünftige Abrufläufe und für eventuell laufende Fine-Tuning-Abrufläufe durch ImagineArt-Subdienstleister relevant.
 
 ---
 
@@ -72,8 +72,8 @@ AI-Training: Disallow
 
 | Punkt | Klärung | Verantwortlich |
 |---|---|---|
-| Genaues Crawl-Datum LAION-5B für windgassen-photo.de | Serverlog-Analyse; LAION-Dataset-Metadata-Abfrage | Forensik, Anlage P-1 |
-| Welche URLs wurden gecrawlt? Nur `/portfolio/` oder auch `/wp-content/uploads/`? | Serverlog-Analyse | Forensik |
+| Genaues Abruflauf-Datum LAION-5B für windgassen-photo.de | Serverlog-Analyse; LAION-Dataset-Metadata-Abfrage | Forensik, Anlage P-1 |
+| Welche URLs wurden abgerufen? Nur `/portfolio/` oder auch `/wp-content/uploads/`? | Serverlog-Analyse | Forensik |
 | robots.txt im Juni 2021 — welcher exakte Inhalt? Git-History / Hosting-Backup? | Anfrage an Hoster (Hetzner) | Kreidler-Bremer |
 | ImagineArt Inc. — Welches Trainingsmodell genau? LAION-5B direkt oder Derivative? | Discovery USA / Letter of Request | Kreidler-Bremer |
 | LAION e.V. als mögliche Mitbeklagte? | Rechtssitzprüfung (Hamburg) | Kreidler-Bremer |
@@ -83,11 +83,11 @@ AI-Training: Disallow
 ## IV. Vorläufiges Ergebnis
 
 Die Erfolgsaussichten einer Klage nach §§ 44b Abs. 3, 97 UrhG gegen ImagineArt Inc. sind **mittel bis gut**, sofern:
-- der LAION-Crawl nach dem 07.06.2021 stattfand (Datum noch zu verifizieren),
+- der LAION-Abruflauf nach dem 07.06.2021 stattfand (Datum noch zu verifizieren),
 - die robots.txt als wirksamer Vorbehalt i.S.v. § 44b Abs. 3 UrhG angesehen wird (strittig),
 - die Bildwerke Windgassens nachweislich im Trainingsdatensatz enthalten waren.
 
-Alternativstrategie: Schadensersatzklage nach § 97 Abs. 2 UrhG wegen urheberrechtlich relevanter Vervielfältigung beim Crawl, unabhängig vom Opt-out-Streit.
+Alternativstrategie: Schadensersatzklage nach § 97 Abs. 2 UrhG wegen urheberrechtlich relevanter Vervielfältigung beim Abruflauf, unabhängig vom Opt-out-Streit.
 
 Streitwert (vorläufig): 150.000 EUR (entsprechend dem Hamburger Streitwertkanon für Lichtbildwerke im Bereich Spezialfotografie × 18.400 Bilder — zu diskutieren; ggf. auf repräsentative Auswahl beschränken).
 

@@ -17,7 +17,7 @@ description: "Datenbankrecht für öffentliche Register (Handelsregister, Grundb
 
 - Fintech-Unternehmen will Handelsregisterdaten massenhaft abrufen und für eine Unternehmens-Datenbank verwenden — fragt nach Zulässigkeit und Grenzen.
 - Datenaggregationsdienst hat Grundbuchdaten über Abfragen zusammengestellt und erhält eine Abmahnung von der registerführenden Behörde.
-- Datenschutzbehörde kritisiert ein Transparenzregister-Scraping-Dienst, der personenbezogene Daten von wirtschaftlich Berechtigten weiterverwendet.
+- Datenschutzbehörde kritisiert ein Transparenzregister-Auslesedienst, der personenbezogene Daten von wirtschaftlich Berechtigten weiterverwendet.
 
 ## Erste Schritte
 
@@ -53,7 +53,7 @@ description: "Datenbankrecht für öffentliche Register (Handelsregister, Grundb
 - IWG-Weiterverwendungsrecht schließt personenbezogene Daten nicht ohne weiteres ein — DSGVO-Zweckbindung bleibt.
 - Massenabfragen beim Handelsregister verstoßen gegen Bundesanzeiger-AGB und können zu Sperren und Schadensersatzforderungen führen.
 - Transparenzregister-Daten dürfen nur zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung genutzt werden — andere Zwecke sind DSGVO-widrig.
-- „Screen-Scraping" von Registerportalen kann § 202a StGB erfüllen, wenn Zugangssperren überwunden werden.
+- „Screen-Auslesen" von Registerportalen kann § 202a StGB erfüllen, wenn Zugangssperren überwunden werden.
 
 ## Quellen
 

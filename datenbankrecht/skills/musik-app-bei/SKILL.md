@@ -52,7 +52,7 @@ description: "Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e Ur
 - Thumbnails können als Vorschaubilder eigenes Urheberrecht des Portals haben, wenn sie schöpferisch erstellt wurden.
 - GEMA-Lizenzen decken das Datenbankherstellerrecht des Musik-Portals nicht ab — separate Prüfung erforderlich.
 - Metadaten-Entnahme kann Datenbankherstellerrecht verletzen, auch wenn keine Bilder übernommen werden.
-- IPTC-Metadaten-Opt-out (XMP-Creator-Tag) wird von vielen KI-Crawlern nicht respektiert — zusätzliche technische Sperren nötig.
+- IPTC-Metadaten-Opt-out (XMP-Creator-Tag) wird von vielen KI-Abrufwerkzeugen nicht respektiert — zusätzliche technische Sperren nötig.
 - Leistungsschutzrecht der Tonträgerhersteller (§ 85 UrhG) ist separat von Datenbankrecht zu lizenzieren.
 
 ## Quellen

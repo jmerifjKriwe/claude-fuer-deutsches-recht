@@ -27,7 +27,7 @@ Ich habe das dann im Oktober 2023 umgesetzt:
 
 Was ich vergessen habe: Den `User-agent: *` in der robots.txt um `AI-Training: Disallow` zu ergänzen (das bot das Gerät erst im Standard ab November 2023 an).
 
-**Meine Sorge:** Die Bilder der Bodden-Reportage, die ich im März 2021 hochgeladen hatte, waren schon vor § 44b drin. Und ich weiß nicht genau, wann Common Crawl die gecrawlt hat.
+**Meine Sorge:** Die Bilder der Bodden-Reportage, die ich im März 2021 hochgeladen hatte, waren schon vor § 44b drin. Und ich weiß nicht genau, wann Common-Data-Index die abgerufen hat.
 
 ---
 
@@ -37,10 +37,10 @@ Dieses Dokument ist wertvoll:
 
 1. Es belegt, dass Windgassen **aktiv und in gutem Glauben** Opt-out-Maßnahmen ergriffen hat — relevant für Verschuldensfrage.
 2. Die Information über IPTC-Keywords in Bilddateien ist ein weiterer Vorbehaltsmechanismus, der neben robots.txt und ai.txt tritt.
-3. Es belegt, dass der Opt-out **erst ab Oktober 2023** vollständig war — für Bilder, die vor diesem Zeitpunkt gecrawlt wurden, ist der Schutz zweifelhaft.
+3. Es belegt, dass der Opt-out **erst ab Oktober 2023** vollständig war — für Bilder, die vor diesem Zeitpunkt abgerufen wurden, ist der Schutz zweifelhaft.
 4. Widerspricht Windgassens frühere Aussage, wonach die robots.txt seit 2019 den Schutz geleistet habe — jetzt ergibt sich, dass sie selbst 2023 noch Optimierungsbedarf sah.
 
-**Folge für Klagestrategie:** Im Schriftsatz § 44b-Opt-out primär auf den **August-2021-Crawl** (nach § 44b) und die damalige robots.txt stützen; IPTC-Keywords als weiteres Argument (zumindest ab Oktober 2023 für Fine-Tuning-Crawls relevant).
+**Folge für Klagestrategie:** Im Schriftsatz § 44b-Opt-out primär auf den **August-2021-Abruflauf** (nach § 44b) und die damalige robots.txt stützen; IPTC-Keywords als weiteres Argument (zumindest ab Oktober 2023 für Fine-Tuning-Abrufläufe relevant).
 
 ---
 

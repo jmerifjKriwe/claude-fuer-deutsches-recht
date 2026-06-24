@@ -17,7 +17,7 @@ Klotzkette das ausdruecklich anweist.
   Plugin. Hat bewusst KEINE `gesamt-pdf/`-Struktur und wird vom
   `validate-testakten-gesamt-pdf.py` explizit via `SKIP_DIRS`
   ausgenommen.
-- `testakten/megaprompts/` — 213 Megaprompt-Markdown-Dateien (seit
+- `testakten/megaprompts/` — 230 Megaprompt-Markdown-Dateien (seit
   Welle 4 fuer alle Plugins), die pro Plugin via
   `scripts/generate-megaprompt.py` erzeugt werden. Ebenfalls in
   `SKIP_DIRS`. Diese Dateien duerfen ueberschrieben, aber nicht
@@ -69,11 +69,12 @@ bleiben — auch wenn sie nur einmal oder unregelmaessig laufen:
 5. Commits niemals mit Author `Claude`, `Codex`, `AI` oder
    vergleichbaren Maschinen-Identitaeten taggen. Verwende
    `Klotzkette / 39582916+Klotzkette@users.noreply.github.com`.
-6. Vor jedem Push: alle drei Validatoren laufen lassen:
+6. Vor jedem Push: diese Validatoren laufen lassen:
+   - `node scripts/validate-marketplace-import.mjs`
    - `python3 scripts/validate-yaml-frontmatter.py`
    - `node scripts/validate-plugin-structure.mjs`
    - `python3 scripts/validate-testakten-gesamt-pdf.py`
-7. Versions-Bumps konsistent durchziehen: alle 213 `plugin.json` und
+7. Versions-Bumps konsistent durchziehen: alle 232 `plugin.json` und
    `.claude-plugin/marketplace.json` muessen dieselbe Version tragen.
 8. Tags `vN.0.0` triggern `.github/workflows/release-plugin-zips.yml`.
    Ein zweites Tag mit gleicher Versionsnummer muss vorher geloescht

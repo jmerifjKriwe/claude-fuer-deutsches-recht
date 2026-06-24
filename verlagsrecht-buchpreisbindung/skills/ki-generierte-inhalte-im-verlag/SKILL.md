@@ -61,7 +61,7 @@ KI-Werkzeuge (GPT-4, Claude, Midjourney, DeepL etc.) werden zunehmend in der Ver
 ### Trainingsdata-Problem
 - Viele KI-Modelle wurden mit Texten aus dem Internet trainiert, die urheberrechtlich geschützt sind.
 - Verlag als Rechteinhaber: Kann Opt-Out für TDM erklären (§ 44b Abs. 3 UrhG, DSM-RL Art. 4 Abs. 3).
-- Opt-Out: Mittels maschinell lesbarer Erklärung auf der Website (z.B. robots.txt, AI-Crawler-Protokoll).
+- Opt-Out: Mittels maschinell lesbarer Erklärung auf der Website (z.B. robots.txt, AI-Abrufprotokoll).
 
 ### Verlag als TDM-Betreiber
 - Verlag möchte eigene Texte für KI-Training nutzen: Braucht Zustimmung der Urheber.
@@ -97,7 +97,7 @@ KI-Werkzeuge (GPT-4, Claude, Midjourney, DeepL etc.) werden zunehmend in der Ver
 
 - **KI-Bild ohne Kennzeichnung**: Covergestaltung mit KI-Bild; Leser beschwert sich über fehlende Transparenz; Abmahnpotenzial nach EU AI Act.
 - **Autorenvertrag ohne KI-Klausel**: Autor liefert zu 80 % KI-Text; Verlag entdeckt dies erst im Lektorat; kein vertragliches Instrument.
-- **TDM-Opt-Out vergessen**: Verlag hat keinen robots.txt für KI-Crawler → Texte werden für Training genutzt, ohne dass Verlag es merkt.
+- **TDM-Opt-Out vergessen**: Verlag hat keinen robots.txt für KI-Abrufwerkzeuge → Texte werden für Training genutzt, ohne dass Verlag es merkt.
 - **DeepL-Übersetzung als Übersetzerwerk deklariert**: KI-Übersetzung ohne menschliche Bearbeitung hat kein Urheberrecht; Übersetzer-Nennung ist irreführend.
 
 ## Checkliste KI im Verlag
@@ -106,7 +106,7 @@ KI-Werkzeuge (GPT-4, Claude, Midjourney, DeepL etc.) werden zunehmend in der Ver
 - [ ] Manuskript-Faktencheck bei KI-unterstützten Werken
 - [ ] Plagiatsprüfung für KI-generierte Textanteile
 - [ ] KI-Bilder im Bildnachweis als KI-generiert gekennzeichnet
-- [ ] Website: robots.txt mit AI-Crawler-Opt-Out gepflegt
+- [ ] Website: robots.txt mit AI-Abrufwerkzeuge-Opt-Out gepflegt
 - [ ] Datenschutz bei KI-Dienstleistern: Manuskripte nur unter DSGVO-konformem Vertrag hochladen
 
 ## Quellenreferenzen

@@ -42,7 +42,7 @@ description: "Verwertung des Leasingobjekts nach Kündigung: Verfahren, Schadens
 - Händler nimmt Objekt in Zahlung beim Kauf eines neuen Objekts
 - Preis oft unter Marktwert: LN kann anfechten
 
-### 4. Scrap / Verschrottung
+### 4. Schrottwert / Verschrottung
 - Letzte Option bei wertlosem Objekt
 - Nachweis: Kein Verwertungserlös erzielbar
 

@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbanklizenz Entwurf Nutzungsumfang und Audit** im 
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

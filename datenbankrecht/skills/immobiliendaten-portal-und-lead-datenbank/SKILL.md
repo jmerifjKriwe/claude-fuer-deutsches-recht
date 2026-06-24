@@ -35,7 +35,7 @@ description: "Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft
 - EuGH C-202/12 (Innoweb/Wegener): Meta-Suchmaschine, die eine Datenbank in Echtzeit durchsucht, verwendet wesentliche Teile weiter.
 - Art. 6 Abs. 1 lit. f DSGVO: Berechtigtes Interesse als Rechtsgrundlage für Lead-Datenbanken — Interessenabwägung erforderlich.
 - § 4 Nr. 4 UWG: Gezielte Behinderung durch systematisches Abgreifen von Wettbewerberdaten.
-- § 307 BGB: AGB-Scraping-Verbote — wirksam, wenn transparent und verhältnismäßig formuliert.
+- § 307 BGB: AGB-Auslesen-Verbote — wirksam, wenn transparent und verhältnismäßig formuliert.
 
 ## Prüfraster
 
@@ -43,7 +43,7 @@ description: "Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft
 - Sind die abgegriffenen Exposés wesentliche Teile der Datenbank — qualitativ (Exklusivinserate) oder quantitativ (hoher Anteil)?
 - Handelt der Aggregator systematisch und regelmäßig (Kumulationstatbestand § 87b Abs. 1 S. 2 UrhG)?
 - Enthält die Lead-Datenbank personenbezogene Daten, und auf welcher DSGVO-Rechtsgrundlage wurden sie erhoben?
-- Liegt ein wirksames AGB-Verbot für automatisiertes Abrufen vor?
+- Liegt ein wirksames AGB-Verbot für automatisierten Abruf vor?
 - Wurde Honey-Pot-Datensätze oder Wasserzeichen in den Inseraten als Beweisinstrument eingesetzt?
 - Besteht bei Lead-Datenbankübertragung eine DSGVO-konforme Rechtsgrundlage für die Weitergabe?
 

@@ -41,7 +41,7 @@ Hilfsweise: Bereicherungsrechtlicher Anspruch (§ 812 BGB) in Höhe der ersparte
 | Aufnahme in LAION-5B | Serverlog-Auszug (Anlage P-1), Gutachten IT-Forensik Barkhoff |
 | Nutzung für ImagineArt-Training | ImagineArt-Pressemitteilungen, öffentliche Dokumentation des Modells |
 | Stilmimikry und Kompositionsklone | Sachverständigengutachten Bildästhetik (Prof. Dr. Katrin Felber, HfbK Hamburg) |
-| robots.txt-Zustand zum Crawl-Datum | Serverlog, Wayback Machine-Screenshot |
+| robots.txt-Zustand zum Abruflauf-Datum | Serverlog, Wayback Machine-Screenshot |
 
 ---
 
@@ -49,7 +49,7 @@ Hilfsweise: Bereicherungsrechtlicher Anspruch (§ 812 BGB) in Höhe der ersparte
 
 | Risiko | Einschätzung |
 |---|---|
-| § 44b UrhG vor oder nach Inkrafttreten? | Gespalten: Bodden-Bilder im Juni-Crawl (vor 07.06.2021) — schwächere Position; August-Crawl (nach) — stärkere Position |
+| § 44b UrhG vor oder nach Inkrafttreten? | Gespalten: Bodden-Bilder im Juni-Abruflauf (vor 07.06.2021) — schwächere Position; August-Abruflauf (nach) — stärkere Position |
 | robots.txt als wirksamer Vorbehalt? | Literatur gespalten; LG Hamburg noch keine Entscheidung |
 | ImagineArt Inc. erscheint vor LG Hamburg? | Möglicherweise nicht — Vollstreckung in USA problematisch |
 | US-Parallelverfahren | Getty Images v. Stability AI (SDNY, laufend) — Ausgang verfolgen |

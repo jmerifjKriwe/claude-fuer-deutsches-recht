@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Kaltstart Datenbankrecht Werk oder Herstellerrecht** i
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

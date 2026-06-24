@@ -18,7 +18,7 @@ Anbieter von GPAI-Modellen müssen urheberrechtliche Compliance nicht nur behaup
 ## Prüfschritte
 
 1. Modell und Anbieterrolle bestimmen.
-2. Trainingsdatenquellen clustern: frei, lizenziert, eigene Daten, Webcrawl, Kundenmaterial, synthetische Daten.
+2. Trainingsdatenquellen clustern: frei, lizenziert, eigene Daten, Webdatenabruf, Kundenmaterial, synthetische Daten.
 3. Opt-out-Mechanismen prüfen: maschinenlesbare Vorbehalte, Vertragsverbote, Rechteinhaberhinweise.
 4. Rechtekette dokumentieren.
 5. Zusammenfassung der Trainingsinhalte so formulieren, dass sie hinreichend aussagekräftig ist, aber keine Geschäftsgeheimnisse unnötig offenlegt.

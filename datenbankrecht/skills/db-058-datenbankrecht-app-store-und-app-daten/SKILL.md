@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrecht App Store und App-Daten** im Bereich **
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

@@ -27,8 +27,8 @@ Der Schaden wird berechnet als die Lizenz, die Windgassen für die Verwendung ih
 ### Anzahl betroffener Bilder
 
 Nach Serverlog-Analyse (vgl. Aktenstück 04):
-- Sicher nachweisbar im LAION-Crawl: **161 Bilder** (Juni + August 2021)
-- Weitere Crawl-Durchgänge 2021: noch zu prüfen, Schätzung max. 400 Bilder
+- Sicher nachweisbar im LAION-Abruflauf: **161 Bilder** (Juni + August 2021)
+- Weitere Abruflauf-Durchgänge 2021: noch zu prüfen, Schätzung max. 400 Bilder
 - Gesamtschätzung für Klage (konservativ): **200 Bilder**
 
 ### Berechnungsansätze

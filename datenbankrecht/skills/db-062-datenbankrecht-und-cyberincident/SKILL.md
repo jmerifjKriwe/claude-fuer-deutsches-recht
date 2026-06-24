@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrecht und Cyberincident** im Bereich **Datenb
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrecht Musik Film Bildarchiv** im Bereich **Da
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

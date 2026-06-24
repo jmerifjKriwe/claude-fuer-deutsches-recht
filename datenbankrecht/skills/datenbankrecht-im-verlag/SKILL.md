@@ -19,7 +19,7 @@ Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digi
 
 ## Mandantenfall
 
-- Wissenschaftsverlag fragt, wie er seine Zeitschriftendatenbank gegen KI-Trainingsdaten-Ernte schützen kann, nachdem TDM-Crawler die Datenbank systematisch abgerufen haben.
+- Wissenschaftsverlag fragt, wie er seine Zeitschriftendatenbank gegen KI-Trainingsdaten-Ernte schützen kann, nachdem TDM-Abrufwerkzeuge die Datenbank systematisch abgerufen haben.
 - Fachverlag lizenziert seine Rechtsdatenbank an Hochschulen und Kanzleien und muss Lizenzklauseln für Volllizenz vs. Single-Seat-Zugang definieren.
 - Digitales Bibliotheksarchiv fragt, wer Datenbankherstellerrecht an einer aus Verlagsarchiven zusammengestellten Datenbank hat — Verlag oder Bibliothek?
 
@@ -54,7 +54,7 @@ Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digi
 ## Typische Fallstricke
 
 - Autoren-Urheberrecht und Verlags-Herstellerrecht sind kumulativ — Verlag lizenziert Datenbankzugang, Autor kann weiterhin Rechte an einzelnen Beiträgen haben.
-- TDM-Opt-out ohne Standard-Metadaten-Format wird von KI-Crawlern ignoriert — JATS-Opt-out und robots.txt kombinieren.
+- TDM-Opt-out ohne Standard-Metadaten-Format wird von KI-Abrufwerkzeugen ignoriert — JATS-Opt-out und robots.txt kombinieren.
 - Bibliotheksschranke § 60e UrhG erlaubt keine vollständige Datenbanknutzung — nur für definierte Bibliothekszwecke.
 - Institutionslizenzen werden oft auf neue Nutzergruppen (Remote-Zugriff, Alumni) ausgedehnt, ohne Lizenzerweiterung — Verstoß gegen Vertragskonditionen.
 - Presseverleger-Leistungsschutzrecht (§ 87g UrhG) gilt nur für Presseverlage, nicht für Wissenschaftsverlage.

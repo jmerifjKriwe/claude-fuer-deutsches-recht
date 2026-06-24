@@ -126,10 +126,10 @@ Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschre
 | `rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt` | Rechtsabteilungs-Fachmodul für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Soft... |
 | `redteam-software-qualitygate` | Finaler Qualitätsfilter für Software-Rechtsausgaben gegen Halluzination, fehlende Quellen, übersehene IP-/OSS-/US-Risiken und Vertragswidersprüche. |
 | `repository-access-offboarding` | Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung im Softwarerecht De Eu Us. |
-| `reseller-oem-sbom-software-scraping-api` | Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette im Softwarerecht De Eu Us. |
+| `reseller-oem-sbom-software-datenabruf-api` | Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette im Softwarerecht De Eu Us. |
 | `saas-vertrag-b2b` | Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung im Softwarerecht De Eu Us. |
 | `sbom-software-composition` | Erstellt SBOM- und Software-Composition-Workflows für OSS, Security, CRA, Kundenverträge und M&A im Softwarerecht De Eu Us. |
-| `scraping-api-terms` | Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use im Softwarerecht De Eu Us. |
+| `datenabruf-api-bedingungen` | Prüft automatisierten Datenabruf, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use im Softwarerecht De Eu Us. |
 | `secure-development-contract` | Entwirft Security-by-Design-Pflichten in Entwicklungsverträgen: SSDLC, threat modeling, secure coding, tests und remediation im Softwarerecht De Eu Us. |
 | `software-copyright-infringement` | Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung im Softwarerecht De Eu Us. |
 | `software-dokumentation-gui-api-schutz` | Prüft Schutz von Dokumentation, GUI, API-Spezifikation, Handbüchern, Screens und Datenmodellen neben dem Programmcode im Softwarerecht De Eu Us. |

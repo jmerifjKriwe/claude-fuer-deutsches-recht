@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrechte bei Schul- und Hochschuldaten** im Ber
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

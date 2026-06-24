@@ -106,7 +106,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Ist W&I-Versicherung vom Kaeufer oder Verkaeufer beabsichtigt — Buy-side oder Sell-side Policy?
 2. Liegt ein vollstaendiger Red-Flag-Report und ein ausgefuellter Disclosure Letter vor — Underwriter verlangen vollstaendige DD-Dokumentation?
 3. Welche Garantien sollen versichert werden — alle Business Warranties, oder nur Title und Financial Statements?
-4. Ist ein Materiality Scrape vorgesehen — entfaellt die Materiality-Schwelle für Versicherungsansprueche?
+4. Ist ein Materiality Auslesen vorgesehen — entfaellt die Materiality-Schwelle für Versicherungsansprueche?
 5. Wurden Synthetic Warranties vereinbart (warranties ohne SPA-Basis, nur für Versicherungszwecke)?
 6. Wurden DD-Tools mit KI-Unterstuetzung eingesetzt — Underwriter verlangen Transparenz über KI-basierte DD-Methodik?
 
@@ -128,7 +128,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. **Underwriting-Unterlagen zusammenstellen:** Vollstaendiger DD-Report, Red-Flag-Report, Disclosure Letter, DD-Fragenliste und Antworten, SPA-Entwurf
 3. **AI-DD-Transparenz-Erklaerung:** falls KI-gestuetzte Datenraumanalyse eingesetzt — Methodik, Prüftiefe, Human-in-the-loop-Verfahren an Underwriter kommunizieren
 4. **Deckungsausschluesse verhandeln:** bekannte Risiken, Environmental, Cyber, Steuern (oft Teil-Ausschluss), Pension Deficits; Ausschlussliste mit SPA-Risiken abgleichen
-5. **Materiality Scrape vereinbaren:** bei Scrape wird die Materiality-Schwelle der SPA-Garantien für Versicherungsansprueche ignoriert
+5. **Materiality Auslesen vereinbaren:** bei Auslesen wird die Materiality-Schwelle der SPA-Garantien für Versicherungsansprueche ignoriert
 6. **Synthetic Warranties:** für Garantien, die nicht im SPA stehen, aber Underwriter versichern wollen; separater Synthetic Warranty Schedule
 7. **Bindungsbestaetigung einholen:** Underwriter Confirmation als W&I-Closing CP
 8. **Notification-Pflichten postClosing:** Garantieverletzung innerhalb der Notification-Frist (haeufig 7 Tage nach Kenntnis) dem Versicherer melden
@@ -160,7 +160,7 @@ DECKUNGSAUSSCHLUESSE (BEKANNTE RISIKEN)
 [ ] Steuerrisiko: [BESCHREIBUNG]
 [ ] [WEITERE AUSSCHLUESSE]
 
-MATERIALITY SCRAPE: [ ] Vereinbart [ ] Nicht vereinbart
+STREICHUNG DER WESENTLICHKEITSSCHWELLE: [ ] Vereinbart [ ] Nicht vereinbart
 SYNTHETIC WARRANTIES: [ ] Vorhanden (Schedule: [NAME]) [ ] Nicht vorhanden
 
 PRÄMIE: ca. [X %] der Versicherungssumme

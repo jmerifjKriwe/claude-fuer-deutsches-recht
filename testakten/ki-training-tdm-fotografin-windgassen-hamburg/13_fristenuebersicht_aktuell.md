@@ -22,8 +22,8 @@
 
 | Anspruch | Verjährungsbeginn | Verjährungsende | Hemmung? |
 |---|---|---|---|
-| § 97 UrhG ImagineArt (August-Crawl 2021) | Kenntniserlangung Nov. 2025 | Ende 2028 | Nein (Schiedsstelle hemmt nur VGG-Streit) |
-| § 97 UrhG ImagineArt (Juni-Crawl 2021, vor § 44b) | alternativ: deliktische Ansprüche | 3 Jahre ab Kenntnis | — |
+| § 97 UrhG ImagineArt (August-Abruflauf 2021) | Kenntniserlangung Nov. 2025 | Ende 2028 | Nein (Schiedsstelle hemmt nur VGG-Streit) |
+| § 97 UrhG ImagineArt (Juni-Abruflauf 2021, vor § 44b) | alternativ: deliktische Ansprüche | 3 Jahre ab Kenntnis | — |
 | Lizenzstreit Mare 2019 | Vertragsauslegung | Keine Verjährung laufend | — |
 | Gegendarstellung EWA | ohne Verzug, keine Jahresfrist | Ohne Verzug | — |
 

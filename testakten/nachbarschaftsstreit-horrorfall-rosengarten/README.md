@@ -16,7 +16,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Arbeitsakte zum Plugin `nachbarschaftsstreit-pruefer`.
+Arbeitsakte für die nachbarrechtliche Anspruchs- und Beweisprüfung.
 
 ## Kurzbild
 
@@ -31,7 +31,7 @@ Marianne und Dr. Henning Albers besitzen ein Reihenendhaus in der Rosengartenstr
 - Kesslers behaupten plötzlich ein Notwegerecht für Handwerker durch den Garten der Albers.
 - Bauamt, Ordnungsamt, Gartenbauunternehmen, Vermesser und zwei Anwälte haben jeweils nur Teile der Akte gesehen.
 
-Die Akte ist bewusst als laufende Mandatsmappe angelegt: Grenzverlauf, Kausalität, Duldung, Beweisnot, Eilbedürftigkeit, Baumschutz, Datenschutz und Vergleichsdynamik liegen nebeneinander, ohne dass eine Seite die tatsächliche Lage vollständig beherrscht.
+Die Unterlagen sind als laufende Mandatsmappe angelegt: Grenzverlauf, Kausalität, Duldung, Beweisnot, Eilbedürftigkeit, Baumschutz, Datenschutz und Vergleichsdynamik liegen nebeneinander, ohne dass eine Seite die tatsächliche Lage vollständig beherrscht.
 
 ## Formate und Dateien
 
@@ -81,7 +81,7 @@ Beides liegt vor — der Standard-Export als Textdatei und ein visuell gerendert
 
 | Datei | Inhalt |
 |---|---|
-| [`whatsapp/WhatsApp Chat mit Stefan Kessler.txt`](whatsapp/WhatsApp%20Chat%20mit%20Stefan%20Kessler.txt) | Standard-WhatsApp-Export, 20 Nachrichten 06.–12.05.2025 |
+| [`whatsapp/whatsapp_chat_mit_stefan_kessler.txt`](whatsapp/whatsapp_chat_mit_stefan_kessler.txt) | Standard-WhatsApp-Export, 20 Nachrichten 06.–12.05.2025 |
 | [`scan-whatsapp/scan_whatsapp_screenshots.pdf`](scan-whatsapp/scan_whatsapp_screenshots.pdf) | Visueller Scan der Handy-Screenshots (2 Seiten) |
 
 ### Excel

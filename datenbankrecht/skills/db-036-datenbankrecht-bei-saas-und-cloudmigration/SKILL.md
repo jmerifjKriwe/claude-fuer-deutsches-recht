@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrecht bei SaaS und Cloudmigration** im Bereic
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

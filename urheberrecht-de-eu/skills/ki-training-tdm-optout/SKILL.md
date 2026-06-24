@@ -43,7 +43,7 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - War das Material rechtmäßig zugänglich?
 - Ist der Rechtevorbehalt maschinenlesbar, vertraglich oder technisch erklärt?
 - Handelt es sich um Forschungseinrichtung, Kulturerbe oder kommerzielles Training?
-- Welche Nachweise gibt es zu Crawling, Dataset, robots.txt, Metadaten und Lizenzbedingungen?
+- Welche Nachweise gibt es zu automatisierter Abruf, Dataset, robots.txt, Metadaten und Lizenzbedingungen?
 
 ## Prüflogik
 

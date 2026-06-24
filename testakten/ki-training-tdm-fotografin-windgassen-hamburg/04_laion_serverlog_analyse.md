@@ -1,8 +1,8 @@
-# Technische Analyse: Serverlog-Auszug windgassen-photo.de und LAION-Crawl-Nachweis
+# Technische Analyse: Serverlog-Auszug windgassen-photo.de und LAION-Abruflauf-Nachweis
 
 **Erstellt:** 22.01.2026
 **Von:** IT-Forensik-Beraterin: Dipl.-Inf. Kerstin Barkhoff, Hamburg (beauftragt 18.01.2026)
-**Auftrag:** Nachweis des Crawl-Datums und -Umfangs für LAION-5B bezüglich windgassen-photo.de
+**Auftrag:** Nachweis des Abruflauf-Datums und -Umfangs für LAION-5B bezüglich windgassen-photo.de
 
 ---
 
@@ -15,12 +15,12 @@ Hetzner Hosting hat auf Anfrage von Dr. Kreidler-Bremer (mit Vollmacht Windgasse
 
 ---
 
-## 2. Crawl-Ereignisse Identifizierung
+## 2. Abruflauf-Ereignisse Identifizierung
 
-Grep nach bekannten LAION/Common-Crawl-User-Agent-Strings:
+Grep nach bekannten LAION/Common-Abruflauf-User-Agent-Strings:
 ```
 CCBot/2.0
-Mozilla/5.0 (compatible; CCBot/2.0; https://commoncrawl.org/faq/)
+Mozilla/5.0 (compatible; CCBot/2.0; https://commondata.org/faq/)
 ```
 
 **Ergebnis (Auszug, relevante Treffer):**
@@ -37,16 +37,16 @@ Mozilla/5.0 (compatible; CCBot/2.0; https://commoncrawl.org/faq/)
 [... weitere 143 Einträge ...]
 ```
 
-**Kritisch:** Der Crawl vom **03.06.2021** fand **VOR** Inkrafttreten des § 44b UrhG (07.06.2021) statt.
-Der Crawl vom **17.08.2021** fand **NACH** Inkrafttreten statt.
+**Kritisch:** Der Abruflauf vom **03.06.2021** fand **VOR** Inkrafttreten des § 44b UrhG (07.06.2021) statt.
+Der Abruflauf vom **17.08.2021** fand **NACH** Inkrafttreten statt.
 
 ---
 
-## 3. robots.txt zum Crawl-Zeitpunkt
+## 3. robots.txt zum Abruflauf-Zeitpunkt
 
 Aus dem Git-Backup des Webservers:
 
-**Stand 03.06.2021 (relevanter erster Crawl):**
+**Stand 03.06.2021 (relevanter erster Abruflauf):**
 ```
 User-agent: *
 Disallow: /portfolio/
@@ -55,26 +55,26 @@ Disallow: /shop/
 
 **Befund:** Das `/portfolio/`-Verzeichnis war gesperrt. Der CCBot hat dennoch auf `/portfolio/bodden-reportage/` zugegriffen und HTTP 200 erhalten. Möglich: Konfigurationsfehler in der robots.txt-Implementierung des WordPress-Plugins oder CCBot hat robots.txt ignoriert.
 
-**Zudem:** Die Bilder unter `/wp-content/uploads/` waren in der robots.txt **nicht** gesperrt. Dadurch sind die Bilddateien selbst (JPEGs) uneingeschränkt crawlbar, selbst wenn das zugehörige Portfolio-Verzeichnis gesperrt ist.
+**Zudem:** Die Bilder unter `/wp-content/uploads/` waren in der robots.txt **nicht** gesperrt. Dadurch sind die Bilddateien selbst (JPEGs) uneingeschränkt abrufbar, selbst wenn das zugehörige Portfolio-Verzeichnis gesperrt ist.
 
 ---
 
 ## 4. Bewertung: Vor/Nach § 44b UrhG
 
-| Crawl-Datum | Vor/Nach § 44b UrhG (07.06.2021) | Anzahl gecrawlter Bilder (Schätzung) |
+| Abruflauf-Datum | Vor/Nach § 44b UrhG (07.06.2021) | Anzahl abgerufener Bilder (Schätzung) |
 |---|---|---|
 | 03.06.2021 | **VOR** | ca. 16–18 Bilder (Bodden-Strecke) |
 | 17.08.2021 | **NACH** | ca. 143 Bilder (verschiedene Serien) |
-| weitere Crawls 2021? | noch zu prüfen | — |
+| weitere Abrufläufe 2021? | noch zu prüfen | — |
 
 ---
 
 ## 5. Kritische Feststellungen
 
-1. **Der August-Crawl (nach § 44b) umfasst massiv mehr Bilder** als der Juni-Crawl.
-2. Die robots.txt blockierte `/portfolio/`, aber nicht `/wp-content/uploads/`. CCBot hat beide gecrawlt (Juni trotz `Disallow: /portfolio/`).
-3. Es gibt keine direkte Verlinkung zwischen dem LAION-5B-Datensatz und den hier identifizierten CCBot-Zugriffen. LAION nutzte primär Common Crawl-Daten — der Zusammenhang ist aber wahrscheinlich (CCBot ist der Common-Crawl-Bot).
-4. **Weitere Untersuchung empfohlen:** Abgleich der gecrawlten URLs mit dem LAION-Dataset-Hash-Index (soweit noch zugänglich).
+1. **Der August-Abruflauf (nach § 44b) umfasst massiv mehr Bilder** als der Juni-Abruflauf.
+2. Die robots.txt blockierte `/portfolio/`, aber nicht `/wp-content/uploads/`. CCBot hat beide abgerufen (Juni trotz `Disallow: /portfolio/`).
+3. Es gibt keine direkte Verlinkung zwischen dem LAION-5B-Datensatz und den hier identifizierten CCBot-Zugriffen. LAION nutzte primär Common-Data-Index-Daten — der Zusammenhang ist aber wahrscheinlich (CCBot ist der Common-Abruflauf-Bot).
+4. **Weitere Untersuchung empfohlen:** Abgleich der abgerufenen URLs mit dem LAION-Dataset-Hash-Index (soweit noch zugänglich).
 
 ---
 

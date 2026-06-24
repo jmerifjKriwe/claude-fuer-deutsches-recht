@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Kartendaten Geodaten und Luftbilder** im Bereich **Dat
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

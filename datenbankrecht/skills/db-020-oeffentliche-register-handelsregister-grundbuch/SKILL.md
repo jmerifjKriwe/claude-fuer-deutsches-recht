@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Öffentliche Register Handelsregister Grundbuch Transp
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

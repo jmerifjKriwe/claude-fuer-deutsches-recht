@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrecht im Verlag** im Bereich **Datenbankrecht
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

@@ -70,7 +70,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | Mandatsbriefing / Sachverhaltsaufnahme | 01 | Mandantennotiz, Vollmacht, Interessenkonflikt-Check |
 | Term Sheet / Letter of Intent | 02 | Term Sheet SPA, Exklusivität, Break Fee |
 | SPA-Drafting iterativ (v1–v4) | 03, 04 | Issue-List, Redline-Zusammenfassung |
-| Warranties-Katalog | 05 | Knowledge Qualifier, Materiality Scrape, Qualifizierung |
+| Warranties-Katalog | 05 | Knowledge Qualifier, Materiality Auslesen, Qualifizierung |
 | MAC-Klausel | 06 | Formulierungsoptionen, Energiemarkt-Carve-out |
 | Earn-Out-Definition | 07 | EBITDA-Bereinigung, Measurement Period, Streitbeilegung |
 | Indemnification-Struktur | 08 | De minimis Basket, Deductible, Cap, Survival |
@@ -99,7 +99,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | 02 | [`02-term-sheet-spa-v1.md`](02-term-sheet-spa-v1.md) | Term Sheet / Letter of Intent, Exklusivität, Break Fee |
 | 03 | [`03-spa-draft-1-issue-list.md`](03-spa-draft-1-issue-list.md) | SPA Draft 1 — Issue-List und offene Punkte |
 | 04 | [`04-spa-draft-2-redline-summary.md`](04-spa-draft-2-redline-summary.md) | SPA Draft 2 — Redline-Zusammenfassung |
-| 05 | [`05-warranties-katalog-knowledge-qualifier.md`](05-warranties-katalog-knowledge-qualifier.md) | Warranties-Katalog, Knowledge Qualifier, Materiality Scrape |
+| 05 | [`05-warranties-katalog-knowledge-qualifier.md`](05-warranties-katalog-knowledge-qualifier.md) | Warranties-Katalog, Knowledge Qualifier, Materiality Auslesen |
 | 06 | [`06-mac-klausel-formulierungsoptionen.md`](06-mac-klausel-formulierungsoptionen.md) | MAC-Klausel, Energiemarkt-Carve-out, Varianten |
 | 07 | [`07-earn-out-2027-definition-ebitda.md`](07-earn-out-2027-definition-ebitda.md) | Earn-Out 2027 — EBITDA-Definition und Streitbeilegung |
 | 08 | [`08-indemnification-cap-basket.md`](08-indemnification-cap-basket.md) | Indemnification: Cap, Basket, De minimis, Survival |

@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Immobiliendaten Portal und Lead-Datenbank** im Bereich
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

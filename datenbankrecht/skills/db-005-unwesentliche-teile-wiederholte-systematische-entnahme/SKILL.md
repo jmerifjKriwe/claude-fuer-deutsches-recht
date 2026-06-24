@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Unwesentliche Teile wiederholte systematische Entnahme
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

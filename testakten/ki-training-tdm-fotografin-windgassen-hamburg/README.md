@@ -63,7 +63,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 1. **§ 44b Abs. 3 UrhG:** Genügt eine robots.txt mit `Disallow: /portfolio/` als maschinenlesbarer Vorbehalt, wenn die Bilddateien selbst unter `/wp-content/uploads/` ungepflegt sind? Ist der Vorbehalt ex ante anzusehen?
 
-2. **Zeitliche Grenze § 44b UrhG:** Der erste nachgewiesene CCBot-Crawl (03.06.2021) fand 4 Tage **vor** Inkrafttreten des § 44b UrhG (07.06.2021) statt — der zweite Crawl (17.08.2021) danach. Wie wirkt sich die Aufspaltung auf die Klagestrategie aus?
+2. **Zeitliche Grenze § 44b UrhG:** Der erste nachgewiesene CCBot-Abruflauf (03.06.2021) fand 4 Tage **vor** Inkrafttreten des § 44b UrhG (07.06.2021) statt — der zweite Abruflauf (17.08.2021) danach. Wie wirkt sich die Aufspaltung auf die Klagestrategie aus?
 
 3. **Sekundäre Darlegungslast (BGH Tauschbörsen III):** Genügt die Benennung des 14-jährigen Sohnes als Alternativtäter, wenn die Mutter nur eine allgemeine, nicht auf Filesharing spezialisierte Belehrung erteilt hat?
 
@@ -111,7 +111,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | 01 | `01_aktenvorblatt_windgassen.md` | Aktenvorblatt, Fristen, Parteien |
 | 02 | `02_mandantengespraech_erstaufnahme.md` | Erstgespräch-Protokoll, Sachverhalt |
 | 03 | `03_tdm_opt_out_prüfung_§44b_urhg.md` | Rechtsgutachten § 44b UrhG, Opt-out-Analyse |
-| 04 | `04_laion_serverlog_analyse.md` | IT-Forensik Barkhoff: CCBot-Crawl-Nachweis |
+| 04 | `04_laion_serverlog_analyse.md` | IT-Forensik Barkhoff: CCBot-Abruflauf-Nachweis |
 | 05 | `05_filesharing_abmahnung_quetschenpaua_kollegen.md` | Abmahnungsanalyse + Verteidigungsstrategie |
 | 06 | `06_lizenzvertrag_mare_analyse.md` | Lizenzvertrag 2019, Auslegungsstreit Buyout |
 | 07 | `07_gegendarstellung_eppendorfer_wochenanzeiger.md` | Presserecht, Gegendarstellungsentwurf |

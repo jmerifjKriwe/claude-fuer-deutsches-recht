@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-app-store-und-app-daten
-description: "Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Scraper, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und A..."
+description: "Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Auslesedienst, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und A..."
 ---
 
 # Datenbankrecht für App Stores und App-Daten — DMA und Herstellerrecht
@@ -23,7 +23,7 @@ description: "Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e U
 
 1. App-Store-Datenbankherstellerrecht prüfen: Wesentliche Investition des Store-Betreibers in Sammlung (App-Onboarding), Überprüfung (Compliance-Review) und Darstellung (Suchalgorithmen)?
 2. Verhältnis App-Entwickler-Rechte: App-Entwickler behalten Urheberrecht an Beschreibungen und Screenshots — Store lizenziert nur die Darstellung im Katalog.
-3. Scraping des App-Store-Katalogs bewerten: Wesentliche Entnahme von App-Metadaten ohne Lizenz (§ 87b UrhG)?
+3. automatisierten Abruf des App-Store-Katalogs bewerten: Wesentliche Entnahme von App-Metadaten ohne Lizenz (§ 87b UrhG)?
 4. DMA-Gatekeeper-Pflichten: Apple App Store und Google Play als Gatekeeper nach DMA — Interoperabilitätspflichten und Datenzugang für Business-Nutzer (App-Entwickler).
 5. Analytics-Datenbanken prüfen: In-App-Analytics und App-Store-Analytics (Ratings, Downloads) — Herstellerrecht des Store-Betreibers oder des Entwicklers?
 6. DSGVO bei Nutzerdaten: App-Store-Nutzerdaten (Kaufhistorie, Gerätedaten) — Rechtsgrundlage, Drittland-Transfer (US-Stores).
@@ -40,7 +40,7 @@ description: "Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e U
 ## Prüfraster
 
 - Hat der App-Store-Betreiber eine wesentliche Investition in App-Onboarding und -Review-Prozesse getätigt?
-- Entnimmt der Scraper wesentliche Teile des App-Store-Katalogs (Metadaten, Bewertungen, Rankings)?
+- Entnimmt der Auslesedienst wesentliche Teile des App-Store-Katalogs (Metadaten, Bewertungen, Rankings)?
 - Behält der App-Entwickler Urheberrechte an seinen App-Beschreibungen und Screenshots?
 - Qualifiziert der App-Store als Gatekeeper nach DMA — welche Datenzugangspflichten bestehen?
 - Haben App-Entwickler nach P2B-VO Auskunftsrechte über Ranking-Algorithmen?

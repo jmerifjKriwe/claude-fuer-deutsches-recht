@@ -17,7 +17,7 @@ description: "Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht
 
 - Datenbankbetreiber hat eine einstweilige Verfügung erwirkt und will nun im Hauptsacheverfahren Schadensersatz geltend machen — Auskunftsanspruch und Schadensberechnung sind unklar.
 - Verletzer hat Datenbankdaten für eigene kommerzielle Produkte genutzt — wie hoch ist der Schaden und welche Berechnungsmethode gilt?
-- Anwalt muss den Auskunftsanspruch gegen einen unbekannten Scraper über den Internetdienstanbieter nach § 101 UrhG geltend machen.
+- Anwalt muss den Auskunftsanspruch gegen einen unbekannten Auslesedienst über den Internetdienstanbieter nach § 101 UrhG geltend machen.
 
 ## Erste Schritte
 

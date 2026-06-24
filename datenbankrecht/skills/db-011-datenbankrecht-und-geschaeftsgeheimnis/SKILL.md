@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrecht und Geschäftsgeheimnis** im Bereich **
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

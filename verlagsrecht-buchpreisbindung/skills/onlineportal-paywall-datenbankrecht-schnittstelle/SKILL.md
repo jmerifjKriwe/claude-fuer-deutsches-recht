@@ -1,6 +1,6 @@
 ---
 name: onlineportal-paywall-datenbankrecht-schnittstelle
-description: "Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen Scraping und TDM-Schranken im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen-Auslesen und TDM-Schranken im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Verl-036 · Online-Portal, Paywall, Datenbankrecht und Schnittstelle
@@ -54,12 +54,12 @@ Verlage betreiben zunehmend **Online-Portale** mit Paywalls und API-Schnittstell
 ### Zugangsbeschränkung
 - Technische Schutzmaßnahme: Paywall ist keine urheberrechtliche Schutzmaßnahme, aber vertragsrechtlich bindend.
 - Umgehung: Strafbar nach § 202a StGB (unbefugtes Eindringen in Computersysteme), wenn passwortgeschützt.
-- „Screen Scraping" (Automatisiertes Auslesen): Kann Datenbankrecht verletzen (§ 87b UrhG) und gegen AGB verstoßen.
+- „Screen-Auslesen" (Automatisiertes Auslesen): Kann Datenbankrecht verletzen (§ 87b UrhG) und gegen AGB verstoßen.
 
 ### Nutzungsbedingungen (Terms of Service)
 - Klar definierte erlaubte Nutzungen: persönliche Lektüre, beschränkter Download, kein automatisiertes Auslesen.
 - Opt-Out für TDM (§ 44b Abs. 3 UrhG): Maschinen-lesbarer Vorbehalt gegen Text-/Datamining.
-- Verbot von Scraping, Indexierung, KI-Training.
+- Verbot von automatisiertes Auslesen, Indexierung, KI-Training.
 
 ## API-Schnittstellen und Lizenzierung
 
@@ -80,17 +80,17 @@ Verlage betreiben zunehmend **Online-Portale** mit Paywalls und API-Schnittstell
 - Auswirkung: Kommerzielle KI-Training-Nutzung ist dann nur mit separater Lizenz erlaubt.
 - Wissenschaftliche TDM-Nutzung bleibt erlaubt (§ 44b Abs. 1 UrhG) trotz Opt-Out.
 
-## Screen Scraping und unlizenzierte Nutzung
+## Screen-Auslesen und unlizenzierte Nutzung
 
 ### Rechtliche Einordnung
-- Automatisiertes Auslesen des Portals (Screen Scraping): Verletzt Datenbankrecht (§ 87b UrhG) bei wesentlicher Entnahme.
+- Automatisiertes Auslesen des Portals (Screen-Auslesen): Verletzt Datenbankrecht (§ 87b UrhG) bei wesentlicher Entnahme.
 - Verletzt ggf. § 202a StGB, wenn Sicherheitsmechanismen überwunden werden.
 - Vertragliche Klage: Verstoß gegen Nutzungsbedingungen → Schadensersatz + Unterlassung.
 
 ### Durchsetzung
 - Technische Maßnahmen: CAPTCHA, Rate Limiting, IP-Sperren.
 - Rechtliche Maßnahmen: Abmahnung, Unterlassungsklage, Schadensersatz.
-- Beweissicherung: Log-Dateien des Servers belegen Scraping-Aktivität.
+- Beweissicherung: Log-Dateien des Servers belegen Auslesen-Aktivität.
 
 ## Typische Fallen
 
@@ -103,7 +103,7 @@ Verlage betreiben zunehmend **Online-Portale** mit Paywalls und API-Schnittstell
 
 - [ ] Datenbankschutz (§ 87a UrhG) geprüft und dokumentiert
 - [ ] TDM-Opt-Out maschinenlesbar auf Website (robots.txt oder AI-Datei)
-- [ ] Nutzungsbedingungen: Scraping-Verbot klar formuliert
+- [ ] Nutzungsbedingungen: Auslesen-Verbot klar formuliert
 - [ ] API-Lizenzvertrag: Zweck, Limits, verbotene Nutzungen, Datenschutz
 - [ ] Monitoring: Log-Dateien auf ungewöhnliche Zugriffsmuster überwacht
 - [ ] Beweissicherungs-System für Datenbankrecht-Klagen
@@ -121,5 +121,5 @@ Verlage betreiben zunehmend **Online-Portale** mit Paywalls und API-Schnittstell
 - **Datenbankrechts-Check**: Investition, Umfang, Schutzfrist
 - **API-Lizenzvertrag-Muster**: Standardklauseln
 - **TDM-Opt-Out-Implementierung**: robots.txt-Snippet und AI-Datei
-- **Nutzungsbedingungen-Review**: Scraping-Verbot, erlaubte Nutzungen
-- **Scraping-Nachweis-Protokoll**: Log-Auswertung für Abmahnverfahren
+- **Nutzungsbedingungen-Review**: Auslesen-Verbot, erlaubte Nutzungen
+- **Auslesen-Nachweis-Protokoll**: Log-Auswertung für Abmahnverfahren

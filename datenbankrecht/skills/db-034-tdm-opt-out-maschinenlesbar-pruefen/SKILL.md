@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **TDM Opt-out maschinenlesbar prüfen** im Bereich **Dat
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

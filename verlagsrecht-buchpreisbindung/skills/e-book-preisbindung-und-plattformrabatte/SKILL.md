@@ -90,7 +90,7 @@ Die E-Book-Preisbindung ist ein Spezialbereich mit erheblichem Konfliktpotenzial
 - Klagt regelmäßig gegen Online-Händler, die E-Books unter gebundenem Preis anbieten.
 
 ### Monitoring
-- Verlage sollten automatisierte Preis-Monitoring-Tools einsetzen (z.B. Bookwire, EPUB-Crawler).
+- Verlage sollten automatisierte Preis-Monitoring-Tools einsetzen (z.B. Bookwire, EPUB-Abrufwerkzeuge).
 - Bei erkanntem Verstoß: Abmahnung an Händler/Plattform, ggf. Kündigung des Plattformvertrags.
 
 ## Typische Fallen

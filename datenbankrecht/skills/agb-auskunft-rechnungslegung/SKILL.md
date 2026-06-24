@@ -1,6 +1,6 @@
 ---
 name: agb-auskunft-rechnungslegung
-description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schrank..."
+description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Auslesen-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schrank..."
 ---
 
 # Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
@@ -15,15 +15,15 @@ description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: §
 
 ## Mandantenfall
 
-- Datenbankbetreiber überarbeitet seine AGB und will datenbankrechtsrelevante Klauseln (Nutzungsverbote, Scraping-Verbot, TDM-Opt-out) rechtssicher formulieren.
+- Datenbankbetreiber überarbeitet seine AGB und will datenbankrechtsrelevante Klauseln (Nutzungsverbote, Auslesen-Verbot, TDM-Opt-out) rechtssicher formulieren.
 - Anwalt soll bestehende AGB eines SaaS-Anbieters auf unwirksame Klauseln prüfen, die alle Datenbankrechte auf den Anbieter übertragen.
-- Startup hat eine Abmahnung erhalten, weil seine AGB keine ausreichenden Scraping-Verbote enthalten, und muss sie überarbeiten.
+- Startup hat eine Abmahnung erhalten, weil seine AGB keine ausreichenden Auslesen-Verbote enthalten, und muss sie überarbeiten.
 
 ## Erste Schritte
 
 1. AGB-Anwendungsbereich bestimmen: Handelt es sich um B2C oder B2B-Verhältnis? Unterschiedliche Prüfmaßstäbe nach §§ 307-309 BGB vs. § 310 BGB.
 2. Inhaltskontrolle nach § 307 BGB: Sind die Klauseln transparent (Verständlichkeitsgebot), klar und nicht unangemessen benachteiligend?
-3. Scraping-Verbot-Klausel prüfen: Hinreichend bestimmt (welche automatisierten Zugriffe sind verboten?), verhältnismäßige Rechtsfolgen (Kündigung, Schadensersatz)?
+3. Auslesen-Verbot-Klausel prüfen: Hinreichend bestimmt (welche automatisierten Zugriffe sind verboten?), verhältnismäßige Rechtsfolgen (Kündigung, Schadensersatz)?
 4. TDM-Opt-out in AGB bewerten: Maschinenlesbarkeit nach § 44b Abs. 3 UrhG — AGB-Text allein reicht nicht; zusätzliche technische Erklärung erforderlich.
 5. Datenbankrechts-Zuweisungsklausel prüfen: Überträgt die Klausel Herstellerrecht oder Nutzungsrechte an Kundendaten auf den Betreiber — § 307 BGB-Konformität?
 6. Haftungsausschlussklausel gestalten: § 309 Nr. 7 BGB — Ausschluss für Vorsatz und grobe Fahrlässigkeit unzulässig; differenzierte Haftungsbegrenzung erforderlich.
@@ -39,8 +39,8 @@ description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: §
 
 ## Prüfraster
 
-- Sind alle datenbankrechtsrelevanten Verbote (Entnahme, Scraping, Weiterverwendung) in den AGB klar und abschließend formuliert?
-- Ist das Scraping-Verbot hinreichend bestimmt — welche Arten automatisierten Zugriffs sind erfasst und welche Rechtsfolgen gelten?
+- Sind alle datenbankrechtsrelevanten Verbote (Entnahme, automatisiertes Auslesen, Weiterverwendung) in den AGB klar und abschließend formuliert?
+- Ist das Auslesen-Verbot hinreichend bestimmt — welche Arten automatisierten Zugriffs sind erfasst und welche Rechtsfolgen gelten?
 - Hält die TDM-Opt-out-Klausel den Anforderungen des § 44b Abs. 3 UrhG stand (maschinenlesbar + separat technisch erklärt)?
 - Sind Klauseln, die Datenbankherstellerrecht auf den Anbieter übertragen, nach § 307 BGB angemessen und transparent?
 - Greifen zwingende Schranken (§ 87c UrhG) einem Verbotsumfang entgegen — Klausel insoweit unwirksam?
@@ -49,7 +49,7 @@ description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: §
 
 ## Typische Fallstricke
 
-- Zu pauschale Scraping-Verbote, die auch zulässige Nutzungen einschließen, sind nach § 307 BGB unwirksam.
+- Zu pauschale Auslesen-Verbote, die auch zulässige Nutzungen einschließen, sind nach § 307 BGB unwirksam.
 - AGB-TDM-Verbote ohne zusätzliche maschinenlesbare Opt-out-Erklärung wirken nicht als § 44b Abs. 3 UrhG-Opt-out.
 - Klauseln, die dem Betreiber alle Rechte an Kundendaten zuweisen, sind in der Regel nach § 307 BGB unangemessen.
 - Einseitige Leistungsänderungsvorbehalte des Betreibers (§ 308 Nr. 4 BGB) für Datenbankzugang sind begrenzt zulässig.

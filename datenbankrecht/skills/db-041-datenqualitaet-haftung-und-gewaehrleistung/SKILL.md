@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenqualität Haftung und Gewährleistung** im Bereic
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

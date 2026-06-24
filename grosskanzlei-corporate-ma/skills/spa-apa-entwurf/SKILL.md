@@ -22,7 +22,7 @@ description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entw
 2. Welches Recht gilt — deutsches Recht, englisches Recht, oder Mischstatut?
 3. Was ist die Kaufpreisstruktur — Locked Box, Completion Accounts, Earn-Out, Vendor Loan, Roll-over?
 4. Welche wesentlichen DD-Findings müssen als SPA-Risiken adressiert werden — Red Flags, Material Adverse Issues?
-5. Ist W&I-Versicherung vorgesehen — wenn ja: Sell-Side Disclosure Letter, Materiality Scrapes, Synthetic Warranties?
+5. Ist W&I-Versicherung vorgesehen — wenn ja: Sell-Side Disclosure Letter, Streichung der Wesentlichkeitsschwelle, Synthetic Warranties?
 6. Welche Conditions Precedent sind zu erwaarten — Kartellrecht, FDI, Sondergenehmigungen?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -58,7 +58,7 @@ description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entw
 
 - Share Deal GmbH → § 15 Abs. 3 GmbHG → Notar zwingend → ohne Notar: Nichtigkeit
 - Asset Deal → § 613a BGB → Betriebsuebergang → Arbeitnehmerinfo zwingend → bei Unterlassung: alle gehen über
-- W&I vorgesehen → Sell-Side Disclosure Letter → Materiality Scrape → Synthetic Warranties Kataolog
+- W&I vorgesehen → Sell-Side Disclosure Letter → Materiality Auslesen → Synthetic Warranties Kataolog
 - MAC ausgeloest → Prüfen ob bilateraler Einzelrisiko oder Marktentwicklung → Carve-out greift?
 
 ## Strategische Optionen (vor dem Template entscheiden)

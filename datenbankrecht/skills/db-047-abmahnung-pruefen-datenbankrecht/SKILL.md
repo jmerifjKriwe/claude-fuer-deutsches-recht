@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Abmahnung prüfen Datenbankrecht** im Bereich **Datenb
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

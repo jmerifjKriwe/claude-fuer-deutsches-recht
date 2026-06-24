@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Rezeptdaten Gesundheitsdaten und Sozialdaten** im Bere
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

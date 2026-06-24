@@ -126,7 +126,7 @@ Wenn KI-Komponenten genutzt werden:
 
 1. Ist es ein KI-System nach Art. 3 Nr. 1 KI-VO?
 2. Liegt verbotene Echtzeit-Fernidentifizierung vor oder ausdrücklich nur nachträglicher Abgleich?
-3. Entsteht durch Scraping/ungezieltes Auslesen eine unzulässige Gesichtserkennungsdatenbank?
+3. Entsteht durch automatisiertes Auslesen/ungezieltes Auslesen eine unzulässige Gesichtserkennungsdatenbank?
 4. Hochrisiko-System nach Art. 6 Abs. 2 i.V.m. Anhang III Nr. 1 lit. a?
 5. Risikomanagement, Datenqualität, technische Dokumentation, Protokollierung, Transparenz, menschliche Aufsicht, Genauigkeit, Robustheit und Cybersicherheit belegt?
 6. Grundrechte-Folgenabschätzung nach Art. 27 KI-VO vorhanden?

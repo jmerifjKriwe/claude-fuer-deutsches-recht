@@ -69,7 +69,7 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 | Schritt | Inhalt | Grundlage |
 |---|---|---|
 | 1 | Werkschutz prüfen: Urheberrechtlich geschütztes Werk (§ 2 UrhG) oder Datenbankschutz (§ 87a UrhG)? | § 2, § 87a UrhG |
-| 2 | TDM-Handlung identifizieren: Welche KI-Anbieter haben das Werk erfasst? Common Crawl, LAION, Books3, Pile-Datensätze? | § 44b Abs. 1 UrhG |
+| 2 | TDM-Handlung identifizieren: Welche KI-Anbieter haben das Werk erfasst? Common-Data-Index, LAION, Books3, Pile-Datensätze? | § 44b Abs. 1 UrhG |
 | 3 | Opt-out-Status zum Trainings-Zeitpunkt: War ein maschinenlesbares Opt-out vorhanden (Robots.txt, Meta-Tag, TDM-Notice)? | § 44b Abs. 3 UrhG |
 | 4 | Wissenschaftliche vs. kommerzielle Nutzung: § 60d UrhG (Forschung) oder § 44b UrhG (allgemein)? Kommerzieller Anbieter = § 44b einschlägig | § 60d, § 44b UrhG |
 | 5 | Nachweis der Nutzung: Output-Test des KI-Modells; Datensatz-Audits (LAION-Explorer, HuggingFace-Datensets); Wasserzeichenanalyse | § 101 UrhG |
@@ -104,7 +104,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 <!-- Einbinden in <head> jeder HTML-Seite -->
 <meta name="robots" content="noai, noimageai">
 
-<!-- Für alle bekannten KI-Crawler: Robots.txt -->
+<!-- Für alle bekannten KI-Abrufwerkzeuge: Robots.txt -->
 User-agent: GPTBot
 Disallow: /
 
@@ -170,7 +170,7 @@ Nutzungsrechte an folgenden Werken:
 [Liste der Werke / URL / Beschreibung]
 
 Auf unserer Website [URL] war zum Zeitpunkt der
-Datenerhebung durch Ihren Crawler [Bot-Name] am [Datum
+Datenerhebung durch Ihren Abrufwerkzeuge [Bot-Name] am [Datum
 gem. Wayback Machine / Server-Log] ein maschinenlesbarer
 TDM-Vorbehalt in der Datei robots.txt gesetzt:
 
@@ -222,7 +222,7 @@ TDM-Vorbehalt enthalten seit: [Datum]
 
 Gesperrte Bots zum [Datum]:
 - GPTBot (OpenAI) seit [Datum]
-- CCBot (Common Crawl) seit [Datum]
+- CCBot (Common-Data-Index) seit [Datum]
 - Claude-Web (Anthropic) seit [Datum]
 - Google-Extended (Google) seit [Datum]
 - [weitere]

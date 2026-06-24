@@ -9,7 +9,7 @@ Dieser Megaprompt enthaelt top-8 von 129 Skills (gekuerzt fuer Chat-Fenster) des
 1. **kaltstart-triage** — Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt …
 2. **policy-db-abschlussmemo** — Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §…
 3. **abmahnung-pruefen-datenbankrecht** — Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (§ 87a Abs. 2 UrhG), Verletzungs…
-4. **agb-auskunft-rechnungslegung** — Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-…
+4. **agb-auskunft-rechnungslegung** — Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Datenabruf-…
 5. **agrar-logistik-cyberincident** — Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwe…
 6. **api-nutzung-rate-limits-und-vertragsbruch** — Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits ode…
 7. **auskunft-rechnungslegung-schadensschaetzung** — Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung …
@@ -79,13 +79,13 @@ Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umg
 
 ## Mandantenfall
 
-- Ein Softwareunternehmen möchte eine unternehmensweite Richtlinie für den Zugriff auf externe Datenbanken und Daten-Feeds einführen, nachdem eine Abmahnung wegen unbefugten Scrapings eingegangen ist.
+- Ein Softwareunternehmen möchte eine unternehmensweite Richtlinie für den Zugriff auf externe Datenbanken und Daten-Feeds einführen, nachdem eine Abmahnung wegen unbefugten automatisierten Auslesens eingegangen ist.
 - Ein Konzern führt eine M&A-Integration durch und muss sicherstellen, dass die übernommene Datenbank-Nutzungspraxis des Targets mit den eigenen Compliance-Standards vereinbar ist.
 - Ein Forschungsinstitut erstellt nach Förderauflagen eine Open-Data-Policy und muss das Verhältnis zwischen eigenen Datenbankrechten und Open-Access-Verpflichtungen klären.
 
 ## Erste Schritte
 
-1. **Bestandsaufnahme Datenbanknutzung**: Inventarisierung aller genutzten externen Datenbanken, APIs, Daten-Feeds und Scraping-Prozesse; Erfassung vorhandener Lizenzverträge, Nutzungsbedingungen und interner Zugangstechnik.
+1. **Bestandsaufnahme Datenbanknutzung**: Inventarisierung aller genutzten externen Datenbanken, APIs, Daten-Feeds und Ausleseprozesse; Erfassung vorhandener Lizenzverträge, Nutzungsbedingungen und interner Zugangstechnik.
 2. **Rechtliche Risikoklassifizierung**: Jede Datenquelle nach Schutzstatus bewerten (Datenbankwerk § 4 UrhG, Herstellerrecht §§ 87a-87e UrhG, keine Schutzfähigkeit) und Nutzungsumfang gegen erlaubte Schranken prüfen (§§ 44b, 60d UrhG, eigene Lizenz).
 3. **Freigabe-entwerfen**: Mehrstufiges Genehmigungsverfahren: (a) IT prüft technische Zugriffsmethode, (b) Legal prüft Schutzstatus und Lizenzabdeckung, (c) Freigabe durch Data-Owner dokumentiert in einem zentralen Register.
 4. **Policy-Entwurf erstellen**: Gliederung mit Geltungsbereich, Definitionen (Datenbank, wesentliche Entnahme, TDM), verbotene Handlungen, erlaubte Nutzung, Meldepflichten intern, Sanktionen bei Verstoß.
@@ -229,7 +229,7 @@ Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abm
 
 ## Skill: `agb-auskunft-rechnungslegung`
 
-_Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schrank..._
+_Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Auslesen-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schrank..._
 
 # Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
 
@@ -243,15 +243,15 @@ _Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inha
 
 ## Mandantenfall
 
-- Datenbankbetreiber überarbeitet seine AGB und will datenbankrechtsrelevante Klauseln (Nutzungsverbote, Scraping-Verbot, TDM-Opt-out) rechtssicher formulieren.
+- Datenbankbetreiber überarbeitet seine AGB und will datenbankrechtsrelevante Klauseln (Nutzungsverbote, Auslesen-Verbot, TDM-Opt-out) rechtssicher formulieren.
 - Anwalt soll bestehende AGB eines SaaS-Anbieters auf unwirksame Klauseln prüfen, die alle Datenbankrechte auf den Anbieter übertragen.
-- Startup hat eine Abmahnung erhalten, weil seine AGB keine ausreichenden Scraping-Verbote enthalten, und muss sie überarbeiten.
+- Startup hat eine Abmahnung erhalten, weil seine AGB keine ausreichenden Auslesen-Verbote enthalten, und muss sie überarbeiten.
 
 ## Erste Schritte
 
 1. AGB-Anwendungsbereich bestimmen: Handelt es sich um B2C oder B2B-Verhältnis? Unterschiedliche Prüfmaßstäbe nach §§ 307-309 BGB vs. § 310 BGB.
 2. Inhaltskontrolle nach § 307 BGB: Sind die Klauseln transparent (Verständlichkeitsgebot), klar und nicht unangemessen benachteiligend?
-3. Scraping-Verbot-Klausel prüfen: Hinreichend bestimmt (welche automatisierten Zugriffe sind verboten?), verhältnismäßige Rechtsfolgen (Kündigung, Schadensersatz)?
+3. Auslesen-Verbot-Klausel prüfen: Hinreichend bestimmt (welche automatisierten Zugriffe sind verboten?), verhältnismäßige Rechtsfolgen (Kündigung, Schadensersatz)?
 4. TDM-Opt-out in AGB bewerten: Maschinenlesbarkeit nach § 44b Abs. 3 UrhG — AGB-Text allein reicht nicht; zusätzliche technische Erklärung erforderlich.
 5. Datenbankrechts-Zuweisungsklausel prüfen: Überträgt die Klausel Herstellerrecht oder Nutzungsrechte an Kundendaten auf den Betreiber — § 307 BGB-Konformität?
 6. Haftungsausschlussklausel gestalten: § 309 Nr. 7 BGB — Ausschluss für Vorsatz und grobe Fahrlässigkeit unzulässig; differenzierte Haftungsbegrenzung erforderlich.
@@ -267,8 +267,8 @@ _Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inha
 
 ## Prüfraster
 
-- Sind alle datenbankrechtsrelevanten Verbote (Entnahme, Scraping, Weiterverwendung) in den AGB klar und abschließend formuliert?
-- Ist das Scraping-Verbot hinreichend bestimmt — welche Arten automatisierten Zugriffs sind erfasst und welche Rechtsfolgen gelten?
+- Sind alle datenbankrechtsrelevanten Verbote (Entnahme, automatisiertes Auslesen, Weiterverwendung) in den AGB klar und abschließend formuliert?
+- Ist das Auslesen-Verbot hinreichend bestimmt — welche Arten automatisierten Zugriffs sind erfasst und welche Rechtsfolgen gelten?
 - Hält die TDM-Opt-out-Klausel den Anforderungen des § 44b Abs. 3 UrhG stand (maschinenlesbar + separat technisch erklärt)?
 - Sind Klauseln, die Datenbankherstellerrecht auf den Anbieter übertragen, nach § 307 BGB angemessen und transparent?
 - Greifen zwingende Schranken (§ 87c UrhG) einem Verbotsumfang entgegen — Klausel insoweit unwirksam?
@@ -277,7 +277,7 @@ _Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inha
 
 ## Typische Fallstricke
 
-- Zu pauschale Scraping-Verbote, die auch zulässige Nutzungen einschließen, sind nach § 307 BGB unwirksam.
+- Zu pauschale Auslesen-Verbote, die auch zulässige Nutzungen einschließen, sind nach § 307 BGB unwirksam.
 - AGB-TDM-Verbote ohne zusätzliche maschinenlesbare Opt-out-Erklärung wirken nicht als § 44b Abs. 3 UrhG-Opt-out.
 - Klauseln, die dem Betreiber alle Rechte an Kundendaten zuweisen, sind in der Regel nach § 307 BGB unangemessen.
 - Einseitige Leistungsänderungsvorbehalte des Betreibers (§ 308 Nr. 4 BGB) für Datenbankzugang sind begrenzt zulässig.
@@ -533,7 +533,7 @@ _Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97
 
 - Datenbankbetreiber hat eine einstweilige Verfügung erwirkt und will nun im Hauptsacheverfahren Schadensersatz geltend machen — Auskunftsanspruch und Schadensberechnung sind unklar.
 - Verletzer hat Datenbankdaten für eigene kommerzielle Produkte genutzt — wie hoch ist der Schaden und welche Berechnungsmethode gilt?
-- Anwalt muss den Auskunftsanspruch gegen einen unbekannten Scraper über den Internetdienstanbieter nach § 101 UrhG geltend machen.
+- Anwalt muss den Auskunftsanspruch gegen einen unbekannten Auslesedienst über den Internetdienstanbieter nach § 101 UrhG geltend machen.
 
 ## Erste Schritte
 

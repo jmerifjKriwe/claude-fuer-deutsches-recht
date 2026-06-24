@@ -187,7 +187,7 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `deal-intake` | Deal-Intake: Strukturiert neue Transaktionsmandate aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message, Screenshot oder Datenraum-Einladung im Mittelstand Corporate Ma. |
 | `deal-kommandocenter` | Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion im Mittelstand Corporate Ma. |
 | `deal-team-staffing` | Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Workstreams Rollen Kapazitaetsplanung Review-Level Eskalationswege. Normen BRAO § 43a Berufsrecht Mandantsgeheimnis-Sicherung. Prüfraster Workstream-Karte Rollen-Matrix Kapazi... |
-| `distressed-due` | Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Scrape, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung im Mittelstand Corporate Ma. |
+| `distressed-due` | Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Auslesen, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung im Mittelstand Corporate Ma. |
 | `distressed-ma` | Distressed M&A: Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz; §§ 17-19 InsO, § 15a InsO, § 135 InsO, §§ 1-93 StaRUG im Mittelstand Corporate Ma. |
 | `due-diligence-commercial-contracts` | Kommerzielle Vertrags-DD: Prüft Kunden-, Lieferanten-, Haendler-, SaaS-, Lizenz- und Materialvertraege auf Change of Control, Kündigung, Exklusivitaet, Haftung, IP und Preisrisiken im Mittelstand Corporate Ma. |
 | `due-diligence-legal` | Legal Due Diligence: standardisierte Legal DD mit Findings, Materiality, Quellenbelegen, Human-in-the-loop und Red-Flag-Report für Share Deal und Asset Deal im Mittelstand Corporate Ma. |
@@ -234,6 +234,6 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `umwandlungssteuerrecht-tabellenreview` | Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rückwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG im Mittelstand Corporate Ma. |
 | `versand-signing` | Output, Signing und Versand: Bereitet Transaktionsoutput vor: Markups, Issues Lists, Reports, Board Papers, Signing Packs, Closing Deliverables, beA/Notar/Email-Versand. |
 | `vertragsmarkup-key-beirat-haftung-billing` | Markup und Key Issues: Analysiert SPA/APA/NDA/Process-Letter-Markups, erstellt Key Issues Lists und Gegenmarkup-Vorschlaege nach Parteiperspektive im Mittelstand Corporate Ma. |
-| `wi-insurance-aktenanlage-erechnung-gobd` | W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter für M&A im Mittelstand Corporate Ma. |
+| `wi-insurance-aktenanlage-erechnung-gobd` | W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Auslesen und Disclosure Letter für M&A im Mittelstand Corporate Ma. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

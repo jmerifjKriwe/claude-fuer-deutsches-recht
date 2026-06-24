@@ -5,6 +5,6 @@
 - Bestehende Lizenzbedingungen prüfen
 - Maschinenlesbaren Rechtevorbehalt formulieren und dokumentieren
 - Robots.txt, Metadaten, Website Terms und API Terms prüfen
-- Dataset- oder Crawler-Nachweise sichern
+- Dataset- oder Abrufwerkzeuge-Nachweise sichern
 - Lösch- und Sperrverlangen vorbereiten
 - KI-VO/GPAI-Fragen an Anbieter stellen

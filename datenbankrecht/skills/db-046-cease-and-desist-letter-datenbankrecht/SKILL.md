@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Cease-and-desist Letter Datenbankrecht** im Bereich **
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

@@ -65,7 +65,7 @@ Verbote (Auswahl):
 - **Emotions-Erkennung am Arbeitsplatz und in Bildung** (Ausnahmen medizinisch)
 - **Biometrische Kategorisierung** nach sensitiven Merkmalen
 - **Real-Time-Biometrie im öffentlichen Raum** durch Strafverfolgung (mit eng-bezeichneten Ausnahmen)
-- **Untargeted Scraping** für Gesichtserkennungs-Datenbanken
+- **ungerichtetes Einsammeln** für Gesichtserkennungs-Datenbanken
 
 **Sanktion:** bis EUR 35 Mio oder 7 Prozent Konzern-Jahresumsatz (höherer Betrag) Art. 99 Abs. 3
 

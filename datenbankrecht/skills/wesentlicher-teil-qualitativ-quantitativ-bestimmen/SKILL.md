@@ -28,7 +28,7 @@ Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer D
 1. Quantitativen Anteil bestimmen: Wie viele Datensätze wurden entnommen im Verhältnis zum Gesamtbestand der Datenbank?
 2. Qualitativen Wert bestimmen: Welchen wirtschaftlichen oder inhaltlichen Wert haben die entnommenen Daten für die Datenbank (z. B. Kerndatensätze, exklusive Einträge)?
 3. EuGH-Maßstab anlegen: Qualitativer Maßstab misst Investitionsanteil der entnommenen Teile; quantitativer Maßstab misst Volumen (EuGH C-203/02 Rn. 70-71).
-4. Technische Nachweise sichern: Server-Logs, Crawling-Protokolle, API-Aufrufhistorien, Datenbank-Diffs.
+4. Technische Nachweise sichern: Server-Logs, Abrufprotokolle, API-Aufrufhistorien, Datenbank-Diffs.
 5. Zeitraum analysieren: Einmalige Entnahme oder systematisch wiederholte Entnahme unwesentlicher Teile (§ 87b Abs. 1 S. 2 UrhG)?
 6. Beweiswürdigung vorbereiten: Sachverständigengutachten über Datenbankgröße und Entnahmevolumen einplanen.
 

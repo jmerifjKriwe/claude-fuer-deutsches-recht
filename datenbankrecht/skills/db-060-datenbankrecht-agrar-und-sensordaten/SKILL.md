@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbankrecht Agrar- und Sensordaten** im Bereich **D
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

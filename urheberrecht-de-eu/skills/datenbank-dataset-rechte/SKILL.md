@@ -1,6 +1,6 @@
 ---
 name: datenbank-dataset-rechte
-description: "Prüft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus im Urheberrecht De Eu."
+description: "Prüft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, automatisiertes Auslesen, Dataset-Lizenz und KI-Trainingskorpus im Urheberrecht De Eu."
 ---
 
 # Datenbanken, Datasets und Trainingskorpora
@@ -41,7 +41,7 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 
 - Welche Sammlung, Auswahl oder Anordnung ist geschützt?
 - Liegt wesentliche Investition in Beschaffung, Prüfung oder Darstellung vor?
-- Welche Entnahmen, Crawls oder API-Zugriffe sind belegt?
+- Welche Entnahmen, Abrufläufe oder API-Zugriffe sind belegt?
 
 ## Prüflogik
 
@@ -58,7 +58,7 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 ## Typische Outputs
 
 - Dataset-Rechtekarte
-- Scraping-Risikoampel
+- Datenabruf-Risikoampel
 - Lizenz- und Opt-out-Liste
 
 ## Qualitätsfilter

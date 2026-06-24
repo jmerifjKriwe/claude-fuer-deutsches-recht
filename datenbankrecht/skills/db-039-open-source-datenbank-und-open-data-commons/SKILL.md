@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Open Source Datenbank und Open Data Commons** im Berei
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

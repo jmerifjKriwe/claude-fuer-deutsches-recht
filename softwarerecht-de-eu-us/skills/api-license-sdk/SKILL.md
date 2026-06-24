@@ -27,7 +27,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Intake-Fragen
 
-- Welche API-Nutzung wird erlaubt: internal, commercial, resale, scraping, training, benchmarking?
+- Welche API-Nutzung wird erlaubt: internal, commercial, resale, automatisiertes Auslesen, training, benchmarking?
 - Welche Rate Limits, keys, monitoring und suspension rights sind nötig?
 - Wie werden SDK-Code, Samples, docs und generated outputs lizenziert?
 - Welche Änderungen, deprecations und breaking changes sind zulässig?
@@ -41,7 +41,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Tiefencheck für die Akte
 
-- Welche API-Nutzung wird erlaubt: internal, commercial, resale, scraping, training, benchmarking?
+- Welche API-Nutzung wird erlaubt: internal, commercial, resale, automatisiertes Auslesen, training, benchmarking?
 - Welche Rate Limits, keys, monitoring und suspension rights sind nötig?
 - Wie werden SDK-Code, Samples, docs und generated outputs lizenziert?
 - Welche Änderungen, deprecations und breaking changes sind zulässig?

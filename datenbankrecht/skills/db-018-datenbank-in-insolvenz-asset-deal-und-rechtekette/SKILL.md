@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Datenbank in Insolvenz Asset Deal und Rechtekette** im
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

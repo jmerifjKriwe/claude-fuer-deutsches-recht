@@ -1,9 +1,9 @@
 ---
 name: rechtsabteilung-warranty-and-indemnity-versicherung-im-claimfall
-description: "Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt: Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-..."
+description: "Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt: Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-..."
 ---
 
-# Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt
+# Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 ### Rechtsabteilung: Warranty-and-Indemnity-Versicherung im Claimfall
 
@@ -33,7 +33,7 @@ description: "Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherun
 
 ## Spezialkern: Rechtsabteilung: Warranty-and-Indemnity-Versicherung im Claimfall
 
-- **Konkretes Problem:** Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt.
+- **Konkretes Problem:** Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt.
 - **Norm-/Quellenanker:** einschlägige Spezialnormen des Plugin-Fachgebiets, amtliche Gesetzesfassungen, Behördenpraxis und verifizierte Rechtsprechung mit Datum und Aktenzeichen.
 - **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
 - **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
@@ -52,7 +52,7 @@ VVG, BGB Gewährleistung, SPA-Notice-Klauseln
 
 ## Fachlicher Zuschnitt
 
-Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt.
+Notice-Fristen, Knowledge Auslesen, Exclusions und Claim Preservation werden als geführt.
 
 ## Output für die Rechtsabteilung
 

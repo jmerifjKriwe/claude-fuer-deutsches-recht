@@ -42,7 +42,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 26051 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 225 |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v392.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v393.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -249,7 +249,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`commercial-courts-deutschland`](./commercial-courts-deutschland) | Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel, BGH, Kosten, Vollstreckung und bilingualer Schriftsatz-/Hearing-Workflow. |
 | [`common-law-kompass`](./common-law-kompass) | Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. |
 | [`corporate-kanzlei`](./corporate-kanzlei) | Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI. |
-| [`datenbankrecht`](./datenbankrecht) | Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, Scraping, API, KI-Training, Vertrags- und Plattformkonflikte. |
+| [`datenbankrecht`](./datenbankrecht) | Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, KI-Training, Vertrags- und Plattformkonflikte. |
 | [`datenschutz-sanktionsverfahren-verteidigung`](./datenschutz-sanktionsverfahren-verteidigung) | Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: DSGVO-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB und Behördenstrategie. |
 | [`datenschutzrecht`](./datenschutzrecht) | DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung. |
 | [`denkmalschutzrecht`](./denkmalschutzrecht) | Denkmalschutzrecht in Deutschland: Art. 14 GG und Art. 73 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills fuer Eintragung Erlaubnis Bussgeld steuerliche Foerderung nach Paragraf 7i EStG und Welterbestaetten — laenderuebergreifende Grundlagen und Landesrecht klar getrennt. |
@@ -511,6 +511,16 @@ Der ZIP-Root muss `.claude-plugin/plugin.json` und `skills/` enthalten. Wenn das
 - Funktionstest: in einer neuen Konversation einen typischen Auftrag stellen, z. B. "Mache eine 3-Wochen-Liquiditätsvorschau für meine GmbH" → der Skill `liquiditaetsvorschau-3wochen` sollte sichtbar geladen werden.
 
 Details und Fehlersuche siehe [`QUICKSTART.md`](./QUICKSTART.md).
+
+### Repo-interner Release-Check
+
+Vor einem Release sollten mindestens diese Prüfungen grün sein:
+
+```bash
+node scripts/validate-marketplace-import.mjs
+node scripts/validate-plugin-structure.mjs
+python3 scripts/validate-yaml-frontmatter.py
+```
 
 ## Schwerpunkte für die deutsche Praxis
 

@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-datenbankrecht-dringlichkeit
-description: "Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Scraping-Verletzungen und bewertet Gege..."
+description: "Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Datenabruf-Verletzungen und bewertet Gege..."
 ---
 
 # Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag
@@ -17,7 +17,7 @@ description: "Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: V
 
 - Datenbankbetreiber entdeckt heute Abend, dass ein Wettbewerber alle seine Daten abgreift und will morgen eine einstweilige Verfügung beim Landgericht beantragen.
 - Anwalt muss prüfen, ob die Dringlichkeit durch vorheriges Zuwarten des Mandanten bereits verwirkt ist.
-- Gegenanwalt soll eine Schutzschrift für den beschuldigten Scraper einreichen, bevor der Antragsteller das Gericht anruft.
+- Gegenanwalt soll eine Schutzschrift für den beschuldigten Auslesedienst einreichen, bevor der Antragsteller das Gericht anruft.
 
 ## Erste Schritte
 

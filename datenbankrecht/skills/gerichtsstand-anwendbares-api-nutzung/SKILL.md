@@ -19,7 +19,7 @@ Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständig
 
 ## Mandantenfall
 
-- Deutsches Unternehmen wird von einem Tschechischen Wettbewerber, der in Prag sitzt, gecrawlt — vor welchem Gericht klagen?
+- Deutsches Unternehmen wird von einem Tschechischen Wettbewerber, der in Prag sitzt, abgerufen — vor welchem Gericht klagen?
 - Datenbankbetreiber fragt, ob er den Verletzer in Deutschland oder am Tatort (Serverstandort des Verletzers) verklagen muss.
 - Lizenzvertrag für eine Datenbank enthält eine Schiedsklausel für Wien — welches Recht gilt für den Inhalt des Streits?
 

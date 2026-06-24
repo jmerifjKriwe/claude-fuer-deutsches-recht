@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Data Act und Zugang zu IoT-Daten** im Bereich **Datenb
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

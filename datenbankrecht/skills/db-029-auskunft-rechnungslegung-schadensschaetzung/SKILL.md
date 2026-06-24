@@ -39,7 +39,7 @@ Dieser Skill bearbeitet **Auskunft Rechnungslegung Schadensschätzung** im Berei
 ## Output
 
 - Datenbankrechte-Memo
-- Scraping-Risikomatrix
+- Datenabruf-Risikomatrix
 - Lizenzklausel
 - Abmahnantwort
 - EV-Check

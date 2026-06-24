@@ -18,7 +18,7 @@ description: "Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 
 
 ## Worum geht es
 
-Paragraph 108 UrhG schuetzt strafrechtlich die Rechte aus den Paragraphen 70 bis 87m UrhG, also die sogenannten verwandten Schutzrechte: Lichtbildner (Paragraph 72), ausuebender Kuenstler (Paragraphen 73 ff.), Tontraegerhersteller (Paragraph 85), Sendeunternehmen (Paragraph 87), Filmhersteller (Paragraph 94), Datenbankhersteller (Paragraph 87a). Anwendungsfall: Verkauf von Live-Mitschnitten ohne Einwilligung des Kuenstlers, Verbreitung von Pressefotos ohne Lizenz, Mitschnitt und Wiederveroeffentlichung von Rundfunksendungen, unerlaubte Uebernahme von Datenbankinhalten (Webscraping mit Weiterverwertung).
+Paragraph 108 UrhG schuetzt strafrechtlich die Rechte aus den Paragraphen 70 bis 87m UrhG, also die sogenannten verwandten Schutzrechte: Lichtbildner (Paragraph 72), ausuebender Kuenstler (Paragraphen 73 ff.), Tontraegerhersteller (Paragraph 85), Sendeunternehmen (Paragraph 87), Filmhersteller (Paragraph 94), Datenbankhersteller (Paragraph 87a). Anwendungsfall: Verkauf von Live-Mitschnitten ohne Einwilligung des Kuenstlers, Verbreitung von Pressefotos ohne Lizenz, Mitschnitt und Wiederveroeffentlichung von Rundfunksendungen, unerlaubte Uebernahme von Datenbankinhalten (Webdaten-Auslesen mit Weiterverwertung).
 
 Der Tatbestand parallelisiert Paragraph 106 UrhG, schuetzt aber nicht den Urheber selbst, sondern den Inhaber des verwandten Schutzrechts. Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe. Gewerbsmäßige Begehung wird über Paragraph 108a UrhG erfasst (bis fuenf Jahre). Antragsdelikt nach Paragraph 109 UrhG mit Ausnahme besonderes öffentliches Interesse.
 
@@ -30,7 +30,7 @@ Tathandlung ist die unerlaubte Verwertung. Geschuetzte Rechte und typische Verle
 - **Paragraphen 73 bis 83 UrhG ausuebende Kuenstler.** Bootlegs von Konzerten, Tonmitschnitt einer Theaterauffuehrung, Verbreitung einer Probe-Aufnahme.
 - **Paragraph 85 UrhG Tontraegerhersteller.** Mitschnitt einer Studioproduktion und Online-Vertrieb. Sampling-Faelle (BGH Metall auf Metall in Tateinheit mit Paragraph 106 UrhG, BVerfG zur Kunstfreiheit ist zivilrechtlich, nicht im Strafverfahren tragend).
 - **Paragraph 87 UrhG Sendeunternehmen.** Aufnahme und Wiederausstrahlung von TV- oder Radiosendungen.
-- **Paragraph 87a UrhG Datenbankhersteller.** Webscraping mit Uebernahme wesentlicher Teile einer Datenbank.
+- **Paragraph 87a UrhG Datenbankhersteller.** Webdaten-Auslesen mit Uebernahme wesentlicher Teile einer Datenbank.
 - **Paragraph 94 UrhG Filmhersteller.** Vervielfaeltigung von Filmproduktionen ohne Lizenz, parallel zu Paragraph 106 UrhG für den Schutz des Filmwerks.
 
 Tatbestandsobjektiv: Vervielfaeltigung, Verbreitung oder öffentliche Wiedergabe entgegen dem ausschliesslichen Verwertungsrecht des Berechtigten ohne dessen Einwilligung. Subjektiv Vorsatz, mindestens dolus eventualis. Versuch ist strafbar (Paragraph 108 Abs 2 UrhG).

@@ -21,15 +21,15 @@ Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und 
 
 - Datenbankbetreiber will sicherstellen, dass sein TDM-Opt-out gegenüber kommerziellen KI-Anbietern wirksam ist und fragt, welche technischen Maßnahmen erforderlich sind.
 - KI-Unternehmen muss prüfen, ob die von ihm gescrapten Websites einen wirksamen Opt-out erklärt haben, bevor es mit dem Training beginnt.
-- Rechtsabteilung fragt, ob ein allgemeines AGB-Verbot für automatisiertes Abrufen als maschinenlesbarer Opt-out gilt oder ob separate technische Erklärungen erforderlich sind.
+- Rechtsabteilung fragt, ob ein allgemeines AGB-Verbot für automatisierten Abruf als maschinenlesbarer Opt-out gilt oder ob separate technische Erklärungen erforderlich sind.
 
 ## Erste Schritte
 
 1. Opt-out-Anforderungen nach § 44b Abs. 3 UrhG klären: Der Vorbehalt muss maschinenlesbar erklärt werden — AGB-Text allein genügt nicht.
-2. robots.txt prüfen: Gibt es einen robots.txt-Eintrag, der TDM-Crawler explizit ausschließt (z. B. `Disallow: /` für alle Bots oder spezifische TDM-Crawler)?
-3. HTTP-Header analysieren: X-Robots-Tag: noindex, noarchive, noimageindex — welche Header sind gesetzt und welche Crawler respektieren sie?
+2. robots.txt prüfen: Gibt es einen robots.txt-Eintrag, der TDM-Abrufwerkzeuge explizit ausschließt (z. B. `Disallow: /` für alle Bots oder spezifische TDM-Abrufwerkzeuge)?
+3. HTTP-Header analysieren: X-Robots-Tag: noindex, noarchive, noimageindex — welche Header sind gesetzt und welche Abrufwerkzeuge respektieren sie?
 4. Structured-Data-Metadaten prüfen: Gibt es maschinenlesbare Metadaten (schema.org, ODRL) mit explizitem TDM-Vorbehalt?
-5. Zeitpunkt des Opt-outs: War der Opt-out vor dem Scraping-Vorgang aktiv? Rückwirkung ist ausgeschlossen.
+5. Zeitpunkt des Opt-outs: War der Opt-out vor dem Auslesevorgang aktiv? Rückwirkung ist ausgeschlossen.
 6. Reichweite des Opt-outs: Gilt er für alle Inhalte oder nur bestimmte Teile der Datenbank?
 
 ## Rechtsrahmen
@@ -43,20 +43,20 @@ Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und 
 
 ## Prüfraster
 
-- Ist ein robots.txt-Eintrag vorhanden, der TDM-relevante Crawler ausschließt?
+- Ist ein robots.txt-Eintrag vorhanden, der TDM-relevante Abrufwerkzeuge ausschließt?
 - Werden HTTP-Header (X-Robots-Tag) eingesetzt, die maschinenlesbar TDM verbieten?
 - Gibt es strukturierte Metadaten (ODRL-Policys, schema.org) mit explizitem TDM-Ausschluss?
-- War der Opt-out zeitlich vor dem streitgegenständlichen Scraping-Vorgang aktiv gesetzt?
+- War der Opt-out zeitlich vor dem streitgegenständlichen Auslesevorgang aktiv gesetzt?
 - Ist der Opt-out auf alle Inhalte der Datenbank anwendbar oder nur auf Teile?
-- Respektieren die eingesetzten TDM-Crawler überhaupt die Opt-out-Signale — werden technische Sperren benötigt?
+- Respektieren die eingesetzten TDM-Abrufwerkzeuge überhaupt die Opt-out-Signale — werden technische Sperren benötigt?
 - Reicht ein allgemeines AGB-Verbot als maschinenlesbarer Opt-out — oder muss zwingend eine technische Erklärung vorhanden sein?
 
 ## Typische Fallstricke
 
-- AGB-Verbot für automatisiertes Abrufen gilt nicht als maschinenlesbar im Sinne des § 44b Abs. 3 UrhG — kein wirksamer Opt-out.
-- robots.txt-Einträge ohne expliziten Bezug auf TDM-Verbot schließen nicht alle kommerziellen TDM-Crawler aus.
-- Opt-out nach dem Scraping-Ereignis erklärt — zu spät für diese konkrete Verletzung, gilt nur für die Zukunft.
-- Viele KI-Trainingscrawler ignorieren robots.txt technisch oder identifizieren sich nicht korrekt — Opt-out technisch erzwingen.
+- AGB-Verbot für automatisierten Abruf gilt nicht als maschinenlesbar im Sinne des § 44b Abs. 3 UrhG — kein wirksamer Opt-out.
+- robots.txt-Einträge ohne expliziten Bezug auf TDM-Verbot schließen nicht alle kommerziellen TDM-Abrufwerkzeuge aus.
+- Opt-out nach dem Abrufereignis erklärt — zu spät für diese konkrete Verletzung, gilt nur für die Zukunft.
+- Viele KI-Trainings-Abrufwerkzeuge ignorieren robots.txt technisch oder identifizieren sich nicht korrekt — Opt-out technisch erzwingen.
 - Fehlender Opt-out für einen Datenbankabschnitt kann TDM für diesen Teil erlaubt sein, obwohl der Rest geschützt ist.
 
 ## Quellen
