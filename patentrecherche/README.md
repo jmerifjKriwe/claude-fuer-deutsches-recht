@@ -32,7 +32,7 @@ Das Plugin ist Teil des Repositories [`patentrecherche-kaltstart-interview`](../
 
 ## Inhalt
 
-14 Skills, 3 References. Die methodische Grundlage stammt aus den Querschnitts-Plugins [`klassifikation-cpc-ipc`](../methodenlehre-buergerliches-recht) und [`agentische-datenbank-recherche`](../zitierweise-deutsches-recht), die parallel aktiviert sein sollten.
+14 Skills, 3 References. Die methodische Grundlage stammt aus den Querschnitts-Plugins [`methodenlehre-buergerliches-recht`](../methodenlehre-buergerliches-recht) und [`zitierweise-deutsches-recht`](../zitierweise-deutsches-recht), die parallel aktiviert sein sollten.
 
 ### Skills
 
@@ -68,7 +68,7 @@ Jedes Recherche-Ergebnis enthält am Anfang den Disclaimer "**Hinweis zur Recher
 
 ## Verhältnis zum Berufsrecht
 
-Patentanwältinnen sind Berufsgeheimnisträger nach § 203 Abs. 1 Nr. 3 StGB; § 39a PAO regelt die Verschwiegenheit, § 39c PAO regelt die Inanspruchnahme von Dienstleistern. Vor produktivem Einsatz eines KI-Dienstleisters: berufsrechtliche Vorprüfung mit dem Schwester-Plugin [`anschluss-routing`](../berufsrecht-ki-vertragspruefung) durchführen.
+Patentanwältinnen sind Berufsgeheimnisträger nach § 203 Abs. 1 Nr. 3 StGB; § 39a PAO regelt die Verschwiegenheit, § 39c PAO regelt die Inanspruchnahme von Dienstleistern. Vor produktivem Einsatz eines KI-Dienstleisters: berufsrechtliche Vorprüfung mit dem Schwester-Plugin [`berufsrecht-ki-vertragspruefung`](../berufsrecht-ki-vertragspruefung) durchführen.
 
 ## Lizenz
 

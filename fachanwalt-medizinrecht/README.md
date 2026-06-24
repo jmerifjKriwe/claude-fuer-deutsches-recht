@@ -31,8 +31,8 @@ Norm-Radar, Leitentscheidungs-Anker und genau eine Rueckfrage - bei
 klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
 
 Konvention: [`Install from .zip`](../references/anwalts-dashboard-konvention.md)
-| Quellen-Anker: [`.claude-plugin/plugin.json`](../references/leitentscheidungen-anker.md)
-| Quellenhygiene: [`skills/`](../references/quellenhygiene.md).
+| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
+| Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
 
 
 Plugin Fachanwalt für Medizinrecht. Orientierung Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Ärzte und Heilberufe SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen fachanwalt-sozialrecht und kanzlei-allgemein.

@@ -46,7 +46,7 @@ Beginne mit `betaeubungsmittelrecht-allgemein`. Das Plugin fragt zuerst nach Rol
 
 ## Quellenhygiene
 
-Siehe [`description`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
+Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Dieses Plugin gibt keine endgültige Rechtsberatung, sondern robuste Arbeitsfassungen, Prüfpfade und Dokumentationshilfen.
 
 ## Lizenz
 

@@ -49,7 +49,7 @@ Der Einstieg fragt zuerst nicht zwanzig Dinge ab, sondern klärt die wichtigste 
 
 ## Live-Quellen
 
-Das Plugin soll bei tragenden Aussagen immer die aktülle amtliche Fassung auf **Gesetze im Internet** prüfen, insbesondere BGB §§ 305 bis 310 und UKlaG. Siehe [`description`](./references/QUELLEN.md).
+Das Plugin soll bei tragenden Aussagen immer die aktülle amtliche Fassung auf **Gesetze im Internet** prüfen, insbesondere BGB §§ 305 bis 310 und UKlaG. Siehe [`references/QUELLEN.md`](./references/QUELLEN.md).
 
 ## Typische Ergebnisse
 

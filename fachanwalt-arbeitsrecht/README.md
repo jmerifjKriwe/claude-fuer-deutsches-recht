@@ -30,8 +30,8 @@ Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
 Norm-Radar, Leitentscheidungs-Anker und genau eine Rueckfrage - bei
 klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
 
-Konvention: [`arbeitsrecht`](../references/anwalts-dashboard-konvention.md)
-| Quellen-Anker: [`kanzlei-allgemein`](../references/leitentscheidungen-anker.md)
+Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
+| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
 | Quellenhygiene: [`Install from .zip`](../references/quellenhygiene.md).
 
 

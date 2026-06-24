@@ -38,7 +38,7 @@ Dieses Plugin führt durch ein stark landes- und satzungsabhängiges Rechtsgebie
 
 ## Quellenanker
 
-Siehe [`description`](./references/QUELLEN.md). Im Einzelfall gehen Landesgesetz, aktuelle Verordnung, Satzung, Prüfungsordnung, Amtsblatt, Bescheid und Akteninhalt immer vor. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Im Einzelfall gehen Landesgesetz, aktuelle Verordnung, Satzung, Prüfungsordnung, Amtsblatt, Bescheid und Akteninhalt immer vor. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Arbeitsstil
 

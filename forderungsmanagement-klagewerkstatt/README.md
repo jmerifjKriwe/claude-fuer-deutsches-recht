@@ -64,7 +64,7 @@ Der neue Direktlauf ist für Fälle gedacht, in denen eine Forderungsakte schon 
 - Mahnkosten, Verzugszinsen, Inkassokosten und Mahnverfahrenskosten einzeln.
 - Gerichtsort mit aktueller ladungsfähiger Anschrift.
 
-Die ModeFuchs-Testakte unter [`office/docx`](../testakten/inkasso-zahlungsklage-modefuchs/) ist der Referenzfall: Hauptforderung 698,00 EUR bezahlt vor Klageeinreichung, Nebenforderungen 99,84 EUR streitig. Erwartung: Hauptforderung rot, Nebenforderungen gelb, keine automatische Klage über 797,84 EUR. Direktdownload siehe Sofort-Download-Sektion oben.
+Die ModeFuchs-Testakte unter [`inkasso-zahlungsklage-modefuchs/`](../testakten/inkasso-zahlungsklage-modefuchs/) ist der Referenzfall: Hauptforderung 698,00 EUR bezahlt vor Klageeinreichung, Nebenforderungen 99,84 EUR streitig. Erwartung: Hauptforderung rot, Nebenforderungen gelb, keine automatische Klage über 797,84 EUR. Direktdownload siehe Sofort-Download-Sektion oben.
 
 ## Plugin-Generator
 

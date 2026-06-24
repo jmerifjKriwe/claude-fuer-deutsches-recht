@@ -39,7 +39,7 @@ Das Plugin hilft Unternehmen, Kanzleien, Auftraggebern und arbeitenden Personen,
 
 ## Quellenanker
 
-Siehe [`description`](./references/QUELLEN.md). BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell prüfbarer Quelle verwenden.
+Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell prüfbarer Quelle verwenden.
 
 ## Lizenz
 

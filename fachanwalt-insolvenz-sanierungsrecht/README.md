@@ -30,9 +30,9 @@ Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
 Norm-Radar, Leitentscheidungs-Anker und genau eine Rueckfrage - bei
 klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
 
-Konvention: [`insolvenzrecht`](../references/anwalts-dashboard-konvention.md)
-| Quellen-Anker: [`steuerrecht-anwalt-und-berater`](../references/leitentscheidungen-anker.md)
-| Quellenhygiene: [`inso-p...`](../references/quellenhygiene.md).
+Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
+| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
+| Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
 
 
 Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14 (idF nach Aufnahme StaRUG-Bereiche). Orientierung, Gläubigerantrag, Restrukturierungsplan StaRUG, Insolvenzanfechtung. Schnittstellen zum Plugin `insolvenzrecht` (operativ) und `steuerrecht-anwalt-und-berater`.
@@ -53,7 +53,7 @@ Das ausgefuellte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures
 | --- | --- |
 | **Word (DOCX, Times New Roman, 12 pt)** | [`fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan`]() |
 | **PDF (Times Roman, A4)** | [`fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung`]() |
-| Markdown-Volltext (zum Lesen auf GitHub) | [`inso-p001-...`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
+| Markdown-Volltext (zum Lesen auf GitHub) | [`insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
 | Gesamte Testakte als ZIP (34 Dateien, 7 Formate) | [`inso-p359-...`]() |
 
 Das Template umfasst 11 Paragraphen (Praeambel, Vertragsgegenstand mit DSGVO- und $ 613a-Bausteinen, Kaufpreis [400.000 EUR], Vollzugsvoraussetzungen, eIDAS-2.0-Signatur-Klausel, Haftung mit $ 60 InsO-Ausschluss, LkSG-Klarstellung, HinSchG-Compliance-Klausel, Schlussbestimmungen) plus sechs Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste und Kaufpreis erforderlich; Live-Verifikation der Rspr.-Anker (Bonprix-EuGH, BGH IX. Zivilsenat).

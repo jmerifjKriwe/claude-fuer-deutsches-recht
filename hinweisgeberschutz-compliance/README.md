@@ -38,7 +38,7 @@ Es ist als Arbeitsbegleiter gedacht: erst fragen, dann sortieren, dann prüfen, 
 
 ## Quellenanker
 
-Siehe [`description`](./references/QUELLEN.md). Konkrete Normen, Behördenhinweise und Rechtsprechung immer live prüfen. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
+Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Konkrete Normen, Behördenhinweise und Rechtsprechung immer live prüfen. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## Arbeitsstil
 

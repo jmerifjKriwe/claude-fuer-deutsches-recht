@@ -99,7 +99,7 @@ E — Spezialfaelle / komplexe Themen (6 Skills)
 
 ## Testakte
 
-Zu diesem Plugin existiert eine vollständige Beispielakte unter [`description`](../testakten/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026/).
+Zu diesem Plugin existiert eine vollständige Beispielakte unter [`nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026/`](../testakten/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026/).
 
 **Sachverhalt**: Referentenentwurf des BMJ vom 14.04.2026 zur Verbesserung der elektronischen Erreichbarkeit im Handelsregister eingetragener Gesellschaften (**ElErrHandRegG**). NKR-Prüfung ergibt: Regelung ist erforderlich, Ausgestaltung jedoch zu komplex; geschaetzter Erfuellungsaufwand 320 Mio EUR jaehrlich für die Wirtschaft. Stellungnahme weist die Notwendigkeit positiv aus, kritisiert die konkrete Ausgestaltung und schlägt eine zentrale Loesung vor.
 
@@ -124,9 +124,9 @@ Erste Antwort knapp. Maximal eine gezielte Rueckfrage zur Mandatsaufnahme. Sofor
 
 ## Verwandte Plugins
 
-- [`allgemein`](../legistik-werkstatt/) — Drafting-Werkstatt für Referenten- und Kabinettsentwuerfe (Ressortsicht; NKR ist der Prüfer dieser Entwuerfe).
-- [`alternativen-keine-aufgabe-kompetenz`](../normenkontrolle-bauleitplanung/) — Anfechtung von Bauleitplaenen nach § 47 VwGO (begriffliche Verwandtschaft, nicht inhaltlich).
-- [`alternativen-keine-regelung-soft-law`](../buerokratieversteher-entbuerokratisierer/) — operative Entbuerokratisierung in einzelnen Verfahren.
+- [`legistik-werkstatt/`](../legistik-werkstatt/) — Drafting-Werkstatt für Referenten- und Kabinettsentwuerfe (Ressortsicht; NKR ist der Prüfer dieser Entwuerfe).
+- [`normenkontrolle-bauleitplanung/`](../normenkontrolle-bauleitplanung/) — Anfechtung von Bauleitplaenen nach § 47 VwGO (begriffliche Verwandtschaft, nicht inhaltlich).
+- [`buerokratieversteher-entbuerokratisierer/`](../buerokratieversteher-entbuerokratisierer/) — operative Entbuerokratisierung in einzelnen Verfahren.
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

@@ -39,7 +39,7 @@ Das Plugin soll eine komplette Software-Suite rechtlich durchdeklinieren können
 
 ## Quellenanker
 
-Siehe [`description`](./references/QUELLEN.md). Konkrete Normen, Guidance und Rechtsprechung immer live prüfen; keine Blindzitate.
+Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Konkrete Normen, Guidance und Rechtsprechung immer live prüfen; keine Blindzitate.
 
 ## Lizenz
 

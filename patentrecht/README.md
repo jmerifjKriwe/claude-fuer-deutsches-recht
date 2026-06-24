@@ -50,10 +50,10 @@ Der Einstiegsskill fragt nicht lehrbuchartig alles ab, sondern sortiert den Fall
 
 ## Verhältnis zu anderen Plugins
 
-- [`patentrecht-allgemein`](../patentrecherche): tiefe Datenbankrecherche, CPC/IPC, Patentfamilien, Registerstand, Recherchebericht.
-- [`patentrecht-kaltstart-interview`](../gewerblicher-rechtsschutz) und [`erfindungsmeldung-aufnahme-und-rueckfragen`](../fachanwalt-gewerblicher-rechtsschutz): Marken, Designs, UWG, Verletzungsprozess und IP-Kollisionslagen.
-- [`patentanmeldung-anspruchsentwurf`](../zitierweise-deutsches-recht): saubere Nachweise und Rechtsprechungszitate.
-- [`beschreibung-und-zeichnungen-pruefen`](../word-legal-ai-plugin-and-skill-for-german-lawyers): Schriftsatz-, Gutachten-, Vertrags- und Mandantenbriefstil.
+- [`patentrecherche`](../patentrecherche): tiefe Datenbankrecherche, CPC/IPC, Patentfamilien, Registerstand, Recherchebericht.
+- [`gewerblicher-rechtsschutz`](../gewerblicher-rechtsschutz) und [`fachanwalt-gewerblicher-rechtsschutz`](../fachanwalt-gewerblicher-rechtsschutz): Marken, Designs, UWG, Verletzungsprozess und IP-Kollisionslagen.
+- [`zitierweise-deutsches-recht`](../zitierweise-deutsches-recht): saubere Nachweise und Rechtsprechungszitate.
+- [`word-legal-ai-plugin-and-skill-for-german-lawyers`](../word-legal-ai-plugin-and-skill-for-german-lawyers): Schriftsatz-, Gutachten-, Vertrags- und Mandantenbriefstil.
 
 ## Kern-Workflow
 

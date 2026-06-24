@@ -64,7 +64,7 @@ Das Plugin ist bewusst quellenstrikt. Es soll keine BeckRS-, Juris-, Kommentar- 
 - Bundesbank, EZB/SSM, EBA und EUR-Lex für europäische Aufsichtsakte und Leitlinien.
 - Gerichtsentscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier oder amtlicher Quelle.
 
-Siehe auch [`bafin-kommunikation-und-anhoerung`](./references/QUELLEN.md).
+Siehe auch [`references/QUELLEN.md`](./references/QUELLEN.md).
 
 ## Typische Workflows
 

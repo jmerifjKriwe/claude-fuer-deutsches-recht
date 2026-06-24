@@ -36,7 +36,7 @@ Das ausgefuellte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures
 | --- | --- |
 | **Word (DOCX, Times New Roman, 12 pt)** | [`insolvenzverwaltung.zip`]() |
 | **PDF (Times Roman, A4)** | [`Starte das Insolvenzverwaltungs-Kommandocenter für diese neue IV-Akte.`]() |
-| Markdown-Volltext (zum Lesen auf GitHub) | [`.claude-plugin/plugin.json`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
+| Markdown-Volltext (zum Lesen auf GitHub) | [`insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md`](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
 | Gesamte Testakte als ZIP (34 Dateien, 7 Formate) | [`skills/`]() |
 
 Das Template umfasst 11 Paragraphen (Praeambel, Vertragsgegenstand mit DSGVO- und $ 613a-Bausteinen, Kaufpreis [400.000 EUR], Vollzugsvoraussetzungen, eIDAS-2.0-Signatur-Klausel, Haftung mit $ 60 InsO-Ausschluss, LkSG-Klarstellung, HinSchG-Compliance-Klausel, Schlussbestimmungen) plus sechs Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste und Kaufpreis erforderlich; Live-Verifikation der Rspr.-Anker (Bonprix-EuGH, BGH IX. Zivilsenat).

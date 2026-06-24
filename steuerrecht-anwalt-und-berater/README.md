@@ -122,7 +122,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> **Power-Plugin Liquidität:** Die vollständige Power-Version der Liquiditätsvorschau (BGH-Schema Passiva II, Excel-Vorlage, HTML-Padlet, insolvenzrechtliche Stichtagsbilanz) lebt im Plugin [`stb-`](../liquiditaetsplanung/). Die `stb-`-Skills hier sind die Steuerberater-Sicht zur Krisenfrüherkennung und triggern die Power-Version bei tiefergehender Begutachtung.
+> **Power-Plugin Liquidität:** Die vollständige Power-Version der Liquiditätsvorschau (BGH-Schema Passiva II, Excel-Vorlage, HTML-Padlet, insolvenzrechtliche Stichtagsbilanz) lebt im Plugin [`liquiditaetsplanung/`](../liquiditaetsplanung/). Die `stb-`-Skills hier sind die Steuerberater-Sicht zur Krisenfrüherkennung und triggern die Power-Version bei tiefergehender Begutachtung.
 
 ---
 
