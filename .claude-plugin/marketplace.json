@@ -70,7 +70,7 @@
     {
       "name": "arbeitsrecht",
       "source": "./arbeitsrecht",
-      "description": "Arbeitsrechtliche Workflows für Kuendigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.",
+      "description": "Arbeitsrechtliche Workflows für Kündigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -410,7 +410,7 @@
     {
       "name": "denkmalschutzrecht",
       "version": "395.0.0",
-      "description": "Denkmalschutzrecht in Deutschland: Art. 14 GG und Art. 73 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills fuer Eintragung Erlaubnis Bussgeld steuerliche Foerderung nach Paragraf 7i EStG und Welterbestaetten — laenderuebergreifende Grundlagen und Landesrecht klar getrennt.",
+      "description": "Denkmalschutzrecht in Deutschland: Art. 14 GG und Art. 73 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt.",
       "source": "./denkmalschutzrecht",
       "author": {
         "name": "Klotzkette",
@@ -590,7 +590,7 @@
     {
       "name": "fachanwalt-gewerblicher-rechtsschutz",
       "source": "./fachanwalt-gewerblicher-rechtsschutz",
-      "description": "Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.",
+      "description": "Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfügung Verletzungsklage Lizenzanaloger Schadensersatz.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -610,7 +610,7 @@
     {
       "name": "fachanwalt-insolvenz-sanierungsrecht",
       "source": "./fachanwalt-insolvenz-sanierungsrecht",
-      "description": "Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.",
+      "description": "Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eröffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -710,7 +710,7 @@
     {
       "name": "fachanwalt-urheber-medienrecht",
       "source": "./fachanwalt-urheber-medienrecht",
-      "description": "Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.",
+      "description": "Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -770,7 +770,7 @@
     {
       "name": "fahrgastrechte",
       "source": "./fahrgastrechte",
-      "description": "Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspaetung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgruende.",
+      "description": "Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspaetung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgründe.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -800,7 +800,7 @@
     {
       "name": "fluggastrechte",
       "source": "./fluggastrechte",
-      "description": "Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung prüfen, aussergewoehnliche Umstaende, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Rechtsprechung nur nach Live-Verifikation.",
+      "description": "Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung prüfen, außergewoehnliche Umstaende, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Rechtsprechung nur nach Live-Verifikation.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -830,7 +830,7 @@
     {
       "name": "fortbestehensprognose",
       "source": "./fortbestehensprognose",
-      "description": "Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose.",
+      "description": "Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquidität. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -1030,7 +1030,7 @@
     {
       "name": "immobilienrechtspraxis",
       "source": "./immobilienrechtspraxis",
-      "description": "Werkzeuge für immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Prüfung. Rechtsprechung nur nach Live-Verifikation.",
+      "description": "Werkzeuge für immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragsprüfung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Prüfung. Rechtsprechung nur nach Live-Verifikation.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -1310,7 +1310,7 @@
     {
       "name": "liquiditaetsplanung",
       "source": "./liquiditaetsplanung",
-      "description": "Liquiditaetsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Luecken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.",
+      "description": "Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Luecken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -1390,7 +1390,7 @@
     {
       "name": "methodenlehre-buergerliches-recht",
       "source": "./methodenlehre-buergerliches-recht",
-      "description": "Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwaegung, Praezedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche Begruendungskontrolle.",
+      "description": "Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwaegung, Praezedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche Begründungskontrolle.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -1430,7 +1430,7 @@
     {
       "name": "nda-abgleich",
       "source": "./nda-abgleich",
-      "description": "Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Aenderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen.",
+      "description": "Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Änderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -1631,7 +1631,7 @@
       "name": "relationstechnik-zivilrecht",
       "source": "./gerichtsplugins/relationstechnik-zivilrecht",
       "version": "395.0.0",
-      "description": "Relationstechnik Zivilrecht: vollstaendige grosse Relation Klaegerstation Beklagtenstation Beweisstation Urteilsstation 20 Skills schrittweise mit Megaprompt und Miniprompt fuer Richter Referendare und Anwaelte",
+      "description": "Relationstechnik Zivilrecht: vollständige große Relation Klägerstation Beklagtenstation Beweisstation Urteilsstation 20 Skills schrittweise mit Megaprompt und Miniprompt für Richter Referendare und Anwaelte",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1651,7 +1651,7 @@
       "name": "richter-amtsgericht-handelsregister",
       "source": "./gerichtsplugins/richter-amtsgericht-handelsregister",
       "version": "395.0.0",
-      "description": "Handelsregisterrichter und Rechtspfleger: Ersteintragung Aenderungen Loeschung Zwischenverfuegung Beschwerde Eintragungsfaehigkeit Firmenrecht Vertretungsmacht Liquidation und Loeschung von Amts wegen",
+      "description": "Handelsregisterrichter und Rechtspfleger: Ersteintragung Änderungen Loeschung Zwischenverfuegung Beschwerde Eintragungsfähigkeit Firmenrecht Vertretungsmacht Liquidation und Loeschung von Amts wegen",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1661,7 +1661,7 @@
       "name": "richter-amtsgericht-insolvenz-restrukturierung",
       "source": "./gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung",
       "version": "395.0.0",
-      "description": "Insolvenz- und Restrukturierungsgericht: Eroeffnungsverfahren Sicherungsmassnahmen Verwalterauswahl Glaeubigerversammlung Pruefungstermin Schlusstermin Restschuldbefreiung Restrukturierungssache nach StaRUG mit Stabilisierungsanordnung und Planbestaetigung",
+      "description": "Insolvenz- und Restrukturierungsgericht: Eröffnungsverfahren Sicherungsmaßnahmen Verwalterauswahl Gläubigerversammlung Prüfungstermin Schlusstermin Restschuldbefreiung Restrukturierungssache nach StaRUG mit Stabilisierungsanordnung und Planbestätigung",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1671,7 +1671,7 @@
       "name": "richter-amtsgericht-straf",
       "source": "./gerichtsplugins/richter-amtsgericht-straf",
       "version": "395.0.0",
-      "description": "Strafrichter Amtsgericht: Eroeffnungsentscheidung Hauptverhandlung Beweiswuerdigung Strafzumessung Urteilsbegruendung Rechtsmittelbelehrung Strafbefehl beschleunigtes Verfahren mit Tenorvorschlag",
+      "description": "Strafrichter Amtsgericht: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung Urteilsbegründung Rechtsmittelbelehrung Strafbefehl beschleunigtes Verfahren mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1681,7 +1681,7 @@
       "name": "richter-amtsgericht-zivil",
       "source": "./gerichtsplugins/richter-amtsgericht-zivil",
       "version": "395.0.0",
-      "description": "Amtsrichter Zivilsachen: Schluessigkeit Erheblichkeit Beweis Tenor Kostenentscheidung Streitwertbeschluss vorlaeufige Vollstreckbarkeit Rechtsmittelbelehrung Versaeumnisurteil und Anerkenntnisurteil mit echter Relation und Entscheidungsvorschlag",
+      "description": "Amtsrichter Zivilsachen: Schluessigkeit Erheblichkeit Beweis Tenor Kostenentscheidung Streitwertbeschluss vorläufige Vollstreckbarkeit Rechtsmittelbelehrung Versaeumnisurteil und Anerkenntnisurteil mit echter Relation und Entscheidungsvorschlag",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1691,7 +1691,7 @@
       "name": "richter-arbeitsgericht",
       "source": "./gerichtsplugins/richter-arbeitsgericht",
       "version": "395.0.0",
-      "description": "Arbeitsgericht: Guetetermin Kammertermin Kuendigungsschutzklage Zahlungsklage einstweilige Verfuegung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag",
+      "description": "Arbeitsgericht: Guetetermin Kammertermin Kündigungsschutzklage Zahlungsklage einstweilige Verfügung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1701,7 +1701,7 @@
       "name": "richter-bverfg-verfassungsbeschwerden",
       "source": "./gerichtsplugins/richter-bverfg-verfassungsbeschwerden",
       "version": "395.0.0",
-      "description": "BVerfG Kammer und wissenschaftliche Mitarbeiter: Annahmepruefung Verfassungsbeschwerde Paragraf 93a BVerfGG Substantiierung Subsidiaritaet Grundrechtsverletzung Rechtswegerschoepfung Voten Kammerbeschluss Nichtannahmebeschluss",
+      "description": "BVerfG Kammer und wissenschaftliche Mitarbeiter: Annahmeprüfung Verfassungsbeschwerde Paragraf 93a BVerfGG Substantiierung Subsidiaritaet Grundrechtsverletzung Rechtswegerschoepfung Voten Kammerbeschluss Nichtannahmebeschluss",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1721,7 +1721,7 @@
       "name": "richter-finanzgericht",
       "source": "./gerichtsplugins/richter-finanzgericht",
       "version": "395.0.0",
-      "description": "Finanzgericht: Sachpruefung Anfechtungsklage Verpflichtungsklage Aussetzung der Vollziehung Paragraf 69 FGO Beweiswuerdigung im Amtsermittlungsgrundsatz und Urteilsentwurf mit Tenorvorschlag",
+      "description": "Finanzgericht: Sachprüfung Anfechtungsklage Verpflichtungsklage Aussetzung der Vollziehung Paragraf 69 FGO Beweiswürdigung im Amtsermittlungsgrundsatz und Urteilsentwurf mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1731,7 +1731,7 @@
       "name": "richter-landgericht-strafkammer",
       "source": "./gerichtsplugins/richter-landgericht-strafkammer",
       "version": "395.0.0",
-      "description": "Strafkammer LG: Eroeffnungsentscheidung Hauptverhandlung Beweiswuerdigung Strafzumessung schwere und mittlere Kriminalitaet Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Massnahmen mit Tenorvorschlag",
+      "description": "Strafkammer LG: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung schwere und mittlere Kriminalitaet Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Maßnahmen mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1741,7 +1741,7 @@
       "name": "richter-landgericht-zivilkammer",
       "source": "./gerichtsplugins/richter-landgericht-zivilkammer",
       "version": "395.0.0",
-      "description": "Zivilkammer LG: erste Instanz und Berufung, grosse Relation, Schluessigkeit Erheblichkeit Beweis, Hinweisverfuegung Paragraf 139 ZPO, Beweisbeschluss, Sachverstaendigenbeweis, Urteil Paragraf 313 ZPO, Berufungsentscheidung Paragrafen 522-540 ZPO mit Tenorvorschlag",
+      "description": "Zivilkammer LG: erste Instanz und Berufung, große Relation, Schluessigkeit Erheblichkeit Beweis, Hinweisverfuegung Paragraf 139 ZPO, Beweisbeschluss, Sachverständigenbeweis, Urteil Paragraf 313 ZPO, Berufungsentscheidung Paragrafen 522-540 ZPO mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1751,7 +1751,7 @@
       "name": "richter-sozialgericht",
       "source": "./gerichtsplugins/richter-sozialgericht",
       "version": "395.0.0",
-      "description": "Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Pruefungsschemata Krankenversicherung Rente Unfall Buergergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag",
+      "description": "Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Prüfungsschemata Krankenversicherung Rente Unfall Buergergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1761,7 +1761,7 @@
       "name": "richter-verwaltungsgericht",
       "source": "./gerichtsplugins/richter-verwaltungsgericht",
       "version": "395.0.0",
-      "description": "Verwaltungsgericht: Sachpruefung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswuerdigung im Amtsermittlungsgrundsatz und Tenorvorschlag",
+      "description": "Verwaltungsgericht: Sachprüfung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswürdigung im Amtsermittlungsgrundsatz und Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1920,7 +1920,7 @@
     {
       "name": "status-navigator-step-plan",
       "source": "./status-navigator-step-plan",
-      "description": "Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung mit 35 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Ueberblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung.",
+      "description": "Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung mit 35 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Überblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -1960,7 +1960,7 @@
     {
       "name": "strafzumessung",
       "source": "./strafzumessung",
-      "description": "Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.",
+      "description": "Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verständigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -2050,7 +2050,7 @@
     {
       "name": "urheberrecht-de-eu",
       "source": "./urheberrecht-de-eu",
-      "description": "Deutsches und EU-Urheberrecht für Werkhoehe, Musik, KI, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing.",
+      "description": "Deutsches und EU-Urheberrecht für Werkhöhe, Musik, KI, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -2160,7 +2160,7 @@
     {
       "name": "verhaeltnismaessigkeitspruefer",
       "source": "./verhaeltnismaessigkeitspruefer",
-      "description": "85 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Suedafrika/Kanada/EGMR/EuGH/USA und 12 europaeische Ordnungen; mit Alexy, Schnellpruefung, Klausurschema, Streitstellen, Subsumtionshelfer und Visualisierung.",
+      "description": "85 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Suedafrika/Kanada/EGMR/EuGH/USA und 12 europaeische Ordnungen; mit Alexy, Schnellprüfung, Klausurschema, Streitstellen, Subsumtionshelfer und Visualisierung.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
@@ -2200,7 +2200,7 @@
     {
       "name": "verlagsredaktion",
       "source": "./verlagsredaktion",
-      "description": "Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsuebergabe.",
+      "description": "Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsübergabe.",
       "version": "395.0.0",
       "author": {
         "name": "Klotzkette",
