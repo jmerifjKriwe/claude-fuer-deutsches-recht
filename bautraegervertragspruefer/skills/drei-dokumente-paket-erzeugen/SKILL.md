@@ -53,21 +53,21 @@ Sehr geehrte/r [Mandant/in],
 [Ergebnis in einem Absatz; Ampel-Bilanz; 3-7 Hauptrisiken; nächste Schritte mit Fristen; Hinweis auf Gutachten]
 
 --- DOKUMENT 2: MANDANTENGUTACHTEN ---
-A. Sachverhalt und Unterlagen
-B. Quellenstand
-C. Fall-Fingerabdruck
-D. Vertragsart und Verbraucherstatus
-E. Pflicht-Prüfblock
-F. MaBV und Zahlungsplan
-G. AGB-Klauselmatrix
-H. Baubeschreibung und Bausoll
-I. Abnahme, Schlussrate, Mängelrechte
-J. HOAI, Objektüberwachung und Technik
-K. Wirtschaft, Organisation und WEG
-L. Eigentumsschutz und Insolvenz
-M. Bauzeitverzug, Vertragsstrafe und Nutzungsausfall
-N. Notar-, Geschäftsführer-, Bauleiter- und Vertriebsrisiken
-O. Gesamteinschätzung und Handlungsempfehlung
+1 Sachverhalt und Unterlagen
+2 Quellenstand
+3 Fall-Fingerabdruck
+4 Vertragsart und Verbraucherstatus
+5 Pflicht-Prüfblock
+6 MaBV und Zahlungsplan
+7 AGB-Klauselmatrix
+8 Baubeschreibung und Bausoll
+9 Abnahme, Schlussrate, Mängelrechte
+10 HOAI, Objektüberwachung und Technik
+11 Wirtschaft, Organisation und WEG
+12 Eigentumsschutz und Insolvenz
+13 Bauzeitverzug, Vertragsstrafe und Nutzungsausfall
+14 Notar-, Geschäftsführer-, Bauleiter- und Vertriebsrisiken
+15 Gesamteinschätzung und Handlungsempfehlung
 
 --- DOKUMENT 3: AUFFORDERUNGSSCHREIBEN AN BAUTRÄGER UND NOTAR ---
 Betreff: Bautraegervertrag [Projekt, Einheit, Datum] — erforderliche Anpassungen vor Beurkundung

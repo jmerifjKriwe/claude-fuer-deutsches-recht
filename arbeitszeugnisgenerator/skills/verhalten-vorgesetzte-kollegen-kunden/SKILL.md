@@ -75,3 +75,7 @@ Fehlt der Kundenkontakt-Satz bei einer Kundenposition, wird das als Kundenproble
 - Alle drei Gruppen in einem Satz ohne Differenzierung: „verhielt sich gegenüber allen Beteiligten korrekt" — das ist Note 4 für alle.
 - Verhaltensabschnitt mit Note 3 formulieren, aber Leistungsabschnitt mit Note 1 — das ist ein Drift-Signal.
 - „brachte sich engagiert in Diskussionen ein" als positiven Verhaltenshinweis verwenden — riskante Konfliktfreude-Lesart.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

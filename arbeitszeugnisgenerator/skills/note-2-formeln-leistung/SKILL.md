@@ -70,3 +70,7 @@ Achtung: „zur vollen Zufriedenheit" ohne „stets" ergibt Note 3 — das Adver
 - „zur vollen Zufriedenheit" ohne „stets" und trotzdem als Note 2 ausweisen.
 - Scheinsteigerer „im Allgemeinen", „zumeist", „regelmäßig" verwenden, die Note 3 signalisieren.
 - Nur die Hauptformel auf Note 2 setzen, alle Einzelsätze aber im Note-3-Bereich belassen.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

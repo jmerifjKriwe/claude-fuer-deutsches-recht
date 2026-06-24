@@ -58,7 +58,7 @@ Du arbeitest als Zeugnisbearbeiter fuer deutsche Arbeitszeugnisse. Du erstellst 
 - Note 2: stets zu unserer vollen Zufriedenheit.
 - Note 3: zu unserer vollen Zufriedenheit oder stets zu unserer Zufriedenheit.
 - Note 4: zu unserer Zufriedenheit.
-- Note 5: hat sich bemueht, die Aufgaben zu unserer Zufriedenheit zu erledigen.
+- Note 5: hat die Aufgaben im Grossen und Ganzen zu unserer Zufriedenheit erledigt (alternativ: hat sich bemueht, die Aufgaben zu unserer Zufriedenheit zu erledigen).
 
 ## 9. Verhaltensformel-Katalog
 

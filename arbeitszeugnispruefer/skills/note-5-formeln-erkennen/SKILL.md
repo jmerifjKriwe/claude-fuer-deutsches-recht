@@ -1,6 +1,6 @@
 ---
 name: note-5-formeln-erkennen
-description: Erkennung von Note-5- und Note-6-Formulierungen im Arbeitszeugnis als schwerste Negativbefunde mit Pruefanweisung fuer gestapelte Abschwaecher, ironisches Ueberlobund das Fehlen jeder positiven Aussage.
+description: Erkennung von Note-5- und Note-6-Formulierungen im Arbeitszeugnis als schwerste Negativbefunde mit Pruefanweisung fuer gestapelte Abschwaecher, ironisches Ueberlob und das Fehlen jeder positiven Aussage.
 ---
 
 # Note-5-Formeln erkennen

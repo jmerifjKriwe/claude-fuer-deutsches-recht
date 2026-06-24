@@ -20,7 +20,7 @@
 - Beratung oeffentlicher Auftraggeber in Vergabeverfahren nach Vergabeverordnung und Unterschwellenvergabeordnung einschliesslich Begleitung von Nachpruefungsverfahren bei der Vergabekammer Rheinland
 - Erstellung gutachterlicher Stellungnahmen zur Architektenhaftung und zu Honorarordnung-Architekten-Ingenieure-Anwendungsfragen
 - Fachliche Anleitung wissenschaftlicher Mitarbeiterinnen sowie Referendarinnen und Referendare in der Anwaltsstation
-- Vortragsstaetigkeit auf den jaehrlichen Bauleitertagen des Mandanten Westfalenbau AG
+- Vortragstaetigkeit auf den jaehrlichen Bauleitertagen des Mandanten Westfalenbau AG
 
 
 ## Leistungsbeobachtungen (HR-Notizen)

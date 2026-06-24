@@ -75,3 +75,7 @@ Eine Schlussformel bei Note 5 sollte maximal zwei Bausteine haben. Keine warme S
 - Note 5 ohne Dokumentation ausgeben, weil der Arbeitgeber „einfach unzufrieden" war.
 - „im Großen und Ganzen" als harmlosen Füller in einem ansonsten positiven Zeugnis platzieren.
 - Note-5-Zeugnis mit normaler Schlussformel kombinieren.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

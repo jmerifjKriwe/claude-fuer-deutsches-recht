@@ -53,7 +53,7 @@ In Branchen wie IT, Finanzen oder Consulting werden häufig überdurchschnittlic
 
 ## Verzichtsklauseln und Vergleich
 
-Nach BAG, Teilurteil v. 18.06.2025 – 2 AZR 96/24 (B): Der Arbeitnehmer kann auf die Erteilung eines qualifizierten Zeugnisses nicht vor Beendigung des Arbeitsverhältnisses für die Zukunft wirksam verzichten. Aufhebungs- und Vergleichsklauseln, die den Zeugnisanspruch vor dem Beendigungsdatum ausschließen, sind unwirksam.
+Nach der Rechtsprechung des BAG kann der Arbeitnehmer auf die Erteilung eines qualifizierten Zeugnisses nicht vor Beendigung des Arbeitsverhältnisses für die Zukunft wirksam verzichten. Aufhebungs- und Vergleichsklauseln, die den Zeugnisanspruch vor dem Beendigungsdatum ausschließen, sind unwirksam. (Die konkrete Fundstelle ist vor Verwendung zu verifizieren; die im Ursprungsdokument angegebene Zuordnung zu „2 AZR 96/24" ist zweifelhaft, weil das Zeugnisrecht beim 9. Senat des BAG liegt.)
 
 ## Stolpersteine
 

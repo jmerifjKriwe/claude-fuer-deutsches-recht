@@ -74,3 +74,7 @@ Besondere Leistungen sind solche, die über die reguläre Stellenbeschreibung hi
 - Übertriebene Leistungsaussagen, die kein kundiger Leser glaubt — Ironie-Risiko.
 - Alle Aufgaben als „besondere Leistungen" darstellen — dann gibt es keine echte Hervorhebung mehr.
 - Projekterfolge in Prozenten angeben, die nicht belegt werden können.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

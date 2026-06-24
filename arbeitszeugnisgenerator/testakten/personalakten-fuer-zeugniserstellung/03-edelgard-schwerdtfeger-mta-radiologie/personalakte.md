@@ -17,7 +17,7 @@
 
 - Selbstaendige Durchfuehrung konventioneller Roentgenuntersuchungen einschliesslich Mammographien
 - Assistenz bei CT-Untersuchungen mit und ohne Kontrastmittel
-- Vorbereitung und Lagerung der Patientinnen und Patienten bei MRT-Untersuchungen am 1,5-Tesla-Geraet
+- Vorbereitung und Lagerung der Patientinnen und Patienten bei MRT-Untersuchungen am 1.5-Tesla-Geraet
 - Bedienung und Anwenderwartung der bildgebenden Geraete sowie Konstanzpruefungen nach Strahlenschutzverordnung
 - Erfassung der Patientendaten im Praxisinformationssystem RIS/PACS
 - Vorbereitung der Befundungsdiktate fuer die Fachaerztinnen und Fachaerzte

@@ -37,7 +37,7 @@ Dieser Skill führt den Familienrichter von der Scheidungsakte zum beschlussreif
 
 ## Leitentscheidungen
 
-- BGH, Beschluss vom 01.02.2017, XII ZB 601/15: Geringfügigkeit verlangt eine einzelfallbezogene Ermessensprüfung.
+- Ständige Rechtsprechung des BGH (XII. Zivilsenat) zu VersAusglG Paragraf 18: Die Geringfügigkeit ist nicht schematisch, sondern in einzelfallbezogener Ermessensprüfung zu beurteilen. Das einschlägige Aktenzeichen ist vor Verwendung live über die BGH-Quelle zu verifizieren.
 - BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Ausgleichswert und Teilungsform müssen für jedes Anrecht nachvollziehbar aus der Auskunft hervorgehen.
 - BGH, Beschluss vom 24.07.2013, XII ZB 340/11: Ausschluss oder Korrektur wegen grober Unbilligkeit bleibt Ausnahme.
 

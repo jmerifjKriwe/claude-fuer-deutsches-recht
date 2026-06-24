@@ -10,7 +10,7 @@ Das BAG-Urteil vom 15.11.2011 (9 AZR 386.10) bestaetigt die Formulierungsfreihei
 Die Notenstufenmatrix nach BAG-Linie:
 Note 1: „stets zu unserer vollsten Zufriedenheit" oder Aequivalent mit Maximalsteigerer und Erfullung hoechster Anforderungen.
 Note 2: „stets zu unserer vollen Zufriedenheit" mit Standardsteigerer, ohne Maximalformulierung.
-Note 3: „zur vollen Zufriedenheit" ohne Zeitsteigerer oder Scheinsteigerer wie „regelmaeszig", Ausgangspunkt der BAG-Beweislastentscheidung (9 AZR 12.03).
+Note 3: „zur vollen Zufriedenheit" ohne Zeitsteigerer oder Scheinsteigerer wie „regelmaessig", Ausgangspunkt der BAG-Beweislastentscheidung (9 AZR 12.03).
 Note 4: „zur Zufriedenheit" ohne jedes Adverb, „im Wesentlichen zur Zufriedenheit", „bemueht" als Hauptaussage.
 Note 5: „im Grossen und Ganzen" kombiniert mit weiteren Abschwaechern.
 Note 6: Gestapelte Negativaussagen oder komplettes Fehlen einer positiven Leistungsaussage.

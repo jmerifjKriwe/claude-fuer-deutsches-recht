@@ -71,3 +71,7 @@ Formulierungen, die einen Bezug zu Schwangerschaft, Elternzeit oder Familienplan
 - „War in dieser Zeit wegen Mutterschaft nicht verfügbar" — Diskriminierungsrisiko.
 - Teilzeitarbeit weglassen, obwohl der Arbeitnehmer sie explizit im Zeugnis haben möchte.
 - Elternzeit als Lücke im Lebenslauf kommentieren.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

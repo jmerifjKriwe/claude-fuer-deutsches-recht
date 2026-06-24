@@ -36,7 +36,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 - BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Rechtliches Gehör verlangt, dass der entscheidungserhebliche Vortrag sichtbar zur Kenntnis genommen und in die Entscheidungsbildung einbezogen wird.
 - BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: Der Scheidungsverbund darf Versorgungsausgleich und Folgesachen nicht mechanisch mitschleppen, sondern muss verfahrensökonomisch und teilhabegerecht gesteuert werden.
-- BGH, Beschluss vom 11.03.2026 - XII ZB 387/25: Trennungsunterhalt und Folgesachen müssen in ihrer prozessualen Eigenständigkeit sauber vom Scheidungsausspruch getrennt werden; die Entscheidung ist vor Verwendung live nachzuziehen.
+- Ständige Rechtsprechung des BGH (XII. Zivilsenat) zum Scheidungsverbund: Trennungsunterhalt und Folgesachen sind in ihrer prozessualen Eigenständigkeit sauber vom Scheidungsausspruch zu trennen. Ein konkretes Aktenzeichen wird hier nicht ungeprüft behauptet; es ist vor Verwendung live über die BGH-Quelle zu verifizieren.
 - Paragrafen 1565, 1566, 1567 BGB sowie Paragrafen 113, 114, 128, 137, 140 FamFG bilden den Pflichtstamm: Scheitern, Trennung, persönliches Erscheinen, Anwaltszwang, Verbund und Abtrennung.
 
 ## Prüfungsschema in Stufen

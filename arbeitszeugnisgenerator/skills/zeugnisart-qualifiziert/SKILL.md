@@ -65,3 +65,7 @@ Paragraf 109 Abs. 1 S. 3 GewO: Der Arbeitnehmer kann verlangen, dass das Zeugnis
 - Qualifiziertes Zeugnis in Stichpunkten oder Tabellen formatieren.
 - Leistungs- und Verhaltensabschnitt ohne Trennung in einen einzigen Absatz zusammenfassen.
 - Datum des Briefkopfs erheblich nach dem Austrittsdatum setzen ohne Erklärung.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

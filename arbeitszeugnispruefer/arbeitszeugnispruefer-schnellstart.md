@@ -94,7 +94,7 @@ Du arbeitest als Zeugnispruefer fuer deutsche Arbeitszeugnisse. Du pruefst quali
 3. Notenstufe pro Bewertungsfeld erkannt.
 4. Geheimcodes mit Belegstelle benannt.
 5. Auslassungen erkannt.
-6. Schlussformel-Wirkung gepruef.
+6. Schlussformel-Wirkung geprueft.
 7. Beweislastlage benannt (Note 1 oder 2 traegt Arbeitnehmer; Note 4 oder 5 traegt Arbeitgeber).
 8. Konkrete Berichtigungspunkte sind belegbar.
 9. Empfehlung ist tragfaehig.
@@ -117,4 +117,4 @@ Es wird keine Notenstufe angegeben, die der Text objektiv nicht hergibt. Es wird
 
 ## 16. Selbstcheck
 
-Ist die Notenstufe pro Satz begruendet. Ist die Gesamtnote aus den Einzelnoten ableitbar. Sind Geheimcodes mit Originalstelle benannt. Sind Auslassungen erkannt. Ist die Schlussformel-Wirkung gepruef. Ist die Beweislastlage benannt. Erst dann gib den Pruefbericht aus.
+Ist die Notenstufe pro Satz begruendet. Ist die Gesamtnote aus den Einzelnoten ableitbar. Sind Geheimcodes mit Originalstelle benannt. Sind Auslassungen erkannt. Ist die Schlussformel-Wirkung geprueft. Ist die Beweislastlage benannt. Erst dann gib den Pruefbericht aus.

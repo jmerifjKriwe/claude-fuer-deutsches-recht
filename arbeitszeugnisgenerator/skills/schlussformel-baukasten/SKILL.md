@@ -1,6 +1,6 @@
 ---
 name: schlussformel-baukasten
-description: "Vollständiger Baukasten für Schlussformeln im Arbeitszeugnis mit allen fünf Bausteinen: Bedauern, Dank, beruflicher Wunsch, persönlicher Wunsch, Erfolgswunsch. Jeder Baustein trägt zur Signalwirkung bei. Kein gesetzlicher Anspruch auf eine Schlussformel nach BAG (9 AZR 44/00; 9 AZR 227/11; 9 AZR 146/21) — aber im Bewerbungsverkehr das stärkste Signal neben der Hauptformel."
+description: "Vollständiger Baukasten für Schlussformeln im Arbeitszeugnis mit allen fünf Bausteinen: Bedauern, Dank, beruflicher Wunsch, persönlicher Wunsch, Erfolgswunsch. Jeder Baustein trägt zur Signalwirkung bei. Kein gesetzlicher Anspruch auf eine Schlussformel nach BAG (9 AZR 44/00; 9 AZR 227/11) — aber im Bewerbungsverkehr das stärkste Signal neben der Hauptformel."
 ---
 
 # Schlussformel-Baukasten
@@ -63,3 +63,7 @@ Nach BAG, Urteil v. 20.02.2001 – 9 AZR 44/00 und BAG, Urteil v. 11.12.2012 –
 - Schlussformel automatisch weglassen, weil es keinen Anspruch gibt — sie hat reale Signalwirkung.
 - Bei Arbeitgeberkündigung eine vollständige Schlussformel generieren, die unglaubwürdig wirkt.
 - „wünschen ihm Gesundheit" als freundliche Geste — riskante Krankheits-Lesart.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

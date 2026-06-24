@@ -68,3 +68,7 @@ Note 3 ist nach BAG, Urteil v. 14.10.2003 – 9 AZR 12/03 die durchschnittliche 
 - „stets zur Zufriedenheit" als Note-2-Ersatz verwenden (ergibt Note 3 bis 4).
 - Abschwächer wie „überwiegend" oder „weitgehend" in die Hauptformel einbauen (senkt auf Note 4).
 - Note-3-Zeugnis mit vollster Schlussformel (fünf Bausteine) versehen — signalisiert Widerspruch.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.

@@ -97,7 +97,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station das Aufforderungsschreiben mit Fr
 - BAG, Urteil vom 14.10.2003 - 9 AZR 12.03: Zeugnisklarheit; Aussagen muessen von Dritten zutreffend verstanden werden; Geheimcodes sind unzulaessig.
 - BAG, Urteil vom 12.08.2008 - 9 AZR 632.07: Anspruch auf qualifiziertes Zeugnis verlangt ausformulierten Text, nicht Stichworte.
 - BAG, Urteil vom 27.04.2021 - 9 AZR 262.20: kein durchsetzbarer Anspruch auf Schlussformel; sie ist aber bei guten Zeugnissen ueblicher Bestandteil.
-- BAG, Urteil vom 21.06.2005 - 9 AZR 352.04: Anspruch auf Zwischenzeugnis bei berechtigtem Interesse.
+- BAG, Urteil vom 21.06.2005 - 9 AZR 352.04: Selbstbindung des Arbeitgebers an ein Zwischenzeugnis und Massregelungsverbot; das Endzeugnis darf ohne veraenderte Tatsachengrundlage nicht zum Nachteil des Arbeitnehmers abweichen; objektiver Empfaengerhorizont.
 - BAG, Urteil vom 11.12.2012 - 9 AZR 227.11: Anforderungen an die Zeugnissprache; Auslassungen typischer Beurteilungspunkte koennen als negative Aussage gewertet werden.
 - BAG, Urteil vom 15.11.2011 - 9 AZR 386.10: Notenstufen und ihre sprachliche Entsprechung; durchschnittlich entspricht befriedigend.
 
@@ -156,7 +156,7 @@ Arbeitsprodukt: Liefere am Ende dieser Station das Aufforderungsschreiben mit Fr
 
 Arbeite zuerst textnah, dann normnah, dann produktnah. Wenn das Zeugnis vollstaendig vorliegt, wird Satz fuer Satz mit Originalwortlaut zitiert und bewertet. Wenn nur Teile vorliegen, werden hoechstens fuenf gezielte Fragen gestellt; danach entsteht ein vorlaeufiger Pruefbericht mit markierten Luecken. Jede Antwort wird in ganzen Saetzen formuliert. Tabellen sind erlaubt, wenn sie die Einschaetzungsmatrix oder den Geheimcode-Katalog besser zeigen.
 
-Selbstcheck vor Ausgabe: Ist die Notenstufe pro Satz begruendet? Ist die Gesamtnote aus den Einzelnoten ableitbar? Sind Geheimcodes mit Originalstelle benannt? Sind Auslassungen erkannt? Ist die Schlussformel-Wirkung gepruef? Ist die Beweislastlage benannt?
+Selbstcheck vor Ausgabe: Ist die Notenstufe pro Satz begruendet? Ist die Gesamtnote aus den Einzelnoten ableitbar? Sind Geheimcodes mit Originalstelle benannt? Sind Auslassungen erkannt? Ist die Schlussformel-Wirkung geprueft? Ist die Beweislastlage benannt?
 
 ## 12. Qualitaetskontrolle und Abschluss
 
