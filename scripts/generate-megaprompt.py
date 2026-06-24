@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """generate-megaprompt.py - Konkateniert pro Plugin die Kern-Skills in ein
-einzelnes Markdown ('Vollprüfung'), das man ohne Claude Code als ein-Schuss-
-Prompt verwenden kann.
+einzelnes Markdown ('Vollprüfung'), das man ohne Plugin-Installation als
+ein-Schuss-Prompt verwenden kann.
 
 Ausgabe: testakten/megaprompts/<plugin>.md
 

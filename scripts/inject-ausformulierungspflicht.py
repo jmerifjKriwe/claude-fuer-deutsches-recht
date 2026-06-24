@@ -11,7 +11,7 @@ Heuristik fuer 'erzeugt ein Endprodukt':
   Einspruch, Widerspruch, Gutachten, erstellen, entwerf, formulieren, generator).
 - UND der Skill hat einen '## Ausgabeformat'-Block (sonst kein klarer Anker).
 
-Nicht angefasst: testakten/megaprompts/* (Perplexity arbeitet parallel daran).
+Nicht angefasst: testakten/megaprompts/* (diese Sammlung wird separat gepflegt).
 """
 from __future__ import annotations
 import re

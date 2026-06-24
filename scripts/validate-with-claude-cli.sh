@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Schaerfere Validierung mit der offiziellen Claude Code CLI.
+# Schaerfere Validierung mit der offiziellen Plugin-CLI.
 # Faengt genau das ab, was der User-Client beim "Install from .zip" prueft.
 #
 # Voraussetzung:
@@ -21,7 +21,7 @@ if ! command -v claude >/dev/null 2>&1; then
 fi
 
 VERSION="$(claude --version 2>&1 | head -1)"
-echo "Claude CLI: $VERSION"
+echo "Plugin-CLI: $VERSION"
 echo ""
 
 FAILED=0
@@ -74,4 +74,4 @@ if [ "$FAILED" -gt 0 ]; then
 fi
 
 echo ""
-echo "OK: Alle Plugins haben 'claude plugin validate --strict' bestanden."
+echo "OK: Alle Plugins haben die strikte CLI-Validierung bestanden."

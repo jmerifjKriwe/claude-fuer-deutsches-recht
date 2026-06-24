@@ -1,10 +1,10 @@
-> *Achtung: Dies ist eine experimentelle KI-Vorlage. Keine Haftung, keine Gewaehr. Nur zum Ausprobieren der Skills und einer KI; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich pruefen.*
+> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
 >
-> *Caution: This is an experimental AI-generated template. No liability, no warranty. For exploration of the skills and an AI only; not legal advice. Must be reviewed by a lawyer before any use in a mandate.*
+> *Caution: This is an experimental working template. No liability, no warranty. For workflow exploration only; not legal advice. Must be reviewed by a lawyer before any use in a mandate.*
 
 # EMPTIO ET VENDITIO — De amphoris vini Graeci e Piraeo per Neapolim Ostiamque transportandis
 
-*Anmerkung: Dies ist eine experimentelle, anachronistisch-spielerische KI-Vorlage im Stil eines klassisch-roemischen Kaufvertrags. Sie kombiniert die emptio venditio des klassischen ius civile (Gaius Inst. 3.139 ff.; D. 18,1 ff.) mit modernen Klauseln (Transport, periculum, dolus) zur Anschauung. Keine historische Authentizitaet, keine Haftung. Cicero hat keinen Kaufvertrag dieser Art mit Klauseln so verfasst — der Stil ist eine Hommage.*
+*Anmerkung: Dies ist eine experimentelle, anachronistisch-spielerische Arbeitsvorlage im Stil eines klassisch-roemischen Kaufvertrags. Sie kombiniert die emptio venditio des klassischen ius civile (Gaius Inst. 3.139 ff.; D. 18,1 ff.) mit modernen Klauseln (Transport, periculum, dolus) zur Anschauung. Keine historische Authentizitaet, keine Haftung. Cicero hat keinen Kaufvertrag dieser Art mit Klauseln so verfasst — der Stil ist eine Hommage.*
 
 *Note: This is an experimental, intentionally anachronistic AI template in the style of a Classical Roman sale contract. Combines the emptio venditio of the ius civile with modern clauses (transport, risk allocation, dolus) for illustration. Not historically authentic.*
 

@@ -1,4 +1,4 @@
-> *Achtung: Dies ist eine experimentelle KI-Vorlage. Keine Haftung, keine Gewaehr. Nur zum Ausprobieren der Skills und einer KI; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich pruefen.*
+> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
 
 # Eigenbedarfskuendigung Wohnraum ($ 573 II Nr. 2 BGB)
 

@@ -1,8 +1,8 @@
-> *Achtung: Dies ist eine experimentelle KI-Vorlage. Keine Haftung, keine Gewaehr. Nur zum Ausprobieren der Skills und einer KI; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich pruefen.*
+> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
 
 # Kauf-Contract ueber ein Grundstuecks-Pertinenz nach den Vorschriften des Allgemeinen Landrechts fuer die Preussischen Staaten (PrALR 1794)
 
-*Anmerkung: Diese experimentelle, bewusst anachronistisch-stilistische KI-Vorlage bildet einen Grundstuecks-Kauf-Contract im Rechts- und Sprachstil des Allgemeinen Landrechts fuer die Preussischen Staaten von 1794 (PrALR; I. Theil, 11. Titel, $$ 1 ff.) nach. Sie ist ein Lehr- und Unterhaltungsformat. Keine historische Authentizitaet, keine Haftung; gegenwaertiges deutsches Recht ist anwendbar und richtet sich nach BGB $$ 311b, 925; GBO; Notarrecht; KSTG. Cicero hat im Berliner Provinzialarchiv keine Akten hinterlassen.*
+*Anmerkung: Diese experimentelle, bewusst anachronistisch-stilistische Arbeitsvorlage bildet einen Grundstuecks-Kauf-Contract im Rechts- und Sprachstil des Allgemeinen Landrechts fuer die Preussischen Staaten von 1794 (PrALR; I. Theil, 11. Titel, $$ 1 ff.) nach. Sie ist ein Lehr- und Unterhaltungsformat. Keine historische Authentizitaet, keine Haftung; gegenwaertiges deutsches Recht ist anwendbar und richtet sich nach BGB $$ 311b, 925; GBO; Notarrecht; KSTG. Cicero hat im Berliner Provinzialarchiv keine Akten hinterlassen.*
 
 
 

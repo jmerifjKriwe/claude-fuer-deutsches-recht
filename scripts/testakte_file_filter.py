@@ -43,6 +43,16 @@ META_NAME_PARTS = (
     "download",
 )
 
+CONTENT_MARKER_NAME_PARTS = META_NAME_PARTS + (
+    "hinweis",
+    "hinweise",
+    "info",
+    "index",
+    "meta",
+    "uebersicht",
+    "übersicht",
+)
+
 INITIAL_OVERVIEW_PARTS = (
     "aktenuebersicht",
     "aktenübersicht",
@@ -54,7 +64,8 @@ INITIAL_OVERVIEW_PARTS = (
 
 def _safe_text(path: Path, limit: int = 80_000) -> str:
     try:
-        return path.read_text(encoding="utf-8", errors="ignore")[:limit].lower()
+        with path.open("rb") as fh:
+            return fh.read(limit).decode("utf-8", errors="ignore").lower()
     except Exception:
         return ""
 
@@ -82,7 +93,7 @@ def is_export_meta_file(path: Path, testakte_dir: Path) -> bool:
         return True
     if _is_initial_overview(path, testakte_dir):
         return True
-    if path.suffix.lower() in TEXT_EXTS:
+    if path.suffix.lower() in TEXT_EXTS and any(part in stem for part in CONTENT_MARKER_NAME_PARTS):
         text = _safe_text(path)
         if any(marker in text for marker in META_MARKERS):
             return True

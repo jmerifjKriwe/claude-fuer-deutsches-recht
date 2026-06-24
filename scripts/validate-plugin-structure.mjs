@@ -135,8 +135,7 @@ function checkMarketplace() {
 }
 
 function checkSkills() {
-  // Offiziell von Claude Code/Cowork akzeptierte Frontmatter-Felder.
-  // Quelle: code.claude.com/docs/en/plugins-reference und anthropics/skills.
+  // Von der Zielumgebung akzeptierte Frontmatter-Felder.
   // Strikt: nur name + description; alles andere wird abgelehnt.
   const ALLOWED_SKILL_FIELDS = new Set([
     'name', 'description',

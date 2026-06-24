@@ -23,12 +23,12 @@ from odf.dc import Title
 REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / 'testakten' / 'formatvorlagen-paradebeispiele'
 
-DISCLAIMER_DE = ('Achtung: Dies ist eine experimentelle KI-Vorlage. Keine Haftung, keine '
-                 'Gewaehr. Nur zum Ausprobieren der Skills und einer KI; keine '
-                 'Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich pruefen.')
-DISCLAIMER_EN = ('Caution: This is an experimental AI-generated template. No liability, '
-                 'no warranty. For exploration of the skills and an AI only; not legal '
-                 'advice. Must be reviewed by a lawyer before any use in a mandate.')
+DISCLAIMER_DE = ('Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, '
+                 'keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. '
+                 'Vor jeder Verwendung im Mandat anwaltlich prüfen.')
+DISCLAIMER_EN = ('Caution: This is an experimental working template. No liability, '
+                 'no warranty. For workflow exploration only; not legal advice. '
+                 'Must be reviewed by a lawyer before any use in a mandate.')
 
 
 def make_doc():

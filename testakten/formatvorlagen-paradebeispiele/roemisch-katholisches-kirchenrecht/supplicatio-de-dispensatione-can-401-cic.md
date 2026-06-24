@@ -1,10 +1,10 @@
-> *Achtung: Dies ist eine experimentelle KI-Vorlage. Keine Haftung, keine Gewaehr. Nur zum Ausprobieren der Skills und einer KI; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich pruefen.*
+> *Achtung: Dies ist eine experimentelle Arbeitsvorlage. Keine Haftung, keine Gewähr. Nur zum Ausprobieren der Workflows; keine Rechtsberatung. Vor jeder Verwendung im Mandat anwaltlich prüfen.*
 >
-> *Caution: This is an experimental AI-generated template. No liability, no warranty. For exploration of the skills and an AI only; not legal advice. Must be reviewed by a lawyer before any use in a mandate.*
+> *Caution: This is an experimental working template. No liability, no warranty. For workflow exploration only; not legal advice. Must be reviewed by a lawyer before any use in a mandate.*
 
 # Supplicatio de dispensatione (c. 401 § 1 CIC) — Bittschreiben auf Verlaengerung der bischoeflichen Amtszeit ueber das 75. Lebensjahr hinaus
 
-*Anmerkung: Dies ist eine experimentelle, anachronistisch-spielerische KI-Vorlage in modernem Kirchenlatein. Sie bildet einen realen Mechanismus (c. 401 § 1 CIC: Pflicht zur Amtsniederlegung mit Vollendung des 75. Lebensjahres; Dispens-Praxis des Roemischen Stuhls) typografisch nach. Keine kirchenrechtliche Beratung, keine Haftung, keine Gewaehr.*
+*Anmerkung: Dies ist eine experimentelle, anachronistisch-spielerische Arbeitsvorlage in modernem Kirchenlatein. Sie bildet einen realen Mechanismus (c. 401 § 1 CIC: Pflicht zur Amtsniederlegung mit Vollendung des 75. Lebensjahres; Dispens-Praxis des Roemischen Stuhls) typografisch nach. Keine kirchenrechtliche Beratung, keine Haftung, keine Gewaehr.*
 
 *Note: This is an experimental, intentionally archaic AI template in modern Church Latin. It mimics a real mechanism (c. 401 § 1 CIC: bishops must offer resignation upon completion of age 75; Holy See dispensation practice) typographically. Not canonical advice; no liability.*
 
