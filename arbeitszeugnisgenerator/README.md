@@ -44,13 +44,6 @@ Drei Modi zur Wahl:
 - **Geführter Modus**: Der Generator stellt gezielte Fragen zu Leistung, Engagement, Verhalten — und schlägt am Ende eine Note vor ("das klingt nach Note 2 bis 3, soll ich so schreiben?"). Du bestätigst oder korrigierst.
 - **Hybrid-Modus**: Du gibst die Gesamtnote vor, der Generator fragt nur noch die offenen Details ab (typische Tätigkeiten, besondere Projekte, Beendigungsgrund).
 
-## Direkt-Downloads
-
-| Was | Format | Direkt-Download |
-| --- | --- | --- |
-| Werkstatt-Prompt (autarker großer Prompt) | Markdown | <a href="" download>arbeitszeugnisgenerator-werkstatt.md</a> |
-| Schnellstart-Prompt (max 7500 Zeichen) | Markdown | <a href="" download>arbeitszeugnisgenerator-schnellstart.md</a> |
-
 ## Was dich aufhält
 
 - **Wohlwollensgrundsatz versus Wahrheitspflicht**: Beides muss eingehalten werden, kein Schönschreiben um den Preis der Wahrheit.

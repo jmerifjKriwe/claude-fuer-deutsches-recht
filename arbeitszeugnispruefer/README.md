@@ -44,14 +44,6 @@ Drei Modi zur Wahl:
 - **Vollpruefung**: Satzweise Einschaetzungsmatrix, Geheimcode-Katalog, Drift-Bericht, Schlussformel-Analyse, Mandantenbericht.
 - **Berichtigungspfad**: Vollpruefung plus Aufforderungsschreiben an den Arbeitgeber und Klagestrategie mit Beweislastverteilung nach BAG-Linie.
 
-## Direkt-Downloads
-
-| Was | Format | Direkt-Download |
-| --- | --- | --- |
-| Werkstatt-Prompt (autarker großer Prompt) | Markdown | <a href="" download>arbeitszeugnispruefer-werkstatt.md</a> |
-| Schnellstart-Prompt (max 7500 Zeichen) | Markdown | <a href="" download>arbeitszeugnispruefer-schnellstart.md</a> |
-| Megaprompt-Original (Quelle aus dem Ursprungs-Repo) | Markdown | <a href="" download>arbeitszeugnispruefer-megaprompt-original.md</a> |
-
 ## Was dich aufhält
 
 - **Geheimcodes**: Formulierungen wie bemüht sich, im großen und ganzen, lernte schnell kennen und schätzen, verstand es zählen zu unsichtbaren Notenabwertungen.

@@ -44,14 +44,6 @@ Drei Modi zur Wahl:
 - **Vollpruefung**: Fall-Fingerabdruck, Klauselmatrix, AGB-Kontrolle, MaBV-Prüfung, Mandantengutachten.
 - **Verhandlungspfad**: Vollpruefung plus Aufforderungsschreiben an Bauträger und Notar mit konkreter richtiger Fassung pro Klausel und Verhandlungsstrategie.
 
-## Direkt-Downloads
-
-| Was | Format | Direkt-Download |
-| --- | --- | --- |
-| Werkstatt-Prompt (autarker großer Prompt) | Markdown | <a href="" download>bautraegervertragspruefer-werkstatt.md</a> |
-| Schnellstart-Prompt (max 7500 Zeichen) | Markdown | <a href="" download>bautraegervertragspruefer-schnellstart.md</a> |
-| Megaprompt-Original (Quelle aus dem Ursprungs-Repo) | Markdown | <a href="" download>bautraegervertragspruefer-megaprompt-original.md</a> |
-
 ## Was dich aufhält
 
 - **MaBV-Ratenplan**: Überhoehte Vorleistungen, falsche Verteilung der Raten auf Bauabschnitte, fehlende Sicherheit nach Paragraf 7 MaBV.
